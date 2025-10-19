@@ -1,0 +1,221 @@
+{
+  "success": true,
+  "query": "shirts",
+  "total_results": 12,
+  "source": "cache",
+  "cache_hits": 1,
+  "fresh_searches": 0,
+  "processing_time": "0.09s",
+  "timestamp": "2025-10-18T19:25:59.599829",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "shirts",
+      "total_products": 12,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - Amazon Brand - Symbol Men's Solid Cotton Formal Shirt | Plain | Full Sleeve - Regular Fit (Available in Plu...",
+          "price": "₹499",
+          "discount_percentage": "₹1,799 (72% off)",
+          "rating": "4.0",
+          "reviews_count": "9,712",
+          "image_url": "https://m.media-amazon.com/images/I/71pzB-Rhc9L._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Amazon Brand - Symbol Men's Solid Cotton Formal Shirt | Plain | Full Sleeve - Regular Fit (Available in Plu...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1ODUwNDg0ODQyMzA5NDkzOjE3NjA3OTUxOTk6c3BfYXRmOjMwMDYyNTAyMjM1MjAzMjo6MDo6&url=%2FAmazon-Brand-Symbol-Regular-SS20-SYM-FS-01_EPP-1A_Wine%2Fdp%2FB08FRSGJB5%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0%26dib_tag%3Dse%26keywords%3Dshirts%26qid%3D1760795199%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=qS0kzW21Se&sp_cr=ZAZ",
+          "brand": "Amazon",
+          "category": "Shirt",
+          "availability": "Men's Solid Cotton Formal Shirt | Plain | Full Sleeve - Regular Fit (Available in Plus Size and Combo Packs)"
+        },
+        {
+          "title": "Sponsored Ad - Symbol Premium Men's Wrinkle-Resistant Regular Fit Cotton Formal Shirt",
+          "price": "₹1,099",
+          "discount_percentage": "₹2,599 (58% off)",
+          "rating": "3.9",
+          "reviews_count": "506",
+          "image_url": "https://m.media-amazon.com/images/I/81Be4hgx1gL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Symbol Premium Men's Wrinkle-Resistant Regular Fit Cotton Formal Shirt",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1ODUwNDg0ODQyMzA5NDkzOjE3NjA3OTUxOTk6c3BfYXRmOjMwMDM0MTIxNzI2MzkzMjo6MDo6&url=%2FSymbol-Premium-Non-Iron-Cotton-Formal%2Fdp%2FB0C3J6236Q%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0%26dib_tag%3Dse%26keywords%3Dshirts%26qid%3D1760795199%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Y5zUKznEIM&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "Shirt",
+          "availability": "FREE delivery Wed, 22 Oct"
+        },
+        {
+          "title": "Sponsored Ad - U.S. POLO ASSN. Men's Solid Spread Collar Premium Cotton Tailored Fit Shirt",
+          "price": "₹1,059",
+          "discount_percentage": "₹2,299 (54% off)",
+          "rating": "3.9",
+          "reviews_count": "446",
+          "image_url": "https://m.media-amazon.com/images/I/61bVHdoUFNL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - U.S. POLO ASSN. Men's Solid Spread Collar Premium Cotton Tailored Fit Shirt",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1ODUwNDg0ODQyMzA5NDkzOjE3NjA3OTUxOTk6c3BfYXRmOjMwMDYyMzkxMzIyMTAzMjo6MDo6&url=%2FU-S-POLO-ASSN-Regular-USSHTR0008_Navy_S%2Fdp%2FB0B9Y2K7T9%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0%26dib_tag%3Dse%26keywords%3Dshirts%26qid%3D1760795199%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=7QF4nB0jxn&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "Shirt",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Louis Philippe Men's Cotton Slim Fit Textured All Day Comfort Shirt",
+          "price": "₹1,092",
+          "discount_percentage": "₹2,599 (58% off)",
+          "rating": "4.1",
+          "reviews_count": "127",
+          "image_url": "https://m.media-amazon.com/images/I/61D+tVKIupL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Louis Philippe Men's Cotton Slim Fit Textured All Day Comfort Shirt",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1ODUwNDg0ODQyMzA5NDkzOjE3NjA3OTUxOTk6c3BfYXRmOjMwMDYyMTYyODc1NDczMjo6MDo6&url=%2FLouis-Philippe-Mens-Shirt-LPSFMSLF307233_Lilac%2Fdp%2FB0D5M2CSMV%2Fref%3Dsr_1_4_sspa%3Fdib%3DeyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0%26dib_tag%3Dse%26keywords%3Dshirts%26qid%3D1760795199%26sr%3D8-4-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=3OCOEkVrPF&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Shirt",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "The Indian Garage Co Men's Cotton Regular Fit Checkered Full Sleeves Spread Collar Casual Shirt",
+          "price": "₹345\n10",
+          "discount_percentage": "₹1,749 (80% off)",
+          "rating": "4.0",
+          "reviews_count": "334",
+          "image_url": "https://m.media-amazon.com/images/I/61s0hdYdQ3L._AC_UL320_.jpg",
+          "image_alt": "The Indian Garage Co Men's Cotton Regular Fit Checkered Full Sleeves Spread Collar Casual Shirt",
+          "link": "https://www.amazon.in/Indian-Garage-Co-Checkered-1221-SH151-32_Green/dp/B0BXLMTCSW/ref=sr_1_5?dib=eyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0&dib_tag=se&keywords=shirts&qid=1760795199&sr=8-5",
+          "brand": "The",
+          "category": "Shirt",
+          "availability": "FREE delivery Sat, 25 Oct on first order"
+        },
+        {
+          "title": "CB-COLEBROOK Men's Regular Fit Solid Soft Touch Cotton Casual Shirt with Pocket Design with Spread Collar & Full Sleeves (...",
+          "price": "₹419",
+          "discount_percentage": "₹1,849 (77% off)",
+          "rating": "3.7",
+          "reviews_count": "3,114",
+          "image_url": "https://m.media-amazon.com/images/I/71DU0wuXOSL._AC_UL320_.jpg",
+          "image_alt": "CB-COLEBROOK Men's Regular Fit Solid Soft Touch Cotton Casual Shirt with Pocket Design with Spread Collar & Full Sleeves (...",
+          "link": "https://www.amazon.in/CB-COLEBROOK-Regular-Spread-Collar-Casual/dp/B0CGLMT89Z/ref=sr_1_6?dib=eyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0&dib_tag=se&keywords=shirts&qid=1760795199&sr=8-6",
+          "brand": "CB-COLEBROOK",
+          "category": "Shirt",
+          "availability": "Men's Regular Fit Solid Soft Touch Cotton Casual Shirt with Pocket Design with Spread Collar & Full Sleeves (Available in Plus Size)"
+        },
+        {
+          "title": "DEELMO Men's Cotton Blend Mandarin Collar Self One Design Full Sleeve Casual Short Kurta",
+          "price": "₹399",
+          "discount_percentage": "₹2,199 (82% off)",
+          "rating": "3.3",
+          "reviews_count": "746",
+          "image_url": "https://m.media-amazon.com/images/I/61P0jlvu1OL._AC_UL320_.jpg",
+          "image_alt": "DEELMO Men's Cotton Blend Mandarin Collar Self One Design Full Sleeve Casual Short Kurta",
+          "link": "https://www.amazon.in/DEELMO-Geometric-Regular-MON321_CHIKU_Down-Round_Print_40_Beige/dp/B0CNM4R13B/ref=sr_1_7?dib=eyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0&dib_tag=se&keywords=shirts&qid=1760795199&sr=8-7",
+          "brand": "DEELMO",
+          "category": "Kurta",
+          "availability": "FREE delivery Thu, 23 Oct on first order"
+        },
+        {
+          "title": "CB-COLEBROOK Men's Casual Button Down Shirts Long Sleeve Linen Shirt Fashion Textured Beach Summer Shirts| Men Stylish Shi...",
+          "price": "₹429",
+          "discount_percentage": "₹2,195 (80% off)",
+          "rating": "3.8",
+          "reviews_count": "2,147",
+          "image_url": "https://m.media-amazon.com/images/I/71dF+pDGxIL._AC_UL320_.jpg",
+          "image_alt": "CB-COLEBROOK Men's Casual Button Down Shirts Long Sleeve Linen Shirt Fashion Textured Beach Summer Shirts| Men Stylish Shi...",
+          "link": "https://www.amazon.in/CB-COLEBROOK-Casual-Button-Fashion-Textured/dp/B0D77N88Q3/ref=sr_1_8?dib=eyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0&dib_tag=se&keywords=shirts&qid=1760795199&sr=8-8",
+          "brand": "CB-COLEBROOK",
+          "category": "Shirt",
+          "availability": "Men's Casual Button Down Shirts Long Sleeve Linen Shirt Fashion Textured Beach Summer Shirts| Men Stylish Shirt | Men Fancy (Available in Plus Size)"
+        },
+        {
+          "title": "Highlander Men's Checkered Slim Fit PHSH000014",
+          "price": "₹474",
+          "discount_percentage": "₹1,799 (74% off)",
+          "rating": "4.2",
+          "image_url": "https://m.media-amazon.com/images/I/71ei6myk5fL._AC_UL320_.jpg",
+          "image_alt": "Highlander Men's Checkered Slim Fit PHSH000014",
+          "link": "https://www.amazon.in/Highlander-Cotton-Shirt-PHSH000014_LT-White/dp/B0F47TMBNT/ref=sr_1_9?dib=eyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0&dib_tag=se&keywords=shirts&qid=1760795199&sr=8-9",
+          "brand": "Highlander",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct on first order"
+        },
+        {
+          "title": "TAGDO® Men's Regular Fit Casual||Formal Shirt (5171)",
+          "price": "₹369",
+          "discount_percentage": "₹1,599 (77% off)",
+          "rating": "4.0",
+          "reviews_count": "1,826",
+          "image_url": "https://m.media-amazon.com/images/I/61nrBPX2ATL._AC_UL320_.jpg",
+          "image_alt": "TAGDO® Men's Regular Fit Casual||Formal Shirt (5171)",
+          "link": "https://www.amazon.in/TAGDO-Regular-Casual-Shirt-Popcorn-5171-Teal-XL/dp/B0CYQBLR9F/ref=sr_1_10?dib=eyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0&dib_tag=se&keywords=shirts&qid=1760795199&sr=8-10",
+          "brand": "TAGDO®",
+          "category": "Shirt",
+          "availability": "FREE delivery Wed, 22 Oct on first order"
+        },
+        {
+          "title": "GRECIILOOKS Men's Formal Button Down Shirt – Slim Fit Shirt's for Men | Textured Long Sleeve Polycotton| Business & Meetin...",
+          "price": "₹399",
+          "discount_percentage": "₹2,299 (83% off)",
+          "rating": "3.9",
+          "reviews_count": "2,955",
+          "image_url": "https://m.media-amazon.com/images/I/71QrkXBPABL._AC_UL320_.jpg",
+          "image_alt": "GRECIILOOKS Men's Formal Button Down Shirt – Slim Fit Shirt's for Men | Textured Long Sleeve Polycotton| Business & Meetin...",
+          "link": "https://www.amazon.in/GRECIILOOKS-Solid-Regular-Shirt-GL-MS-6134_White/dp/B0CLZXVR5C/ref=sr_1_11?dib=eyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0&dib_tag=se&keywords=shirts&qid=1760795199&sr=8-11",
+          "brand": "GRECIILOOKS",
+          "category": "Shirt",
+          "availability": "Men's Formal Button Down Shirt – Slim Fit Shirt's for Men | Textured Long Sleeve Polycotton| Business & Meeting Ready (Available in Plus Size and Combo Pack of 2)"
+        },
+        {
+          "title": "Men's Solid Linen Cotton Shirt | Casual | Plain | Full Sleeve | Summer-Regular Fit| Men Stylish Shirt | Everyday Formal Wear",
+          "price": "₹440",
+          "discount_percentage": "₹1,999 (78% off)",
+          "rating": "3.0",
+          "reviews_count": "350",
+          "image_url": "https://m.media-amazon.com/images/I/81I4F9xgijL._AC_UL320_.jpg",
+          "image_alt": "Men's Solid Linen Cotton Shirt | Casual | Plain | Full Sleeve | Summer-Regular Fit| Men Stylish Shirt | Everyday Formal Wear",
+          "link": "https://www.amazon.in/NexaFlair-Summer-Regular-Stylish-Everyday-Regular/dp/B0DXCX36NV/ref=sr_1_12?dib=eyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0&dib_tag=se&keywords=shirts&qid=1760795199&sr=8-12",
+          "brand": "Men's",
+          "category": "Shirt",
+          "availability": "FREE delivery Sat, 1 Nov"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - Amazon Brand - Symbol Men's Solid Cotton Formal Shirt | Plain | Full Sleeve - Regular Fit (Available in Plu...",
+          "price": "₹499",
+          "brand": "Amazon",
+          "category": "Shirt",
+          "rating": "4.0",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1ODUwNDg0ODQyMzA5NDkzOjE3NjA3OTUxOTk6c3BfYXRmOjMwMDYyNTAyMjM1MjAzMjo6MDo6&url=%2FAmazon-Brand-Symbol-Regular-SS20-SYM-FS-01_EPP-1A_Wine%2Fdp%2FB08FRSGJB5%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0%26dib_tag%3Dse%26keywords%3Dshirts%26qid%3D1760795199%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=qS0kzW21Se&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71pzB-Rhc9L._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - Amazon Brand - Symbol Men's Solid Cotton Formal Shirt | Plain | Full Sleeve - Regular Fit (Available in Plu...",
+              "thumbnail": "https://m.media-amazon.com/images/I/71pzB-Rhc9L._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - Symbol Premium Men's Wrinkle-Resistant Regular Fit Cotton Formal Shirt",
+          "price": "₹1,099",
+          "brand": "Mi",
+          "category": "Shirt",
+          "rating": "3.9",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1ODUwNDg0ODQyMzA5NDkzOjE3NjA3OTUxOTk6c3BfYXRmOjMwMDM0MTIxNzI2MzkzMjo6MDo6&url=%2FSymbol-Premium-Non-Iron-Cotton-Formal%2Fdp%2FB0C3J6236Q%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0%26dib_tag%3Dse%26keywords%3Dshirts%26qid%3D1760795199%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Y5zUKznEIM&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/81Be4hgx1gL._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - Symbol Premium Men's Wrinkle-Resistant Regular Fit Cotton Formal Shirt",
+              "thumbnail": "https://m.media-amazon.com/images/I/81Be4hgx1gL._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - U.S. POLO ASSN. Men's Solid Spread Collar Premium Cotton Tailored Fit Shirt",
+          "price": "₹1,059",
+          "brand": "Mi",
+          "category": "Shirt",
+          "rating": "3.9",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1ODUwNDg0ODQyMzA5NDkzOjE3NjA3OTUxOTk6c3BfYXRmOjMwMDYyMzkxMzIyMTAzMjo6MDo6&url=%2FU-S-POLO-ASSN-Regular-USSHTR0008_Navy_S%2Fdp%2FB0B9Y2K7T9%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.FE6l-BWLC1Pg_OYJiKSc3uvWZhwM-GM5qh8W0__7XpY-79mu19yNn4wcYB2Turfd3XGJc12gqhVUSjmEUhUXOQGkuI8feTc_QvT4gEMqh-MptsZrepgqSh5eas5tSlmRtl1GQKuBU58vJHYvTcPNz2L3g7NVfg_SxoWhMYX9rI9YqvGFTGFLBR4FhXKBsbLBE8Q9iTpRzfU0CW_MNTnT5nbyX426rxyh3NUpUSTlOTK1-Oeb7yVabft-V0ODDWvu12xeSSjBlC-1aqNYdvNtBkzmcUPiZKJyxlwrbrTKSyA.ac6qniiQMOw1BZ6pTxsAvLln7B3q9Z5hfAdPSw_OXC0%26dib_tag%3Dse%26keywords%3Dshirts%26qid%3D1760795199%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=7QF4nB0jxn&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61bVHdoUFNL._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - U.S. POLO ASSN. Men's Solid Spread Collar Premium Cotton Tailored Fit Shirt",
+              "thumbnail": "https://m.media-amazon.com/images/I/61bVHdoUFNL._AC_UL320_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

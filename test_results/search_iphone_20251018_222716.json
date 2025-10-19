@@ -1,0 +1,289 @@
+{
+  "success": true,
+  "query": "iphone",
+  "total_results": 18,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "57.06s",
+  "timestamp": "2025-10-18T22:27:16.614093",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "iphone",
+      "total_products": 18,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - Apple iPhone 15 (128 GB) - Black",
+          "price": "₹49,999",
+          "discount_percentage": "₹59,900 (17% off)",
+          "rating": "4.5",
+          "reviews_count": "6,960",
+          "image_url": "https://m.media-amazon.com/images/I/71657TiFeHL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Apple iPhone 15 (128 GB) - Black",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2MjkyMzQ3NzE5NzUzMjQ6MTc2MDgwNjU5NzpzcF9hdGY6MzAwMDU0MzQ1OTQ3NjMyOjowOjo&url=%2FApple-iPhone-15-128-GB%2Fdp%2FB0CHX1W1XY%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo%26dib_tag%3Dse%26keywords%3Diphone%26qid%3D1760806596%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=1LIYsrGPDM&sp_cr=ZAZ",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Sponsored Ad - iPhone 16 128 GB: 5G Mobile Phone with Camera Control",
+          "price": "₹66,900",
+          "discount_percentage": "₹79,900 (16% off)",
+          "rating": "4.5",
+          "reviews_count": "1,599",
+          "image_url": "https://m.media-amazon.com/images/I/61eYPkT2zZL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2MjkyMzQ3NzE5NzUzMjQ6MTc2MDgwNjU5NzpzcF9hdGY6MzAwMzM0MjUyNjIzNTMyOjowOjo&url=%2FiPhone-16-128-GB-Control%2Fdp%2FB0DGJH8RYG%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo%26dib_tag%3Dse%26keywords%3Diphone%26qid%3D1760806596%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=knxecDTUQv&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "iPhone 17 Pro 512 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz",
+          "price": "₹1,54,900",
+          "rating": "4.1",
+          "image_url": "https://m.media-amazon.com/images/I/618vU2qKXQL._AC_UY218_.jpg",
+          "image_alt": "iPhone 17 Pro 512 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fus...",
+          "link": "https://www.amazon.in/iPhone-Pro-512-Promotion-Breakthrough/dp/B0FQF5DG3P/ref=sr_1_3?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-3",
+          "brand": "iPhone",
+          "category": "Mobile",
+          "availability": "FREE delivery Sat, 25 Oct"
+        },
+        {
+          "title": "Apple iPhone 15 (128 GB) - Pink",
+          "price": "₹49,999",
+          "discount_percentage": "₹59,900 (17% off)",
+          "rating": "4.5",
+          "reviews_count": "6,960",
+          "image_url": "https://m.media-amazon.com/images/I/71v2jVh6nIL._AC_UY218_.jpg",
+          "image_alt": "Apple iPhone 15 (128 GB) - Pink",
+          "link": "https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX3TW6X/ref=sr_1_4?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-4",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "FREE delivery 20 Oct - 6 Nov"
+        },
+        {
+          "title": "Apple iPhone 15 (128 GB) - Black",
+          "price": "₹49,999",
+          "discount_percentage": "₹59,900 (17% off)",
+          "rating": "4.5",
+          "reviews_count": "6,960",
+          "image_url": "https://m.media-amazon.com/images/I/71657TiFeHL._AC_UY218_.jpg",
+          "image_alt": "Apple iPhone 15 (128 GB) - Black",
+          "link": "https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX1W1XY/ref=sr_1_5?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-5",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Apple iPhone 15 (256 GB) - Black",
+          "price": "₹59,999",
+          "discount_percentage": "₹79,900 (25% off)",
+          "rating": "4.5",
+          "reviews_count": "6,960",
+          "image_url": "https://m.media-amazon.com/images/I/71657TiFeHL._AC_UY218_.jpg",
+          "image_alt": "Apple iPhone 15 (256 GB) - Black",
+          "link": "https://www.amazon.in/Apple-iPhone-15-256-GB/dp/B0CHX2WQLX/ref=sr_1_6?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-6",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "FREE delivery 20 Oct - 9 Nov"
+        },
+        {
+          "title": "Apple iPhone 15 (128 GB) - Blue",
+          "price": "₹49,999",
+          "discount_percentage": "₹59,900 (17% off)",
+          "rating": "4.5",
+          "reviews_count": "6,960",
+          "image_url": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UY218_.jpg",
+          "image_alt": "Apple iPhone 15 (128 GB) - Blue",
+          "link": "https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX2F5QT/ref=sr_1_7?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-7",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "FREE delivery 20 - 26 Oct"
+        },
+        {
+          "title": "iPhone 17 Pro 256 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz",
+          "price": "₹1,34,900",
+          "rating": "4.1",
+          "image_url": "https://m.media-amazon.com/images/I/618vU2qKXQL._AC_UY218_.jpg",
+          "image_alt": "iPhone 17 Pro 256 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fus...",
+          "link": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQFYYPZF/ref=sr_1_8?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-8",
+          "brand": "iPhone",
+          "category": "Mobile",
+          "availability": "FREE delivery 6 - 8 Nov"
+        },
+        {
+          "title": "Apple iPhone 15 (128 GB) - Green",
+          "price": "₹49,999",
+          "discount_percentage": "₹69,900 (28% off)",
+          "rating": "4.5",
+          "reviews_count": "6,960",
+          "image_url": "https://m.media-amazon.com/images/I/71nvkHnPpZL._AC_UY218_.jpg",
+          "image_alt": "Apple iPhone 15 (128 GB) - Green",
+          "link": "https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX6NQMD/ref=sr_1_9?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-9",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "iPhone 17 256 GB: 15.93 cm (6.3″) Display with Promotion",
+          "rating": "4.7",
+          "image_url": "https://m.media-amazon.com/images/I/617O+RkwdPL._AC_UY218_.jpg",
+          "image_alt": "iPhone 17 256 GB: 15.93 cm (6.3″) Display with Promotion, A19 Chip, Center Stage Front Camera for Smarter Group Selfies, I...",
+          "link": "https://www.amazon.in/iPhone-17-256-Promotion-Resistance/dp/B0FQFYXCC4/ref=sr_1_10?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-10",
+          "brand": "iPhone",
+          "category": "Mobile",
+          "availability": "Currently unavailable."
+        },
+        {
+          "title": "Apple iPhone 15 (256 GB) - Blue",
+          "price": "₹59,999",
+          "discount_percentage": "₹79,900 (25% off)",
+          "rating": "4.5",
+          "reviews_count": "6,960",
+          "image_url": "https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_UY218_.jpg",
+          "image_alt": "Apple iPhone 15 (256 GB) - Blue",
+          "link": "https://www.amazon.in/Apple-iPhone-15-256-GB/dp/B0CHX6N27Y/ref=sr_1_11?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-11",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "FREE delivery 20 Oct - 10 Nov"
+        },
+        {
+          "title": "iPhone 17 Pro 1 TB: 15.93 cm (6.3″) Display with Promotion up to 120Hz",
+          "price": "₹1,74,900",
+          "rating": "4.1",
+          "image_url": "https://m.media-amazon.com/images/I/618vU2qKXQL._AC_UY218_.jpg",
+          "image_alt": "iPhone 17 Pro 1 TB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusio...",
+          "link": "https://www.amazon.in/iPhone-17-Pro-Promotion-Breakthrough/dp/B0FQFBHQMJ/ref=sr_1_12?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-12",
+          "brand": "iPhone",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control",
+          "price": "₹66,900",
+          "discount_percentage": "₹79,900 (16% off)",
+          "rating": "4.5",
+          "reviews_count": "1,599",
+          "image_url": "https://m.media-amazon.com/images/I/61135j8fPJL._AC_UY218_.jpg",
+          "image_alt": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Black",
+          "link": "https://www.amazon.in/iPhone-16-128-GB-Control/dp/B0DGJHBX5Y/ref=sr_1_13?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-13",
+          "brand": "iPhone",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "iPhone Air 256 GB: Thinnest iPhone Ever",
+          "price": "₹1,19,900",
+          "rating": "2.5",
+          "image_url": "https://m.media-amazon.com/images/I/61Ce-6B6x+L._AC_UY218_.jpg",
+          "image_alt": "iPhone Air 256 GB: Thinnest iPhone Ever, 16.63 cm (6.5″) Display with Promotion up to 120Hz, Powerful A19 Pro Chip, Center...",
+          "link": "https://www.amazon.in/iPhone-Air-256-GB-Promotion/dp/B0FQFJGP8S/ref=sr_1_14?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-14",
+          "brand": "iPhone",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Apple iPhone 15 (256 GB) - Pink",
+          "price": "₹59,999",
+          "discount_percentage": "₹79,900 (25% off)",
+          "rating": "4.5",
+          "reviews_count": "6,960",
+          "image_url": "https://m.media-amazon.com/images/I/71v2jVh6nIL._AC_UY218_.jpg",
+          "image_alt": "Apple iPhone 15 (256 GB) - Pink",
+          "link": "https://www.amazon.in/Apple-iPhone-15-256-GB/dp/B0CHX4CRND/ref=sr_1_15?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-15",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "FREE delivery 20 Oct - 11 Nov"
+        },
+        {
+          "title": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control",
+          "price": "₹66,900",
+          "discount_percentage": "₹79,900 (16% off)",
+          "rating": "4.5",
+          "reviews_count": "1,599",
+          "image_url": "https://m.media-amazon.com/images/I/61d88xzrklL._AC_UY218_.jpg",
+          "image_alt": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; White",
+          "link": "https://www.amazon.in/iPhone-16-128-GB-Control/dp/B0DGHZWBYB/ref=sr_1_16?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-16",
+          "brand": "iPhone",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Apple iPhone 14 (256 GB) - Starlight",
+          "price": "₹61,900",
+          "discount_percentage": "₹79,900 (23% off)",
+          "rating": "4.5",
+          "reviews_count": "6,176",
+          "image_url": "https://m.media-amazon.com/images/I/618Bb+QzCmL._AC_UY218_.jpg",
+          "image_alt": "Apple iPhone 14 (256 GB) - Starlight",
+          "link": "https://www.amazon.in/Apple-iPhone-14-256GB-Starlight/dp/B0BDJS3MRM/ref=sr_1_17?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-17",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control",
+          "price": "₹66,900",
+          "discount_percentage": "₹79,900 (16% off)",
+          "rating": "4.5",
+          "reviews_count": "1,599",
+          "image_url": "https://m.media-amazon.com/images/I/61eYPkT2zZL._AC_UY218_.jpg",
+          "image_alt": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Teal",
+          "link": "https://www.amazon.in/iPhone-16-128-GB-Control/dp/B0DGJH8RYG/ref=sr_1_18?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-18",
+          "brand": "iPhone",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - Apple iPhone 15 (128 GB) - Black",
+          "price": "₹49,999",
+          "brand": "Apple",
+          "category": "Mobile",
+          "rating": "4.5",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2MjkyMzQ3NzE5NzUzMjQ6MTc2MDgwNjU5NzpzcF9hdGY6MzAwMDU0MzQ1OTQ3NjMyOjowOjo&url=%2FApple-iPhone-15-128-GB%2Fdp%2FB0CHX1W1XY%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo%26dib_tag%3Dse%26keywords%3Diphone%26qid%3D1760806596%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=1LIYsrGPDM&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71657TiFeHL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - Apple iPhone 15 (128 GB) - Black",
+              "thumbnail": "https://m.media-amazon.com/images/I/71657TiFeHL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - iPhone 16 128 GB: 5G Mobile Phone with Camera Control",
+          "price": "₹66,900",
+          "brand": "Sponsored",
+          "category": "Mobile",
+          "rating": "4.5",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2MjkyMzQ3NzE5NzUzMjQ6MTc2MDgwNjU5NzpzcF9hdGY6MzAwMzM0MjUyNjIzNTMyOjowOjo&url=%2FiPhone-16-128-GB-Control%2Fdp%2FB0DGJH8RYG%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo%26dib_tag%3Dse%26keywords%3Diphone%26qid%3D1760806596%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=knxecDTUQv&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61eYPkT2zZL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with...",
+              "thumbnail": "https://m.media-amazon.com/images/I/61eYPkT2zZL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "iPhone 17 Pro 512 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz",
+          "price": "₹1,54,900",
+          "brand": "iPhone",
+          "category": "Mobile",
+          "rating": "4.1",
+          "link": "https://www.amazon.in/iPhone-Pro-512-Promotion-Breakthrough/dp/B0FQF5DG3P/ref=sr_1_3?dib=eyJ2IjoiMSJ9.epdLr0Fo6nZqmR9Aph02EPzOLiZPzSUxpUdliIcIZZF3bTAyHsjnQlRBVombFYdyxeTAhwRwuHxkFOk_yzBqX4RcxcFjw-o4vH4-WNSO_t7gbB4Et5QPyg-G28JYm_aeFA06jwHftHxzWsMxAbDgRg1drfSqXLwpFNK1kNcNZyIJNQs5H3Fnj5uujRgonrihGOxSN8tQ4sVAQEiYKv_CQ57_CCmFMoBZr7XRDhRYApM.WdxDBXMAIHb3yHIYN4xx2MqX2cq059j1C1z7aT4oPBo&dib_tag=se&keywords=iphone&qid=1760806596&sr=8-3",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/618vU2qKXQL._AC_UY218_.jpg",
+              "alt": "iPhone 17 Pro 512 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fus...",
+              "thumbnail": "https://m.media-amazon.com/images/I/618vU2qKXQL._AC_UY218_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

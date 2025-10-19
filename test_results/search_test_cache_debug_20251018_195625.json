@@ -1,0 +1,255 @@
+{
+  "success": true,
+  "query": "test_cache_debug",
+  "total_results": 16,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "37.34s",
+  "timestamp": "2025-10-18T19:56:25.561312",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_cache_debug",
+      "total_products": 16,
+      "basic_products": [
+        {
+          "title": "Bactaslydes Yeast & Fungi + TBC Test Kit (BS101)",
+          "price": "₹1,560",
+          "discount_percentage": "₹1,760 (11% off)",
+          "image_url": "https://m.media-amazon.com/images/I/31bGKkWHCzL._AC_UL320_.jpg",
+          "image_alt": "Bactaslydes Yeast & Fungi + TBC Test Kit (BS101)",
+          "link": "https://www.amazon.in/Bactaslydes-Yeast-Fungi-Test-BS101/dp/B0DF7GYHB1/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU&dib_tag=se&keywords=test_cache_debug&qid=1760797557&sr=8-1",
+          "brand": "Bactaslydes",
+          "category": "General",
+          "availability": "FREE delivery Sat, 25 Oct"
+        },
+        {
+          "title": "Neodocs UTI test kit for women | At home test | Results in 30 seconds on any phone | Track Leukocytes",
+          "price": "₹193",
+          "discount_percentage": "₹249 (22% off)",
+          "rating": "4.2",
+          "reviews_count": "205",
+          "image_url": "https://m.media-amazon.com/images/I/71ope8xWtxL._AC_UL320_.jpg",
+          "image_alt": "Neodocs UTI test kit for women | At home test | Results in 30 seconds on any phone | Track Leukocytes, Nitrites, Blood, pH...",
+          "link": "https://www.amazon.in/Infection-Leukocytes-Parameters-Hydration-Urobilinogen/dp/B0B6PWKXKD/ref=sr_1_2?dib=eyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU&dib_tag=se&keywords=test_cache_debug&qid=1760797557&sr=8-2",
+          "brand": "Neodocs",
+          "category": "Mobile",
+          "availability": "FREE delivery Thu, 23 Oct on first order"
+        },
+        {
+          "title": "Neodocs UTI test kit for women | At home test | Results in 30 seconds on any phone | Track Leukocytes",
+          "price": "₹519",
+          "discount_percentage": "₹747 (31% off)",
+          "rating": "4.3",
+          "image_url": "https://m.media-amazon.com/images/I/71RzBB3zLYL._AC_UL320_.jpg",
+          "image_alt": "Neodocs UTI test kit for women | At home test | Results in 30 seconds on any phone | Track Leukocytes, Nitrites, Blood, pH...",
+          "link": "https://www.amazon.in/Urinary-Infection-Detects-Leukocytes-Parameters/dp/B0BDVJPWK9/ref=sr_1_3?dib=eyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU&dib_tag=se&keywords=test_cache_debug&qid=1760797557&sr=8-3",
+          "brand": "Neodocs",
+          "category": "Mobile",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "Neodocs UTI test kit for women | At home test | Results in 30 seconds on any phone | Track Leukocytes",
+          "price": "₹949",
+          "discount_percentage": "₹1,245 (24% off)",
+          "rating": "4.3",
+          "image_url": "https://m.media-amazon.com/images/I/71Yfw1puk2L._AC_UL320_.jpg",
+          "image_alt": "Neodocs UTI test kit for women | At home test | Results in 30 seconds on any phone | Track Leukocytes, Nitrites, Blood, pH...",
+          "link": "https://www.amazon.in/Neodocs-Results-Leukocytes-Nitrites-Parameters/dp/B0D9P3P2VJ/ref=sr_1_4?dib=eyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU&dib_tag=se&keywords=test_cache_debug&qid=1760797557&sr=8-4",
+          "brand": "Neodocs",
+          "category": "Mobile",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "Sponsored Ad - CATCH BOOSTER CONSUMABLE FOR BIO TRAPTOR INDOOR DEVICE",
+          "price": "₹350",
+          "discount_percentage": "₹450 (22% off)",
+          "rating": "3.9",
+          "image_url": "https://m.media-amazon.com/images/I/81GBSAqNJHL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - CATCH BOOSTER CONSUMABLE FOR BIO TRAPTOR INDOOR DEVICE",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjYxNDEwOTIyNzU4MDI2OjE3NjA3OTc1NTc6c3BfbXRmOjMwMDc3NTM4NTYxMjUzMjo6MDo6&url=%2FBOOSTER-CONSUMABLE-BIO-TRAPTOR-DEVICE%2Fdp%2FB0CH39VY13%2Fref%3Dsr_1_5_sspa%3Fdib%3DeyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU%26dib_tag%3Dse%26keywords%3Dtest_cache_debug%26qid%3D1760797557%26sr%3D8-5-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=DhTIEkUFhl&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Emcof Junior (Pack of 2)",
+          "price": "₹157",
+          "discount_percentage": "₹206.26 (24% off)",
+          "rating": "3.6",
+          "image_url": "https://m.media-amazon.com/images/I/61hYex+krDL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Emcof Junior (Pack of 2)",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjYxNDEwOTIyNzU4MDI2OjE3NjA3OTc1NTc6c3BfbXRmOjMwMDU2Njc2ODYxMjIzMjo6MDo6&url=%2FEmcof-Junior-Pack-of-2%2Fdp%2FB08H248PML%2Fref%3Dsr_1_6_sspa%3Fdib%3DeyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU%26dib_tag%3Dse%26keywords%3Dtest_cache_debug%26qid%3D1760797557%26sr%3D8-6-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=qgH3yMfzy7&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "Sponsored Ad - PUSHPA Borosilicate Glass Flat Bottom Culture Tube Test Tube With Rubber Screw Cap for Precision Experiment...",
+          "price": "₹684",
+          "discount_percentage": "₹1,299 (47% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/31VOm6tI61L._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - PUSHPA Borosilicate Glass Flat Bottom Culture Tube Test Tube With Rubber Screw Cap for Precision Experiment...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjYxNDEwOTIyNzU4MDI2OjE3NjA3OTc1NTc6c3BfbXRmOjMwMDUwOTk5ODgxMTEzMjo6MDo6&url=%2FPUSHPA-Borosilicate-Culture-Precision-Experiments%2Fdp%2FB0CK5KY43Z%2Fref%3Dsr_1_7_sspa%3Fdib%3DeyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU%26dib_tag%3Dse%26keywords%3Dtest_cache_debug%26qid%3D1760797557%26sr%3D8-7-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=mWEgGM1dYX&sp_cr=ZAZ",
+          "brand": "HP",
+          "category": "Bottom",
+          "availability": "FREE delivery Thu, 30 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Salco 15-Piece Set Graduated Cylinders and Beakers with 5 Transfer Pipettes and 1 Test Tube Brushes",
+          "price": "₹599",
+          "discount_percentage": "₹1,598 (63% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/71zh3CzxGcL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Salco 15-Piece Set Graduated Cylinders and Beakers with 5 Transfer Pipettes and 1 Test Tube Brushes, Ideal ...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjYxNDEwOTIyNzU4MDI2OjE3NjA3OTc1NTc6c3BfbXRmOjIwMTI3MDc4NjE1NTk4OjowOjo&url=%2FSalco-15-Piece-Graduated-Cylinders-Transfer%2Fdp%2FB0BM4J4HK3%2Fref%3Dsr_1_8_sspa%3Fdib%3DeyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU%26dib_tag%3Dse%26keywords%3Dtest_cache_debug%26qid%3D1760797557%26sr%3D8-8-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=X3QeWtvr4g&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 31 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Salco Borosilicate Glass Test Tube - Pack of 50 - (25 x 150 mm)",
+          "price": "₹1,199",
+          "discount_percentage": "₹2,199 (45% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/21UmAMy-1fL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Salco Borosilicate Glass Test Tube - Pack of 50 - (25 x 150 mm)",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjYxNDEwOTIyNzU4MDI2OjE3NjA3OTc1NTc6c3BfYnRmOjIwMDMxMTA2MTQ2Njk4OjowOjo&url=%2FSalco-Borosilicate-Glass-Test-Tube%2Fdp%2FB09QYRG7SM%2Fref%3Dsr_1_9_sspa%3Fdib%3DeyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU%26dib_tag%3Dse%26keywords%3Dtest_cache_debug%26qid%3D1760797557%26sr%3D8-9-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=NK3vbWMkOi&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 31 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Smartivity My First Science Experiment Kit for Kids 6-8-10-12-14 Years I 50+ Amazing Science Experiments | ...",
+          "price": "₹459",
+          "discount_percentage": "₹599 (23% off)",
+          "rating": "4.3",
+          "reviews_count": "2,017",
+          "image_url": "https://m.media-amazon.com/images/I/71M-utGWUGL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Smartivity My First Science Experiment Kit for Kids 6-8-10-12-14 Years I 50+ Amazing Science Experiments | ...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjYxNDEwOTIyNzU4MDI2OjE3NjA3OTc1NTc6c3BfYnRmOjMwMDI2MTYwMjI4NzYzMjo6MDo6&url=%2FSmartivity-6-8-10-12-14-Experiment-Birthday-Educational%2Fdp%2FB0D2RN7XVW%2Fref%3Dsr_1_10_sspa%3Fdib%3DeyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU%26dib_tag%3Dse%26keywords%3Dtest_cache_debug%26qid%3D1760797557%26sr%3D8-10-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=9zPnLCCpNu&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - Salco Borosilicate Glass Test Tube - 12 x 75 mm (Pack of 10)",
+          "price": "₹239",
+          "discount_percentage": "₹998 (76% off)",
+          "rating": "1.0",
+          "image_url": "https://m.media-amazon.com/images/I/5102ZwgvbmL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Salco Borosilicate Glass Test Tube - 12 x 75 mm (Pack of 10)",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjYxNDEwOTIyNzU4MDI2OjE3NjA3OTc1NTc6c3BfYnRmOjIwMDMxMTA2MTQ4NDk4OjowOjo&url=%2FSalco-Borosilicate-Glass-Test-Tube%2Fdp%2FB09B135Z5Z%2Fref%3Dsr_1_11_sspa%3Fdib%3DeyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU%26dib_tag%3Dse%26keywords%3Dtest_cache_debug%26qid%3D1760797557%26sr%3D8-11-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=bsVCwheaxN&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 31 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Bello Borosilicate Glass Test Tube 15X125 With Wooden Cork Stopper Set Of (20 Test Tube",
+          "price": "₹329",
+          "discount_percentage": "₹550 (40% off)",
+          "image_url": "https://m.media-amazon.com/images/I/81XVDQdibsL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Bello Borosilicate Glass Test Tube 15X125 With Wooden Cork Stopper Set Of (20 Test Tube, 20 Cork) for Schoo...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjYxNDEwOTIyNzU4MDI2OjE3NjA3OTc1NTc6c3BfYnRmOjMwMDQ2NDA3NTc1MDgzMjo6MDo6&url=%2FBorosilicate-Stopper-Laboratory-Scientific-Experiments%2Fdp%2FB0DNSTGBBC%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU%26dib_tag%3Dse%26keywords%3Dtest_cache_debug%26qid%3D1760797557%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=ccUOXKMyH8&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Top",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Bello Borosilicate Glass Test Tube15X125 With Wooden Cork Stopper Set Of (24 Test Tube",
+          "price": "₹360",
+          "discount_percentage": "₹549 (34% off)",
+          "image_url": "https://m.media-amazon.com/images/I/81GUAeIuMhL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Bello Borosilicate Glass Test Tube15X125 With Wooden Cork Stopper Set Of (24 Test Tube, 24 Cork) for School...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjYxNDEwOTIyNzU4MDI2OjE3NjA3OTc1NTc6c3BfYnRmOjMwMDQ2NDA3NTc1MDczMjo6MDo6&url=%2FBorosilicate-Tube15X125-Laboratory-Scientific-Experiments%2Fdp%2FB0DNSV18PB%2Fref%3Dsr_1_13_sspa%3Fdib%3DeyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU%26dib_tag%3Dse%26keywords%3Dtest_cache_debug%26qid%3D1760797557%26sr%3D8-13-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=y3uXu1TP8W&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Top",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - PUSHPA Borosilicate Glass Flat Bottom Culture Tube Test Tube With Rubber Screw Cap for Precision Experiment...",
+          "price": "₹582",
+          "discount_percentage": "₹1,129 (48% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/31wuG1HUxfL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - PUSHPA Borosilicate Glass Flat Bottom Culture Tube Test Tube With Rubber Screw Cap for Precision Experiment...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjYxNDEwOTIyNzU4MDI2OjE3NjA3OTc1NTc6c3BfYnRmOjMwMDU0ODQ2OTgxMTczMjo6MDo6&url=%2FPUSHPA-Borosilicate-Culture-Precision-Experiments%2Fdp%2FB0CK5LBK9J%2Fref%3Dsr_1_14_sspa%3Fdib%3DeyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU%26dib_tag%3Dse%26keywords%3Dtest_cache_debug%26qid%3D1760797557%26sr%3D8-14-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=JFBrg8o9pl&sp_cr=ZAZ",
+          "brand": "HP",
+          "category": "Bottom",
+          "availability": "FREE delivery Thu, 30 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Bello Borosilicate Glass Test Tube 15X125 With Wooden Cork Stopper Set Of 24 (12 Test Tube",
+          "price": "₹319",
+          "discount_percentage": "₹529 (40% off)",
+          "image_url": "https://m.media-amazon.com/images/I/71TlxFgpw6L._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Bello Borosilicate Glass Test Tube 15X125 With Wooden Cork Stopper Set Of 24 (12 Test Tube, 12 Cork) for Sc...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjYxNDEwOTIyNzU4MDI2OjE3NjA3OTc1NTc6c3BfYnRmOjMwMDQ2NDA3NTc1MDkzMjo6MDo6&url=%2FBorosilicate-Stopper-Laboratory-Scientific-Experiments%2Fdp%2FB0DNSGZQPS%2Fref%3Dsr_1_15_sspa%3Fdib%3DeyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU%26dib_tag%3Dse%26keywords%3Dtest_cache_debug%26qid%3D1760797557%26sr%3D8-15-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=PoO6l2W9UT&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Top",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - German DR.R/W Testes Siccati 3X 20g (Pack of 1)",
+          "price": "₹270",
+          "discount_percentage": "₹280 (4% off)",
+          "image_url": "https://m.media-amazon.com/images/I/61ZvIU13ctL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - German DR.R/W Testes Siccati 3X 20g (Pack of 1)",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjYxNDEwOTIyNzU4MDI2OjE3NjA3OTc1NTc6c3BfYnRmOjMwMDY3MzYwNTQwOTMzMjo6MDo6&url=%2FGerman-DR-R-Testes-Siccati-Pack%2Fdp%2FB0FGTYXQJ1%2Fref%3Dsr_1_16_sspa%3Fdib%3DeyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU%26dib_tag%3Dse%26keywords%3Dtest_cache_debug%26qid%3D1760797557%26sr%3D8-16-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=PohuqhVzDz&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "Delivery Thu, 30 Oct"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Bactaslydes Yeast & Fungi + TBC Test Kit (BS101)",
+          "price": "₹1,560",
+          "brand": "Bactaslydes",
+          "category": "General",
+          "rating": "",
+          "link": "https://www.amazon.in/Bactaslydes-Yeast-Fungi-Test-BS101/dp/B0DF7GYHB1/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU&dib_tag=se&keywords=test_cache_debug&qid=1760797557&sr=8-1",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/31bGKkWHCzL._AC_UL320_.jpg",
+              "alt": "Bactaslydes Yeast & Fungi + TBC Test Kit (BS101)",
+              "thumbnail": "https://m.media-amazon.com/images/I/31bGKkWHCzL._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Neodocs UTI test kit for women | At home test | Results in 30 seconds on any phone | Track Leukocytes",
+          "price": "₹193",
+          "brand": "Neodocs",
+          "category": "Mobile",
+          "rating": "4.2",
+          "link": "https://www.amazon.in/Infection-Leukocytes-Parameters-Hydration-Urobilinogen/dp/B0B6PWKXKD/ref=sr_1_2?dib=eyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU&dib_tag=se&keywords=test_cache_debug&qid=1760797557&sr=8-2",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71ope8xWtxL._AC_UL320_.jpg",
+              "alt": "Neodocs UTI test kit for women | At home test | Results in 30 seconds on any phone | Track Leukocytes, Nitrites, Blood, pH...",
+              "thumbnail": "https://m.media-amazon.com/images/I/71ope8xWtxL._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Neodocs UTI test kit for women | At home test | Results in 30 seconds on any phone | Track Leukocytes",
+          "price": "₹519",
+          "brand": "Neodocs",
+          "category": "Mobile",
+          "rating": "4.3",
+          "link": "https://www.amazon.in/Urinary-Infection-Detects-Leukocytes-Parameters/dp/B0BDVJPWK9/ref=sr_1_3?dib=eyJ2IjoiMSJ9.nzZdgTXfHE8YIMIr_fpFB9W75QF4EzORm-nWSS0BC0U_8LjO1ZySgJu-smn9sL--.Hbo9Ex8Z8eVMEdlIssZJujfPKVfm56nbg75HazpysaU&dib_tag=se&keywords=test_cache_debug&qid=1760797557&sr=8-3",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71RzBB3zLYL._AC_UL320_.jpg",
+              "alt": "Neodocs UTI test kit for women | At home test | Results in 30 seconds on any phone | Track Leukocytes, Nitrites, Blood, pH...",
+              "thumbnail": "https://m.media-amazon.com/images/I/71RzBB3zLYL._AC_UL320_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

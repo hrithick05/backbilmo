@@ -1,0 +1,169 @@
+{
+  "success": true,
+  "query": "headphones",
+  "total_results": 8,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "39.31s",
+  "timestamp": "2025-10-18T16:14:09.130002",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "headphones",
+      "total_products": 8,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - Noise Master Buds Max",
+          "price": "₹10,999",
+          "discount_percentage": "₹11,999 (8% off)",
+          "rating": "4.1",
+          "image_url": "https://m.media-amazon.com/images/I/618JO08cG+L._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Noise Master Buds Max, Sound by Bose Wireless Over-Ear Headphones with Segment Leading Adaptive ANC, Dynami...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2MTE3NTI2ODE1MTIwMDIxOjE3NjA3ODQyMjI6c3BfYXRmOjMwMDc3NjM5NTUyOTQzMjo6MDo6&url=%2FNoise-Master-Overhead-Wireless-Headphone%2Fdp%2FB0F8HQVBQB%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.mAOnHCmz5d4_zOKs1z0RbAI5FWc0kTfzlrUfJm49_JScgU8tjtcfRLjD_vFiLIGXBzSZiAw27wtBEjVFCU-32Gll4vwlnv8RnSHjbRNyM0BL91tl477Esima1e0kerUMrlYvFxmVvSpub7IUHX9sQM_flBQkuLzdpXp_wIKNJjCt9ZmzlqbYoQ8weu9LElLj5giqcpnXugCMnLzOdK7VNPYBJkuqOlE1AY9sG5XhKVQ.s7p4YDu4HwnHeK1Cp6leRTNBG5C6Z2W5Cfsi8MxSKhI%26dib_tag%3Dse%26keywords%3Dheadphones%26qid%3D1760784222%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=cfsAlfc5Jw&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "Sponsored Ad - soundcore by Anker Q20i Wireless Bluetooth Over-Ear Headphones with Hybrid Active Noise Cancelling",
+          "price": "₹3,659",
+          "discount_percentage": "₹5,999 (39% off)",
+          "rating": "4.3",
+          "reviews_count": "39,657",
+          "image_url": "https://m.media-amazon.com/images/I/51CnDMbXZzL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - soundcore by Anker Q20i Wireless Bluetooth Over-Ear Headphones with Hybrid Active Noise Cancelling, 40h Pla...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2MTE3NTI2ODE1MTIwMDIxOjE3NjA3ODQyMjI6c3BfYXRmOjMwMDY4OTQ2MDczMzEzMjo6MDo6&url=%2Fsoundcore-Bluetooth-Headphones-Cancelling-Personalization%2Fdp%2FB0C3HCD34R%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.mAOnHCmz5d4_zOKs1z0RbAI5FWc0kTfzlrUfJm49_JScgU8tjtcfRLjD_vFiLIGXBzSZiAw27wtBEjVFCU-32Gll4vwlnv8RnSHjbRNyM0BL91tl477Esima1e0kerUMrlYvFxmVvSpub7IUHX9sQM_flBQkuLzdpXp_wIKNJjCt9ZmzlqbYoQ8weu9LElLj5giqcpnXugCMnLzOdK7VNPYBJkuqOlE1AY9sG5XhKVQ.s7p4YDu4HwnHeK1Cp6leRTNBG5C6Z2W5Cfsi8MxSKhI%26dib_tag%3Dse%26keywords%3Dheadphones%26qid%3D1760784222%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=srWVtedvxq&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Mobile",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "Boat BassHeads 100 in-Ear Headphones with Mic (Black)",
+          "price": "₹339",
+          "discount_percentage": "₹999 (66% off)",
+          "rating": "4.1",
+          "reviews_count": "428,004",
+          "image_url": "https://m.media-amazon.com/images/I/513ugd16C6L._AC_UY218_.jpg",
+          "image_alt": "Boat BassHeads 100 in-Ear Headphones with Mic (Black)",
+          "link": "https://www.amazon.in/boAt-BassHeads-100-Headphones-Black/dp/B071Z8M4KX/ref=sr_1_3?dib=eyJ2IjoiMSJ9.mAOnHCmz5d4_zOKs1z0RbAI5FWc0kTfzlrUfJm49_JScgU8tjtcfRLjD_vFiLIGXBzSZiAw27wtBEjVFCU-32Gll4vwlnv8RnSHjbRNyM0BL91tl477Esima1e0kerUMrlYvFxmVvSpub7IUHX9sQM_flBQkuLzdpXp_wIKNJjCt9ZmzlqbYoQ8weu9LElLj5giqcpnXugCMnLzOdK7VNPYBJkuqOlE1AY9sG5XhKVQ.s7p4YDu4HwnHeK1Cp6leRTNBG5C6Z2W5Cfsi8MxSKhI&dib_tag=se&keywords=headphones&qid=1760784222&sr=8-3",
+          "brand": "Mi",
+          "category": "Mobile",
+          "availability": "FREE delivery Sun, 26 Oct on first order"
+        },
+        {
+          "title": "boAt 2025 Launch Rockerz 411",
+          "price": "₹1,099",
+          "discount_percentage": "₹2,999 (63% off)",
+          "rating": "4.2",
+          "reviews_count": "27,199",
+          "image_url": "https://m.media-amazon.com/images/I/71QdB7hDCAL._AC_UY218_.jpg",
+          "image_alt": "boAt 2025 Launch Rockerz 411, 40Ms Low Latency, 40Hrs Battery, 40Mm Drivers, ENx Tech, Stream Ad Free Music via App Suppor...",
+          "link": "https://www.amazon.in/boAt-Integrated-Bluetooth-Headphones-Headphone/dp/B0FC2Y8XYF/ref=sr_1_4?dib=eyJ2IjoiMSJ9.mAOnHCmz5d4_zOKs1z0RbAI5FWc0kTfzlrUfJm49_JScgU8tjtcfRLjD_vFiLIGXBzSZiAw27wtBEjVFCU-32Gll4vwlnv8RnSHjbRNyM0BL91tl477Esima1e0kerUMrlYvFxmVvSpub7IUHX9sQM_flBQkuLzdpXp_wIKNJjCt9ZmzlqbYoQ8weu9LElLj5giqcpnXugCMnLzOdK7VNPYBJkuqOlE1AY9sG5XhKVQ.s7p4YDu4HwnHeK1Cp6leRTNBG5C6Z2W5Cfsi8MxSKhI&dib_tag=se&keywords=headphones&qid=1760784222&sr=8-4",
+          "brand": "Boat",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "ZEBRONICS THUNDER Bluetooth 5.3 Wireless Headphones with 60H Backup",
+          "price": "₹699",
+          "discount_percentage": "₹1,199 (42% off)",
+          "rating": "3.8",
+          "reviews_count": "80,429",
+          "image_url": "https://m.media-amazon.com/images/I/618-45t0P5L._AC_UY218_.jpg",
+          "image_alt": "ZEBRONICS THUNDER Bluetooth 5.3 Wireless Headphones with 60H Backup, Gaming Mode, Dual Pairing, ENC, AUX, Micro SD, Voice ...",
+          "link": "https://www.amazon.in/ZEBRONICS-Bluetooth-Headphones-assistant-Comfortable/dp/B07L8KNP5F/ref=sr_1_5?dib=eyJ2IjoiMSJ9.mAOnHCmz5d4_zOKs1z0RbAI5FWc0kTfzlrUfJm49_JScgU8tjtcfRLjD_vFiLIGXBzSZiAw27wtBEjVFCU-32Gll4vwlnv8RnSHjbRNyM0BL91tl477Esima1e0kerUMrlYvFxmVvSpub7IUHX9sQM_flBQkuLzdpXp_wIKNJjCt9ZmzlqbYoQ8weu9LElLj5giqcpnXugCMnLzOdK7VNPYBJkuqOlE1AY9sG5XhKVQ.s7p4YDu4HwnHeK1Cp6leRTNBG5C6Z2W5Cfsi8MxSKhI&dib_tag=se&keywords=headphones&qid=1760784222&sr=8-5",
+          "brand": "ZEBRONICS",
+          "category": "Mobile",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "boAt Rockerz 480",
+          "price": "₹1,599",
+          "discount_percentage": "₹3,790 (58% off)",
+          "rating": "4.1",
+          "reviews_count": "2,901",
+          "image_url": "https://m.media-amazon.com/images/I/711l4y8aNlL._AC_UY218_.jpg",
+          "image_alt": "boAt Rockerz 480, RGB LEDs,6 Light Modes, 40mm Drivers,Beast Mode, 60H Battery, ENx Tech, Stream Ad Free Music via App Sup...",
+          "link": "https://www.amazon.in/boAt-Rockerz-480-Bluetooth-Headphones/dp/B0DGTSRX3R/ref=sr_1_6?dib=eyJ2IjoiMSJ9.mAOnHCmz5d4_zOKs1z0RbAI5FWc0kTfzlrUfJm49_JScgU8tjtcfRLjD_vFiLIGXBzSZiAw27wtBEjVFCU-32Gll4vwlnv8RnSHjbRNyM0BL91tl477Esima1e0kerUMrlYvFxmVvSpub7IUHX9sQM_flBQkuLzdpXp_wIKNJjCt9ZmzlqbYoQ8weu9LElLj5giqcpnXugCMnLzOdK7VNPYBJkuqOlE1AY9sG5XhKVQ.s7p4YDu4HwnHeK1Cp6leRTNBG5C6Z2W5Cfsi8MxSKhI&dib_tag=se&keywords=headphones&qid=1760784222&sr=8-6",
+          "brand": "Boat",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "boAt Rockerz 550/Rockerz 558 Over Ear Bluetooth Headphones with Upto 20 Hours Playback",
+          "price": "₹1,499",
+          "discount_percentage": "₹4,999 (70% off)",
+          "rating": "4.0",
+          "reviews_count": "65,347",
+          "image_url": "https://m.media-amazon.com/images/I/61gYxcIGjvL._AC_UY218_.jpg",
+          "image_alt": "boAt Rockerz 550/Rockerz 558 Over Ear Bluetooth Headphones with Upto 20 Hours Playback, 50MM Drivers, Soft Padded Ear Cush...",
+          "link": "https://www.amazon.in/boAt-Bluetooth-Headphones-Playback-Isolation/dp/B0856HY85J/ref=sr_1_7?dib=eyJ2IjoiMSJ9.mAOnHCmz5d4_zOKs1z0RbAI5FWc0kTfzlrUfJm49_JScgU8tjtcfRLjD_vFiLIGXBzSZiAw27wtBEjVFCU-32Gll4vwlnv8RnSHjbRNyM0BL91tl477Esima1e0kerUMrlYvFxmVvSpub7IUHX9sQM_flBQkuLzdpXp_wIKNJjCt9ZmzlqbYoQ8weu9LElLj5giqcpnXugCMnLzOdK7VNPYBJkuqOlE1AY9sG5XhKVQ.s7p4YDu4HwnHeK1Cp6leRTNBG5C6Z2W5Cfsi8MxSKhI&dib_tag=se&keywords=headphones&qid=1760784222&sr=8-7",
+          "brand": "Boat",
+          "category": "Mobile",
+          "availability": "FREE delivery Mon, 27 Oct"
+        },
+        {
+          "title": "boAt Rockerz 480",
+          "price": "₹1,599",
+          "discount_percentage": "₹3,790 (58% off)",
+          "rating": "4.1",
+          "reviews_count": "2,901",
+          "image_url": "https://m.media-amazon.com/images/I/61cIHzCDl6L._AC_UY218_.jpg",
+          "image_alt": "boAt Rockerz 480, RGB LEDs,6 Light Modes, 40mm Drivers,Beast Mode, 60H Battery, ENx Tech, Stream Ad Free Music via App Sup...",
+          "link": "https://www.amazon.in/boAt-Rockerz-480-Bluetooth-Headphones/dp/B0DGTTKCJX/ref=sr_1_8?dib=eyJ2IjoiMSJ9.mAOnHCmz5d4_zOKs1z0RbAI5FWc0kTfzlrUfJm49_JScgU8tjtcfRLjD_vFiLIGXBzSZiAw27wtBEjVFCU-32Gll4vwlnv8RnSHjbRNyM0BL91tl477Esima1e0kerUMrlYvFxmVvSpub7IUHX9sQM_flBQkuLzdpXp_wIKNJjCt9ZmzlqbYoQ8weu9LElLj5giqcpnXugCMnLzOdK7VNPYBJkuqOlE1AY9sG5XhKVQ.s7p4YDu4HwnHeK1Cp6leRTNBG5C6Z2W5Cfsi8MxSKhI&dib_tag=se&keywords=headphones&qid=1760784222&sr=8-8",
+          "brand": "Boat",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - Noise Master Buds Max",
+          "price": "₹10,999",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "4.1",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2MTE3NTI2ODE1MTIwMDIxOjE3NjA3ODQyMjI6c3BfYXRmOjMwMDc3NjM5NTUyOTQzMjo6MDo6&url=%2FNoise-Master-Overhead-Wireless-Headphone%2Fdp%2FB0F8HQVBQB%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.mAOnHCmz5d4_zOKs1z0RbAI5FWc0kTfzlrUfJm49_JScgU8tjtcfRLjD_vFiLIGXBzSZiAw27wtBEjVFCU-32Gll4vwlnv8RnSHjbRNyM0BL91tl477Esima1e0kerUMrlYvFxmVvSpub7IUHX9sQM_flBQkuLzdpXp_wIKNJjCt9ZmzlqbYoQ8weu9LElLj5giqcpnXugCMnLzOdK7VNPYBJkuqOlE1AY9sG5XhKVQ.s7p4YDu4HwnHeK1Cp6leRTNBG5C6Z2W5Cfsi8MxSKhI%26dib_tag%3Dse%26keywords%3Dheadphones%26qid%3D1760784222%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=cfsAlfc5Jw&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/618JO08cG+L._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - Noise Master Buds Max, Sound by Bose Wireless Over-Ear Headphones with Segment Leading Adaptive ANC, Dynami...",
+              "thumbnail": "https://m.media-amazon.com/images/I/618JO08cG+L._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - soundcore by Anker Q20i Wireless Bluetooth Over-Ear Headphones with Hybrid Active Noise Cancelling",
+          "price": "₹3,659",
+          "brand": "Sponsored",
+          "category": "Mobile",
+          "rating": "4.3",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2MTE3NTI2ODE1MTIwMDIxOjE3NjA3ODQyMjI6c3BfYXRmOjMwMDY4OTQ2MDczMzEzMjo6MDo6&url=%2Fsoundcore-Bluetooth-Headphones-Cancelling-Personalization%2Fdp%2FB0C3HCD34R%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.mAOnHCmz5d4_zOKs1z0RbAI5FWc0kTfzlrUfJm49_JScgU8tjtcfRLjD_vFiLIGXBzSZiAw27wtBEjVFCU-32Gll4vwlnv8RnSHjbRNyM0BL91tl477Esima1e0kerUMrlYvFxmVvSpub7IUHX9sQM_flBQkuLzdpXp_wIKNJjCt9ZmzlqbYoQ8weu9LElLj5giqcpnXugCMnLzOdK7VNPYBJkuqOlE1AY9sG5XhKVQ.s7p4YDu4HwnHeK1Cp6leRTNBG5C6Z2W5Cfsi8MxSKhI%26dib_tag%3Dse%26keywords%3Dheadphones%26qid%3D1760784222%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=srWVtedvxq&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/51CnDMbXZzL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - soundcore by Anker Q20i Wireless Bluetooth Over-Ear Headphones with Hybrid Active Noise Cancelling, 40h Pla...",
+              "thumbnail": "https://m.media-amazon.com/images/I/51CnDMbXZzL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Boat BassHeads 100 in-Ear Headphones with Mic (Black)",
+          "price": "₹339",
+          "brand": "Mi",
+          "category": "Mobile",
+          "rating": "4.1",
+          "link": "https://www.amazon.in/boAt-BassHeads-100-Headphones-Black/dp/B071Z8M4KX/ref=sr_1_3?dib=eyJ2IjoiMSJ9.mAOnHCmz5d4_zOKs1z0RbAI5FWc0kTfzlrUfJm49_JScgU8tjtcfRLjD_vFiLIGXBzSZiAw27wtBEjVFCU-32Gll4vwlnv8RnSHjbRNyM0BL91tl477Esima1e0kerUMrlYvFxmVvSpub7IUHX9sQM_flBQkuLzdpXp_wIKNJjCt9ZmzlqbYoQ8weu9LElLj5giqcpnXugCMnLzOdK7VNPYBJkuqOlE1AY9sG5XhKVQ.s7p4YDu4HwnHeK1Cp6leRTNBG5C6Z2W5Cfsi8MxSKhI&dib_tag=se&keywords=headphones&qid=1760784222&sr=8-3",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/513ugd16C6L._AC_UY218_.jpg",
+              "alt": "Boat BassHeads 100 in-Ear Headphones with Mic (Black)",
+              "thumbnail": "https://m.media-amazon.com/images/I/513ugd16C6L._AC_UY218_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

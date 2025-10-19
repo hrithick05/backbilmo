@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "query": "shirts",
+  "total_results": 0,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "39.21s",
+  "timestamp": "2025-10-18T19:14:56.919490",
+  "results": [
+    [
+      {
+        "title": "Powerlook",
+        "name": "Powerlook",
+        "price": "Rs. 1033",
+        "link": "https://www.myntra.com/shirts/powerlook/powerlook-men-spread-collar-micro-checked-cotton-casual-shirt/32156947/buy",
+        "rating": "1.5",
+        "image_url": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/DECEMBER/31/VeZU76mB_e8ecfe223a2b4a62bf4340b56d8c4fb9.jpg",
+        "image_alt": "Powerlook Men Spread Collar Micro Checked Cotton Casual Shirt",
+        "images": [
+          {
+            "url": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/DECEMBER/31/VeZU76mB_e8ecfe223a2b4a62bf4340b56d8c4fb9.jpg",
+            "alt": "Powerlook Men Spread Collar Micro Checked Cotton Casual Shirt",
+            "thumbnail": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/DECEMBER/31/VeZU76mB_e8ecfe223a2b4a62bf4340b56d8c4fb9.jpg"
+          }
+        ]
+      }
+    ],
+    {
+      "site": "Myntra",
+      "query": "shirts",
+      "total_products": 0,
+      "basic_products": [],
+      "detailed_products": [],
+      "error": "'list' object has no attribute 'get'"
+    }
+  ]
+}

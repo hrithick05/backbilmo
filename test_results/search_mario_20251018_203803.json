@@ -1,0 +1,1176 @@
+{
+  "success": true,
+  "query": "mario",
+  "total_results": 60,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 4,
+  "processing_time": "292.5s",
+  "timestamp": "2025-10-18T20:38:03.598323",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "mario",
+      "total_products": 20,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - Trunkin Mario Brothers Set of 12 Action Figures Childhood Game Figures Collectible Model Toy",
+          "price": "₹1,449",
+          "discount_percentage": "₹2,999 (52% off)",
+          "rating": "4.6",
+          "image_url": "https://m.media-amazon.com/images/I/61tCcnXoRyL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Trunkin Mario Brothers Set of 12 Action Figures Childhood Game Figures Collectible Model Toy",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NzI4ODYzMTI3MTM3NjI1OjE3NjA3OTk5NzQ6c3BfYXRmOjMwMDQ0MDUzODA2OTMzMjo6MDo6&url=%2FTrunkin-Brothers-Figures-Childhood-Collectible%2Fdp%2FB0CBZ9GS74%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw%26dib_tag%3Dse%26keywords%3Dmario%26qid%3D1760799974%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=E1rYiSd6rZ&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "Sponsored Ad - BOENJOY Gifts- Mario Pencil Case for Kids – Pack of 1",
+          "price": "₹439",
+          "discount_percentage": "₹999 (56% off)",
+          "rating": "3.4",
+          "image_url": "https://m.media-amazon.com/images/I/715N3acvH2L._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - BOENJOY Gifts- Mario Pencil Case for Kids – Pack of 1, Large Capacity Waterproof Stationery Pouch with Zipp...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NzI4ODYzMTI3MTM3NjI1OjE3NjA3OTk5NzQ6c3BfYXRmOjMwMDY2MzYyMzIxNTkzMjo6MDo6&url=%2FBOENJOY-Gifts-Mario-Pencil-Case%2Fdp%2FB0FJ27P1FY%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw%26dib_tag%3Dse%26keywords%3Dmario%26qid%3D1760799974%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Vt9i6XZRn7&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "The Super Mario Bros. Movie",
+          "price": "₹99",
+          "rating": "4.8",
+          "reviews_count": "2023",
+          "image_url": "https://m.media-amazon.com/images/I/91dB1CdH84L._AC_UY218_.jpg",
+          "image_alt": "The Super Mario Bros. Movie",
+          "link": "https://www.amazon.in/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.8cf66c0f-154f-4a8f-99f2-f41867d49870%26ref_%3Ddvm_src_ret_in_xx_s&page-type-id=B0DZW28YR3&ref=sr_1_3&keywords=mario&dib_tag=se&dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&qid=1760799974&sr=8-3",
+          "brand": "The",
+          "category": "General"
+        },
+        {
+          "title": "9UP® 1Pc Super Mario Mini Question Block Lamp | Rechargeable Touch Mini Night Lamp with Coin Sound",
+          "price": "₹422",
+          "discount_percentage": "₹999 (58% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51Gr+vE8fzL._AC_UY218_.jpg",
+          "image_alt": "9UP® 1Pc Super Mario Mini Question Block Lamp | Rechargeable Touch Mini Night Lamp with Coin Sound",
+          "link": "https://www.amazon.in/Super-Mario-Mini-Question-Night/dp/B0FRGL871F/ref=sr_1_4?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-4",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Sat, 1 Nov"
+        },
+        {
+          "title": "Toys Uncle Figure (Mario 20 CM Figure)",
+          "price": "₹1,159",
+          "discount_percentage": "₹1,499 (23% off)",
+          "rating": "4.1",
+          "image_url": "https://m.media-amazon.com/images/I/71fuufWTMML._AC_UY218_.jpg",
+          "image_alt": "Toys Uncle Figure (Mario 20 CM Figure)",
+          "link": "https://www.amazon.in/Toys-Uncle-Figure-Mario-20/dp/B0CF9ZRTFH/ref=sr_1_5?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-5",
+          "brand": "Toys",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Official Super Mario Here We Go!: A super fun puzzle and activity book – perfect for kids and fans of the video game!",
+          "price": "₹447",
+          "discount_percentage": "Buy 3 items, get 3% off",
+          "rating": "4.8",
+          "image_url": "https://m.media-amazon.com/images/I/81rHL7FCbCL._AC_UY218_.jpg",
+          "image_alt": "Official Super Mario Here We Go!: A super fun puzzle and activity book – perfect for kids and fans of the video game!",
+          "link": "https://www.amazon.in/Official-Super-Mario-Here-We/dp/0008641935/ref=sr_1_6?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-6",
+          "brand": "Official",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "Super Mario: The Big Coloring Book (Nintendo®)",
+          "price": "₹331",
+          "discount_percentage": "₹584 (43% off)",
+          "rating": "4.7",
+          "image_url": "https://m.media-amazon.com/images/I/81AvAsPIsSL._AC_UY218_.jpg",
+          "image_alt": "Super Mario: The Big Coloring Book (Nintendo®)",
+          "link": "https://www.amazon.in/Super-Mario-Coloring-Book-Nintendo/dp/0593307771/ref=sr_1_7?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-7",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct on first order"
+        },
+        {
+          "title": "Mario New Super Mario or Luigi Pull Back Kart Faster Mini Racer Cars Toy uper Pull and Push Motor Vahicle Car Toy (Charact...",
+          "price": "₹398",
+          "discount_percentage": "₹1,100 (64% off)",
+          "rating": "3.9",
+          "image_url": "https://m.media-amazon.com/images/I/51VeGn+jJ9L._AC_UY218_.jpg",
+          "image_alt": "Mario New Super Mario or Luigi Pull Back Kart Faster Mini Racer Cars Toy uper Pull and Push Motor Vahicle Car Toy (Charact...",
+          "link": "https://www.amazon.in/Mario-Faster-Vahicle-Character-Availablity/dp/B0F4QZD79Z/ref=sr_1_8?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-8",
+          "brand": "Acer",
+          "category": "General",
+          "availability": "FREE delivery Thu, 30 Oct"
+        },
+        {
+          "title": "Super Mario Deluxe Paint Box Book (Nintendo®)",
+          "price": "₹315\n89",
+          "discount_percentage": "₹450 (30% off)",
+          "rating": "4.7",
+          "image_url": "https://m.media-amazon.com/images/I/816zUJyt1bL._AC_UY218_.jpg",
+          "image_alt": "Super Mario Deluxe Paint Box Book (Nintendo®)",
+          "link": "https://www.amazon.in/Super-Mario-Deluxe-Paint-Nintendo/dp/0593431596/ref=sr_1_9?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-9",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct on first order"
+        },
+        {
+          "title": "Super Mario Little Golden Book (Nintendo®)",
+          "price": "₹302\n17",
+          "discount_percentage": "Buy 3 items, get 3% off",
+          "rating": "4.8",
+          "image_url": "https://m.media-amazon.com/images/I/81U6rOy-iwL._AC_UY218_.jpg",
+          "image_alt": "Super Mario Little Golden Book (Nintendo®)",
+          "link": "https://www.amazon.in/Super-Mario-Little-Golden-Nintendo/dp/0593304462/ref=sr_1_10?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-10",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - Geekmonkey Polyvinyl Chloride Cuddly Companion: Walking Tom - Adorable 6.5 cm Figurine (Pack of 1) (walking...",
+          "price": "₹249",
+          "discount_percentage": "₹999 (75% off)",
+          "rating": "3.9",
+          "image_url": "https://m.media-amazon.com/images/I/610eabcp+TL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Geekmonkey Polyvinyl Chloride Cuddly Companion: Walking Tom - Adorable 6.5 cm Figurine (Pack of 1) (walking...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NzI4ODYzMTI3MTM3NjI1OjE3NjA3OTk5NzQ6c3BfbXRmOjMwMDc1MjI2MjYwMjUzMjo6MDo6&url=%2FGeekmonkey-Cuddly-Companion-Adorable-walkingtom%2Fdp%2FB0D5GT2SFH%2Fref%3Dsr_1_11_sspa%3Fdib%3DeyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw%26dib_tag%3Dse%26keywords%3Dmario%26qid%3D1760799974%26sr%3D8-11-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=RgthPZ1HIN&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Thu, 30 Oct"
+        },
+        {
+          "title": "Sponsored Ad - PERPLEXUS Spin Master Games Funskool Beast",
+          "price": "₹1,299",
+          "discount_percentage": "₹1,499 (13% off)",
+          "rating": "4.6",
+          "reviews_count": "10,854",
+          "image_url": "https://m.media-amazon.com/images/I/81XjW872KjL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - PERPLEXUS Spin Master Games Funskool Beast, 3D Maze Game with 100 Obstacles,for Kids",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NzI4ODYzMTI3MTM3NjI1OjE3NjA3OTk5NzQ6c3BfbXRmOjMwMDQ1OTc1OTMxMjYzMjo6MDo6&url=%2FPERPLEXUS-Funskool-Beast-Maze-Obstacles%2Fdp%2FB07MNLXJ11%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw%26dib_tag%3Dse%26keywords%3Dmario%26qid%3D1760799974%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=Y3wYgj8GuG&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Mon, 27 Oct"
+        },
+        {
+          "title": "DWH Wireless video games for tv gaming Retro gaming console with Game Stick 1080p Plug & Play TV Video Game Set for 2 play...",
+          "price": "₹1,598\n78",
+          "discount_percentage": "₹4,999 (68% off)",
+          "rating": "3.8",
+          "reviews_count": "1,411",
+          "image_url": "https://m.media-amazon.com/images/I/51T5YQij9sL._AC_UY218_.jpg",
+          "image_alt": "DWH Wireless video games for tv gaming Retro gaming console with Game Stick 1080p Plug & Play TV Video Game Set for 2 play...",
+          "link": "https://www.amazon.in/DWH-Wireless-console-9Emulator-Station/dp/B0D8LLM37K/ref=sr_1_13?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-13",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Mon, 27 Oct"
+        },
+        {
+          "title": "AUGEN Super Hero Mario Red Baby Action Figure Limited Edition Bobblehead with Mobile Holder for Car Dashboard",
+          "price": "₹389",
+          "discount_percentage": "₹999 (61% off)",
+          "rating": "4.4",
+          "reviews_count": "2,547",
+          "image_url": "https://m.media-amazon.com/images/I/71Mq6ZzgZfL._AC_UY218_.jpg",
+          "image_alt": "AUGEN Super Hero Mario Red Baby Action Figure Limited Edition Bobblehead with Mobile Holder for Car Dashboard, Office Desk...",
+          "link": "https://www.amazon.in/AUGEN-Action-Limited-Bobblehead-Dashboard/dp/B0CKBZS738/ref=sr_1_14?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-14",
+          "brand": "Mi",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "RVM Toys Set of 6 Super Mario Brothers Luigi Action Figure 14-11 cm for Car Dashboard",
+          "price": "₹1,143",
+          "discount_percentage": "₹2,999 (62% off)",
+          "rating": "4.3",
+          "image_url": "https://m.media-amazon.com/images/I/71k7AyvaXOL._AC_UY218_.jpg",
+          "image_alt": "RVM Toys Set of 6 Super Mario Brothers Luigi Action Figure 14-11 cm for Car Dashboard, Cake Decoration, Collectible and St...",
+          "link": "https://www.amazon.in/RVM-Toys-Decoration-Collectible-Multicolor/dp/B0CTYFKHTS/ref=sr_1_15?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-15",
+          "brand": "RVM",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "Voroly Wooden Magnetic Maze Board Super Mario Theme Color Matching Learning Counting Puzzle Board Toddler Fine Motor Skill...",
+          "price": "₹798",
+          "discount_percentage": "₹1,999 (60% off)",
+          "rating": "4.6",
+          "image_url": "https://m.media-amazon.com/images/I/81dTnTX5NiL._AC_UY218_.jpg",
+          "image_alt": "Voroly Wooden Magnetic Maze Board Super Mario Theme Color Matching Learning Counting Puzzle Board Toddler Fine Motor Skill...",
+          "link": "https://www.amazon.in/Voroly-Magnetic-Matching-Learning-Counting/dp/B0DTP3RT13/ref=sr_1_16?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-16",
+          "brand": "Voroly",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct"
+        },
+        {
+          "title": "Toys Uncle Figure (Mario 21 Piece Set)",
+          "price": "₹2,999",
+          "discount_percentage": "₹3,999 (25% off)",
+          "rating": "4.4",
+          "image_url": "https://m.media-amazon.com/images/I/818oCxfdNTL._AC_UY218_.jpg",
+          "image_alt": "Toys Uncle Figure (Mario 21 Piece Set)",
+          "link": "https://www.amazon.in/Toys-Uncle-Figure-Mario-Piece/dp/B0CF9W898W/ref=sr_1_17?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-17",
+          "brand": "Toys",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Mario Puzo's The Godfather",
+          "price": "₹99",
+          "rating": "4.6",
+          "reviews_count": "1990",
+          "image_url": "https://m.media-amazon.com/images/I/91ap9cFHDSL._AC_UY218_.jpg",
+          "image_alt": "Mario Puzo's The Godfather, Coda: The Death of Michael Corleone",
+          "link": "https://www.amazon.in/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.db1f5889-ebbd-4c51-a0ef-f76c615ee148%26ref_%3Ddvm_src_ret_in_xx_s&page-type-id=B0B8ZLGHQ2&ref=sr_1_18&keywords=mario&dib_tag=se&dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&qid=1760799974&sr=8-18",
+          "brand": "Mario",
+          "category": "General"
+        },
+        {
+          "title": "Official Super Mario: Bring on the Bad Guys!: An illustrated Sticker Activity Book – perfect for kids and fans of the vide...",
+          "price": "₹599",
+          "discount_percentage": "₹750 (20% off)",
+          "rating": "4.6",
+          "image_url": "https://m.media-amazon.com/images/I/81Hg8531FLL._AC_UY218_.jpg",
+          "image_alt": "Official Super Mario: Bring on the Bad Guys!: An illustrated Sticker Activity Book – perfect for kids and fans of the vide...",
+          "link": "https://www.amazon.in/Official-Super-Mario-illustrated-Activity/dp/0008641447/ref=sr_1_19?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-19",
+          "brand": "Official",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct"
+        },
+        {
+          "title": "Elecart 3D Pencil Case for Kids – Large Capacity Pen Pouch | Trendy Stationery Box for Boys & Girls | Durable School Suppl...",
+          "price": "₹299",
+          "discount_percentage": "₹999 (70% off)",
+          "rating": "4.1",
+          "image_url": "https://m.media-amazon.com/images/I/71zAl8KJXnL._AC_UY218_.jpg",
+          "image_alt": "Elecart 3D Pencil Case for Kids – Large Capacity Pen Pouch | Trendy Stationery Box for Boys & Girls | Durable School Suppl...",
+          "link": "https://www.amazon.in/Elecart-Pencil-Case-Kids-Stationery/dp/B0F5WDFKFJ/ref=sr_1_20?dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&dib_tag=se&keywords=mario&qid=1760799974&sr=8-20",
+          "brand": "Elecart",
+          "category": "General",
+          "availability": "FREE delivery Sat, 25 Oct"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - Trunkin Mario Brothers Set of 12 Action Figures Childhood Game Figures Collectible Model Toy",
+          "price": "₹1,449",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "4.6",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NzI4ODYzMTI3MTM3NjI1OjE3NjA3OTk5NzQ6c3BfYXRmOjMwMDQ0MDUzODA2OTMzMjo6MDo6&url=%2FTrunkin-Brothers-Figures-Childhood-Collectible%2Fdp%2FB0CBZ9GS74%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw%26dib_tag%3Dse%26keywords%3Dmario%26qid%3D1760799974%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=E1rYiSd6rZ&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61tCcnXoRyL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - Trunkin Mario Brothers Set of 12 Action Figures Childhood Game Figures Collectible Model Toy",
+              "thumbnail": "https://m.media-amazon.com/images/I/61tCcnXoRyL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - BOENJOY Gifts- Mario Pencil Case for Kids – Pack of 1",
+          "price": "₹439",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "3.4",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NzI4ODYzMTI3MTM3NjI1OjE3NjA3OTk5NzQ6c3BfYXRmOjMwMDY2MzYyMzIxNTkzMjo6MDo6&url=%2FBOENJOY-Gifts-Mario-Pencil-Case%2Fdp%2FB0FJ27P1FY%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw%26dib_tag%3Dse%26keywords%3Dmario%26qid%3D1760799974%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Vt9i6XZRn7&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/715N3acvH2L._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - BOENJOY Gifts- Mario Pencil Case for Kids – Pack of 1, Large Capacity Waterproof Stationery Pouch with Zipp...",
+              "thumbnail": "https://m.media-amazon.com/images/I/715N3acvH2L._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "The Super Mario Bros. Movie",
+          "price": "₹99",
+          "brand": "The",
+          "category": "General",
+          "rating": "4.8",
+          "link": "https://www.amazon.in/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.8cf66c0f-154f-4a8f-99f2-f41867d49870%26ref_%3Ddvm_src_ret_in_xx_s&page-type-id=B0DZW28YR3&ref=sr_1_3&keywords=mario&dib_tag=se&dib=eyJ2IjoiMSJ9.GdZ7guseiwphAOI57lSi4p6BjjhIaH0PoChrFAa-10lsyEI37y6KyYvBlLDkBWH8k_j8eTuC5mk7e-qRJTvRgsBgCk9A-e_-ITRhHl59Y20q3CH5o9nnun-7ADvf3YItblKWAaI8jPUnWzTCWD1fAB284Fhdj74j5LmFO1J5mBninEAclazVeDISVpMxJPYBcL5f1jFXG_TEHmRj-2v3sWhFmOasbdducBdSJr8zyCI.KZLRxT2BPC1ORYaiHmU-zkdxDwjpWac_z20Ng6k0eiw&qid=1760799974&sr=8-3",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/91dB1CdH84L._AC_UY218_.jpg",
+              "alt": "The Super Mario Bros. Movie",
+              "thumbnail": "https://m.media-amazon.com/images/I/91dB1CdH84L._AC_UY218_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "site": "Flipkart",
+      "query": "mario",
+      "total_products": 20,
+      "basic_products": [
+        {
+          "title": "BSVR Super Mario Games Rechargable 400 Games Console Portable Best For Kids Game Handheld Gaming Console",
+          "brand": "Mi",
+          "price": "₹610",
+          "mrp": "₹1799",
+          "discount_percentage": "66%",
+          "discount_amount": "₹1,189",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kt1u3rk0/gamingconsole/i/m/t/super-mario-dr-mario-mario-contra-turtles-tank-bomber-man-original-imag6h2kytrfxtkv.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/kt1u3rk0/gamingconsole/i/m/t/super-mario-dr-mario-mario-contra-turtles-tank-bomber-man-original-imag6h2kytrfxtkv.jpeg?q=70",
+          "image_alt": "BSVR Super Mario Games Rechargable 400 Games Console Portable Best For Kids Game Handheld Gaming Console",
+          "link": "https://www.flipkart.com/bsvr-super-mario-games-rechargable-400-console-portable-best-kids-game-handheld-gaming/p/itmeed5af9c22841?pid=HGNGJBTF49YHGHH5&lid=LSTHGNGJBTF49YHGHH5BIUCBA&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_1&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.HGNGJBTF49YHGHH5.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "Furniture",
+          "description": "BSVR Super Mario Games Rechargable 400 Games Console Po..."
+        },
+        {
+          "title": "SUP Mario game 400 games NA GB with Yes",
+          "brand": "SUP",
+          "price": "₹558",
+          "mrp": "₹799",
+          "discount_percentage": "30%",
+          "discount_amount": "₹241",
+          "rating": "3.4",
+          "reviews_count": "3.4(40)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/i/n/y/na-mario-game-400-games-sup-no-original-imah96qdtkec4kyr.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/i/n/y/na-mario-game-400-games-sup-no-original-imah96qdtkec4kyr.jpeg?q=70",
+          "image_alt": "SUP Mario game 400 games NA GB with Yes",
+          "link": "https://www.flipkart.com/sup-mario-game-400-games-na-gb-yes/p/itm38bdbb991ca16?pid=GAMGTGMWEZPBFGJN&lid=LSTGAMGTGMWEZPBFGJNDRY9ES&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_2&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.GAMGTGMWEZPBFGJN.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "General",
+          "description": "SUP Mario game 400 games NA GB with Yes",
+          "specifications": [
+            "SUP Mario game 400 games NA GB with Yes"
+          ]
+        },
+        {
+          "title": "Mario/Super Mario/DR Mario/Contra/Turtles and other 400 Games 8 GB, for PS Vita",
+          "brand": "Turtle",
+          "price": "₹565",
+          "mrp": "₹1999",
+          "discount_percentage": "71%",
+          "discount_amount": "₹1,434",
+          "rating": "3.6",
+          "reviews_count": "3.6(105)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/joystick/q/r/b/sup-400-in-1-retro-game-box-console-handheld-game-orlov-original-imagsq7vy4zhufzu.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/joystick/q/r/b/sup-400-in-1-retro-game-box-console-handheld-game-orlov-original-imagsq7vy4zhufzu.jpeg?q=70",
+          "image_alt": "Battery Handheld Colorful LCD Screen Portable Game with Remote ControL (Console Handheld Classical Game PAD box s6 with TV output)",
+          "link": "https://www.flipkart.com/battery-handheld-colorful-lcd-screen-portable-game-remote-control-console-classical-pad-box-s6-tv-output/p/itm03be9a90e1cf0?pid=GAMGX39G6JVSMFZV&lid=LSTGAMGX39G6JVSMFZVGIYRMI&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_3&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.GAMGX39G6JVSMFZV.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "General",
+          "special_offers": [
+            "Lowest price since launch"
+          ],
+          "description": "Battery Handheld Colorful LCD Screen Portable Game with...",
+          "specifications": [
+            "Battery Handheld Colorful LCD Screen Portable Game with...",
+            "Mario/Super Mario/DR Mario/Contra/Turtles and other 400 Games 8 GB, for PS Vita"
+          ]
+        },
+        {
+          "title": "Maizic Smarthome Msh-31052025 8 GB with 500 classic game, super mario bros, contra, battle city, angry birds",
+          "brand": "Maizic",
+          "price": "₹1,000",
+          "mrp": "₹2600",
+          "discount_percentage": "61%",
+          "discount_amount": "₹1,600",
+          "rating": "3.9",
+          "reviews_count": "3.9(9)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/k/9/d/8-msh-31052025-maizic-smarthome-no-original-imahcq9zgzb3tfg6.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/k/9/d/8-msh-31052025-maizic-smarthome-no-original-imahcq9zgzb3tfg6.jpeg?q=70",
+          "image_alt": "Maizic Smarthome Msh-31052025 8 GB with 500 classic game, super mario bros, contra, battle city, angry birds",
+          "link": "https://www.flipkart.com/maizic-smarthome-msh-31052025-8-gb-500-classic-game-super-mario-bros-contra-battle-city-angry-birds/p/itme69696c358a2e?pid=GMCHCQ9ZZZEPVEFH&lid=LSTGMCHCQ9ZZZEPVEFHPPSIE7&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_4&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.GMCHCQ9ZZZEPVEFH.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "General",
+          "description": "Maizic Smarthome Msh-31052025 8 GB with 500 classic gam...",
+          "specifications": [
+            "Maizic Smarthome Msh-31052025 8 GB with 500 classic gam..."
+          ]
+        },
+        {
+          "title": "New Super Mario Bros U Deluxe (Delux Editioin)",
+          "brand": "New",
+          "price": "₹4,367",
+          "mrp": "₹9999",
+          "discount_percentage": "56%",
+          "discount_amount": "₹5,632",
+          "rating": "4.7",
+          "reviews_count": "4.7(23)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/physical-game/i/4/r/no-delux-editioin-new-super-mario-bros-u-deluxe-full-game-switch-original-imahg8yczgzmhc5p.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/physical-game/i/4/r/no-delux-editioin-new-super-mario-bros-u-deluxe-full-game-switch-original-imahg8yczgzmhc5p.jpeg?q=70",
+          "image_alt": "New Super Mario Bros U Deluxe (Delux Editioin)",
+          "link": "https://www.flipkart.com/new-super-mario-bros-u-deluxe-delux-editioin/p/itm0d27393d1c0b0?pid=GAMFQH5XCDVD9C9P&lid=LSTGAMFQH5XCDVD9C9P19NFNO&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_5&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.GAMFQH5XCDVD9C9P.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "General",
+          "special_offers": [
+            "New Super Mario Bros U Deluxe (Delux Editioin)"
+          ],
+          "description": "New Super Mario Bros U Deluxe (Delux Editioin)"
+        },
+        {
+          "title": "NKL Led Screen Retro Classic Console Video Game Colourful Portable Best For Kids 67 Handheld Gaming Console",
+          "brand": "Mi",
+          "price": "₹510",
+          "mrp": "₹1899",
+          "discount_percentage": "73%",
+          "discount_amount": "₹1,389",
+          "rating": "3.6",
+          "reviews_count": "3.6(29)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kthjy4w0/gamingconsole/8/f/b/8-black-games-newly-rechargable-console-led-screen-retro-classic-original-imag6thjhauskrkv.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/kthjy4w0/gamingconsole/8/f/b/8-black-games-newly-rechargable-console-led-screen-retro-classic-original-imag6thjhauskrkv.jpeg?q=70",
+          "image_alt": "NKL Led Screen Retro Classic Console Video Game Colourful Portable Best For Kids 67 Handheld Gaming Console",
+          "link": "https://www.flipkart.com/nkl-led-screen-retro-classic-console-video-game-colourful-portable-best-kids-67-handheld-gaming/p/itmddb29a59e6d84?pid=HGNGDB57PE6UYTQQ&lid=LSTHGNGDB57PE6UYTQQTVTHLC&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_6&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.HGNGDB57PE6UYTQQ.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "Furniture",
+          "availability": "Top Discount of the Sale",
+          "description": "NKL Led Screen Retro Classic Console Video Game Colourf...",
+          "specifications": [
+            "NKL Led Screen Retro Classic Console Video Game Colourf..."
+          ]
+        },
+        {
+          "title": "Mario/Super Mario/DR Mario/Contra/Turtles and other 400 Games 8 GB, for PS Vita",
+          "brand": "Turtle",
+          "price": "₹563",
+          "mrp": "₹999",
+          "discount_percentage": "43%",
+          "discount_amount": "₹436",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/physical-game/c/d/q/no-console-handheld-classical-game-pad-box-s6-with-tv-output-sup-original-imagx39gm8wm6wa6.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/physical-game/c/d/q/no-console-handheld-classical-game-pad-box-s6-with-tv-output-sup-original-imagx39gm8wm6wa6.jpeg?q=70",
+          "image_alt": "SUP 400 in 1 Retro Game Box with Remote Control for 2 Player, Handheld Classica (Console Handheld Classical Game PAD box s6 with TV output)",
+          "link": "https://www.flipkart.com/sup-400-1-retro-game-box-remote-control-2-player-handheld-classica-console-classical-pad-s6-tv-output/p/itm0beb12456d201?pid=GAMGX39GSGRKZMBJ&lid=LSTGAMGX39GSGRKZMBJJU9ZGA&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_7&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.GAMGX39GSGRKZMBJ.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "General",
+          "description": "SUP 400 in 1 Retro Game Box with Remote Control for 2 P...",
+          "specifications": [
+            "Mario/Super Mario/DR Mario/Contra/Turtles and other 400 Games 8 GB, for PS Vita"
+          ]
+        },
+        {
+          "title": "Code in the Box - for PC",
+          "brand": "Code",
+          "price": "₹512",
+          "mrp": "₹999",
+          "discount_percentage": "48%",
+          "discount_amount": "₹487",
+          "rating": "3",
+          "reviews_count": "3(5)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kw6pw280/code-in-the-box-game/g/a/9/pc-sup-game-portable-video-game-box-with-mario-super-mario-dr-original-imag8x4yfxzxqrdf.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/kw6pw280/code-in-the-box-game/g/a/9/pc-sup-game-portable-video-game-box-with-mario-super-mario-dr-original-imag8x4yfxzxqrdf.jpeg?q=70",
+          "image_alt": "Sup Game Portable Video Game Box with Mario, Super Mario Limited Collector's Edition",
+          "link": "https://www.flipkart.com/sup-game-portable-video-box-mario-super-mario-limited-collector-s/p/itm9650c3840177f?pid=CGEGWHENHARXNSUH&lid=LSTCGEGWHENHARXNSUHM5SEJI&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_8&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.CGEGWHENHARXNSUH.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "General",
+          "description": "Sup Game Portable Video Game Box with Mario, Super Mari..."
+        },
+        {
+          "title": "Zebur SUP Handheld Game Console,Classic Retro Video Gaming Player Sup 8 GB 8 GB with Mario/Super Mario/DR Mario/Contra/Turtles and other 400 Games",
+          "brand": "Turtle",
+          "price": "₹654",
+          "mrp": "₹1999",
+          "discount_percentage": "67%",
+          "discount_amount": "₹1,345",
+          "rating": "3.3",
+          "reviews_count": "3.3(3)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/h/l/8/8-sup-handheld-game-console-classic-retro-video-gaming-player-original-imagte3x8yzkkad5.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/h/l/8/8-sup-handheld-game-console-classic-retro-video-gaming-player-original-imagte3x8yzkkad5.jpeg?q=70",
+          "image_alt": "Zebur SUP Handheld Game Console,Classic Retro Video Gaming Player Sup 8 GB 8 GB with Mario/Super Mario/DR Mario/Contra/Turtles and other 400 Games",
+          "link": "https://www.flipkart.com/zebur-sup-handheld-game-console-classic-retro-video-gaming-player-8-gb-mario-super-mario-dr-mario-contra-turtles-other-400-games/p/itm969488a01a0ce?pid=GMCGTE3XNBZJ6KBK&lid=LSTGMCGTE3XNBZJ6KBKZCJ1GE&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_9&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.GMCGTE3XNBZJ6KBK.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "General",
+          "description": "Zebur SUP Handheld Game Console,Classic Retro Video Gam..."
+        },
+        {
+          "title": "Code in the Box - for PC",
+          "brand": "Code",
+          "price": "₹830",
+          "mrp": "₹2499",
+          "discount_percentage": "66%",
+          "discount_amount": "₹1,669",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/code-in-the-box-game/b/y/g/pc-g620-sup-game-in-1-retro-games-with-hd-screen-for-kids-super-original-imah5x2dcpep7ehq.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/code-in-the-box-game/b/y/g/pc-g620-sup-game-in-1-retro-games-with-hd-screen-for-kids-super-original-imah5x2dcpep7ehq.jpeg?q=70",
+          "image_alt": "G620 Sup Game in 1 Retro Games with Hd Screen for kids Super Mario etc._a25 Limited Edition",
+          "link": "https://www.flipkart.com/g620-sup-game-1-retro-games-hd-screen-kids-super-mario-etc-a25-limited/p/itm9150df6ca1af8?pid=CGEH29WVKTPCZWAE&lid=LSTCGEH29WVKTPCZWAEBER7IG&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_10&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.CGEH29WVKTPCZWAE.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "General",
+          "description": "G620 Sup Game in 1 Retro Games with Hd Screen for kids ...",
+          "specifications": [
+            "G620 Sup Game in 1 Retro Games with Hd Screen for kids ..."
+          ]
+        },
+        {
+          "title": "BSVR Super Mario Games Rechargable 400 Games Console Portable Best For Kids Game Handheld Gaming Console",
+          "brand": "Mi",
+          "price": "₹610",
+          "mrp": "₹1799",
+          "discount_percentage": "66%",
+          "discount_amount": "₹1,189",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kvy58y80/handheld-gamng-console/q/l/i/48-game-box-rechargable-console-led-screen-retro-classic-gaming-original-imag8qgtmaengfyc.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/kvy58y80/handheld-gamng-console/q/l/i/48-game-box-rechargable-console-led-screen-retro-classic-gaming-original-imag8qgtmaengfyc.jpeg?q=70",
+          "image_alt": "BSVR Super Mario Games Rechargable 400 Games Console Portable Best For Kids Game Handheld Gaming Console",
+          "link": "https://www.flipkart.com/bsvr-super-mario-games-rechargable-400-console-portable-best-kids-game-handheld-gaming/p/itm4f02d65c76a88?pid=HGNGJCJ2HEZQGS3M&lid=LSTHGNGJCJ2HEZQGS3MMBVUEX&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_11&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.HGNGJCJ2HEZQGS3M.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "Furniture",
+          "description": "BSVR Super Mario Games Rechargable 400 Games Console Po..."
+        },
+        {
+          "title": "BSVR Super Mario Games Rechargable 400 Games Console Portable Best For Kids Game Handheld Gaming Console",
+          "brand": "Mi",
+          "price": "₹610",
+          "mrp": "₹1799",
+          "discount_percentage": "66%",
+          "discount_amount": "₹1,189",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/n/w/s/8-newly-400-games-super-mario-039-gaming-console-portable-and-original-imagjbhcz34arubr.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/n/w/s/8-newly-400-games-super-mario-039-gaming-console-portable-and-original-imagjbhcz34arubr.jpeg?q=70",
+          "image_alt": "BSVR Super Mario Games Rechargable 400 Games Console Portable Best For Kids Game Handheld Gaming Console",
+          "link": "https://www.flipkart.com/bsvr-super-mario-games-rechargable-400-console-portable-best-kids-game-handheld-gaming/p/itmc47c7dba54b2c?pid=HGNGJCJSENQ5VAVD&lid=LSTHGNGJCJSENQ5VAVD1SQMAL&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_12&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.HGNGJCJSENQ5VAVD.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "Furniture",
+          "description": "BSVR Super Mario Games Rechargable 400 Games Console Po..."
+        },
+        {
+          "title": "Super Mario Party (Switch) NA GB with Yes",
+          "brand": "Super",
+          "price": "₹4,695",
+          "mrp": "₹5999",
+          "discount_percentage": "21%",
+          "discount_amount": "₹1,304",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/physical-game/r/i/9/no-standard-super-mario-party-switch-physical-nintendo-switch-original-imagquxfx7bh3pw9.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/physical-game/r/i/9/no-standard-super-mario-party-switch-physical-nintendo-switch-original-imagquxfx7bh3pw9.jpeg?q=70",
+          "image_alt": "Super Mario Party (Switch) NA GB with Yes",
+          "link": "https://www.flipkart.com/super-mario-party-switch-na-gb-yes/p/itm8b589e1c0ff23?pid=GAMGQUXFZXNKUXQS&lid=LSTGAMGQUXFZXNKUXQSP3FZCZ&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_13&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.GAMGQUXFZXNKUXQS.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "General",
+          "description": "Super Mario Party (Switch) NA GB with Yes",
+          "specifications": [
+            "Super Mario Party (Switch) NA GB with Yes"
+          ]
+        },
+        {
+          "title": "colorsole Rechargeable Video Game for Kids | Super Mario Game Control Mount",
+          "brand": "colorsole",
+          "price": "₹587",
+          "mrp": "₹1599",
+          "discount_percentage": "63%",
+          "discount_amount": "₹1,012",
+          "rating": "3.4",
+          "reviews_count": "3.4(10)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/game-control-mount/e/0/o/rechargeable-video-game-for-kids-super-mario-colorsole-original-imah8892tyyhwhhx.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/game-control-mount/e/0/o/rechargeable-video-game-for-kids-super-mario-colorsole-original-imah8892tyyhwhhx.jpeg?q=70",
+          "image_alt": "colorsole Rechargeable Video Game for Kids | Super Mario Game Control Mount",
+          "link": "https://www.flipkart.com/colorsole-rechargeable-video-game-kids-super-mario-control-mount/p/itm9e4051e32844d?pid=GAUH8892EAZBZCXE&lid=LSTGAUH8892EAZBZCXEE33ACP&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_14&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.GAUH8892EAZBZCXE.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "General",
+          "description": "colorsole Rechargeable Video Game for Kids | Super Mari..."
+        },
+        {
+          "title": "Code in the Box - for PC",
+          "brand": "Code",
+          "price": "₹1,028",
+          "mrp": "₹2499",
+          "discount_percentage": "58%",
+          "discount_amount": "₹1,471",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/code-in-the-box-game/f/h/l/pc-g620-sup-game-in-1-retro-games-with-hd-screen-for-kids-super-original-imah5x2dzhkk6u6d.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/code-in-the-box-game/f/h/l/pc-g620-sup-game-in-1-retro-games-with-hd-screen-for-kids-super-original-imah5x2dzhkk6u6d.jpeg?q=70",
+          "image_alt": "G620 Sup Game in 1 Retro Games with Hd Screen for kids Super Mario etc._a1 Limited Edition",
+          "link": "https://www.flipkart.com/g620-sup-game-1-retro-games-hd-screen-kids-super-mario-etc-a1-limited/p/itm4be4d5da4f3ee?pid=CGEH29WXERFQYHJK&lid=LSTCGEH29WXERFQYHJKE4UYJO&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_15&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.CGEH29WXERFQYHJK.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "General",
+          "description": "G620 Sup Game in 1 Retro Games with Hd Screen for kids ...",
+          "specifications": [
+            "G620 Sup Game in 1 Retro Games with Hd Screen for kids ..."
+          ]
+        },
+        {
+          "title": "ENMORA 60 -400 In 1 Handheld Retro SUP Classic Gamepad With Remote | LCD Screen 3 Inch Display | Rechargeable Battery Compatible With All Devices With Mario/ Super Mario/ Dr Mario/ Contra/ Turtles And Other 400 Games Handheld Gaming Console Handheld Gaming Console",
+          "brand": "Turtle",
+          "price": "₹807",
+          "mrp": "₹1299",
+          "discount_percentage": "37%",
+          "discount_amount": "₹492",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kvy58y80/handheld-gamng-console/n/j/c/60-400-in-1-handheld-retro-sup-classic-gamepad-with-remote-lcd-original-imag8qgtuhdfhsmz.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/kvy58y80/handheld-gamng-console/n/j/c/60-400-in-1-handheld-retro-sup-classic-gamepad-with-remote-lcd-original-imag8qgtuhdfhsmz.jpeg?q=70",
+          "image_alt": "ENMORA 60 -400 In 1 Handheld Retro SUP Classic Gamepad With Remote | LCD Screen 3 Inch Display | Rechargeable Battery Compatible With All Devices With Mario/ Super Mario/ Dr Mario/ Contra/ Turtles And Other 400 Games Handheld Gaming Console Handheld Gaming Console",
+          "link": "https://www.flipkart.com/enmora-60-400-1-handheld-retro-sup-classic-gamepad-remote-lcd-screen-3-inch-display-rechargeable-battery-compatible-all-devices-mario-super-contra-turtles-other-400-games-gaming-console/p/itm8191783b8a143?pid=HGNG8QGTCZ3VHSAC&lid=LSTHGNG8QGTCZ3VHSACTMVUFC&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_16&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.HGNG8QGTCZ3VHSAC.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "General",
+          "description": "ENMORA 60 -400 In 1 Handheld Retro SUP Classic Gamepad ..."
+        },
+        {
+          "title": "MARS Newly 400 Games Super Mario Gaming Console Portable and Best For Kids Game Handheld Gaming Console",
+          "brand": "Mi",
+          "price": "₹1,077",
+          "mrp": "₹2999",
+          "discount_percentage": "64%",
+          "discount_amount": "₹1,922",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kvifekw0/gamingconsole/a/z/i/30-retro-sup-400-in-1-game-box-console-handheld-classical-video-original-imag8ehaz4jhyffp.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/kvifekw0/gamingconsole/a/z/i/30-retro-sup-400-in-1-game-box-console-handheld-classical-video-original-imag8ehaz4jhyffp.jpeg?q=70",
+          "image_alt": "MARS Newly 400 Games Super Mario Gaming Console Portable and Best For Kids Game Handheld Gaming Console",
+          "link": "https://www.flipkart.com/mars-newly-400-games-super-mario-gaming-console-portable-best-kids-game-handheld/p/itm29caecd135cf3?pid=HGNGTJJUUXKESYWQ&lid=LSTHGNGTJJUUXKESYWQKUEQCJ&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_17&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.HGNGTJJUUXKESYWQ.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "Furniture",
+          "special_offers": [
+            "MARS Newly 400 Games Super Mario Gaming Console Portabl..."
+          ],
+          "description": "MARS Newly 400 Games Super Mario Gaming Console Portabl..."
+        },
+        {
+          "title": "NKL Superb 400 Game Best Gift For Kids Boy Console Mario Portable LCD Video Game Handheld Gaming Console",
+          "brand": "Mi",
+          "price": "₹613",
+          "mrp": "₹1899",
+          "discount_percentage": "67%",
+          "discount_amount": "₹1,286",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kvy58y80/handheld-gamng-console/q/l/i/48-game-box-rechargable-console-led-screen-retro-classic-gaming-original-imag8qgtmaengfyc.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/kvy58y80/handheld-gamng-console/q/l/i/48-game-box-rechargable-console-led-screen-retro-classic-gaming-original-imag8qgtmaengfyc.jpeg?q=70",
+          "image_alt": "NKL Superb 400 Game Best Gift For Kids Boy Console Mario Portable LCD Video Game Handheld Gaming Console",
+          "link": "https://www.flipkart.com/nkl-superb-400-game-best-gift-kids-boy-console-mario-portable-lcd-video-handheld-gaming/p/itm9d4e26e2fbf7b?pid=HGNGEEFXY8PG2TBX&lid=LSTHGNGEEFXY8PG2TBXEIEJQN&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_18&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.HGNGEEFXY8PG2TBX.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "Furniture",
+          "description": "NKL Superb 400 Game Best Gift For Kids Boy Console Mari..."
+        },
+        {
+          "title": "BSVR Super Mario Games Rechargable 400 Games Console Portable Best For Kids Game Handheld Gaming Console",
+          "brand": "Mi",
+          "price": "₹610",
+          "mrp": "₹1799",
+          "discount_percentage": "66%",
+          "discount_amount": "₹1,189",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/k8t3jbk0/gamingconsole/z/y/h/0-1-ww-typ-10-hd-lcd-screen-portable-game-console-wonder-world-original-imafqqzsjyvzhy7x.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/k8t3jbk0/gamingconsole/z/y/h/0-1-ww-typ-10-hd-lcd-screen-portable-game-console-wonder-world-original-imafqqzsjyvzhy7x.jpeg?q=70",
+          "image_alt": "BSVR Super Mario Games Rechargable 400 Games Console Portable Best For Kids Game Handheld Gaming Console",
+          "link": "https://www.flipkart.com/bsvr-super-mario-games-rechargable-400-console-portable-best-kids-game-handheld-gaming/p/itm9660b98e878ea?pid=HGNGJCJGWHFQSGGR&lid=LSTHGNGJCJGWHFQSGGRAJSIQ4&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_19&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.HGNGJCJGWHFQSGGR.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "Furniture",
+          "description": "BSVR Super Mario Games Rechargable 400 Games Console Po..."
+        },
+        {
+          "title": "BSVR Super Mario Games Rechargable 400 Games Console Portable Best For Kids Game Handheld Gaming Console",
+          "brand": "Mi",
+          "price": "₹610",
+          "mrp": "₹1799",
+          "discount_percentage": "66%",
+          "discount_amount": "₹1,189",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/l1tmf0w0/gamingconsole/d/d/p/8-lcd-screen-console-04-gaming-video-game-portable-best-gift-for-original-imagdauvasrkhjtc.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/l1tmf0w0/gamingconsole/d/d/p/8-lcd-screen-console-04-gaming-video-game-portable-best-gift-for-original-imagdauvasrkhjtc.jpeg?q=70",
+          "image_alt": "BSVR Super Mario Games Rechargable 400 Games Console Portable Best For Kids Game Handheld Gaming Console",
+          "link": "https://www.flipkart.com/bsvr-super-mario-games-rechargable-400-console-portable-best-kids-game-handheld-gaming/p/itm3a2c257b264cd?pid=HGNGJBU4UQWMCFA7&lid=LSTHGNGJBU4UQWMCFA7KZHIWZ&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_20&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.HGNGJBU4UQWMCFA7.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "category": "Furniture",
+          "description": "BSVR Super Mario Games Rechargable 400 Games Console Po..."
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "BSVR Super Mario Games Rechargable 400 Games Console Portable Best For Kids Game Handheld Gaming Console",
+          "price": "₹610",
+          "mrp": "₹1799",
+          "discount_percentage": "66%",
+          "discount_amount": "₹1,189",
+          "brand": "Mi",
+          "category": "Furniture",
+          "rating": "",
+          "reviews_count": "",
+          "description": "BSVR Super Mario Games Rechargable 400 Games Console Po...",
+          "availability": "",
+          "delivery": "",
+          "special_offers": [],
+          "specifications": [],
+          "link": "https://www.flipkart.com/bsvr-super-mario-games-rechargable-400-console-portable-best-kids-game-handheld-gaming/p/itmeed5af9c22841?pid=HGNGJBTF49YHGHH5&lid=LSTHGNGJBTF49YHGHH5BIUCBA&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_1&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.HGNGJBTF49YHGHH5.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/612/612/kt1u3rk0/gamingconsole/i/m/t/super-mario-dr-mario-mario-contra-turtles-tank-bomber-man-original-imag6h2kytrfxtkv.jpeg?q=100",
+              "alt": "BSVR Super Mario Games Rechargable 400 Games Console Portable Best For Kids Game Handheld Gaming Console",
+              "thumbnail": "https://rukminim2.flixcart.com/image/612/612/kt1u3rk0/gamingconsole/i/m/t/super-mario-dr-mario-mario-contra-turtles-tank-bomber-man-original-imag6h2kytrfxtkv.jpeg?q=70"
+            }
+          ]
+        },
+        {
+          "name": "SUP Mario game 400 games NA GB with Yes",
+          "price": "₹558",
+          "mrp": "₹799",
+          "discount_percentage": "30%",
+          "discount_amount": "₹241",
+          "brand": "SUP",
+          "category": "General",
+          "rating": "3.4",
+          "reviews_count": "3.4(40)",
+          "description": "SUP Mario game 400 games NA GB with Yes",
+          "availability": "",
+          "delivery": "",
+          "special_offers": [],
+          "specifications": [
+            "SUP Mario game 400 games NA GB with Yes"
+          ],
+          "link": "https://www.flipkart.com/sup-mario-game-400-games-na-gb-yes/p/itm38bdbb991ca16?pid=GAMGTGMWEZPBFGJN&lid=LSTGAMGTGMWEZPBFGJNDRY9ES&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_2&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.GAMGTGMWEZPBFGJN.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/i/n/y/na-mario-game-400-games-sup-no-original-imah96qdtkec4kyr.jpeg?q=100",
+              "alt": "SUP Mario game 400 games NA GB with Yes",
+              "thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/i/n/y/na-mario-game-400-games-sup-no-original-imah96qdtkec4kyr.jpeg?q=70"
+            }
+          ]
+        },
+        {
+          "name": "Mario/Super Mario/DR Mario/Contra/Turtles and other 400 Games 8 GB, for PS Vita",
+          "price": "₹565",
+          "mrp": "₹1999",
+          "discount_percentage": "71%",
+          "discount_amount": "₹1,434",
+          "brand": "Turtle",
+          "category": "General",
+          "rating": "3.6",
+          "reviews_count": "3.6(105)",
+          "description": "Battery Handheld Colorful LCD Screen Portable Game with...",
+          "availability": "",
+          "delivery": "",
+          "special_offers": [
+            "Lowest price since launch"
+          ],
+          "specifications": [
+            "Battery Handheld Colorful LCD Screen Portable Game with...",
+            "Mario/Super Mario/DR Mario/Contra/Turtles and other 400 Games 8 GB, for PS Vita"
+          ],
+          "link": "https://www.flipkart.com/battery-handheld-colorful-lcd-screen-portable-game-remote-control-console-classical-pad-box-s6-tv-output/p/itm03be9a90e1cf0?pid=GAMGX39G6JVSMFZV&lid=LSTGAMGX39G6JVSMFZVGIYRMI&marketplace=FLIPKART&q=mario&store=4rr&srno=s_1_3&otracker=search&fm=organic&iid=73979643-975f-40fb-acc6-cb1b81645c9e.GAMGX39G6JVSMFZV.SEARCH&ppt=None&ppn=None&ssid=38xuusub2o0000001760800012388&qH=de2f15d014d40b93",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/612/612/xif0q/joystick/q/r/b/sup-400-in-1-retro-game-box-console-handheld-game-orlov-original-imagsq7vy4zhufzu.jpeg?q=100",
+              "alt": "Battery Handheld Colorful LCD Screen Portable Game with Remote ControL (Console Handheld Classical Game PAD box s6 with TV output)",
+              "thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/joystick/q/r/b/sup-400-in-1-retro-game-box-console-handheld-game-orlov-original-imagsq7vy4zhufzu.jpeg?q=70"
+            }
+          ]
+        }
+      ]
+    },
+    [
+      {
+        "title": "Friskers",
+        "name": "Friskers",
+        "price": "Rs. 382",
+        "link": "https://www.myntra.com/tshirts/friskers/friskers-boys-super-mario-printed-v-neck-cotton-t-shirt/27388958/buy",
+        "rating": "1.5",
+        "image_url": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27388958/2024/2/5/d25e7e2c-7f2c-43d4-8e4e-f3cb796f3d831707137380609FriskersBoysPrintedV-NeckT-shirt1.jpg",
+        "image_alt": "Friskers Boys Super Mario Printed V-Neck Cotton T-shirt",
+        "images": [
+          {
+            "url": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27388958/2024/2/5/d25e7e2c-7f2c-43d4-8e4e-f3cb796f3d831707137380609FriskersBoysPrintedV-NeckT-shirt1.jpg",
+            "alt": "Friskers Boys Super Mario Printed V-Neck Cotton T-shirt",
+            "thumbnail": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/27388958/2024/2/5/d25e7e2c-7f2c-43d4-8e4e-f3cb796f3d831707137380609FriskersBoysPrintedV-NeckT-shirt1.jpg"
+          }
+        ]
+      }
+    ],
+    {
+      "site": "Myntra",
+      "query": "mario",
+      "total_products": 0,
+      "basic_products": [],
+      "detailed_products": [],
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "site": "Meesho",
+      "query": "mario",
+      "total_products": 20,
+      "basic_products": [
+        {
+          "title": "Elite Plug & Play Video Games",
+          "link": "https://www.meesho.com/sup-400-in-1-handheld-mini-retro-game-box-console-portable-gaming-device-with-400-preloaded-classic-games-like-mario-contra-islander-bomberman-usb-rechargeable-multicolor/p/9tb8va",
+          "price": "₹432",
+          "rating": "4.1",
+          "image_url": "https://images.meesho.com/images/products/593429158/xbfje_512.webp?width=360",
+          "image_alt": "Elite Plug & Play Video Games",
+          "brand": "Elite",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Attractive Pencil Cases",
+          "link": "https://www.meesho.com/pencil-case-3d-cover-pencil-pouch-bag-compass-school-pouch-organizer-for-students-kids-premium-stylish-pen-holder-pouch-stationery-box-for-boys-and-gifts-for-kids-pencil-case-super-mario/p/8c94cf",
+          "price": "₹211",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/504310335/gvjum_512.webp?width=360",
+          "image_alt": "Attractive Pencil Cases",
+          "brand": "Attractive",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Modern Bobbleheads",
+          "link": "https://www.meesho.com/super-mario-booblehead/p/6l867i",
+          "price": "₹283",
+          "rating": "4.6",
+          "image_url": "https://images.meesho.com/images/products/398450286/iqngp_512.webp?width=360",
+          "image_alt": "Modern Bobbleheads",
+          "brand": "Modern",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Trendy Kids Toy Figures",
+          "link": "https://www.meesho.com/super-mario-action-figures-12-cm-toy-figure-collectible-figurine-gift-for-kids/p/8lh0op",
+          "price": "₹636",
+          "rating": "3.9",
+          "image_url": "https://images.meesho.com/images/products/519795385/axtxz_512.webp?width=360",
+          "image_alt": "Trendy Kids Toy Figures",
+          "brand": "Trendy",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Clogs",
+          "link": "https://www.meesho.com/kids-red-smiley-mario-clogs/p/9kvhns",
+          "price": "₹248",
+          "rating": "3.5",
+          "image_url": "https://images.meesho.com/images/products/579257128/ryz5h_512.webp?width=360",
+          "image_alt": "Clogs",
+          "brand": "Clogs",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Riya Melody Orchestra Deo 190ml",
+          "link": "https://www.meesho.com/riya-melody-orchestra-deodorant-190ml-pack-of-2/p/6yhxlw",
+          "price": "₹212",
+          "rating": "4.4",
+          "image_url": "https://images.meesho.com/images/products/420740708/thqt1_512.webp?width=360",
+          "image_alt": "Riya Melody Orchestra Deo 190ml",
+          "brand": "Riya",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Check out this trending catalog",
+          "link": "https://www.meesho.com/greyhorse-super-mario-keychains-for-video-game-lovers/p/7ca9wc",
+          "price": "₹145",
+          "rating": "4.4",
+          "image_url": "https://images.meesho.com/images/products/443898012/csnho_512.webp?width=360",
+          "image_alt": "Check out this trending catalog",
+          "brand": "Check",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Voguish Wall Decor & Hangings",
+          "link": "https://www.meesho.com/home-wall-decor-mario-wooden-art-decor/p/9rlyy9",
+          "price": "₹108",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/590570289/hxkjg_512.webp?width=360",
+          "image_alt": "Voguish Wall Decor & Hangings",
+          "brand": "Voguish",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Check out this trending catalog",
+          "link": "https://www.meesho.com/3d-silicon-cute-3d-silicon-cute-mario-keychains-ring-and-bag-charms-birthday-party-return-gift-items-raksha-bandhan-gifts-for-brothers-and-sisters-keychains-and-bag-charms-birthday-party-return-gift-items-raksha-bandhan-gifts-for-brothers-and-sisters-kids-bag-charms-ring/p/93vsth",
+          "price": "₹165",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/550718117/cvtp9_512.webp?width=360",
+          "image_alt": "Check out this trending catalog",
+          "brand": "Check",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Maliao Premium Soothing Sunscreen",
+          "link": "https://www.meesho.com/maliao-green-tea-water-resistant-paraben-phthalates-free-sunscreen-broad-spectrum-spf-60pa-100g/p/6ipx63",
+          "price": "₹219",
+          "rating": "4.3",
+          "image_url": "https://images.meesho.com/images/products/394239531/e4hey_512.webp?width=360",
+          "image_alt": "Maliao  Premium Soothing Sunscreen",
+          "brand": "Mi",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "MAYUR My Love Perfume (Unisex) Perfume - 30 ml (For Men & Women)",
+          "link": "https://www.meesho.com/mayur-my-love-perfume-unisex-perfume-30-ml-for-men-women/p/29sb03",
+          "price": "₹154",
+          "rating": "4.3",
+          "image_url": "https://images.meesho.com/images/products/137369523/jez1i_512.webp?width=360",
+          "image_alt": "MAYUR My Love Perfume (Unisex) Perfume - 30 ml (For Men & Women)",
+          "brand": "Women",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Useful Whitening Cream",
+          "link": "https://www.meesho.com/meglow-skin-brightening-face-cream-for-women-50g-paraben-free-formulation-with-aloe-vera-cucumber-extracts-and-vitamin-e-for-soft-glowing-radiance-skin/p/8w6miv",
+          "price": "₹164",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/537786247/1gpjg_512.webp?width=360",
+          "image_alt": " Useful Whitening Cream",
+          "brand": "Useful",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Fancy Idols & Figurines",
+          "link": "https://www.meesho.com/trunkin-luigi-super-mario-bobble-head-for-cars/p/fa4v0",
+          "price": "₹340",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/25667100/26871_512.webp?width=360",
+          "image_alt": "Fancy Idols & Figurines",
+          "brand": "Fancy",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Riya Melody Sea Green Perfume - 50ml",
+          "link": "https://www.meesho.com/riya-melody-sea-green-perfume-for-women-50ml-eau-de-parfum-with-long-lasting-fragrance-citrus-floral-fresh-perfume-spray-mild-fragrance/p/9bix6x",
+          "price": "₹205",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/563554185/thf9d_512.webp?width=360",
+          "image_alt": "Riya Melody Sea Green Perfume - 50ml",
+          "brand": "Riya",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Stylo Kids Toy Figures",
+          "link": "https://www.meesho.com/rvm-toys-set-of-6-super-mario-brothers-luigi-action-figure-14-11-cm-for-car-dashboard-cake-decoration-collectible-and-study-table-multicolor/p/6e4j11",
+          "price": "₹1,304",
+          "rating": "3.9",
+          "image_url": "https://images.meesho.com/images/products/386522965/qjdsd_512.webp?width=360",
+          "image_alt": "Stylo Kids Toy Figures",
+          "brand": "Stylo",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Riya Melody (Green) Perfume For Women - 100Ml",
+          "link": "https://www.meesho.com/riya-melody-green-eau-de-parfum-for-women-long-lasting-fragrance-citrus-floral-fresh-perfume-spray-deo-perfume-body-spray-100ml/p/6yggd5",
+          "price": "₹298",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/420671705/gziyu_512.webp?width=360",
+          "image_alt": "Riya Melody (Green) Perfume For Women - 100Ml",
+          "brand": "Women",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "New Whitening Cream",
+          "link": "https://www.meesho.com/best-fairness-cream-20gm-mava-glow-pack-of-3/p/89kf9d",
+          "price": "₹183",
+          "rating": "3.6",
+          "image_url": "https://images.meesho.com/images/products/499798849/odhbl_512.webp?width=360",
+          "image_alt": " New Whitening Cream",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Essential Flowers",
+          "link": "https://www.meesho.com/grow-orange-african-marigolds-50-seeds-for-stunning-summer-flowers/p/901hq4",
+          "price": "₹73",
+          "rating": "3.9",
+          "image_url": "https://images.meesho.com/images/products/544265212/6okap_512.webp?width=360",
+          "image_alt": "Essential Flowers",
+          "brand": "Essential",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Elegant Gifting Mugs",
+          "link": "https://www.meesho.com/designer-printed-super-mario-mug-series/p/10qe52",
+          "price": "₹263",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/61697558/fbjqo_512.webp?width=360",
+          "image_alt": "Elegant Gifting Mugs",
+          "brand": "Elegant",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Whitening Cream",
+          "link": "https://www.meesho.com/skin-brightening-cream-for-men-glycolic-kojicacid-dark-spot-removal-30g-pack-of-1/p/8w3md4",
+          "price": "₹103",
+          "rating": "5.0",
+          "image_url": "https://images.meesho.com/images/products/537646072/xemcu_512.webp?width=360",
+          "image_alt": "Whitening Cream",
+          "brand": "Whitening",
+          "category": "Fashion",
+          "availability": "Delivery ₹72"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Elite Plug & Play Video Games",
+          "price": "₹432",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Elite",
+          "category": "Fashion",
+          "rating": "4.1",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/sup-400-in-1-handheld-mini-retro-game-box-console-portable-gaming-device-with-400-preloaded-classic-games-like-mario-contra-islander-bomberman-usb-rechargeable-multicolor/p/9tb8va",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/593429158/xbfje_512.webp?width=360",
+              "alt": "Elite Plug & Play Video Games",
+              "thumbnail": "https://images.meesho.com/images/products/593429158/xbfje_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Attractive Pencil Cases",
+          "price": "₹211",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Attractive",
+          "category": "Fashion",
+          "rating": "4.5",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/pencil-case-3d-cover-pencil-pouch-bag-compass-school-pouch-organizer-for-students-kids-premium-stylish-pen-holder-pouch-stationery-box-for-boys-and-gifts-for-kids-pencil-case-super-mario/p/8c94cf",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/504310335/gvjum_512.webp?width=360",
+              "alt": "Attractive Pencil Cases",
+              "thumbnail": "https://images.meesho.com/images/products/504310335/gvjum_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Modern Bobbleheads",
+          "price": "₹283",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Modern",
+          "category": "Fashion",
+          "rating": "4.6",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/super-mario-booblehead/p/6l867i",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/398450286/iqngp_512.webp?width=360",
+              "alt": "Modern Bobbleheads",
+              "thumbnail": "https://images.meesho.com/images/products/398450286/iqngp_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Trendy Kids Toy Figures",
+          "price": "₹636",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Trendy",
+          "category": "Fashion",
+          "rating": "3.9",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/super-mario-action-figures-12-cm-toy-figure-collectible-figurine-gift-for-kids/p/8lh0op",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/519795385/axtxz_512.webp?width=360",
+              "alt": "Trendy Kids Toy Figures",
+              "thumbnail": "https://images.meesho.com/images/products/519795385/axtxz_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Clogs",
+          "price": "₹248",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Clogs",
+          "category": "Fashion",
+          "rating": "3.5",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/kids-red-smiley-mario-clogs/p/9kvhns",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/579257128/ryz5h_512.webp?width=360",
+              "alt": "Clogs",
+              "thumbnail": "https://images.meesho.com/images/products/579257128/ryz5h_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Riya Melody Orchestra Deo 190ml",
+          "price": "₹212",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Riya",
+          "category": "Fashion",
+          "rating": "4.4",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/riya-melody-orchestra-deodorant-190ml-pack-of-2/p/6yhxlw",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/420740708/thqt1_512.webp?width=360",
+              "alt": "Riya Melody Orchestra Deo 190ml",
+              "thumbnail": "https://images.meesho.com/images/products/420740708/thqt1_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Check out this trending catalog",
+          "price": "₹145",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Check",
+          "category": "Fashion",
+          "rating": "4.4",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/greyhorse-super-mario-keychains-for-video-game-lovers/p/7ca9wc",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/443898012/csnho_512.webp?width=360",
+              "alt": "Check out this trending catalog",
+              "thumbnail": "https://images.meesho.com/images/products/443898012/csnho_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Voguish Wall Decor & Hangings",
+          "price": "₹108",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Voguish",
+          "category": "Fashion",
+          "rating": "4.5",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/home-wall-decor-mario-wooden-art-decor/p/9rlyy9",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/590570289/hxkjg_512.webp?width=360",
+              "alt": "Voguish Wall Decor & Hangings",
+              "thumbnail": "https://images.meesho.com/images/products/590570289/hxkjg_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Check out this trending catalog",
+          "price": "₹165",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Check",
+          "category": "Fashion",
+          "rating": "4.2",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/3d-silicon-cute-3d-silicon-cute-mario-keychains-ring-and-bag-charms-birthday-party-return-gift-items-raksha-bandhan-gifts-for-brothers-and-sisters-keychains-and-bag-charms-birthday-party-return-gift-items-raksha-bandhan-gifts-for-brothers-and-sisters-kids-bag-charms-ring/p/93vsth",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/550718117/cvtp9_512.webp?width=360",
+              "alt": "Check out this trending catalog",
+              "thumbnail": "https://images.meesho.com/images/products/550718117/cvtp9_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Maliao Premium Soothing Sunscreen",
+          "price": "₹219",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Mi",
+          "category": "Fashion",
+          "rating": "4.3",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/maliao-green-tea-water-resistant-paraben-phthalates-free-sunscreen-broad-spectrum-spf-60pa-100g/p/6ipx63",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/394239531/e4hey_512.webp?width=360",
+              "alt": "Maliao  Premium Soothing Sunscreen",
+              "thumbnail": "https://images.meesho.com/images/products/394239531/e4hey_512.webp?width=360"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

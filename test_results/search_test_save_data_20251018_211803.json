@@ -1,0 +1,176 @@
+{
+  "success": true,
+  "query": "test_save_data",
+  "total_results": 9,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "35.13s",
+  "timestamp": "2025-10-18T21:18:03.481277",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_save_data",
+      "total_products": 9,
+      "basic_products": [
+        {
+          "title": "amazon basics TPE USB-A to Type C Cable",
+          "price": "₹192",
+          "discount_percentage": "₹999 (81% off)",
+          "rating": "4.0",
+          "reviews_count": "264",
+          "image_url": "https://m.media-amazon.com/images/I/41bJyZFI2PL._AC_UY218_.jpg",
+          "image_alt": "amazon basics TPE USB-A to Type C Cable, Tangle-free with 3A Rapid Charging & 480 Mbps Data Transmission (Black), 1M, Usb ...",
+          "link": "https://www.amazon.in/AmazonBasics-Cable-Tangle-free-Charging-Transmission/dp/B0BXCN28ZZ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6RIrI5Fb62DWZiNyjdL8tN6ZXDZ9u22qg74F2f1nlGnIDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.deNqXaEZFKSn7vgKbIOXe1AHuSvpl4tUag2fqZoDsB4&dib_tag=se&keywords=test_save_data&qid=1760802459&sr=8-1",
+          "brand": "Amazon",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "GOYERRNES Dissolved Oxygen Meter with Bluetooth",
+          "price": "₹15,004",
+          "discount_percentage": "₹21,804 (31% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/61WQCoTZZXL._AC_UY218_.jpg",
+          "image_alt": "GOYERRNES Dissolved Oxygen Meter with Bluetooth, Dissolved Oxygen Test Kit with Electrode Filling Fluid, Support Data Sav...",
+          "link": "https://www.amazon.in/GOYERRNES-Dissolved-Bluetooth-Electrode-Filling/dp/B0DFPLNHWM/ref=sr_1_2?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6RIrI5Fb62DWZiNyjdL8tN6ZXDZ9u22qg74F2f1nlGnIDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.deNqXaEZFKSn7vgKbIOXe1AHuSvpl4tUag2fqZoDsB4&dib_tag=se&keywords=test_save_data&qid=1760802459&sr=8-2",
+          "brand": "GOYERRNES",
+          "category": "General",
+          "availability": "FREE delivery 8 - 10 Nov"
+        },
+        {
+          "title": "Nuclear Radiation Detector GQ GMC-800 USA Design Product US National Standard Large Color LCD Display 5 Alarm Types Dosime...",
+          "price": "₹20,915\n10",
+          "discount_percentage": "₹33,464.16 (38% off)",
+          "rating": "4.6",
+          "reviews_count": "855",
+          "image_url": "https://m.media-amazon.com/images/I/61mUZsV9YNL._AC_UY218_.jpg",
+          "image_alt": "Nuclear Radiation Detector GQ GMC-800 USA Design Product US National Standard Large Color LCD Display 5 Alarm Types Dosime...",
+          "link": "https://www.amazon.in/Radiation-GQ-GMC-800-Dosimeter-Multifunction/dp/B0CKM8NML7/ref=sr_1_3?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6RIrI5Fb62DWZiNyjdL8tN6ZXDZ9u22qg74F2f1nlGnIDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.deNqXaEZFKSn7vgKbIOXe1AHuSvpl4tUag2fqZoDsB4&dib_tag=se&keywords=test_save_data&qid=1760802459&sr=8-3",
+          "brand": "Nuclear",
+          "category": "General",
+          "availability": "FREE delivery 3 - 4 Nov"
+        },
+        {
+          "title": "Important Acts that transformed India",
+          "price": "₹380",
+          "discount_percentage": "₹495 (23% off)",
+          "rating": "4.5",
+          "image_url": "https://m.media-amazon.com/images/I/91kAepQS09L._AC_UY218_.jpg",
+          "image_alt": "Important Acts that transformed India, 2e for UPSC CSE 2025-26",
+          "link": "https://www.amazon.in/Important-Transformed-India-Services-Administrative/dp/9355321457/ref=sr_1_4?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6RIrI5Fb62DWZiNyjdL8tN6ZXDZ9u22qg74F2f1nlGnIDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.deNqXaEZFKSn7vgKbIOXe1AHuSvpl4tUag2fqZoDsB4&dib_tag=se&keywords=test_save_data&qid=1760802459&sr=8-4",
+          "brand": "Important",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct on first order"
+        },
+        {
+          "title": "AUTOOL Car Battery Tester 12V 24V Automotive Battery Load Tester with Printer 20-2000CCA Alternator Tester",
+          "price": "₹15,660",
+          "discount_percentage": "₹32,499 (52% off)",
+          "rating": "3.9",
+          "image_url": "https://m.media-amazon.com/images/I/71c14ORsaoL._AC_UY218_.jpg",
+          "image_alt": "AUTOOL Car Battery Tester 12V 24V Automotive Battery Load Tester with Printer 20-2000CCA Alternator Tester, Cranking & Cha...",
+          "link": "https://www.amazon.in/AUTOOL-Automotive-20-2000CCA-Cranking-Charging/dp/B0C6THBX2N/ref=sr_1_5?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6RIrI5Fb62DWZiNyjdL8tN6ZXDZ9u22qg74F2f1nlGnIDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.deNqXaEZFKSn7vgKbIOXe1AHuSvpl4tUag2fqZoDsB4&dib_tag=se&keywords=test_save_data&qid=1760802459&sr=8-5",
+          "brand": "AUTOOL",
+          "category": "General",
+          "reviews_count": "AUTOOL Car Battery Tester 12V 24V Automotive Battery Load Tester with Printer 20-2000CCA Alternator Tester, Cranking & Charging & Leakage Test, 3.2\" Screen with Data Review Reverse Polarity Protection",
+          "availability": "FREE delivery Thu, 30 Oct"
+        },
+        {
+          "title": "Type C to C Charger Cable",
+          "price": "₹4,592",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/61eVwFcFMML._AC_UY218_.jpg",
+          "image_alt": "Type C to C Charger Cable, 100W 5A Digital LED Super Fast Turbo Nylon Braided High Stable Current Save Charging Cable for ...",
+          "link": "https://www.amazon.in/Charger-Digital-Braided-Charging-High-Speed/dp/B0BXH68Z87/ref=sr_1_6?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6RIrI5Fb62DWZiNyjdL8tN6ZXDZ9u22qg74F2f1nlGnIDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.deNqXaEZFKSn7vgKbIOXe1AHuSvpl4tUag2fqZoDsB4&dib_tag=se&keywords=test_save_data&qid=1760802459&sr=8-6",
+          "brand": "Type",
+          "category": "General",
+          "availability": "FREE delivery 28 - 31 Oct"
+        },
+        {
+          "title": "WRITING A REPORT 9E",
+          "price": "₹599",
+          "discount_percentage": "Buy 3 items, get 3% off",
+          "rating": "4.2",
+          "image_url": "https://m.media-amazon.com/images/I/81A4F9pC36L._AC_UY218_.jpg",
+          "image_alt": "WRITING A REPORT 9E",
+          "link": "https://www.amazon.in/WRITING-REPORT-9E-John-Bowden/dp/1845284704/ref=sr_1_7?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6RIrI5Fb62DWZiNyjdL8tN6ZXDZ9u22qg74F2f1nlGnIDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.deNqXaEZFKSn7vgKbIOXe1AHuSvpl4tUag2fqZoDsB4&dib_tag=se&keywords=test_save_data&qid=1760802459&sr=8-7",
+          "brand": "WRITING",
+          "category": "General",
+          "availability": "FREE delivery"
+        },
+        {
+          "title": "The Creativity Code: How AI is learning to write",
+          "price": "₹325\n12",
+          "discount_percentage": "12 (43% off)",
+          "rating": "4.4",
+          "image_url": "https://m.media-amazon.com/images/I/71tHnw32BiL._AC_UY218_.jpg",
+          "image_alt": "The Creativity Code: How AI is learning to write, paint and think",
+          "link": "https://www.amazon.in/Creativity-Code-learning-write-paint-ebook/dp/B07GLP28F3/ref=sr_1_8?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6RIrI5Fb62DWZiNyjdL8tN6ZXDZ9u22qg74F2f1nlGnIDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.deNqXaEZFKSn7vgKbIOXe1AHuSvpl4tUag2fqZoDsB4&dib_tag=se&keywords=test_save_data&qid=1760802459&sr=8-8",
+          "brand": "The",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "pytest Quick Start Guide: Write better Python code with simple and maintainable tests",
+          "price": "₹290\n86",
+          "discount_percentage": "86 (86% off)",
+          "rating": "4.1",
+          "image_url": "https://m.media-amazon.com/images/I/71E3+poivYL._AC_UY218_.jpg",
+          "image_alt": "pytest Quick Start Guide: Write better Python code with simple and maintainable tests",
+          "link": "https://www.amazon.in/pytest-Quick-Start-Guide-maintainable-ebook/dp/B07GZJD473/ref=sr_1_9?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6RIrI5Fb62DWZiNyjdL8tN6ZXDZ9u22qg74F2f1nlGnIDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.deNqXaEZFKSn7vgKbIOXe1AHuSvpl4tUag2fqZoDsB4&dib_tag=se&keywords=test_save_data&qid=1760802459&sr=8-9",
+          "brand": "pytest",
+          "category": "General",
+          "availability": "Available instantly"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "amazon basics TPE USB-A to Type C Cable",
+          "price": "₹192",
+          "brand": "Amazon",
+          "category": "General",
+          "rating": "4.0",
+          "link": "https://www.amazon.in/AmazonBasics-Cable-Tangle-free-Charging-Transmission/dp/B0BXCN28ZZ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6RIrI5Fb62DWZiNyjdL8tN6ZXDZ9u22qg74F2f1nlGnIDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.deNqXaEZFKSn7vgKbIOXe1AHuSvpl4tUag2fqZoDsB4&dib_tag=se&keywords=test_save_data&qid=1760802459&sr=8-1",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/41bJyZFI2PL._AC_UY218_.jpg",
+              "alt": "amazon basics TPE USB-A to Type C Cable, Tangle-free with 3A Rapid Charging & 480 Mbps Data Transmission (Black), 1M, Usb ...",
+              "thumbnail": "https://m.media-amazon.com/images/I/41bJyZFI2PL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "GOYERRNES Dissolved Oxygen Meter with Bluetooth",
+          "price": "₹15,004",
+          "brand": "GOYERRNES",
+          "category": "General",
+          "rating": "5.0",
+          "link": "https://www.amazon.in/GOYERRNES-Dissolved-Bluetooth-Electrode-Filling/dp/B0DFPLNHWM/ref=sr_1_2?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6RIrI5Fb62DWZiNyjdL8tN6ZXDZ9u22qg74F2f1nlGnIDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.deNqXaEZFKSn7vgKbIOXe1AHuSvpl4tUag2fqZoDsB4&dib_tag=se&keywords=test_save_data&qid=1760802459&sr=8-2",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61WQCoTZZXL._AC_UY218_.jpg",
+              "alt": "GOYERRNES Dissolved Oxygen Meter with Bluetooth, Dissolved Oxygen Test Kit with Electrode Filling Fluid, Support Data Sav...",
+              "thumbnail": "https://m.media-amazon.com/images/I/61WQCoTZZXL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Nuclear Radiation Detector GQ GMC-800 USA Design Product US National Standard Large Color LCD Display 5 Alarm Types Dosime...",
+          "price": "₹20,915\n10",
+          "brand": "Nuclear",
+          "category": "General",
+          "rating": "4.6",
+          "link": "https://www.amazon.in/Radiation-GQ-GMC-800-Dosimeter-Multifunction/dp/B0CKM8NML7/ref=sr_1_3?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6RIrI5Fb62DWZiNyjdL8tN6ZXDZ9u22qg74F2f1nlGnIDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.deNqXaEZFKSn7vgKbIOXe1AHuSvpl4tUag2fqZoDsB4&dib_tag=se&keywords=test_save_data&qid=1760802459&sr=8-3",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61mUZsV9YNL._AC_UY218_.jpg",
+              "alt": "Nuclear Radiation Detector GQ GMC-800 USA Design Product US National Standard Large Color LCD Display 5 Alarm Types Dosime...",
+              "thumbnail": "https://m.media-amazon.com/images/I/61mUZsV9YNL._AC_UY218_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

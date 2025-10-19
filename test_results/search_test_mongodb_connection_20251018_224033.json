@@ -1,0 +1,134 @@
+{
+  "success": true,
+  "query": "test_mongodb_connection",
+  "total_results": 6,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "57.14s",
+  "timestamp": "2025-10-18T22:40:33.403311",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_mongodb_connection",
+      "total_products": 6,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - BeatO CGM -15-Days Bluetooth-Connected",
+          "price": "₹17,574",
+          "discount_percentage": "₹22,496 (22% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51hC1Lmxn7L._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - BeatO CGM -15-Days Bluetooth-Connected, Real-Time Tracking, One-Push Application, No Scanning Needed, Easie...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozMjk2Nzg2ODEzOTA0OTI3OjE3NjA4MDc0MDA6c3BfYXRmOjMwMDc1OTQwNDMyMTMzMjo6MDo6&url=%2FBluetooth-Connected-Continuous-Real-Time-Application%2Fdp%2FB0FRSMJ9XQ%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807400%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=HZ8Xg5hO2W&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - BeatO CGM –15-Days Bluetooth-Connected",
+          "price": "₹8,787",
+          "discount_percentage": "₹11,248 (22% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51oCr4o-dlL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - BeatO CGM –15-Days Bluetooth-Connected, Real-Time Tracking, One-Push Application, No Scanning Needed, Easie...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozMjk2Nzg2ODEzOTA0OTI3OjE3NjA4MDc0MDA6c3BfYXRmOjMwMDc1OTQwNDMyMTIzMjo6MDo6&url=%2FBluetooth-Connected-Continuous-Real-Time-Application%2Fdp%2FB0FRSLGY56%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807400%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=guOJxRT7Ir&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - PW All in One IBPS RRB PO Prelims & Mains (Officers Scale-l) Exams 2025-26 By Mayank Sir & Vidhu Sir | Chap...",
+          "price": "₹473",
+          "discount_percentage": "₹725 (35% off)",
+          "image_url": "https://m.media-amazon.com/images/I/61uYYMcJWyL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - PW All in One IBPS RRB PO Prelims & Mains (Officers Scale-l) Exams 2025-26 By Mayank Sir & Vidhu Sir | Chap...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozMjk2Nzg2ODEzOTA0OTI3OjE3NjA4MDc0MDA6c3BfbXRmOjMwMDc1OTExNzcwNzAzMjo6MDo6&url=%2FPrelims-Officers-Chapterwise-Practice-Questions%2Fdp%2F937153074X%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807400%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=NJGsebMVnv&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - Guide to RBI Grade B Officers Phase I Exam with Previous Year Questions - 7th Edition | 2022 & 2023 Phase I...",
+          "price": "₹567",
+          "discount_percentage": "₹790 (28% off)",
+          "rating": "4.0",
+          "image_url": "https://m.media-amazon.com/images/I/71m8XkGlHeL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Guide to RBI Grade B Officers Phase I Exam with Previous Year Questions - 7th Edition | 2022 & 2023 Phase I...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozMjk2Nzg2ODEzOTA0OTI3OjE3NjA4MDc0MDA6c3BfbXRmOjMwMDcwODY4OTE2MjgzMjo6MDo6&url=%2FGuide-Grade-Officers-Previous-Questions%2Fdp%2F9362254255%2Fref%3Dsr_1_4_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807400%26sr%3D8-4-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=qZZunKAUic&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Sponsored Ad - PW GATE & ESE Abhyas Practice Booster For Engineering Mathematics & General Aptitude | 1200+ Practice Quest...",
+          "price": "₹466",
+          "discount_percentage": "₹549 (15% off)",
+          "image_url": "https://m.media-amazon.com/images/I/61xrH+LdpKL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - PW GATE & ESE Abhyas Practice Booster For Engineering Mathematics & General Aptitude | 1200+ Practice Quest...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozMjk2Nzg2ODEzOTA0OTI3OjE3NjA4MDc0MDA6c3BfYnRmOjMwMDc1MzkwOTUxOTczMjo6MDo6&url=%2FPractice-Engineering-Mathematics-Aptitude-Questions%2Fdp%2F9371535512%2Fref%3Dsr_1_5_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807400%26sr%3D8-5-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=MEcnhMIX8h&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Disha 21 Year-wise SBI Clerk Prelim & Main Exams Previous Year Solved Papers (2025 - 2009) 6th Edition | Ge...",
+          "price": "₹298",
+          "discount_percentage": "₹510 (42% off)",
+          "rating": "4.4",
+          "image_url": "https://m.media-amazon.com/images/I/71Y+A6GfpHL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Disha 21 Year-wise SBI Clerk Prelim & Main Exams Previous Year Solved Papers (2025 - 2009) 6th Edition | Ge...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozMjk2Nzg2ODEzOTA0OTI3OjE3NjA4MDc0MDA6c3BfYnRmOjMwMDY1MTU5NTU2NTkzMjo6MDo6&url=%2FYear-wise-Prelim-Previous-Solved-Papers%2Fdp%2F9362255227%2Fref%3Dsr_1_6_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807400%26sr%3D8-6-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=nxWRVJxi33&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - BeatO CGM -15-Days Bluetooth-Connected",
+          "price": "₹17,574",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozMjk2Nzg2ODEzOTA0OTI3OjE3NjA4MDc0MDA6c3BfYXRmOjMwMDc1OTQwNDMyMTMzMjo6MDo6&url=%2FBluetooth-Connected-Continuous-Real-Time-Application%2Fdp%2FB0FRSMJ9XQ%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807400%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=HZ8Xg5hO2W&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/51hC1Lmxn7L._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - BeatO CGM -15-Days Bluetooth-Connected, Real-Time Tracking, One-Push Application, No Scanning Needed, Easie...",
+              "thumbnail": "https://m.media-amazon.com/images/I/51hC1Lmxn7L._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - BeatO CGM –15-Days Bluetooth-Connected",
+          "price": "₹8,787",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozMjk2Nzg2ODEzOTA0OTI3OjE3NjA4MDc0MDA6c3BfYXRmOjMwMDc1OTQwNDMyMTIzMjo6MDo6&url=%2FBluetooth-Connected-Continuous-Real-Time-Application%2Fdp%2FB0FRSLGY56%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807400%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=guOJxRT7Ir&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/51oCr4o-dlL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - BeatO CGM –15-Days Bluetooth-Connected, Real-Time Tracking, One-Push Application, No Scanning Needed, Easie...",
+              "thumbnail": "https://m.media-amazon.com/images/I/51oCr4o-dlL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - PW All in One IBPS RRB PO Prelims & Mains (Officers Scale-l) Exams 2025-26 By Mayank Sir & Vidhu Sir | Chap...",
+          "price": "₹473",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozMjk2Nzg2ODEzOTA0OTI3OjE3NjA4MDc0MDA6c3BfbXRmOjMwMDc1OTExNzcwNzAzMjo6MDo6&url=%2FPrelims-Officers-Chapterwise-Practice-Questions%2Fdp%2F937153074X%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807400%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=NJGsebMVnv&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61uYYMcJWyL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - PW All in One IBPS RRB PO Prelims & Mains (Officers Scale-l) Exams 2025-26 By Mayank Sir & Vidhu Sir | Chap...",
+              "thumbnail": "https://m.media-amazon.com/images/I/61uYYMcJWyL._AC_UY218_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

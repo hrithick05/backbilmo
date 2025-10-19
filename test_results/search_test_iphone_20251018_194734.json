@@ -1,0 +1,297 @@
+{
+  "success": true,
+  "query": "test_iphone",
+  "total_results": 20,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "35.5s",
+  "timestamp": "2025-10-18T19:47:34.784239",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_iphone",
+      "total_products": 20,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - POPIO Privacy Military-Grade Tempered Glass for iPhone Air – Anti Spy Screen Protector Guard (Pack of 1)",
+          "price": "₹269",
+          "discount_percentage": "₹599 (55% off)",
+          "rating": "4.0",
+          "reviews_count": "25,701",
+          "image_url": "https://m.media-amazon.com/images/I/61R71E2IbwL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - POPIO Privacy Military-Grade Tempered Glass for iPhone Air – Anti Spy Screen Protector Guard (Pack of 1)",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0ODM5NTc5NzUzNjkzMTgxOjE3NjA3OTcwMjk6c3BfYXRmOjMwMDczMDM3MTk3NTIzMjo6MDo6&url=%2FPOPIO-Privacy-Compatible-iPhone-Air%2Fdp%2FB0FPQDKXHD%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c%26dib_tag%3Dse%26keywords%3Dtest_iphone%26qid%3D1760797029%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=V4PNJpXvX8&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "Mobile",
+          "availability": "FREE delivery Wed, 22 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - Efficia |For Apple iPhone 13 | Tempered Glass Screen Protector Guard | Full Glue Curved Tempered Glass | Bu...",
+          "price": "₹149",
+          "discount_percentage": "₹799 (81% off)",
+          "image_url": "https://m.media-amazon.com/images/I/61Dny3yDo9L._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Efficia |For Apple iPhone 13 | Tempered Glass Screen Protector Guard | Full Glue Curved Tempered Glass | Bu...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0ODM5NTc5NzUzNjkzMTgxOjE3NjA3OTcwMjk6c3BfYXRmOjMwMDIwOTY4NTgzMjEzMjo6MDo6&url=%2FEfficia-Apple-iPhone-13-Installation%2Fdp%2FB09HTLS8VJ%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c%26dib_tag%3Dse%26keywords%3Dtest_iphone%26qid%3D1760797029%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=qoBNJNDKCi&sp_cr=ZAZ",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "FREE delivery Mon, 27 Oct"
+        },
+        {
+          "title": "ATORSE Battery Power Charging Dock Flex Test for iPhone + Micro USB 5 Pin Phones",
+          "price": "₹549",
+          "discount_percentage": "₹769 (29% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51MnUT60ZfL._AC_UY218_.jpg",
+          "image_alt": "ATORSE Battery Power Charging Dock Flex Test for iPhone + Micro USB 5 Pin Phones",
+          "link": "https://www.amazon.in/dp/B0FVXY8N11/ref=sr_1_3?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-3",
+          "brand": "Mi",
+          "category": "Mobile",
+          "availability": "FREE delivery Thu, 30 Oct"
+        },
+        {
+          "title": "UJEAVETTE 2Pieces Professional Charging Dock Flex Test Repair for iPhone 8 7 6 6s Plus",
+          "price": "₹405",
+          "discount_percentage": "₹602 (33% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51w3PUYk0NL._AC_UY218_.jpg",
+          "image_alt": "UJEAVETTE 2Pieces Professional Charging Dock Flex Test Repair for iPhone 8 7 6 6s Plus",
+          "link": "https://www.amazon.in/dp/B0FVY1YH77/ref=sr_1_4?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-4",
+          "brand": "UJEAVETTE",
+          "category": "Mobile",
+          "availability": "FREE delivery 4 - 5 Nov"
+        },
+        {
+          "title": "GRIPP Neo Shock Absorbent with Mag-Safe Case Compatible with iPhone 15 Plus | iPhone 14 Plus (6.7\") Drop Test Protection U...",
+          "price": "₹379",
+          "discount_percentage": "₹2,190 (83% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51QkaWtHHbL._AC_UY218_.jpg",
+          "image_alt": "GRIPP Neo Shock Absorbent with Mag-Safe Case Compatible with iPhone 15 Plus | iPhone 14 Plus (6.7\") Drop Test Protection U...",
+          "link": "https://www.amazon.in/GRIPP-Absorbent-Compatible-Protection-Transparent/dp/B0CHSFTC84/ref=sr_1_5?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-5",
+          "brand": "GRIPP",
+          "category": "Mobile",
+          "availability": "FREE delivery Wed, 29 Oct on first order"
+        },
+        {
+          "title": "CAIDEN Type C to Lightning Fast Charging Cable 20W Certified Smart Chip For iPhone Fine Nylon Braided",
+          "price": "₹340",
+          "discount_percentage": "₹600 (43% off)",
+          "image_url": "https://m.media-amazon.com/images/I/41ZfbDprdQL._AC_UY218_.jpg",
+          "image_alt": "CAIDEN Type C to Lightning Fast Charging Cable 20W Certified Smart Chip For iPhone Fine Nylon Braided,15000+ Bend Test, Fa...",
+          "link": "https://www.amazon.in/CAIDEN-Lightning-Charging-Certified-Transfer/dp/B0DR5Y3NDJ/ref=sr_1_6?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-6",
+          "brand": "CAIDEN",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 31 Oct"
+        },
+        {
+          "title": "GRIPP Neo Shock Absorbent with Mag-Safe Case Compatible with iPhone 15 Pro (6.1\") Drop Test Protection Ultra Tough & Light...",
+          "price": "₹379",
+          "discount_percentage": "₹2,190 (83% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/51psgrQB0YL._AC_UY218_.jpg",
+          "image_alt": "GRIPP Neo Shock Absorbent with Mag-Safe Case Compatible with iPhone 15 Pro (6.1\") Drop Test Protection Ultra Tough & Light...",
+          "link": "https://www.amazon.in/GRIPP-Absorbent-Protection-Compatible-Transparent/dp/B0CHSFXKFC/ref=sr_1_7?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-7",
+          "brand": "GRIPP",
+          "category": "Mobile",
+          "availability": "FREE delivery Wed, 29 Oct on first order"
+        },
+        {
+          "title": "UJEAVETTE Professional Charging Dock Flex Test Repair for iPhone 8 8 Plus 7 6 6s Plus",
+          "price": "₹348",
+          "discount_percentage": "₹500 (30% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51BNSeo0cyL._AC_UY218_.jpg",
+          "image_alt": "UJEAVETTE Professional Charging Dock Flex Test Repair for iPhone 8 8 Plus 7 6 6s Plus",
+          "link": "https://www.amazon.in/dp/B0FVY2399N/ref=sr_1_8?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-8",
+          "brand": "UJEAVETTE",
+          "category": "Mobile",
+          "availability": "FREE delivery 4 - 5 Nov"
+        },
+        {
+          "title": "GRIPP Neo Shock Absorbent with Mag-Safe Case Compatible with iPhone 15 Pro Max (6.7\") Drop Test Protection Ultra Tough & L...",
+          "price": "₹379",
+          "discount_percentage": "₹2,190 (83% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/51psgrQB0YL._AC_UY218_.jpg",
+          "image_alt": "GRIPP Neo Shock Absorbent with Mag-Safe Case Compatible with iPhone 15 Pro Max (6.7\") Drop Test Protection Ultra Tough & L...",
+          "link": "https://www.amazon.in/GRIPP-Absorbent-Compatible-Protection-Transparent/dp/B0CHSCL88D/ref=sr_1_9?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-9",
+          "brand": "GRIPP",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "GRIPP Clear Case Compatible with iPhone 15 Pro Max (6.7\") Drop Test Protection Ultra Tough Lightweight & Anti Shock Protec...",
+          "price": "₹379",
+          "discount_percentage": "₹1,790 (79% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/51mPxTT42rL._AC_UY218_.jpg",
+          "image_alt": "GRIPP Clear Case Compatible with iPhone 15 Pro Max (6.7\") Drop Test Protection Ultra Tough Lightweight & Anti Shock Protec...",
+          "link": "https://www.amazon.in/GRIPP-Compatible-Material-Resistant-Absorbent/dp/B0CHMFBYQG/ref=sr_1_10?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-10",
+          "brand": "GRIPP",
+          "category": "Mobile",
+          "availability": "FREE delivery Wed, 29 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - DailyObjects Polycarbonate Stride 2.0 Magnetic Case Cover Compatible with iPhone 16 Pro | Wireless Charging...",
+          "price": "₹899",
+          "discount_percentage": "₹1,599 (44% off)",
+          "rating": "3.5",
+          "reviews_count": "114",
+          "image_url": "https://m.media-amazon.com/images/I/619pAICzl8L._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - DailyObjects Polycarbonate Stride 2.0 Magnetic Case Cover Compatible with iPhone 16 Pro | Wireless Charging...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0ODM5NTc5NzUzNjkzMTgxOjE3NjA3OTcwMjk6c3BfbXRmOjMwMDQzMjkwNjk5OTMzMjo6MDo6&url=%2FDailyObjects-Magnetic-Compatible-Protection-Shockproof%2Fdp%2FB0DG95PN1H%2Fref%3Dsr_1_11_sspa%3Fdib%3DeyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c%26dib_tag%3Dse%26keywords%3Dtest_iphone%26qid%3D1760797029%26sr%3D8-11-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=421SvxusAE&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Mobile",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "Sponsored Ad - RAEGR Phone Case | Magnetic Case | Supports Mag-Safe Wireless Charging | Premium Soft Silicone MagFix Case/...",
+          "price": "₹599",
+          "discount_percentage": "₹1,999 (70% off)",
+          "rating": "3.9",
+          "reviews_count": "103",
+          "image_url": "https://m.media-amazon.com/images/I/61fvJlrrfaL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - RAEGR Phone Case | Magnetic Case | Supports Mag-Safe Wireless Charging | Premium Soft Silicone MagFix Case/...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0ODM5NTc5NzUzNjkzMTgxOjE3NjA3OTcwMjk6c3BfbXRmOjMwMDA1MzU5MzIzMTAzMjo6MDo6&url=%2FRAEGR-Magnetic-Supports-Mag-Safe-Wireless%2Fdp%2FB0CGR8TXK2%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c%26dib_tag%3Dse%26keywords%3Dtest_iphone%26qid%3D1760797029%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=QepWJvEFQw&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "GRIPP® Neo Shock Absorbent Case Compatible with iPhone 14 Pro (6.1\") Drop Test Protection Ultra Tough Lightweight & Anti S...",
+          "price": "₹624",
+          "discount_percentage": "₹1,990 (69% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/61vJvC4Z47L._AC_UY218_.jpg",
+          "image_alt": "GRIPP® Neo Shock Absorbent Case Compatible with iPhone 14 Pro (6.1\") Drop Test Protection Ultra Tough Lightweight & Anti S...",
+          "link": "https://www.amazon.in/GRIPP-Compatible-Protection-Lightweight-Transparent/dp/B0BDS12RDT/ref=sr_1_13?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-13",
+          "brand": "GRIPP®",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Test Mobile1",
+          "price": "₹1",
+          "rating": "1.0",
+          "image_url": "https://m.media-amazon.com/images/I/21BrM0gMBXL._AC_UY218_.jpg",
+          "image_alt": "Test Mobile1",
+          "link": "https://www.amazon.in/TEST-Test-Mobile1/dp/B08X6P3YL9/ref=sr_1_14?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-14",
+          "brand": "Test",
+          "category": "Mobile",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "GRIPP Clear Case Compatible with iPhone 15 Plus | iPhone 14 Plus (6.7\") Drop Test Protection Ultra Tough Lightweight & Ant...",
+          "price": "₹379",
+          "discount_percentage": "₹1,790 (79% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51pfPtt8V7L._AC_UY218_.jpg",
+          "image_alt": "GRIPP Clear Case Compatible with iPhone 15 Plus | iPhone 14 Plus (6.7\") Drop Test Protection Ultra Tough Lightweight & Ant...",
+          "link": "https://www.amazon.in/GRIPP-Compatible-Material-Resistant-Absorbent/dp/B0CHMDTKC1/ref=sr_1_15?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-15",
+          "brand": "GRIPP",
+          "category": "Mobile",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "GRIPP Neo Shock Absorbent Case Compatible with iPhone 15 Pro (6.1\") Drop Test Protection Ultra Tough Lightweight & Anti Sh...",
+          "price": "₹379",
+          "discount_percentage": "₹1,990 (81% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51oYe3KaAKL._AC_UY218_.jpg",
+          "image_alt": "GRIPP Neo Shock Absorbent Case Compatible with iPhone 15 Pro (6.1\") Drop Test Protection Ultra Tough Lightweight & Anti Sh...",
+          "link": "https://www.amazon.in/GRIPP-Compatible-Protection-Lightweight-Transparent/dp/B0CHSBBWM2/ref=sr_1_16?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-16",
+          "brand": "GRIPP",
+          "category": "Mobile",
+          "availability": "FREE delivery Sun, 26 Oct on first order"
+        },
+        {
+          "title": "GRIPP Clear Case Compatible with iPhone 15 Pro (6.1\") Drop Test Protection Ultra Tough Lightweight & Anti Shock Protection...",
+          "price": "₹379",
+          "discount_percentage": "₹1,790 (79% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51mPxTT42rL._AC_UY218_.jpg",
+          "image_alt": "GRIPP Clear Case Compatible with iPhone 15 Pro (6.1\") Drop Test Protection Ultra Tough Lightweight & Anti Shock Protection...",
+          "link": "https://www.amazon.in/GRIPP-Compatible-Material-Absorbent-Transparent/dp/B0CHMH9B63/ref=sr_1_17?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-17",
+          "brand": "GRIPP",
+          "category": "Mobile",
+          "availability": "FREE delivery Wed, 29 Oct on first order"
+        },
+        {
+          "title": "Salah Traders Type-C to Lightning Cable",
+          "price": "₹350",
+          "discount_percentage": "₹1,200 (71% off)",
+          "image_url": "https://m.media-amazon.com/images/I/21XeYVm1TrL._AC_UY218_.jpg",
+          "image_alt": "Salah Traders Type-C to Lightning Cable, Fast Charging, 3X Charging Speed, 25000+ Bend Test, Compatible with iPhone 14/14 ...",
+          "link": "https://www.amazon.in/Traders-Lightning-Charging-Compatible-AirPods/dp/B0FMQ1166F/ref=sr_1_18?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-18",
+          "brand": "Salah",
+          "category": "General",
+          "availability": "FREE delivery Tue, 28 Oct"
+        },
+        {
+          "title": "Aura Guard Clear Case for iPhone 16",
+          "price": "₹219",
+          "discount_percentage": "₹286 (23% off)",
+          "image_url": "https://m.media-amazon.com/images/I/41-O8F93pfL._AC_UY218_.jpg",
+          "image_alt": "Aura Guard Clear Case for iPhone 16, MagSafe Compatible, Ultra Thin Anti-Shock Protection with Anti-Fingerprint Coating, D...",
+          "link": "https://www.amazon.in/dp/B0FWDVFH6P/ref=sr_1_19?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-19",
+          "brand": "Aura",
+          "category": "Mobile",
+          "availability": "Delivery Mon, 27 Oct"
+        },
+        {
+          "title": "GRIPP® Neo Shock Absorbent Case Compatible with iPhone 14 Pro (6.1\") Drop Test Protection Ultra Tough Lightweight & Anti S...",
+          "price": "₹624",
+          "discount_percentage": "₹1,990 (69% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/5172u5vqflL._AC_UY218_.jpg",
+          "image_alt": "GRIPP® Neo Shock Absorbent Case Compatible with iPhone 14 Pro (6.1\") Drop Test Protection Ultra Tough Lightweight & Anti S...",
+          "link": "https://www.amazon.in/GRIPP-Compatible-Protection-Lightweight-Transparent/dp/B0BN66T7RM/ref=sr_1_20?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-20",
+          "brand": "GRIPP®",
+          "category": "Mobile",
+          "availability": "FREE delivery Wed, 29 Oct"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - POPIO Privacy Military-Grade Tempered Glass for iPhone Air – Anti Spy Screen Protector Guard (Pack of 1)",
+          "price": "₹269",
+          "brand": "Mi",
+          "category": "Mobile",
+          "rating": "4.0",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0ODM5NTc5NzUzNjkzMTgxOjE3NjA3OTcwMjk6c3BfYXRmOjMwMDczMDM3MTk3NTIzMjo6MDo6&url=%2FPOPIO-Privacy-Compatible-iPhone-Air%2Fdp%2FB0FPQDKXHD%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c%26dib_tag%3Dse%26keywords%3Dtest_iphone%26qid%3D1760797029%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=V4PNJpXvX8&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61R71E2IbwL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - POPIO Privacy Military-Grade Tempered Glass for iPhone Air – Anti Spy Screen Protector Guard (Pack of 1)",
+              "thumbnail": "https://m.media-amazon.com/images/I/61R71E2IbwL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - Efficia |For Apple iPhone 13 | Tempered Glass Screen Protector Guard | Full Glue Curved Tempered Glass | Bu...",
+          "price": "₹149",
+          "brand": "Apple",
+          "category": "Mobile",
+          "rating": "",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0ODM5NTc5NzUzNjkzMTgxOjE3NjA3OTcwMjk6c3BfYXRmOjMwMDIwOTY4NTgzMjEzMjo6MDo6&url=%2FEfficia-Apple-iPhone-13-Installation%2Fdp%2FB09HTLS8VJ%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c%26dib_tag%3Dse%26keywords%3Dtest_iphone%26qid%3D1760797029%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=qoBNJNDKCi&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61Dny3yDo9L._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - Efficia |For Apple iPhone 13 | Tempered Glass Screen Protector Guard | Full Glue Curved Tempered Glass | Bu...",
+              "thumbnail": "https://m.media-amazon.com/images/I/61Dny3yDo9L._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "ATORSE Battery Power Charging Dock Flex Test for iPhone + Micro USB 5 Pin Phones",
+          "price": "₹549",
+          "brand": "Mi",
+          "category": "Mobile",
+          "rating": "",
+          "link": "https://www.amazon.in/dp/B0FVXY8N11/ref=sr_1_3?dib=eyJ2IjoiMSJ9.SntORutcWglNyYwqBUOa6ALUm8bq9gNouQU7ncFMkdPXSsirMGmJ2hhJUXtodD_l4VzBqz2ag-6iYDh3AI0TjIvGBORQmE__9izJXtE7zlie66_8I8HFIxZZAn4sAHh3SM_Z737bGf22K4x6s4OqP0SXTQ597FXeglM0xfUtyINS4WMSRsyKE7ZBv4r4W9-0Ek5ll0SaD8GHC-y6iMgOnhU-KSGBycweL8gjYujkkik._mXtKhml5Gi3cKHkUpyogiSWc-C_3F-72Q-Osjpir2c&dib_tag=se&keywords=test_iphone&qid=1760797029&sr=8-3",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/51MnUT60ZfL._AC_UY218_.jpg",
+              "alt": "ATORSE Battery Power Charging Dock Flex Test for iPhone + Micro USB 5 Pin Phones",
+              "thumbnail": "https://m.media-amazon.com/images/I/51MnUT60ZfL._AC_UY218_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+2025-10-19 11:42:08,688 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:42:09,285 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:42:10,486 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:42:10,487 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:42:10,487 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:42:10,491 - __main__ - INFO - ============================================================
+2025-10-19 11:42:10,491 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:42:10,491 - __main__ - INFO - ============================================================
+2025-10-19 11:42:10,492 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:42:10,510 - __main__ - INFO - 
+2025-10-19 11:42:10,510 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:42:10,510 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:42:10,510 - __main__ - INFO -    GET  /status
+2025-10-19 11:42:10,511 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:42:10,511 - __main__ - INFO - ============================================================
+2025-10-19 11:42:10,529 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:42:10,529 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:46:19,681 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:46:20,165 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:46:20,749 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:46:20,749 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:46:20,749 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:46:20,750 - __main__ - INFO - ============================================================
+2025-10-19 11:46:20,751 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:46:20,751 - __main__ - INFO - ============================================================
+2025-10-19 11:46:20,751 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:46:20,751 - __main__ - INFO - 
+2025-10-19 11:46:20,751 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:46:20,751 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:46:20,751 - __main__ - INFO -    GET  /status
+2025-10-19 11:46:20,751 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:46:20,751 - __main__ - INFO - ============================================================
+2025-10-19 11:46:20,766 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:46:20,766 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:48:05,161 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:48:05,712 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:48:06,963 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:48:06,964 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:48:06,964 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:48:06,965 - __main__ - INFO - ============================================================
+2025-10-19 11:48:06,965 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:48:06,965 - __main__ - INFO - ============================================================
+2025-10-19 11:48:06,965 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:48:06,965 - __main__ - INFO - 
+2025-10-19 11:48:06,965 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:48:06,965 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:48:06,965 - __main__ - INFO -    GET  /status
+2025-10-19 11:48:06,965 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:48:06,965 - __main__ - INFO - ============================================================
+2025-10-19 11:48:06,978 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:48:06,978 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:48:26,918 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:48:27,094 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:48:28,271 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:48:28,271 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:48:28,271 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:48:28,275 - __main__ - INFO - ============================================================
+2025-10-19 11:48:28,275 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:48:28,275 - __main__ - INFO - ============================================================
+2025-10-19 11:48:28,275 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:48:28,275 - __main__ - INFO - 
+2025-10-19 11:48:28,275 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:48:28,275 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:48:28,275 - __main__ - INFO -    GET  /status
+2025-10-19 11:48:28,275 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:48:28,275 - __main__ - INFO - ============================================================
+2025-10-19 11:48:28,284 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:48:28,284 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:48:54,016 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:48:54,401 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:48:55,696 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:48:55,696 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:48:55,696 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:48:55,697 - __main__ - INFO - ============================================================
+2025-10-19 11:48:55,697 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:48:55,697 - __main__ - INFO - ============================================================
+2025-10-19 11:48:55,697 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:48:55,697 - __main__ - INFO - 
+2025-10-19 11:48:55,697 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:48:55,697 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:48:55,697 - __main__ - INFO -    GET  /status
+2025-10-19 11:48:55,697 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:48:55,697 - __main__ - INFO - ============================================================
+2025-10-19 11:48:55,706 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:48:55,706 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:49:33,816 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:49:34,299 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:49:35,373 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:49:35,373 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:49:35,373 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:49:35,374 - __main__ - INFO - ============================================================
+2025-10-19 11:49:35,375 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:49:35,375 - __main__ - INFO - ============================================================
+2025-10-19 11:49:35,375 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:49:35,375 - __main__ - INFO - 
+2025-10-19 11:49:35,375 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:49:35,391 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:49:35,391 - __main__ - INFO -    GET  /status
+2025-10-19 11:49:35,391 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:49:35,391 - __main__ - INFO - ============================================================
+2025-10-19 11:49:35,398 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:49:35,398 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:50:27,274 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:50:27,497 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:50:28,516 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:50:28,516 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:50:28,516 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:50:28,519 - __main__ - INFO - ============================================================
+2025-10-19 11:50:28,519 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:50:28,519 - __main__ - INFO - ============================================================
+2025-10-19 11:50:28,519 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:50:28,519 - __main__ - INFO - 
+2025-10-19 11:50:28,519 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:50:28,519 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:50:28,519 - __main__ - INFO -    GET  /status
+2025-10-19 11:50:28,520 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:50:28,520 - __main__ - INFO - ============================================================
+2025-10-19 11:50:28,529 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:50:28,529 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:51:04,163 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:51:04,337 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:51:05,050 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:51:05,051 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:51:05,051 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:51:05,053 - __main__ - INFO - ============================================================
+2025-10-19 11:51:05,053 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:51:05,053 - __main__ - INFO - ============================================================
+2025-10-19 11:51:05,053 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:51:05,053 - __main__ - INFO - 
+2025-10-19 11:51:05,053 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:51:05,055 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:51:05,055 - __main__ - INFO -    GET  /status
+2025-10-19 11:51:05,055 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:51:05,055 - __main__ - INFO - ============================================================
+2025-10-19 11:51:05,063 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:51:05,063 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:51:37,305 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:51:37,864 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:51:38,548 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:51:38,548 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:51:38,548 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:51:38,549 - __main__ - INFO - ============================================================
+2025-10-19 11:51:38,549 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:51:38,549 - __main__ - INFO - ============================================================
+2025-10-19 11:51:38,549 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:51:38,549 - __main__ - INFO - 
+2025-10-19 11:51:38,549 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:51:38,549 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:51:38,549 - __main__ - INFO -    GET  /status
+2025-10-19 11:51:38,549 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:51:38,549 - __main__ - INFO - ============================================================
+2025-10-19 11:51:38,561 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:51:38,561 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:51:52,305 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:51:52] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:52:08,259 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:52:08] "GET /search?q=mario HTTP/1.1" 200 -
+2025-10-19 11:52:37,193 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:52:37] "GET /search?q=iphone&force_refresh=false&platforms=amazon,flipkart,myntra,meesho HTTP/1.1" 200 -
+2025-10-19 11:53:31,290 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:53:31] "GET /search?q=smartphone&force_refresh=false&platforms=amazon,flipkart,myntra,meesho HTTP/1.1" 200 -
+2025-10-19 11:53:58,104 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:53:58] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:54:05,320 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:54:05] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 11:55:42,917 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:55:43,119 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:55:43,869 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:55:43,870 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:55:43,870 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:55:43,872 - __main__ - INFO - ============================================================
+2025-10-19 11:55:43,872 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:55:43,872 - __main__ - INFO - ============================================================
+2025-10-19 11:55:43,872 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:55:43,872 - __main__ - INFO - 
+2025-10-19 11:55:43,872 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:55:43,872 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:55:43,872 - __main__ - INFO -    GET  /status
+2025-10-19 11:55:43,873 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:55:43,873 - __main__ - INFO - ============================================================
+2025-10-19 11:55:43,883 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:55:43,884 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:55:52,398 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:55:52] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:55:56,335 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:55:56] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:56:50,899 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:56:50] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 11:56:55,082 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:56:55] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 11:56:58,684 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:56:58] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:57:02,321 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:57:02] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:57:08,007 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:57:08] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 11:57:36,059 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:57:36,403 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:57:37,223 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:57:37,223 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:57:37,224 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:57:37,225 - __main__ - INFO - ============================================================
+2025-10-19 11:57:37,225 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:57:37,225 - __main__ - INFO - ============================================================
+2025-10-19 11:57:37,225 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:57:37,225 - __main__ - INFO - 
+2025-10-19 11:57:37,225 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:57:37,225 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:57:37,225 - __main__ - INFO -    GET  /status
+2025-10-19 11:57:37,225 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:57:37,225 - __main__ - INFO - ============================================================
+2025-10-19 11:57:37,235 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:57:37,235 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:57:40,904 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:57:40] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:57:44,027 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:57:44] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:57:47,781 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:57:47] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:57:51,147 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:57:51] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:58:02,568 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:58:02,841 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:58:03,574 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:58:03,576 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:58:03,576 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:58:03,578 - __main__ - INFO - ============================================================
+2025-10-19 11:58:03,579 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:58:03,579 - __main__ - INFO - ============================================================
+2025-10-19 11:58:03,579 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:58:03,579 - __main__ - INFO - 
+2025-10-19 11:58:03,579 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:58:03,579 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:58:03,579 - __main__ - INFO -    GET  /status
+2025-10-19 11:58:03,579 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:58:03,579 - __main__ - INFO - ============================================================
+2025-10-19 11:58:03,589 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:58:03,590 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:58:06,876 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:58:06] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:58:10,103 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:58:10] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:58:19,486 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:58:19] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 11:58:23,367 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:58:23] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:58:26,962 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:58:26] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:58:41,489 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:58:41,952 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:58:42,768 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:58:42,768 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:58:42,768 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:58:42,770 - __main__ - INFO - ============================================================
+2025-10-19 11:58:42,770 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:58:42,770 - __main__ - INFO - ============================================================
+2025-10-19 11:58:42,770 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:58:42,770 - __main__ - INFO - 
+2025-10-19 11:58:42,770 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:58:42,770 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:58:42,770 - __main__ - INFO -    GET  /status
+2025-10-19 11:58:42,770 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:58:42,770 - __main__ - INFO - ============================================================
+2025-10-19 11:58:42,780 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:58:42,782 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:58:46,517 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:58:46] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:59:16,268 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:59:16,697 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:59:17,566 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:59:17,567 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:59:17,567 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:59:17,568 - __main__ - INFO - ============================================================
+2025-10-19 11:59:17,568 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:59:17,568 - __main__ - INFO - ============================================================
+2025-10-19 11:59:17,568 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:59:17,568 - __main__ - INFO - 
+2025-10-19 11:59:17,568 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:59:17,568 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:59:17,568 - __main__ - INFO -    GET  /status
+2025-10-19 11:59:17,568 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:59:17,568 - __main__ - INFO - ============================================================
+2025-10-19 11:59:17,579 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:59:17,579 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:59:21,049 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:59:21] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:59:28,117 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:59:28] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:59:39,887 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:59:40,074 - __main__ - INFO - Testing connection with ping...
+2025-10-19 11:59:40,792 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 11:59:40,792 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 11:59:40,792 - __main__ - INFO - MongoDB connection established
+2025-10-19 11:59:40,794 - __main__ - INFO - ============================================================
+2025-10-19 11:59:40,795 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 11:59:40,795 - __main__ - INFO - ============================================================
+2025-10-19 11:59:40,795 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 11:59:40,795 - __main__ - INFO - 
+2025-10-19 11:59:40,795 - __main__ - INFO - Available Endpoints:
+2025-10-19 11:59:40,795 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 11:59:40,795 - __main__ - INFO -    GET  /status
+2025-10-19 11:59:40,795 - __main__ - INFO -    GET  /products/all
+2025-10-19 11:59:40,795 - __main__ - INFO - ============================================================
+2025-10-19 11:59:40,807 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 11:59:40,807 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 11:59:46,569 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 11:59:46] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 11:59:59,207 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 11:59:59,404 - __main__ - INFO - Testing connection with ping...
+2025-10-19 12:00:00,433 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 12:00:00,434 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 12:00:00,434 - __main__ - INFO - MongoDB connection established
+2025-10-19 12:00:00,436 - __main__ - INFO - ============================================================
+2025-10-19 12:00:00,437 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 12:00:00,437 - __main__ - INFO - ============================================================
+2025-10-19 12:00:00,437 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 12:00:00,437 - __main__ - INFO - 
+2025-10-19 12:00:00,437 - __main__ - INFO - Available Endpoints:
+2025-10-19 12:00:00,437 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 12:00:00,437 - __main__ - INFO -    GET  /status
+2025-10-19 12:00:00,438 - __main__ - INFO -    GET  /products/all
+2025-10-19 12:00:00,438 - __main__ - INFO - ============================================================
+2025-10-19 12:00:00,449 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 12:00:00,449 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 12:00:03,205 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:00:03] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 12:00:19,252 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 12:00:19,666 - __main__ - INFO - Testing connection with ping...
+2025-10-19 12:00:20,568 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 12:00:20,577 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 12:00:20,577 - __main__ - INFO - MongoDB connection established
+2025-10-19 12:00:20,579 - __main__ - INFO - ============================================================
+2025-10-19 12:00:20,579 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 12:00:20,579 - __main__ - INFO - ============================================================
+2025-10-19 12:00:20,580 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 12:00:20,580 - __main__ - INFO - 
+2025-10-19 12:00:20,580 - __main__ - INFO - Available Endpoints:
+2025-10-19 12:00:20,580 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 12:00:20,580 - __main__ - INFO -    GET  /status
+2025-10-19 12:00:20,580 - __main__ - INFO -    GET  /products/all
+2025-10-19 12:00:20,580 - __main__ - INFO - ============================================================
+2025-10-19 12:00:20,587 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 12:00:20,587 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 12:00:23,148 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:00:23] "GET /search?q=smartphone HTTP/1.1" 200 -
+2025-10-19 12:00:26,085 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:00:26] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:00:30,432 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:00:30] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:00:54,605 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:00:54] "GET /search?q=laptop&force_refresh=false&platforms=amazon,flipkart,myntra,meesho HTTP/1.1" 200 -
+2025-10-19 12:06:40,698 - __main__ - ERROR - Search error: ac-ay8dq7r-shard-00-02.9skkolg.mongodb.net:27017: [Errno 11001] getaddrinfo failed (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms),ac-ay8dq7r-shard-00-00.9skkolg.mongodb.net:27017: [Errno 11001] getaddrinfo failed (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms),ac-ay8dq7r-shard-00-01.9skkolg.mongodb.net:27017: [Errno 11001] getaddrinfo failed (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms), Timeout: 5.0s, Topology Description: <TopologyDescription id: 68f48371444bc82bb88784db, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-ay8dq7r-shard-00-00.9skkolg.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-ay8dq7r-shard-00-00.9skkolg.mongodb.net:27017: [Errno 11001] getaddrinfo failed (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms)')>, <ServerDescription ('ac-ay8dq7r-shard-00-01.9skkolg.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-ay8dq7r-shard-00-01.9skkolg.mongodb.net:27017: [Errno 11001] getaddrinfo failed (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms)')>, <ServerDescription ('ac-ay8dq7r-shard-00-02.9skkolg.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-ay8dq7r-shard-00-02.9skkolg.mongodb.net:27017: [Errno 11001] getaddrinfo failed (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0ms)')>]>
+2025-10-19 12:06:40,699 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:06:40] "[35m[1mGET /search?q=laptop&force_refresh=false&platforms=amazon,flipkart,myntra,meesho HTTP/1.1[0m" 500 -
+2025-10-19 12:07:10,449 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:07:10] "GET /search?q=laptop&force_refresh=false&platforms=amazon,flipkart,myntra,meesho HTTP/1.1" 200 -
+2025-10-19 12:08:33,034 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 12:08:33,250 - __main__ - INFO - Testing connection with ping...
+2025-10-19 12:08:34,018 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 12:08:34,018 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 12:08:34,018 - __main__ - INFO - MongoDB connection established
+2025-10-19 12:08:34,020 - __main__ - INFO - ============================================================
+2025-10-19 12:08:34,020 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 12:08:34,021 - __main__ - INFO - ============================================================
+2025-10-19 12:08:34,021 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 12:08:34,021 - __main__ - INFO - 
+2025-10-19 12:08:34,021 - __main__ - INFO - Available Endpoints:
+2025-10-19 12:08:34,021 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 12:08:34,021 - __main__ - INFO -    GET  /status
+2025-10-19 12:08:34,021 - __main__ - INFO -    GET  /products/all
+2025-10-19 12:08:34,021 - __main__ - INFO - ============================================================
+2025-10-19 12:08:34,031 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 12:08:34,031 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 12:08:38,121 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:08:38] "GET /search?q=laptop HTTP/1.1" 200 -
+2025-10-19 12:08:41,975 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:08:41] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:08:46,472 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:08:46] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:08:59,337 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 12:08:59,594 - __main__ - INFO - Testing connection with ping...
+2025-10-19 12:09:00,418 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 12:09:00,419 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 12:09:00,419 - __main__ - INFO - MongoDB connection established
+2025-10-19 12:09:00,420 - __main__ - INFO - ============================================================
+2025-10-19 12:09:00,421 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 12:09:00,421 - __main__ - INFO - ============================================================
+2025-10-19 12:09:00,421 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 12:09:00,421 - __main__ - INFO - 
+2025-10-19 12:09:00,421 - __main__ - INFO - Available Endpoints:
+2025-10-19 12:09:00,421 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 12:09:00,422 - __main__ - INFO -    GET  /status
+2025-10-19 12:09:00,422 - __main__ - INFO -    GET  /products/all
+2025-10-19 12:09:00,422 - __main__ - INFO - ============================================================
+2025-10-19 12:09:00,432 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 12:09:00,432 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 12:09:03,990 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:09:03] "GET /search?q=laptop HTTP/1.1" 200 -
+2025-10-19 12:09:07,742 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:09:07] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:09:14,337 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:09:14] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:10:47,795 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:10:47] "GET /search?q=smartphones&force_refresh=false&platforms=amazon,flipkart,myntra,meesho HTTP/1.1" 200 -
+2025-10-19 12:11:06,555 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:11:06] "GET /search?q=beer&force_refresh=false&platforms=amazon,flipkart,myntra,meesho HTTP/1.1" 200 -
+2025-10-19 12:12:35,536 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:12:35] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:14:13,959 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:14:13] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:14:24,460 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:14:24] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:17:49,041 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 12:17:49,496 - __main__ - INFO - Testing connection with ping...
+2025-10-19 12:17:50,381 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 12:17:50,383 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 12:17:50,383 - __main__ - INFO - MongoDB connection established
+2025-10-19 12:17:50,383 - __main__ - INFO - ============================================================
+2025-10-19 12:17:50,385 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 12:17:50,385 - __main__ - INFO - ============================================================
+2025-10-19 12:17:50,385 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 12:17:50,385 - __main__ - INFO - 
+2025-10-19 12:17:50,385 - __main__ - INFO - Available Endpoints:
+2025-10-19 12:17:50,386 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 12:17:50,386 - __main__ - INFO -    GET  /status
+2025-10-19 12:17:50,386 - __main__ - INFO -    GET  /products/all
+2025-10-19 12:17:50,386 - __main__ - INFO - ============================================================
+2025-10-19 12:17:50,394 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 12:17:50,394 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 12:18:20,782 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:18:20] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:21:28,808 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 12:21:29,211 - __main__ - INFO - Testing connection with ping...
+2025-10-19 12:21:34,237 - __main__ - ERROR - MongoDB connection failed: SSL handshake failed: ac-ay8dq7r-shard-00-02.9skkolg.mongodb.net:27017: [('SSL routines', '', 'tlsv1 alert internal error')] (configured timeouts: socketTimeoutMS: 10000.0ms, connectTimeoutMS: 10000.0
+2025-10-19 12:21:34,237 - __main__ - WARNING - Running in NO-CACHE mode
+2025-10-19 12:21:34,239 - __main__ - INFO - ============================================================
+2025-10-19 12:21:34,239 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 12:21:34,239 - __main__ - INFO - ============================================================
+2025-10-19 12:21:34,239 - __main__ - INFO - MongoDB Status: Disconnected
+2025-10-19 12:21:34,239 - __main__ - INFO - 
+2025-10-19 12:21:34,239 - __main__ - INFO - Available Endpoints:
+2025-10-19 12:21:34,240 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 12:21:34,240 - __main__ - INFO -    GET  /status
+2025-10-19 12:21:34,240 - __main__ - INFO -    GET  /products/all
+2025-10-19 12:21:34,240 - __main__ - INFO - ============================================================
+2025-10-19 12:21:34,262 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 12:21:34,263 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 12:23:33,121 - __main__ - INFO - Connecting to MongoDB Atlas...
+2025-10-19 12:23:33,827 - __main__ - INFO - Testing connection with ping...
+2025-10-19 12:23:36,055 - __main__ - INFO - MongoDB Atlas connection SUCCESSFUL!
+2025-10-19 12:23:36,056 - __main__ - INFO - Database: ecommerce_search_db
+2025-10-19 12:23:36,056 - __main__ - INFO - MongoDB connection established
+2025-10-19 12:23:36,057 - __main__ - INFO - ============================================================
+2025-10-19 12:23:36,057 - __main__ - INFO - Starting Display API - Fetch Results from MongoDB
+2025-10-19 12:23:36,058 - __main__ - INFO - ============================================================
+2025-10-19 12:23:36,058 - __main__ - INFO - MongoDB Status: Connected
+2025-10-19 12:23:36,058 - __main__ - INFO - 
+2025-10-19 12:23:36,058 - __main__ - INFO - Available Endpoints:
+2025-10-19 12:23:36,058 - __main__ - INFO -    GET  /search?q=<query>
+2025-10-19 12:23:36,058 - __main__ - INFO -    GET  /status
+2025-10-19 12:23:36,058 - __main__ - INFO -    GET  /products/all
+2025-10-19 12:23:36,058 - __main__ - INFO - ============================================================
+2025-10-19 12:23:36,097 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2025-10-19 12:23:36,098 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-19 12:24:38,177 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:24:38] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:24:49,508 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:24:49] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:24:59,238 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:24:59] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:25:04,360 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:25:04] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:25:14,563 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:25:14] "GET /products/all HTTP/1.1" 200 -
+2025-10-19 12:25:15,582 - werkzeug - INFO - 127.0.0.1 - - [19/Oct/2025 12:25:15] "GET /status HTTP/1.1" 200 -

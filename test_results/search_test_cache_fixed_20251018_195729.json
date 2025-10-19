@@ -1,0 +1,224 @@
+{
+  "success": true,
+  "query": "test_cache_fixed",
+  "total_results": 13,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "38.22s",
+  "timestamp": "2025-10-18T19:57:29.907016",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_cache_fixed",
+      "total_products": 13,
+      "basic_products": [
+        {
+          "title": "Checkmate Check Mate Infidelity Test Kit 2 Packs - 10 Tests - Check Your Spouse Boyfriend Girlfriend Partner.",
+          "price": "₹6,769",
+          "discount_percentage": "₹20,703.15 (67% off)",
+          "rating": "1.0",
+          "image_url": "https://m.media-amazon.com/images/I/71pyW12BcwL._AC_UL320_.jpg",
+          "image_alt": "Checkmate Check Mate Infidelity Test Kit 2 Packs - 10 Tests - Check Your Spouse Boyfriend Girlfriend Partner., Multi",
+          "link": "https://www.amazon.in/Check-Mate-Infidelity-Test-Kit/dp/B0006ZGKQC/ref=sr_1_1?dib=eyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4&dib_tag=se&keywords=test_cache_fixed&qid=1760797623&sr=8-1",
+          "brand": "Checkmate",
+          "category": "General",
+          "availability": "FREE delivery 8 - 10 Nov"
+        },
+        {
+          "title": "Sponsored Ad - Kwetmo Laser Measuring Device- 60 mtr Laser Distance Meter-Digital Measuring Tape-Distance Measurement Lase...",
+          "price": "₹2,089",
+          "discount_percentage": "₹3,999 (48% off)",
+          "rating": "4.2",
+          "image_url": "https://m.media-amazon.com/images/I/91a0YTyT+iL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Kwetmo Laser Measuring Device- 60 mtr Laser Distance Meter-Digital Measuring Tape-Distance Measurement Lase...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfbXRmOjMwMDU0NDQ1NjA0NDYzMjo6MDo6&url=%2FKwetmo-Meter-Digital-Tape-Distance-Measurement-Pythagorean%2Fdp%2FB0DR75JMWT%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=CEvaxWghYj&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "Sponsored Ad - FREEMANS Test & Measure Green Beam Self Levelling 25m Cross Line Laser Level",
+          "price": "₹2,941",
+          "discount_percentage": "₹6,100 (52% off)",
+          "rating": "4.1",
+          "reviews_count": "266",
+          "image_url": "https://m.media-amazon.com/images/I/51SBNEqVM5L._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - FREEMANS Test & Measure Green Beam Self Levelling 25m Cross Line Laser Level, with 4*AA Batteries for Home,...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfbXRmOjMwMDUyMTE4OTM2MzIzMjo6MDo6&url=%2FFREEMANS-Levelling-Batteries-Professional-Warranty%2Fdp%2FB0C4P6HQL9%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=GHmBca5hXQ&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "Sponsored Ad - WHISKET-100 Ml Glass Spice Jars With Bamboo Lids Airtight Spice Jars",
+          "price": "₹542",
+          "discount_percentage": "₹2,299 (76% off)",
+          "rating": "4.4",
+          "reviews_count": "227",
+          "image_url": "https://m.media-amazon.com/images/I/715Mcz2xhoL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - WHISKET-100 Ml Glass Spice Jars With Bamboo Lids Airtight Spice Jars, Seasoning Containers Set, Spice Conta...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfbXRmOjMwMDM3NzUxMTQ4NTIzMjo6MDo6&url=%2FWHISKET-Airtight-Seasoning-Containers-Bottles%2Fdp%2FB0CQG2DXMS%2Fref%3Dsr_1_4_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-4-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=65AqlUXYKt&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "Sponsored Ad - GIFTBASH Premium Round Glass FEDI Bottle @250ML with Cork LID",
+          "price": "₹775",
+          "discount_percentage": "₹1,500 (48% off)",
+          "rating": "4.0",
+          "image_url": "https://m.media-amazon.com/images/I/61IzQ9MYDBL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - GIFTBASH Premium Round Glass FEDI Bottle @250ML with Cork LID, Set of (3)",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfbXRmOjMwMDYyMjM2Mjk3NTYzMjo6MDo6&url=%2FGIFTBASH-Premium-Round-Glass-Bottle%2Fdp%2FB07X36K3VZ%2Fref%3Dsr_1_5_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-5-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=mSg4ztssQr&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "Sponsored Ad - XPR3SS 40m(131 Feet) Type-C Rechargeable Ultra Mini Compact Laser Distance Meter Range Finder Portable Digi...",
+          "price": "₹2,249",
+          "discount_percentage": "₹4,999 (55% off)",
+          "rating": "4.0",
+          "reviews_count": "280",
+          "image_url": "https://m.media-amazon.com/images/I/617vmnaCjsL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - XPR3SS 40m(131 Feet) Type-C Rechargeable Ultra Mini Compact Laser Distance Meter Range Finder Portable Digi...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfYnRmOjIwMDI3NTI2MDEyNDA4OjowOjo&url=%2FXPR3SS-Distance-Finder-Portable-Measure%2Fdp%2FB082TMW3MZ%2Fref%3Dsr_1_6_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-6-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=OmXOJDq3Az&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "Sponsored Ad - XPR3SS 80 Meters(263 feet) Type-C Rechargeable Angular Measure Metal Ultra Mini Compact Laser Distance Mete...",
+          "price": "₹2,899",
+          "discount_percentage": "₹6,999 (59% off)",
+          "rating": "3.7",
+          "reviews_count": "300",
+          "image_url": "https://m.media-amazon.com/images/I/31TETqyd5rL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - XPR3SS 80 Meters(263 feet) Type-C Rechargeable Angular Measure Metal Ultra Mini Compact Laser Distance Mete...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfYnRmOjIwMDE5MDI2MTI3Njk4OjowOjo&url=%2FXPR3SS-Rechargeable-Distance-Portable-Measuring%2Fdp%2FB081L6QKP7%2Fref%3Dsr_1_7_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-7-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=IchNyS2CjK&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "Sponsored Ad - VRINIV Quantum Body Analyzer Machine",
+          "price": "₹11,999",
+          "discount_percentage": "₹17,599 (32% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51L-SVC68cL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - VRINIV Quantum Body Analyzer Machine, 26G+, Full Body Check Up with Therapy, German Technology",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfYnRmOjMwMDYwMTg5OTU5NjEzMjo6MDo6&url=%2FVRINIV-Quantum-Analyzer-Machine-Technology%2Fdp%2FB0F887Q5W2%2Fref%3Dsr_1_8_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-8-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=HbqrolDvcY&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Bello Borosilicate Glass Test Tube with Wooden Cork Stoppers and Brush - Set of 25 (12 test tube",
+          "price": "₹379",
+          "discount_percentage": "₹599 (37% off)",
+          "image_url": "https://m.media-amazon.com/images/I/819xAMGGkML._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Bello Borosilicate Glass Test Tube with Wooden Cork Stoppers and Brush - Set of 25 (12 test tube, 12 cork a...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfYnRmOjMwMDIzMDA5MDk4ODQzMjo6MDo6&url=%2FBello-Borosilicate-Glass-Wooden-Stoppers%2Fdp%2FB0D4KCBR6Z%2Fref%3Dsr_1_9_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-9-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=0ugsCgasZi&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Top",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Bello Borosilicate Glass Test Tube 15mmX125mm With Rubber Cork (Test Tube 30pcs",
+          "price": "₹435",
+          "discount_percentage": "₹639 (32% off)",
+          "image_url": "https://m.media-amazon.com/images/I/61tlrgP0pNL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Bello Borosilicate Glass Test Tube 15mmX125mm With Rubber Cork (Test Tube 30pcs, Cork 30pcs) For School Col...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfYnRmOjMwMDU0ODY3MDAwMjkzMjo6MDo6&url=%2FBorosilicate-15mmX125mm-Rubber-College-Laboratory%2Fdp%2FB0DHQWFH3Z%2Fref%3Dsr_1_10_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-10-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=MPIpGxuX4W&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Amicismart Rcd Electric Socket",
+          "price": "₹1,259",
+          "discount_percentage": "₹2,000 (37% off)",
+          "rating": "4.1",
+          "reviews_count": "105",
+          "image_url": "https://m.media-amazon.com/images/I/61QnA0P04SL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Amicismart Rcd Electric Socket, Automatic Neutral Live Earth Wire Wall Plug Breakage Leakage Tester, 230Vac...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfYnRmOjMwMDE3MDI3NzI0MTQzMjo6MDo6&url=%2FamiciSmart-Electric-Automatic-Neutral-Breakage%2Fdp%2FB0836BQNH2%2Fref%3Dsr_1_11_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-11-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=2ykbAZlpUJ&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - PUSHPA Borosilicate Glass Flat Bottom Culture Tube Test Tube With Rubber Screw Cap for Precision Experiment...",
+          "price": "₹684",
+          "discount_percentage": "₹1,299 (47% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/31VOm6tI61L._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - PUSHPA Borosilicate Glass Flat Bottom Culture Tube Test Tube With Rubber Screw Cap for Precision Experiment...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfYnRmOjMwMDUwOTk5ODgxMTEzMjo6MDo6&url=%2FPUSHPA-Borosilicate-Culture-Precision-Experiments%2Fdp%2FB0CK5KY43Z%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=mWEgGM1dYX&sp_cr=ZAZ",
+          "brand": "HP",
+          "category": "Bottom",
+          "availability": "FREE delivery Thu, 30 Oct"
+        },
+        {
+          "title": "Sponsored Ad - FSI DM20 DEF/UREA TRUBINE METER",
+          "price": "₹3,500",
+          "discount_percentage": "₹8,000 (56% off)",
+          "rating": "2.9",
+          "image_url": "https://m.media-amazon.com/images/I/71gh3hv7pDL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - FSI DM20 DEF/UREA TRUBINE METER",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfYnRmOjMwMDU5NTQ1NDA2NDczMjo6MDo6&url=%2FDM20-ADBLUE-UREA-TRUBINE-METER%2Fdp%2FB0CXXZH3F5%2Fref%3Dsr_1_13_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-13-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=bztAxAXtnk&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Checkmate Check Mate Infidelity Test Kit 2 Packs - 10 Tests - Check Your Spouse Boyfriend Girlfriend Partner.",
+          "price": "₹6,769",
+          "brand": "Checkmate",
+          "category": "General",
+          "rating": "1.0",
+          "link": "https://www.amazon.in/Check-Mate-Infidelity-Test-Kit/dp/B0006ZGKQC/ref=sr_1_1?dib=eyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4&dib_tag=se&keywords=test_cache_fixed&qid=1760797623&sr=8-1",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71pyW12BcwL._AC_UL320_.jpg",
+              "alt": "Checkmate Check Mate Infidelity Test Kit 2 Packs - 10 Tests - Check Your Spouse Boyfriend Girlfriend Partner., Multi",
+              "thumbnail": "https://m.media-amazon.com/images/I/71pyW12BcwL._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - Kwetmo Laser Measuring Device- 60 mtr Laser Distance Meter-Digital Measuring Tape-Distance Measurement Lase...",
+          "price": "₹2,089",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "4.2",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfbXRmOjMwMDU0NDQ1NjA0NDYzMjo6MDo6&url=%2FKwetmo-Meter-Digital-Tape-Distance-Measurement-Pythagorean%2Fdp%2FB0DR75JMWT%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=CEvaxWghYj&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/91a0YTyT+iL._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - Kwetmo Laser Measuring Device- 60 mtr Laser Distance Meter-Digital Measuring Tape-Distance Measurement Lase...",
+              "thumbnail": "https://m.media-amazon.com/images/I/91a0YTyT+iL._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - FREEMANS Test & Measure Green Beam Self Levelling 25m Cross Line Laser Level",
+          "price": "₹2,941",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "4.1",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTk0MzcwMzMxMDEyNTkxOjE3NjA3OTc2MjM6c3BfbXRmOjMwMDUyMTE4OTM2MzIzMjo6MDo6&url=%2FFREEMANS-Levelling-Batteries-Professional-Warranty%2Fdp%2FB0C4P6HQL9%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.BZv_NlsHJQcd5jXuquLKqP51AFCQbtO9kCQxdkasw-4%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797623%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=GHmBca5hXQ&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/51SBNEqVM5L._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - FREEMANS Test & Measure Green Beam Self Levelling 25m Cross Line Laser Level, with 4*AA Batteries for Home,...",
+              "thumbnail": "https://m.media-amazon.com/images/I/51SBNEqVM5L._AC_UL320_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

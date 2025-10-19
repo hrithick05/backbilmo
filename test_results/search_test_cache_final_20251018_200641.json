@@ -1,0 +1,140 @@
+{
+  "success": true,
+  "query": "test_cache_final",
+  "total_results": 6,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "45.27s",
+  "timestamp": "2025-10-18T20:06:41.102105",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_cache_final",
+      "total_products": 6,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - XPR3SS 40m(131 Feet) Type-C Rechargeable Ultra Mini Compact Laser Distance Meter Range Finder Portable Digi...",
+          "price": "₹2,249",
+          "discount_percentage": "₹4,999 (55% off)",
+          "rating": "4.0",
+          "reviews_count": "280",
+          "image_url": "https://m.media-amazon.com/images/I/617vmnaCjsL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - XPR3SS 40m(131 Feet) Type-C Rechargeable Ultra Mini Compact Laser Distance Meter Range Finder Portable Digi...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozODExMzY5ODU1OTc0NzA2OjE3NjA3OTgxNjY6c3BfbXRmOjIwMDI3NTI2MDEyNDA4OjowOjo&url=%2FXPR3SS-Distance-Finder-Portable-Measure%2Fdp%2FB082TMW3MZ%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dtest_cache_final%26qid%3D1760798166%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=OmXOJDq3Az&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Tue, 28 Oct"
+        },
+        {
+          "title": "Sponsored Ad - amiciSense Earth Resistance Tester",
+          "price": "₹9,769",
+          "discount_percentage": "₹12,000 (19% off)",
+          "image_url": "https://m.media-amazon.com/images/I/61ffX-BkNaL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - amiciSense Earth Resistance Tester, High Precision Megohmmeter with Ground Voltage and Resistance Test with...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozODExMzY5ODU1OTc0NzA2OjE3NjA3OTgxNjY6c3BfbXRmOjMwMDQ3MzkzMTczMDczMjo6MDo6&url=%2FamiciSense-Resistance-Precision-Megohmmeter-Voltage%2Fdp%2FB0BJRSNC14%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dtest_cache_final%26qid%3D1760798166%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=0Vh8D5cyOu&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - XPR3SS 80 Meters(263 feet) Type-C Rechargeable Angular Measure Metal Ultra Mini Compact Laser Distance Mete...",
+          "price": "₹2,899",
+          "discount_percentage": "₹6,999 (59% off)",
+          "rating": "3.7",
+          "reviews_count": "300",
+          "image_url": "https://m.media-amazon.com/images/I/31TETqyd5rL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - XPR3SS 80 Meters(263 feet) Type-C Rechargeable Angular Measure Metal Ultra Mini Compact Laser Distance Mete...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozODExMzY5ODU1OTc0NzA2OjE3NjA3OTgxNjY6c3BfYnRmOjIwMDE5MDI2MTI3Njk4OjowOjo&url=%2FXPR3SS-Rechargeable-Distance-Portable-Measuring%2Fdp%2FB081L6QKP7%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dtest_cache_final%26qid%3D1760798166%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=IchNyS2CjK&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Tue, 28 Oct"
+        },
+        {
+          "title": "Sponsored Ad - XPR3SS 50 Meters(164 feet) Green Beam Laser Distance Meter Rangefinder Handheld High-Precision Green Laser ...",
+          "price": "₹1,895",
+          "discount_percentage": "₹6,999 (73% off)",
+          "rating": "3.6",
+          "reviews_count": "106",
+          "image_url": "https://m.media-amazon.com/images/I/71SyuAUu9ZL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - XPR3SS 50 Meters(164 feet) Green Beam Laser Distance Meter Rangefinder Handheld High-Precision Green Laser ...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozODExMzY5ODU1OTc0NzA2OjE3NjA3OTgxNjY6c3BfYnRmOjIwMDI3OTYzNDAzNDA4OjowOjo&url=%2FXPR3SS-Rangefinder-High-Precision-Measuring-Electronic%2Fdp%2FB084793HGL%2Fref%3Dsr_1_4_sspa%3Fkeywords%3Dtest_cache_final%26qid%3D1760798166%26sr%3D8-4-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=EYzN7PggyQ&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "Sponsored Ad - XPR3SS 200 Meter(656 Feet) Camera Assisted 800mAh Rechargeable Outdoor Laser Distance Meter with Angular Me...",
+          "price": "₹7,495",
+          "discount_percentage": "₹14,999 (50% off)",
+          "rating": "3.2",
+          "image_url": "https://m.media-amazon.com/images/I/71Cd+fNQM8L._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - XPR3SS 200 Meter(656 Feet) Camera Assisted 800mAh Rechargeable Outdoor Laser Distance Meter with Angular Me...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozODExMzY5ODU1OTc0NzA2OjE3NjA3OTgxNjY6c3BfYnRmOjMwMDEyOTI0ODE1MjEzMjo6MDo6&url=%2FXPR3SS-Assisted-Rechargeable-Measuring-Rangefinder%2Fdp%2FB0CTTR785J%2Fref%3Dsr_1_5_sspa%3Fkeywords%3Dtest_cache_final%26qid%3D1760798166%26sr%3D8-5-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=NyGfVra2Ws&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Camera",
+          "availability": "FREE delivery Mon, 27 Oct"
+        },
+        {
+          "title": "Sponsored Ad - MECRAAF® Distance Measuring Meter Tape",
+          "price": "₹1,799",
+          "discount_percentage": "₹4,499 (60% off)",
+          "rating": "4.5",
+          "image_url": "https://m.media-amazon.com/images/I/71pLI5u4FvL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - MECRAAF® Distance Measuring Meter Tape, 0.05 to 40 Meter | Laser Distance Meter with Backlit LCD & Pythagor...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozODExMzY5ODU1OTc0NzA2OjE3NjA3OTgxNjY6c3BfYnRmOjMwMDYzNTY0MTMxNjQzMjo6MDo6&url=%2FMECRAAF%25C2%25AE-Distance-Measuring-Backlit-Pythagorean%2Fdp%2FB0D4V2GLYF%2Fref%3Dsr_1_6_sspa%3Fkeywords%3Dtest_cache_final%26qid%3D1760798166%26sr%3D8-6-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=ZZQohRE7Pl&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Tue, 28 Oct"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - XPR3SS 40m(131 Feet) Type-C Rechargeable Ultra Mini Compact Laser Distance Meter Range Finder Portable Digi...",
+          "price": "₹2,249",
+          "brand": "Mi",
+          "category": "General",
+          "rating": "4.0",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozODExMzY5ODU1OTc0NzA2OjE3NjA3OTgxNjY6c3BfbXRmOjIwMDI3NTI2MDEyNDA4OjowOjo&url=%2FXPR3SS-Distance-Finder-Portable-Measure%2Fdp%2FB082TMW3MZ%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dtest_cache_final%26qid%3D1760798166%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=OmXOJDq3Az&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/617vmnaCjsL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - XPR3SS 40m(131 Feet) Type-C Rechargeable Ultra Mini Compact Laser Distance Meter Range Finder Portable Digi...",
+              "thumbnail": "https://m.media-amazon.com/images/I/617vmnaCjsL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - amiciSense Earth Resistance Tester",
+          "price": "₹9,769",
+          "brand": "Mi",
+          "category": "General",
+          "rating": "",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozODExMzY5ODU1OTc0NzA2OjE3NjA3OTgxNjY6c3BfbXRmOjMwMDQ3MzkzMTczMDczMjo6MDo6&url=%2FamiciSense-Resistance-Precision-Megohmmeter-Voltage%2Fdp%2FB0BJRSNC14%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dtest_cache_final%26qid%3D1760798166%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=0Vh8D5cyOu&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61ffX-BkNaL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - amiciSense Earth Resistance Tester, High Precision Megohmmeter with Ground Voltage and Resistance Test with...",
+              "thumbnail": "https://m.media-amazon.com/images/I/61ffX-BkNaL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - XPR3SS 80 Meters(263 feet) Type-C Rechargeable Angular Measure Metal Ultra Mini Compact Laser Distance Mete...",
+          "price": "₹2,899",
+          "brand": "Mi",
+          "category": "General",
+          "rating": "3.7",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozODExMzY5ODU1OTc0NzA2OjE3NjA3OTgxNjY6c3BfYnRmOjIwMDE5MDI2MTI3Njk4OjowOjo&url=%2FXPR3SS-Rechargeable-Distance-Portable-Measuring%2Fdp%2FB081L6QKP7%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dtest_cache_final%26qid%3D1760798166%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=IchNyS2CjK&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/31TETqyd5rL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - XPR3SS 80 Meters(263 feet) Type-C Rechargeable Angular Measure Metal Ultra Mini Compact Laser Distance Mete...",
+              "thumbnail": "https://m.media-amazon.com/images/I/31TETqyd5rL._AC_UY218_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

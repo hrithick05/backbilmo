@@ -1,0 +1,742 @@
+{
+  "success": true,
+  "query": "laptop",
+  "total_results": 36,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 4,
+  "processing_time": "119.65s",
+  "timestamp": "2025-10-18T15:47:44.694264",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "laptop",
+      "total_products": 8,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - Acer SmartChoice Aspire Lite",
+          "price": "₹29,990",
+          "discount_percentage": "₹58,999 (49% off)",
+          "rating": "3.9",
+          "reviews_count": "1,777",
+          "image_url": "https://m.media-amazon.com/images/I/61k0gpxQwCL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/512 GB, Full HD, 15.6\"/39.62 cm, Windows 1...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NTM1MTk1NTY1MzQ5MjU2OjE3NjA3ODI1NTk6c3BfYXRmOjMwMDM1MDU1NTA1MzQzMjo6MDo6&url=%2F5-5625U-Premium-Windows-AL15-41-Display%2Fdp%2FB0DG2GCTD7%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.yG0ipCVZGekhthuLTmZrCUXsSTMIcBcgpznv444tmstsB_NKQJb45LKYy7O1BYVpIbEW2UQoKo19c1NnYbJGmJfLs33mdQVygTtuGViVx6GOjNbqiTI1446D0uq4MNyAZgmbsVdRrOWy6x7PJwtDJDDv4lMHbGnv-VLlO1NvR-h50x0g1ktYYQ0HNzykPzyfo6JHgaV5M9qpcrGKTvIUmOI6kiSyigtvZlmUm4ZZQ-g.FgDetTyfL9aGOXdpYycGptD4XArjmDc7gPIS15a1lHI%26dib_tag%3Dse%26keywords%3Dlaptop%26qid%3D1760782559%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=IBWpU4rfPA&sp_cr=ZAZ",
+          "brand": "Acer",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Acer Aspire Lite",
+          "price": "₹33,990",
+          "discount_percentage": "₹52,990 (36% off)",
+          "rating": "3.8",
+          "reviews_count": "500",
+          "image_url": "https://m.media-amazon.com/images/I/619X5s7lZQL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Acer Aspire Lite, Intel Core i3 13th Gen - 1305U, 16GB RAM, 512GB SSD, Full HD 15.6\"/39.62 cm, Windows 11 H...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NTM1MTk1NTY1MzQ5MjU2OjE3NjA3ODI1NTk6c3BfYXRmOjMwMDU3OTM3NjY0MDczMjo6MDo6&url=%2FAcer-Aspire-Lite-Intel-Core%2Fdp%2FB0DKK15M2P%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.yG0ipCVZGekhthuLTmZrCUXsSTMIcBcgpznv444tmstsB_NKQJb45LKYy7O1BYVpIbEW2UQoKo19c1NnYbJGmJfLs33mdQVygTtuGViVx6GOjNbqiTI1446D0uq4MNyAZgmbsVdRrOWy6x7PJwtDJDDv4lMHbGnv-VLlO1NvR-h50x0g1ktYYQ0HNzykPzyfo6JHgaV5M9qpcrGKTvIUmOI6kiSyigtvZlmUm4ZZQ-g.FgDetTyfL9aGOXdpYycGptD4XArjmDc7gPIS15a1lHI%26dib_tag%3Dse%26keywords%3Dlaptop%26qid%3D1760782559%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=7Eqn4935yw&sp_cr=ZAZ",
+          "brand": "Acer",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "ASUS Vivobook 15",
+          "price": "₹41,990",
+          "discount_percentage": "₹57,990 (28% off)",
+          "rating": "3.9",
+          "image_url": "https://m.media-amazon.com/images/I/71zMooVIVAL._AC_UY218_.jpg",
+          "image_alt": "ASUS Vivobook 15, Smartchoice, AMD Ryzen 7 5825U, 16GB RAM, 512GB SSD, FHD 15.6\", Windows 11, Office Home 2024, Quiet Blu...",
+          "link": "https://www.amazon.in/ASUS-Vivobook-Smartchoice-Keyboard-M1502YA-BQ703WS/dp/B0FC2LKFSC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.yG0ipCVZGekhthuLTmZrCUXsSTMIcBcgpznv444tmstsB_NKQJb45LKYy7O1BYVpIbEW2UQoKo19c1NnYbJGmJfLs33mdQVygTtuGViVx6GOjNbqiTI1446D0uq4MNyAZgmbsVdRrOWy6x7PJwtDJDDv4lMHbGnv-VLlO1NvR-h50x0g1ktYYQ0HNzykPzyfo6JHgaV5M9qpcrGKTvIUmOI6kiSyigtvZlmUm4ZZQ-g.FgDetTyfL9aGOXdpYycGptD4XArjmDc7gPIS15a1lHI&dib_tag=se&keywords=laptop&qid=1760782559&sr=8-3",
+          "brand": "Vivo",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/256 GB SSD/Win11 Home/38 W...",
+          "price": "₹19,990",
+          "discount_percentage": "₹30,999 (36% off)",
+          "rating": "3.4",
+          "reviews_count": "641",
+          "image_url": "https://m.media-amazon.com/images/I/61qlqvTsocL._AC_UY218_.jpg",
+          "image_alt": "acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/256 GB SSD/Win11 Home/38 W...",
+          "link": "https://www.amazon.in/Acer-Celeron-Processor-LPDDR4X-A325-45/dp/B0D7PTFFZH/ref=sr_1_4?dib=eyJ2IjoiMSJ9.yG0ipCVZGekhthuLTmZrCUXsSTMIcBcgpznv444tmstsB_NKQJb45LKYy7O1BYVpIbEW2UQoKo19c1NnYbJGmJfLs33mdQVygTtuGViVx6GOjNbqiTI1446D0uq4MNyAZgmbsVdRrOWy6x7PJwtDJDDv4lMHbGnv-VLlO1NvR-h50x0g1ktYYQ0HNzykPzyfo6JHgaV5M9qpcrGKTvIUmOI6kiSyigtvZlmUm4ZZQ-g.FgDetTyfL9aGOXdpYycGptD4XArjmDc7gPIS15a1lHI&dib_tag=se&keywords=laptop&qid=1760782559&sr=8-4",
+          "brand": "Acer",
+          "category": "Laptop",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Acer SmartChoice Aspire Lite",
+          "price": "₹29,990",
+          "discount_percentage": "₹58,999 (49% off)",
+          "rating": "3.9",
+          "reviews_count": "1,777",
+          "image_url": "https://m.media-amazon.com/images/I/61k0gpxQwCL._AC_UY218_.jpg",
+          "image_alt": "Acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/512 GB, Full HD, 15.6\"/39.62 cm, Windows 11 Home, Steel G...",
+          "link": "https://www.amazon.in/5-5625U-Premium-Windows-AL15-41-Display/dp/B0DG2GCTD7/ref=sr_1_5?dib=eyJ2IjoiMSJ9.yG0ipCVZGekhthuLTmZrCUXsSTMIcBcgpznv444tmstsB_NKQJb45LKYy7O1BYVpIbEW2UQoKo19c1NnYbJGmJfLs33mdQVygTtuGViVx6GOjNbqiTI1446D0uq4MNyAZgmbsVdRrOWy6x7PJwtDJDDv4lMHbGnv-VLlO1NvR-h50x0g1ktYYQ0HNzykPzyfo6JHgaV5M9qpcrGKTvIUmOI6kiSyigtvZlmUm4ZZQ-g.FgDetTyfL9aGOXdpYycGptD4XArjmDc7gPIS15a1lHI&dib_tag=se&keywords=laptop&qid=1760782559&sr=8-5",
+          "brand": "Acer",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "HP 15s",
+          "price": "₹30,990",
+          "discount_percentage": "₹42,359 (27% off)",
+          "rating": "4.0",
+          "reviews_count": "639",
+          "image_url": "https://m.media-amazon.com/images/I/71+gQ9gOTuL._AC_UY218_.jpg",
+          "image_alt": "HP 15s, 12th Gen Intel Core i3-1215U (8GB DDR4, 512GB SSD) Anti-Glare, 15.6\"/39.6cm,FHD, Win 11, MS Office 21, Silver, 1.6...",
+          "link": "https://www.amazon.in/HP-i3-1215U-Anti-Glare-15-6inch-Graphics/dp/B0CJBL2QWY/ref=sr_1_6?dib=eyJ2IjoiMSJ9.yG0ipCVZGekhthuLTmZrCUXsSTMIcBcgpznv444tmstsB_NKQJb45LKYy7O1BYVpIbEW2UQoKo19c1NnYbJGmJfLs33mdQVygTtuGViVx6GOjNbqiTI1446D0uq4MNyAZgmbsVdRrOWy6x7PJwtDJDDv4lMHbGnv-VLlO1NvR-h50x0g1ktYYQ0HNzykPzyfo6JHgaV5M9qpcrGKTvIUmOI6kiSyigtvZlmUm4ZZQ-g.FgDetTyfL9aGOXdpYycGptD4XArjmDc7gPIS15a1lHI&dib_tag=se&keywords=laptop&qid=1760782559&sr=8-6",
+          "brand": "HP",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "HP 15",
+          "price": "₹48,990",
+          "discount_percentage": "₹70,841 (31% off)",
+          "rating": "3.7",
+          "reviews_count": "447",
+          "image_url": "https://m.media-amazon.com/images/I/71Z4mSII9BL._AC_UY218_.jpg",
+          "image_alt": "HP 15, 13th Gen Intel Core i5-1334U, (16GB DDR4,512GB SSD) Anti-Glare, Micro-Edge, FHD, 15.6''/39.6cm, Win11, M365 Basic(1...",
+          "link": "https://www.amazon.in/HP-i5-1335U-Anti-Glare-Micro-Edge-fd0577TU/dp/B0F4R6H3NB/ref=sr_1_7?dib=eyJ2IjoiMSJ9.yG0ipCVZGekhthuLTmZrCUXsSTMIcBcgpznv444tmstsB_NKQJb45LKYy7O1BYVpIbEW2UQoKo19c1NnYbJGmJfLs33mdQVygTtuGViVx6GOjNbqiTI1446D0uq4MNyAZgmbsVdRrOWy6x7PJwtDJDDv4lMHbGnv-VLlO1NvR-h50x0g1ktYYQ0HNzykPzyfo6JHgaV5M9qpcrGKTvIUmOI6kiSyigtvZlmUm4ZZQ-g.FgDetTyfL9aGOXdpYycGptD4XArjmDc7gPIS15a1lHI&dib_tag=se&keywords=laptop&qid=1760782559&sr=8-7",
+          "brand": "HP",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/512 GB SSD/Win11 Home/38 W...",
+          "price": "₹21,990",
+          "discount_percentage": "₹33,999 (35% off)",
+          "rating": "3.4",
+          "reviews_count": "641",
+          "image_url": "https://m.media-amazon.com/images/I/71TpwcAN1PL._AC_UY218_.jpg",
+          "image_alt": "acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/512 GB SSD/Win11 Home/38 W...",
+          "link": "https://www.amazon.in/Acer-Celeron-Processor-LPDDR4X-A325-45/dp/B0D7PYTTGH/ref=sr_1_8?dib=eyJ2IjoiMSJ9.yG0ipCVZGekhthuLTmZrCUXsSTMIcBcgpznv444tmstsB_NKQJb45LKYy7O1BYVpIbEW2UQoKo19c1NnYbJGmJfLs33mdQVygTtuGViVx6GOjNbqiTI1446D0uq4MNyAZgmbsVdRrOWy6x7PJwtDJDDv4lMHbGnv-VLlO1NvR-h50x0g1ktYYQ0HNzykPzyfo6JHgaV5M9qpcrGKTvIUmOI6kiSyigtvZlmUm4ZZQ-g.FgDetTyfL9aGOXdpYycGptD4XArjmDc7gPIS15a1lHI&dib_tag=se&keywords=laptop&qid=1760782559&sr=8-8",
+          "brand": "Acer",
+          "category": "Laptop",
+          "availability": "FREE delivery Fri, 24 Oct"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - Acer SmartChoice Aspire Lite",
+          "price": "₹29,990",
+          "brand": "Acer",
+          "category": "General",
+          "rating": "3.9",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NTM1MTk1NTY1MzQ5MjU2OjE3NjA3ODI1NTk6c3BfYXRmOjMwMDM1MDU1NTA1MzQzMjo6MDo6&url=%2F5-5625U-Premium-Windows-AL15-41-Display%2Fdp%2FB0DG2GCTD7%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.yG0ipCVZGekhthuLTmZrCUXsSTMIcBcgpznv444tmstsB_NKQJb45LKYy7O1BYVpIbEW2UQoKo19c1NnYbJGmJfLs33mdQVygTtuGViVx6GOjNbqiTI1446D0uq4MNyAZgmbsVdRrOWy6x7PJwtDJDDv4lMHbGnv-VLlO1NvR-h50x0g1ktYYQ0HNzykPzyfo6JHgaV5M9qpcrGKTvIUmOI6kiSyigtvZlmUm4ZZQ-g.FgDetTyfL9aGOXdpYycGptD4XArjmDc7gPIS15a1lHI%26dib_tag%3Dse%26keywords%3Dlaptop%26qid%3D1760782559%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=IBWpU4rfPA&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61k0gpxQwCL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - Acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/512 GB, Full HD, 15.6\"/39.62 cm, Windows 1...",
+              "thumbnail": "https://m.media-amazon.com/images/I/61k0gpxQwCL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - Acer Aspire Lite",
+          "price": "₹33,990",
+          "brand": "Acer",
+          "category": "General",
+          "rating": "3.8",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NTM1MTk1NTY1MzQ5MjU2OjE3NjA3ODI1NTk6c3BfYXRmOjMwMDU3OTM3NjY0MDczMjo6MDo6&url=%2FAcer-Aspire-Lite-Intel-Core%2Fdp%2FB0DKK15M2P%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.yG0ipCVZGekhthuLTmZrCUXsSTMIcBcgpznv444tmstsB_NKQJb45LKYy7O1BYVpIbEW2UQoKo19c1NnYbJGmJfLs33mdQVygTtuGViVx6GOjNbqiTI1446D0uq4MNyAZgmbsVdRrOWy6x7PJwtDJDDv4lMHbGnv-VLlO1NvR-h50x0g1ktYYQ0HNzykPzyfo6JHgaV5M9qpcrGKTvIUmOI6kiSyigtvZlmUm4ZZQ-g.FgDetTyfL9aGOXdpYycGptD4XArjmDc7gPIS15a1lHI%26dib_tag%3Dse%26keywords%3Dlaptop%26qid%3D1760782559%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=7Eqn4935yw&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/619X5s7lZQL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - Acer Aspire Lite, Intel Core i3 13th Gen - 1305U, 16GB RAM, 512GB SSD, Full HD 15.6\"/39.62 cm, Windows 11 H...",
+              "thumbnail": "https://m.media-amazon.com/images/I/619X5s7lZQL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "ASUS Vivobook 15",
+          "price": "₹41,990",
+          "brand": "Vivo",
+          "category": "General",
+          "rating": "3.9",
+          "link": "https://www.amazon.in/ASUS-Vivobook-Smartchoice-Keyboard-M1502YA-BQ703WS/dp/B0FC2LKFSC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.yG0ipCVZGekhthuLTmZrCUXsSTMIcBcgpznv444tmstsB_NKQJb45LKYy7O1BYVpIbEW2UQoKo19c1NnYbJGmJfLs33mdQVygTtuGViVx6GOjNbqiTI1446D0uq4MNyAZgmbsVdRrOWy6x7PJwtDJDDv4lMHbGnv-VLlO1NvR-h50x0g1ktYYQ0HNzykPzyfo6JHgaV5M9qpcrGKTvIUmOI6kiSyigtvZlmUm4ZZQ-g.FgDetTyfL9aGOXdpYycGptD4XArjmDc7gPIS15a1lHI&dib_tag=se&keywords=laptop&qid=1760782559&sr=8-3",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71zMooVIVAL._AC_UY218_.jpg",
+              "alt": "ASUS Vivobook 15, Smartchoice, AMD Ryzen 7 5825U, 16GB RAM, 512GB SSD, FHD 15.6\", Windows 11, Office Home 2024, Quiet Blu...",
+              "thumbnail": "https://m.media-amazon.com/images/I/71zMooVIVAL._AC_UY218_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "site": "Flipkart",
+      "query": "laptop",
+      "total_products": 8,
+      "basic_products": [
+        {
+          "title": "Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) NP750XGJ-K...",
+          "brand": "Samsung",
+          "price": "₹49,999",
+          "discount_percentage": "36%",
+          "rating": "4.413",
+          "reviews_count": "4.413,292 Ratings & 1,052 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/4/n/h/-original-imahgfdy4bszcfd4.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/4/n/h/-original-imahgfdy4bszcfd4.jpeg?q=70",
+          "image_alt": "Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) NP750XGJ-K...",
+          "link": "https://www.flipkart.com/samsung-galaxy-book4-metal-intel-core-i5-13th-gen-1335u-8-gb-512-gb-ssd-windows-11-home-np750xgj-kg1in-np750xgj-lg1in-thin-light-laptop/p/itm1df5212efb9fc?pid=COMGZUYDFZXHWYWZ&lid=LSTCOMGZUYDFZXHWYWZJ6V2KW&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_1&otracker=search&fm=organic&iid=en_B2-GV7Z33bg4U3tUutN1MYGmxp0qqlRxCskhstVsNP-z68YS3aWfeNUaTM0BywIHkCW4ytdtP_5VLy_TuZ6avk4IsYyWu-Pj9cxFjFAoaLk%3D&ppt=None&ppn=None&ssid=dtabg1f41s0000001760782590119&qH=312f91285e048e09",
+          "category": "Laptop",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) NP750XGJ-K...",
+          "specifications": [
+            "Intel Core i5 Processor (13th Gen)",
+            "8 GB LPDDR4X RAM",
+            "39.62 cm (15.6 Inch) Display"
+          ]
+        },
+        {
+          "title": "HP Intel Celeron Dual Core N4500 - (8 GB/512 GB SSD/Windows 11 Home) 14s-dq3149TU / 14s-dq3141TU Thin ...",
+          "brand": "HP",
+          "price": "₹20,990",
+          "discount_percentage": "30%",
+          "rating": "3.8190",
+          "reviews_count": "3.8190 Ratings & 7 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/y/l/z/-original-imahgfdygxgqfwym.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/y/l/z/-original-imahgfdygxgqfwym.jpeg?q=70",
+          "image_alt": "HP Intel Celeron Dual Core N4500 - (8 GB/512 GB SSD/Windows 11 Home) 14s-dq3149TU / 14s-dq3141TU Thin ...",
+          "link": "https://www.flipkart.com/hp-intel-celeron-dual-core-n4500-8-gb-512-gb-ssd-windows-11-home-14s-dq3149tu-14s-dq3141tu-thin-light-laptop/p/itmc22c90e8c0882?pid=COMHDNV8HQQJSHFH&lid=LSTCOMHDNV8HQQJSHFH6PJ234&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_2&otracker=search&fm=organic&iid=en_B2-GV7Z33bg4U3tUutN1MYGmxp0qqlRxCskhstVsNP_ASjun0RJdfrKAGt60W-d6BReq5ifmwEY4DSQkq1Gy__UFjCTyOHoHZs-Z5_PS_w0%3D&ppt=None&ppn=None&ssid=dtabg1f41s0000001760782590119&qH=312f91285e048e09",
+          "category": "General",
+          "availability": "Top Discount of the Sale",
+          "description": "HP Intel Celeron Dual Core N4500 - (8 GB/512 GB SSD/Windows 11 Home) 14s-dq3149TU / 14s-dq3141TU Thin ...",
+          "specifications": [
+            "Intel Celeron Dual Core Processor",
+            "8 GB DDR4 RAM",
+            "35.56 cm (14 Inch) Display"
+          ]
+        },
+        {
+          "title": "Lenovo Chromebook MediaTek Kompanio 520 - (4 GB/128 GB EMMC Storage/Chrome OS) 14M868 Chromebook",
+          "brand": "Lenovo",
+          "price": "₹10,999",
+          "discount_percentage": "61%",
+          "rating": "3.92",
+          "reviews_count": "3.92,799 Ratings & 239 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/k/3/v/-original-imahgfdfysyznaan.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/k/3/v/-original-imahgfdfysyznaan.jpeg?q=70",
+          "image_alt": "Lenovo Chromebook MediaTek Kompanio 520 - (4 GB/128 GB EMMC Storage/Chrome OS) 14M868 Chromebook",
+          "link": "https://www.flipkart.com/lenovo-chromebook-mediatek-kompanio-520-4-gb-128-gb-emmc-storage-chrome-os-14m868/p/itm4dc67999fe3de?pid=COMGSYYSHRSUEGMG&lid=LSTCOMGSYYSHRSUEGMGMC9HLZ&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_3&otracker=search&fm=organic&iid=a6b86f78-3bad-44ca-847c-b4b3a075eacf.COMGSYYSHRSUEGMG.SEARCH&ppt=None&ppn=None&ssid=dtabg1f41s0000001760782590119&qH=312f91285e048e09",
+          "category": "General",
+          "availability": "Top Discount of the Sale",
+          "description": "Lenovo Chromebook MediaTek Kompanio 520 - (4 GB/128 GB EMMC Storage/Chrome OS) 14M868 Chromebook",
+          "specifications": [
+            "Lenovo Chromebook MediaTek Kompanio 520 - (4 GB/128 GB EMMC Storage/Chrome OS) 14M868 Chromebook",
+            "MediaTek Kompanio 520 Processor",
+            "4 GB LPDDR4X RAM",
+            "35.56 cm (14 Inch) Display"
+          ]
+        },
+        {
+          "title": "Acer Aspire 3 Intel Celeron Dual Core - (8 GB/128 GB SSD/Windows 11 Home) A311-45 Thin and Light Lapto...",
+          "brand": "Acer",
+          "price": "₹13,895",
+          "discount_percentage": "60%",
+          "rating": "3.85",
+          "reviews_count": "3.85,587 Ratings & 502 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/w/b/u/-original-imahgfdfbprdg3mm.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/w/b/u/-original-imahgfdfbprdg3mm.jpeg?q=70",
+          "image_alt": "Acer Aspire 3 Intel Celeron Dual Core - (8 GB/128 GB SSD/Windows 11 Home) A311-45 Thin and Light Lapto...",
+          "link": "https://www.flipkart.com/acer-aspire-3-intel-celeron-dual-core-8-gb-128-gb-ssd-windows-11-home-a311-45-thin-light-laptop/p/itmad38595c5a902?pid=COMH7NCZGGGWQC4W&lid=LSTCOMH7NCZGGGWQC4WVLNYRU&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_4&otracker=search&fm=organic&iid=a6b86f78-3bad-44ca-847c-b4b3a075eacf.COMH7NCZGGGWQC4W.SEARCH&ppt=None&ppn=None&ssid=dtabg1f41s0000001760782590119&qH=312f91285e048e09",
+          "category": "Laptop",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Acer Aspire 3 Intel Celeron Dual Core - (8 GB/128 GB SSD/Windows 11 Home) A311-45 Thin and Light Lapto...",
+          "specifications": [
+            "Intel Celeron Dual Core Processor",
+            "8 GB DDR4 RAM",
+            "29.46 cm (11.6 inch) Display"
+          ]
+        },
+        {
+          "title": "Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520 - (4 GB/32 GB EMMC Storage/Chrome OS) 82W00004HA Ch...",
+          "brand": "Lenovo",
+          "price": "₹8,499",
+          "discount_percentage": "47%",
+          "rating": "3.91",
+          "reviews_count": "3.91,318 Ratings & 95 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/c/g/4/-original-imahgfdyf6grkw9r.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/c/g/4/-original-imahgfdyf6grkw9r.jpeg?q=70",
+          "image_alt": "Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520 - (4 GB/32 GB EMMC Storage/Chrome OS) 82W00004HA Ch...",
+          "link": "https://www.flipkart.com/lenovo-100e-chromebook-gen-4-mediatek-kompanio-520-4-gb-32-gb-emmc-storage-chrome-os-82w00004ha/p/itm1ae5f82096ad9?pid=COMHA9FK8YXVUUWA&lid=LSTCOMHA9FK8YXVUUWAAREQMZ&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_5&otracker=search&fm=organic&iid=a6b86f78-3bad-44ca-847c-b4b3a075eacf.COMHA9FK8YXVUUWA.SEARCH&ppt=None&ppn=None&ssid=dtabg1f41s0000001760782590119&qH=312f91285e048e09",
+          "category": "General",
+          "availability": "Top Discount of the Sale",
+          "description": "Lenovo 100e Chromebook Gen 4 MediaTek Kompanio 520 - (4 GB/32 GB EMMC Storage/Chrome OS) 82W00004HA Ch...",
+          "specifications": [
+            "MediaTek Kompanio 520 Processor",
+            "4 GB LPDDR4X RAM",
+            "29.46 cm (11.6 Inch) Display"
+          ]
+        },
+        {
+          "title": "Acer Aspire 3 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) A324-51 Thin and Light ...",
+          "brand": "Acer",
+          "price": "₹23,990",
+          "discount_percentage": "44%",
+          "rating": "4.24",
+          "reviews_count": "4.24,754 Ratings & 355 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/u/9/m/-original-imahgfdfgzfv9drf.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/u/9/m/-original-imahgfdfgzfv9drf.jpeg?q=70",
+          "image_alt": "Acer Aspire 3 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) A324-51 Thin and Light ...",
+          "link": "https://www.flipkart.com/acer-aspire-3-intel-core-i3-12th-gen-1215u-8-gb-512-gb-ssd-windows-11-home-a324-51-thin-light-laptop/p/itm7dda0a4d1d62a?pid=COMHY24RJH2YXVPG&lid=LSTCOMHY24RJH2YXVPGTVAAXW&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_6&otracker=search&fm=organic&iid=en_B2-GV7Z33bg4U3tUutN1MYGmxp0qqlRxCskhstVsNP-AytC9s-CbVqgveI6RceZnD_vszV2acEot_VOHGNlhpX3Gaq_wzx4HJysDmGalzMk%3D&ppt=None&ppn=None&ssid=dtabg1f41s0000001760782590119&qH=312f91285e048e09",
+          "category": "Laptop",
+          "availability": "Top Discount of the Sale",
+          "description": "Acer Aspire 3 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) A324-51 Thin and Light ...",
+          "specifications": [
+            "Intel Core i3 Processor (12th Gen)",
+            "8 GB DDR4 RAM",
+            "35.56 cm (14 Inch) Display"
+          ]
+        },
+        {
+          "title": "Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) NP750XGJ-...",
+          "brand": "Samsung",
+          "price": "₹49,890",
+          "discount_percentage": "39%",
+          "rating": "4.413",
+          "reviews_count": "4.413,292 Ratings & 1,052 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/4/n/h/-original-imahgfdy4bszcfd4.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/4/n/h/-original-imahgfdy4bszcfd4.jpeg?q=70",
+          "image_alt": "Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) NP750XGJ-...",
+          "link": "https://www.flipkart.com/samsung-galaxy-book4-metal-intel-core-i5-13th-gen-1335u-16-gb-512-gb-ssd-windows-11-home-np750xgj-kg2in-np750xgj-lg2in-thin-light-laptop/p/itm1df5212efb9fc?pid=COMGZUYDGFJGHZR4&lid=LSTCOMGZUYDGFJGHZR4OZ8PFJ&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&spotlightTagId=default_BestsellerId_6bo%2Fb5g&srno=s_1_7&otracker=search&fm=organic&iid=a6b86f78-3bad-44ca-847c-b4b3a075eacf.COMGZUYDGFJGHZR4.SEARCH&ppt=None&ppn=None&ssid=dtabg1f41s0000001760782590119&qH=312f91285e048e09",
+          "category": "Laptop",
+          "availability": "Top Discount of the Sale",
+          "description": "Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) NP750XGJ-...",
+          "specifications": [
+            "Intel Core i5 Processor (13th Gen)",
+            "16 GB LPDDR4X RAM",
+            "39.62 cm (15.6 Inch) Display"
+          ]
+        },
+        {
+          "title": "Acer Aspire Lite AMD Ryzen 3 Quad Core 5300U - (16 GB/512 GB SSD/Windows 11 Home) AL15-41 Thin and Lig...",
+          "brand": "Acer",
+          "price": "₹27,490",
+          "discount_percentage": "46%",
+          "rating": "4.2973",
+          "reviews_count": "4.2973 Ratings & 74 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/b/k/d/-original-imahb2kbf2zdan3z.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/b/k/d/-original-imahb2kbf2zdan3z.jpeg?q=70",
+          "image_alt": "Acer Aspire Lite AMD Ryzen 3 Quad Core 5300U - (16 GB/512 GB SSD/Windows 11 Home) AL15-41 Thin and Lig...",
+          "link": "https://www.flipkart.com/acer-aspire-lite-amd-ryzen-3-quad-core-5300u-16-gb-512-gb-ssd-windows-11-home-al15-41-thin-light-laptop/p/itm1bc0bcb4598e7?pid=COMH28U4WDFBUKP3&lid=LSTCOMH28U4WDFBUKP33B8RFG&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_8&otracker=search&fm=organic&iid=a6b86f78-3bad-44ca-847c-b4b3a075eacf.COMH28U4WDFBUKP3.SEARCH&ppt=None&ppn=None&ssid=dtabg1f41s0000001760782590119&qH=312f91285e048e09",
+          "category": "Laptop",
+          "description": "Acer Aspire Lite AMD Ryzen 3 Quad Core 5300U - (16 GB/512 GB SSD/Windows 11 Home) AL15-41 Thin and Lig...",
+          "specifications": [
+            "AMD Ryzen 3 Quad Core Processor",
+            "16 GB DDR4 RAM",
+            "39.62 cm (15.6 Inch) Display"
+          ]
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) NP750XGJ-K...",
+          "price": "₹49,999",
+          "mrp": "",
+          "discount_percentage": "36%",
+          "discount_amount": "",
+          "brand": "Samsung",
+          "category": "Laptop",
+          "rating": "4.413",
+          "reviews_count": "4.413,292 Ratings & 1,052 Reviews",
+          "description": "Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) NP750XGJ-K...",
+          "availability": "",
+          "delivery": "",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "specifications": [
+            "Intel Core i5 Processor (13th Gen)",
+            "8 GB LPDDR4X RAM",
+            "39.62 cm (15.6 Inch) Display"
+          ],
+          "link": "https://www.flipkart.com/samsung-galaxy-book4-metal-intel-core-i5-13th-gen-1335u-8-gb-512-gb-ssd-windows-11-home-np750xgj-kg1in-np750xgj-lg1in-thin-light-laptop/p/itm1df5212efb9fc?pid=COMGZUYDFZXHWYWZ&lid=LSTCOMGZUYDFZXHWYWZJ6V2KW&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_1&otracker=search&fm=organic&iid=en_B2-GV7Z33bg4U3tUutN1MYGmxp0qqlRxCskhstVsNP-z68YS3aWfeNUaTM0BywIHkCW4ytdtP_5VLy_TuZ6avk4IsYyWu-Pj9cxFjFAoaLk%3D&ppt=None&ppn=None&ssid=dtabg1f41s0000001760782590119&qH=312f91285e048e09",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/4/n/h/-original-imahgfdy4bszcfd4.jpeg?q=100",
+              "alt": "Samsung Galaxy Book4 Metal Intel Core i5 13th Gen 1335U - (8 GB/512 GB SSD/Windows 11 Home) NP750XGJ-K...",
+              "thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/4/n/h/-original-imahgfdy4bszcfd4.jpeg?q=70"
+            }
+          ]
+        },
+        {
+          "name": "HP Intel Celeron Dual Core N4500 - (8 GB/512 GB SSD/Windows 11 Home) 14s-dq3149TU / 14s-dq3141TU Thin ...",
+          "price": "₹20,990",
+          "mrp": "",
+          "discount_percentage": "30%",
+          "discount_amount": "",
+          "brand": "HP",
+          "category": "General",
+          "rating": "3.8190",
+          "reviews_count": "3.8190 Ratings & 7 Reviews",
+          "description": "HP Intel Celeron Dual Core N4500 - (8 GB/512 GB SSD/Windows 11 Home) 14s-dq3149TU / 14s-dq3141TU Thin ...",
+          "availability": "Top Discount of the Sale",
+          "delivery": "",
+          "special_offers": [],
+          "specifications": [
+            "Intel Celeron Dual Core Processor",
+            "8 GB DDR4 RAM",
+            "35.56 cm (14 Inch) Display"
+          ],
+          "link": "https://www.flipkart.com/hp-intel-celeron-dual-core-n4500-8-gb-512-gb-ssd-windows-11-home-14s-dq3149tu-14s-dq3141tu-thin-light-laptop/p/itmc22c90e8c0882?pid=COMHDNV8HQQJSHFH&lid=LSTCOMHDNV8HQQJSHFH6PJ234&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_2&otracker=search&fm=organic&iid=en_B2-GV7Z33bg4U3tUutN1MYGmxp0qqlRxCskhstVsNP_ASjun0RJdfrKAGt60W-d6BReq5ifmwEY4DSQkq1Gy__UFjCTyOHoHZs-Z5_PS_w0%3D&ppt=None&ppn=None&ssid=dtabg1f41s0000001760782590119&qH=312f91285e048e09",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/y/l/z/-original-imahgfdygxgqfwym.jpeg?q=100",
+              "alt": "HP Intel Celeron Dual Core N4500 - (8 GB/512 GB SSD/Windows 11 Home) 14s-dq3149TU / 14s-dq3141TU Thin ...",
+              "thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/y/l/z/-original-imahgfdygxgqfwym.jpeg?q=70"
+            }
+          ]
+        },
+        {
+          "name": "Lenovo Chromebook MediaTek Kompanio 520 - (4 GB/128 GB EMMC Storage/Chrome OS) 14M868 Chromebook",
+          "price": "₹10,999",
+          "mrp": "",
+          "discount_percentage": "61%",
+          "discount_amount": "",
+          "brand": "Lenovo",
+          "category": "General",
+          "rating": "3.92",
+          "reviews_count": "3.92,799 Ratings & 239 Reviews",
+          "description": "Lenovo Chromebook MediaTek Kompanio 520 - (4 GB/128 GB EMMC Storage/Chrome OS) 14M868 Chromebook",
+          "availability": "Top Discount of the Sale",
+          "delivery": "",
+          "special_offers": [],
+          "specifications": [
+            "Lenovo Chromebook MediaTek Kompanio 520 - (4 GB/128 GB EMMC Storage/Chrome OS) 14M868 Chromebook",
+            "MediaTek Kompanio 520 Processor",
+            "4 GB LPDDR4X RAM",
+            "35.56 cm (14 Inch) Display"
+          ],
+          "link": "https://www.flipkart.com/lenovo-chromebook-mediatek-kompanio-520-4-gb-128-gb-emmc-storage-chrome-os-14m868/p/itm4dc67999fe3de?pid=COMGSYYSHRSUEGMG&lid=LSTCOMGSYYSHRSUEGMGMC9HLZ&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_3&otracker=search&fm=organic&iid=a6b86f78-3bad-44ca-847c-b4b3a075eacf.COMGSYYSHRSUEGMG.SEARCH&ppt=None&ppn=None&ssid=dtabg1f41s0000001760782590119&qH=312f91285e048e09",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/k/3/v/-original-imahgfdfysyznaan.jpeg?q=100",
+              "alt": "Lenovo Chromebook MediaTek Kompanio 520 - (4 GB/128 GB EMMC Storage/Chrome OS) 14M868 Chromebook",
+              "thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/k/3/v/-original-imahgfdfysyznaan.jpeg?q=70"
+            }
+          ]
+        }
+      ]
+    },
+    [
+      {
+        "title": "Lino Perros",
+        "name": "Lino Perros",
+        "price": "Rs. 1138",
+        "link": "https://www.myntra.com/backpacks/lino+perros/lino-perros-women-navy-blue-14-inch-laptop-backpack/14835538/buy",
+        "rating": "1.5",
+        "image_url": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14835538/2021/7/22/f1f11a34-cc4b-4fec-a4c5-b70206fafad51626944116949-Lino-Perros-Women-Navy-Blue-Backpack-8181626944116377-1.jpg",
+        "image_alt": "Lino Perros Women Navy Blue 14 Inch Laptop Backpack",
+        "images": [
+          {
+            "url": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14835538/2021/7/22/f1f11a34-cc4b-4fec-a4c5-b70206fafad51626944116949-Lino-Perros-Women-Navy-Blue-Backpack-8181626944116377-1.jpg",
+            "alt": "Lino Perros Women Navy Blue 14 Inch Laptop Backpack",
+            "thumbnail": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14835538/2021/7/22/f1f11a34-cc4b-4fec-a4c5-b70206fafad51626944116949-Lino-Perros-Women-Navy-Blue-Backpack-8181626944116377-1.jpg"
+          }
+        ]
+      }
+    ],
+    {
+      "site": "Myntra",
+      "query": "laptop",
+      "total_products": 0,
+      "basic_products": [],
+      "detailed_products": [],
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "site": "Meesho",
+      "query": "laptop",
+      "total_products": 20,
+      "basic_products": [
+        {
+          "title": "Dust Covers",
+          "link": "https://www.meesho.com/rssh-best-quality-keyboard-skin-transparent-156-inch-keyboard-protector-keyboard-guard-keyboard-skin-pack-of-1-156-keyguard-365-x-135-cm/p/7kemia",
+          "price": "₹114",
+          "rating": "3.8",
+          "image_url": "https://images.meesho.com/images/products/457537906/b83yc_512.webp?width=360",
+          "image_alt": " Dust Covers",
+          "brand": "Dust",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Unique Kids Reading & Writing Toys",
+          "link": "https://www.meesho.com/reading-writing-toys/p/2m81yz",
+          "price": "₹298",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/158259707/5e7hi_512.webp?width=360",
+          "image_alt": "Unique Kids Reading & Writing Toys",
+          "brand": "Unique",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Attractive Toy Tablets & Computers",
+          "link": "https://www.meesho.com/educational-laptop-for-kids-games-20-fun-computer-activity-learning-toy-for-2-3-4-5-years-boys-girls-learn-letters-words-mathematics-music-logic-mouch-laptop/p/8mowyi",
+          "price": "₹717",
+          "rating": "3.6",
+          "image_url": "https://images.meesho.com/images/products/521843418/nvkvk_512.webp?width=360",
+          "image_alt": "Attractive Toy Tablets & Computers",
+          "brand": "Attractive",
+          "category": "Laptop",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Styles Kids Reading & Writing Toys",
+          "link": "https://www.meesho.com/strive-enterprise-batteries-not-included-kids-educational-learning-laptop-toy-pink-with-music-alphabet-quiz-features-26-activities/p/9m0rt3",
+          "price": "₹292",
+          "rating": "4.4",
+          "image_url": "https://images.meesho.com/images/products/581183175/4lsad_512.webp?width=360",
+          "image_alt": "Styles Kids Reading & Writing Toys",
+          "brand": "Style",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "New Cooling Pad",
+          "link": "https://www.meesho.com/zirak-laptop-stand-laptop-holder-riser-computer-tablet-stand-7-angles-adjustable-aluminum-ergonomic-foldable-portable-desktop-holder-compatible-with-all-type-of-laptop-10-156-color-black-silver/p/6qsgh3",
+          "price": "₹249",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/407794791/oa7n5_512.webp?width=360",
+          "image_alt": "New Cooling Pad",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Graceful Appliance Cover",
+          "link": "https://www.meesho.com/waterproof-dustproof-laptop-cover-size-1610505-inch-laminated-protection/p/9urbjh",
+          "price": "₹194",
+          "rating": "4.1",
+          "image_url": "https://images.meesho.com/images/products/595858733/erlzy_512.webp?width=360",
+          "image_alt": "Graceful Appliance Cover",
+          "brand": "Graceful",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Wonderful Laptop Skins",
+          "link": "https://www.meesho.com/scotlongeometryall-panellaptop-skin-17/p/5o9k3s",
+          "price": "₹172",
+          "rating": "3.7",
+          "image_url": "https://images.meesho.com/images/products/343087624/jljjj_512.webp?width=360",
+          "image_alt": "Wonderful Laptop Skins",
+          "category": "Laptop",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Classy Laptop Skins",
+          "link": "https://www.meesho.com/scotlon-cute-little-krishna-feels-happy/p/6t2rmc",
+          "price": "₹187",
+          "rating": "4.0",
+          "image_url": "https://images.meesho.com/images/products/411635028/vqvbh_512.webp?width=360",
+          "image_alt": "Classy Laptop Skins",
+          "brand": "Classy",
+          "category": "Laptop",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Educational Toys",
+          "link": "https://www.meesho.com/educational-learning-laptop-mouch-control-for-kids-english-language-computer-toy-with-keyboard-and-mouse-blue-and-white-learning-activity-alphabet-letter-words-mathematics-logical-memory-cg-mouch-control/p/991wwc",
+          "price": "₹722",
+          "rating": "3.7",
+          "image_url": "https://images.meesho.com/images/products/559401420/0d5dl_512.webp?width=360",
+          "image_alt": "Educational Toys",
+          "brand": "Educational",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Essential Laptop Skins",
+          "link": "https://www.meesho.com/scotlonselectedall-panellaptop-skin-2aqua-and-fire-dragon/p/5qp2ti",
+          "price": "₹172",
+          "rating": "3.9",
+          "image_url": "https://images.meesho.com/images/products/347170950/kmvaq_512.webp?width=360",
+          "image_alt": "Essential Laptop Skins",
+          "brand": "Essential",
+          "category": "Laptop",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Toy Tablets & Computers",
+          "link": "https://www.meesho.com/educational-laptop-for-kids-mouch-control-interactive-learning-computer-with-keyboard-20-fun-activity-learning-machine-now-learn-letter-words-games-mathematics-c2-mouch-control/p/91q51f",
+          "price": "₹783",
+          "rating": "4.1",
+          "image_url": "https://images.meesho.com/images/products/547094787/wjj7c_512.webp?width=360",
+          "image_alt": "Toy Tablets & Computers",
+          "brand": "Toy",
+          "category": "Laptop",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Trendy Kids Early Development & Activity Toys",
+          "link": "https://www.meesho.com/educational-learning-laptop-mouch-control-for-kids-english-language-computer-toy-with-keyboard-and-mouse-blue-and-white-learning-activity-alphabet-letter-words-mathematics-logical-memory-ce-mouch-control/p/991wrb",
+          "price": "₹719",
+          "rating": "4.1",
+          "image_url": "https://images.meesho.com/images/products/559401239/xgmvs_512.webp?width=360",
+          "image_alt": "Trendy Kids Early Development & Activity Toys",
+          "brand": "Trendy",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Trendy Skins & Decals Stickers",
+          "link": "https://www.meesho.com/rssh-universal-silicone-cover-dust-protector-for-156-inch-cleartransparent-laptop-keyboard-skin/p/7mbx1s",
+          "price": "₹117",
+          "rating": "3.9",
+          "image_url": "https://images.meesho.com/images/products/460770832/qcg6j_512.webp?width=360",
+          "image_alt": "Trendy Skins & Decals Stickers",
+          "brand": "Trendy",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Unique Laptop Skins",
+          "link": "https://www.meesho.com/scotlon-buddha-meditating-on-grass/p/6qcimg",
+          "price": "₹187",
+          "rating": "4.1",
+          "image_url": "https://images.meesho.com/images/products/407051080/8y48f_512.webp?width=360",
+          "image_alt": "Unique Laptop Skins",
+          "brand": "Unique",
+          "category": "Laptop",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Educational Toys",
+          "link": "https://www.meesho.com/educational-learning-kids-laptop-computer-toy-learning-toy-for-kids-tablet-computer-with-music-fun-activities-ideal-educational-laptop-df-piano-laptop/p/8veofr",
+          "price": "₹363",
+          "rating": "3.6",
+          "image_url": "https://images.meesho.com/images/products/536482359/r1g4a_512.webp?width=360",
+          "image_alt": "Educational Toys",
+          "brand": "Educational",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Classy Kids Educational Toys",
+          "link": "https://www.meesho.com/nilkanthvarni-toys-digital-educational-laptop-for-kids-learn-alphabets-numbers-words-music-and-play-games-pink-pink/p/1louot",
+          "price": "₹291",
+          "rating": "3.9",
+          "image_url": "https://images.meesho.com/images/products/96897629/eogxn_512.webp?width=360",
+          "image_alt": "Classy Kids Educational Toys",
+          "brand": "Classy",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Fashionable Kids Reading & Writing Toys",
+          "link": "https://www.meesho.com/nilkanthvarni-educational-computer-abc-and-123-learning-kids-laptop-with-led-display-and-music/p/2ra0fv",
+          "price": "₹299",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/166749115/4asyu_512.webp?width=360",
+          "image_alt": "Fashionable Kids Reading & Writing Toys",
+          "brand": "Fashion",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Trendy Laptop Skins",
+          "link": "https://www.meesho.com/scotlon-lord-sree-krishna-with-komadha-and-flying-bird/p/6t5wgl",
+          "price": "₹187",
+          "rating": "3.9",
+          "image_url": "https://images.meesho.com/images/products/411781269/dmsw9_512.webp?width=360",
+          "image_alt": "Trendy Laptop Skins",
+          "brand": "Trendy",
+          "category": "Laptop",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Dust Covers",
+          "link": "https://www.meesho.com/the-smart-choice-best-quality-keyboard-skin-transparent-156-inch-keyboard-protector-keyboard-guard-keyboard-skin-a3-pack-of-1-156-keyguard-365-x-135-cm/p/8shvsw",
+          "price": "₹118",
+          "rating": "3.8",
+          "image_url": "https://images.meesho.com/images/products/531593024/gwsua_512.webp?width=360",
+          "image_alt": " Dust Covers",
+          "brand": "Dust",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Educational Toys",
+          "link": "https://www.meesho.com/learning-kids-laptop-mouch-control-educational-learning-toys-for-ages-2-years-fun-abcd-number-games-word-games-and-music-perfect-for-boys-girls-for-3-to-5-year-olds-cb-mouch-control/p/991x61",
+          "price": "₹721",
+          "rating": "3.9",
+          "image_url": "https://images.meesho.com/images/products/559401769/wzh0a_512.webp?width=360",
+          "image_alt": "Educational Toys",
+          "brand": "Educational",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Dust Covers",
+          "price": "₹114",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Dust",
+          "category": "Fashion",
+          "rating": "3.8",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/rssh-best-quality-keyboard-skin-transparent-156-inch-keyboard-protector-keyboard-guard-keyboard-skin-pack-of-1-156-keyguard-365-x-135-cm/p/7kemia",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/457537906/b83yc_512.webp?width=360",
+              "alt": " Dust Covers",
+              "thumbnail": "https://images.meesho.com/images/products/457537906/b83yc_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Unique Kids Reading & Writing Toys",
+          "price": "₹298",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Unique",
+          "category": "Fashion",
+          "rating": "4.2",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/reading-writing-toys/p/2m81yz",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/158259707/5e7hi_512.webp?width=360",
+              "alt": "Unique Kids Reading & Writing Toys",
+              "thumbnail": "https://images.meesho.com/images/products/158259707/5e7hi_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Attractive Toy Tablets & Computers",
+          "price": "₹717",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Attractive",
+          "category": "Laptop",
+          "rating": "3.6",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/educational-laptop-for-kids-games-20-fun-computer-activity-learning-toy-for-2-3-4-5-years-boys-girls-learn-letters-words-mathematics-music-logic-mouch-laptop/p/8mowyi",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/521843418/nvkvk_512.webp?width=360",
+              "alt": "Attractive Toy Tablets & Computers",
+              "thumbnail": "https://images.meesho.com/images/products/521843418/nvkvk_512.webp?width=360"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

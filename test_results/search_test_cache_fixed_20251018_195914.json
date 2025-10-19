@@ -1,0 +1,210 @@
+{
+  "success": true,
+  "query": "test_cache_fixed",
+  "total_results": 12,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "96.57s",
+  "timestamp": "2025-10-18T19:59:14.874498",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_cache_fixed",
+      "total_products": 12,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - FREEMANS Test & Measure Green Beam Self Levelling 25m Cross Line Laser Level",
+          "price": "₹2,941",
+          "discount_percentage": "₹6,100 (52% off)",
+          "rating": "4.1",
+          "reviews_count": "266",
+          "image_url": "https://m.media-amazon.com/images/I/51SBNEqVM5L._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - FREEMANS Test & Measure Green Beam Self Levelling 25m Cross Line Laser Level, with 4*AA Batteries for Home,...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTc5Mjc1NDAyOTMwNjYyOjE3NjA3OTc2NzI6c3BfYXRmOjMwMDUyMTE4OTM2MzIzMjo6MDo6&url=%2FFREEMANS-Levelling-Batteries-Professional-Warranty%2Fdp%2FB0C4P6HQL9%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797672%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=GHmBca5hXQ&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "Checkmate Check Mate Infidelity Test Kit 2 Packs - 10 Tests - Check Your Spouse Boyfriend Girlfriend Partner.",
+          "price": "₹6,769",
+          "discount_percentage": "₹20,703.15 (67% off)",
+          "rating": "1.0",
+          "image_url": "https://m.media-amazon.com/images/I/71pyW12BcwL._AC_UL320_.jpg",
+          "image_alt": "Checkmate Check Mate Infidelity Test Kit 2 Packs - 10 Tests - Check Your Spouse Boyfriend Girlfriend Partner., Multi",
+          "link": "https://www.amazon.in/Check-Mate-Infidelity-Test-Kit/dp/B0006ZGKQC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U&dib_tag=se&keywords=test_cache_fixed&qid=1760797672&sr=8-2",
+          "brand": "Checkmate",
+          "category": "General",
+          "availability": "FREE delivery 8 - 10 Nov"
+        },
+        {
+          "title": "Sponsored Ad - FSI DM20 DEF/UREA TRUBINE METER",
+          "price": "₹3,500",
+          "discount_percentage": "₹8,000 (56% off)",
+          "rating": "2.9",
+          "image_url": "https://m.media-amazon.com/images/I/71gh3hv7pDL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - FSI DM20 DEF/UREA TRUBINE METER",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTc5Mjc1NDAyOTMwNjYyOjE3NjA3OTc2NzI6c3BfbXRmOjMwMDU5NTQ1NDA2NDczMjo6MDo6&url=%2FDM20-ADBLUE-UREA-TRUBINE-METER%2Fdp%2FB0CXXZH3F5%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797672%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=bztAxAXtnk&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - IONIX ORP Meter Oxidation Reduction Detector Redox Tester for Water Purity",
+          "price": "₹3,487",
+          "discount_percentage": "₹4,999 (30% off)",
+          "rating": "2.8",
+          "image_url": "https://m.media-amazon.com/images/I/51D6j7H13LL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - IONIX ORP Meter Oxidation Reduction Detector Redox Tester for Water Purity, water ORP tester, red, 1 Piece",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTc5Mjc1NDAyOTMwNjYyOjE3NjA3OTc2NzI6c3BfbXRmOjMwMDY1ODMxNTU4ODEzMjo6MDo6&url=%2FIONIX-ORP-Oxidation-Reduction-Detector%2Fdp%2FB0C466HL21%2Fref%3Dsr_1_4_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797672%26sr%3D8-4-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=7GekBzpLue&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Global Statclean Systems Power Factor Meter",
+          "price": "₹4,790",
+          "discount_percentage": "₹6,999 (32% off)",
+          "rating": "3.0",
+          "image_url": "https://m.media-amazon.com/images/I/41il1AgbqyL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Global Statclean Systems Power Factor Meter, SMD Tester, Magic Tester & More - Premium Quality Surface Resi...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTc5Mjc1NDAyOTMwNjYyOjE3NjA3OTc2NzI6c3BfbXRmOjMwMDIzMDc3NzM0NzYzMjo6MDo6&url=%2FGlobal-Statclean-Systems-Surface-Resistivity%2Fdp%2FB0B5CYDL6N%2Fref%3Dsr_1_5_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797672%26sr%3D8-5-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=WFZfzEkvMM&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Tue, 28 Oct"
+        },
+        {
+          "title": "Sponsored Ad - VRINIV Quantum Body Analyzer Machine",
+          "price": "₹11,999",
+          "discount_percentage": "₹17,599 (32% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51L-SVC68cL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - VRINIV Quantum Body Analyzer Machine, 26G+, Full Body Check Up with Therapy, German Technology",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTc5Mjc1NDAyOTMwNjYyOjE3NjA3OTc2NzI6c3BfbXRmOjMwMDYwMTg5OTU5NjEzMjo6MDo6&url=%2FVRINIV-Quantum-Analyzer-Machine-Technology%2Fdp%2FB0F887Q5W2%2Fref%3Dsr_1_6_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797672%26sr%3D8-6-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=HbqrolDvcY&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Docter Le Parco Digital Alcohol Tester Breath Analyzer with 5 Mouthpieces | Alcohol Detector Breathalyzer |...",
+          "price": "₹3,082",
+          "discount_percentage": "₹3,999 (23% off)",
+          "rating": "2.5",
+          "image_url": "https://m.media-amazon.com/images/I/71jU-eA+uSL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Docter Le Parco Digital Alcohol Tester Breath Analyzer with 5 Mouthpieces | Alcohol Detector Breathalyzer |...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTc5Mjc1NDAyOTMwNjYyOjE3NjA3OTc2NzI6c3BfYnRmOjMwMDM5NzAyOTkwNjAzMjo6MDo6&url=%2FProfessional-Breathalyzer-Handheld-Backlight-Concentration%2Fdp%2FB0B5N1QTV2%2Fref%3Dsr_1_7_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797672%26sr%3D8-7-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=foLItk355B&sp_cr=ZAZ",
+          "brand": "HP",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Digital Ph & Tds Meter for Water Testing Combo with ±0.1Ph 0.6\" LCD Mini Digital Pen Style Ph-Meter Set & D...",
+          "price": "₹537",
+          "discount_percentage": "₹999 (46% off)",
+          "image_url": "https://m.media-amazon.com/images/I/31M22vWCAlL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Digital Ph & Tds Meter for Water Testing Combo with ±0.1Ph 0.6\" LCD Mini Digital Pen Style Ph-Meter Set & D...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTc5Mjc1NDAyOTMwNjYyOjE3NjA3OTc2NzI6c3BfYnRmOjMwMDYxNTQ0MzU2MTMzMjo6MDo6&url=%2FDigital-Meter-Testing-%25C2%25B10-1Ph-Ph-Meter%2Fdp%2FB08X79J399%2Fref%3Dsr_1_8_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797672%26sr%3D8-8-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=v0ElUVvSOj&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Wed, 5 Nov"
+        },
+        {
+          "title": "Sponsored Ad - amiciSense RCD Socket Tester",
+          "price": "₹1,599",
+          "discount_percentage": "₹2,400 (33% off)",
+          "rating": "4.3",
+          "reviews_count": "249",
+          "image_url": "https://m.media-amazon.com/images/I/61BJfB0TPfL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - amiciSense RCD Socket Tester, Large LCD with Live Voltage and Leakage Display, Automatic Earth Neutral Line...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTc5Mjc1NDAyOTMwNjYyOjE3NjA3OTc2NzI6c3BfYnRmOjMwMDE3MDIyNTE4NTYzMjo6MDo6&url=%2FamiciSense-Voltage-Leakage-Display-Automatic%2Fdp%2FB08PV1BWTG%2Fref%3Dsr_1_9_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797672%26sr%3D8-9-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=GISZKZYcux&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Sponsored Ad - amiciSense Socket Tester",
+          "price": "₹1,849",
+          "discount_percentage": "₹2,500 (26% off)",
+          "rating": "3.8",
+          "image_url": "https://m.media-amazon.com/images/I/6147Xnt9+5L._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - amiciSense Socket Tester, 230VAC Voltage Detector Circuit Analyzer with RCD Test, Backlit, LCD Display and ...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTc5Mjc1NDAyOTMwNjYyOjE3NjA3OTc2NzI6c3BfYnRmOjMwMDQ3MTQ5NDQzNjgzMjo6MDo6&url=%2FamiciSense-Voltage-Detector-Analyzer-2xCR2032%2Fdp%2FB09SB3TT14%2Fref%3Dsr_1_10_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797672%26sr%3D8-10-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=QgSsoSmPkT&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Zhermack Zetaplus L Intro kit",
+          "price": "₹2,598",
+          "discount_percentage": "₹4,000 (35% off)",
+          "rating": "3.7",
+          "image_url": "https://m.media-amazon.com/images/I/41NxdHKKh2L._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Zhermack Zetaplus L Intro kit",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTc5Mjc1NDAyOTMwNjYyOjE3NjA3OTc2NzI6c3BfYnRmOjMwMDUzMTQzNTM0MTQzMjo6MDo6&url=%2FZhermack-Zetaplus-L-Intro-kit%2Fdp%2FB08W3L5C14%2Fref%3Dsr_1_11_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797672%26sr%3D8-11-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=AMzsjMrUm6&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Mon, 27 Oct"
+        },
+        {
+          "title": "Sponsored Ad - amiciSense Battery Internal Resistance Tester",
+          "price": "₹8,925",
+          "discount_percentage": "₹12,000 (26% off)",
+          "rating": "4.0",
+          "image_url": "https://m.media-amazon.com/images/I/71BRx+nG02L._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - amiciSense Battery Internal Resistance Tester, 4-Wire Battery Voltage and Resistance Test for Lead Lithium ...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTc5Mjc1NDAyOTMwNjYyOjE3NjA3OTc2NzI6c3BfYnRmOjMwMDQ0NzU0NTI4MzYzMjo6MDo6&url=%2FamiciSense-Battery-Internal-Resistance-Voltage%2Fdp%2FB0BPYDZGTW%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797672%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=2zzu8irdS4&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - FREEMANS Test & Measure Green Beam Self Levelling 25m Cross Line Laser Level",
+          "price": "₹2,941",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "4.1",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTc5Mjc1NDAyOTMwNjYyOjE3NjA3OTc2NzI6c3BfYXRmOjMwMDUyMTE4OTM2MzIzMjo6MDo6&url=%2FFREEMANS-Levelling-Batteries-Professional-Warranty%2Fdp%2FB0C4P6HQL9%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797672%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=GHmBca5hXQ&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/51SBNEqVM5L._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - FREEMANS Test & Measure Green Beam Self Levelling 25m Cross Line Laser Level, with 4*AA Batteries for Home,...",
+              "thumbnail": "https://m.media-amazon.com/images/I/51SBNEqVM5L._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Checkmate Check Mate Infidelity Test Kit 2 Packs - 10 Tests - Check Your Spouse Boyfriend Girlfriend Partner.",
+          "price": "₹6,769",
+          "brand": "Checkmate",
+          "category": "General",
+          "rating": "1.0",
+          "link": "https://www.amazon.in/Check-Mate-Infidelity-Test-Kit/dp/B0006ZGKQC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U&dib_tag=se&keywords=test_cache_fixed&qid=1760797672&sr=8-2",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71pyW12BcwL._AC_UL320_.jpg",
+              "alt": "Checkmate Check Mate Infidelity Test Kit 2 Packs - 10 Tests - Check Your Spouse Boyfriend Girlfriend Partner., Multi",
+              "thumbnail": "https://m.media-amazon.com/images/I/71pyW12BcwL._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - FSI DM20 DEF/UREA TRUBINE METER",
+          "price": "₹3,500",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "2.9",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTc5Mjc1NDAyOTMwNjYyOjE3NjA3OTc2NzI6c3BfbXRmOjMwMDU5NTQ1NDA2NDczMjo6MDo6&url=%2FDM20-ADBLUE-UREA-TRUBINE-METER%2Fdp%2FB0CXXZH3F5%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.cIqkhXlGK-ikJ4gF8oeXiA.dgmhSHI2UrhXyDlOKlLDphIxmO75NjVCV2rc6IAtz-U%26dib_tag%3Dse%26keywords%3Dtest_cache_fixed%26qid%3D1760797672%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=bztAxAXtnk&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71gh3hv7pDL._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - FSI DM20 DEF/UREA TRUBINE METER",
+              "thumbnail": "https://m.media-amazon.com/images/I/71gh3hv7pDL._AC_UL320_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

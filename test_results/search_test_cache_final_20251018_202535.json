@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "query": "test_cache_final",
+  "total_results": 2,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "35.6s",
+  "timestamp": "2025-10-18T20:25:35.477241",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_cache_final",
+      "total_products": 2,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - amiciSense Earth Resistance Tester",
+          "price": "₹9,769",
+          "discount_percentage": "₹12,000 (19% off)",
+          "image_url": "https://m.media-amazon.com/images/I/61ffX-BkNaL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - amiciSense Earth Resistance Tester, High Precision Megohmmeter with Ground Voltage and Resistance Test with...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjA0MDEyMjM0ODU2ODU3OjE3NjA3OTkzMTA6c3BfbXRmOjMwMDQ3MzkzMTczMDczMjo6MDo6&url=%2FamiciSense-Resistance-Precision-Megohmmeter-Voltage%2Fdp%2FB0BJRSNC14%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dtest_cache_final%26qid%3D1760799310%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=0Vh8D5cyOu&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "Sponsored Ad - 1PC Excellent Waterproof Voltage Tester Pen Line Fault Detector Plug Tester 70–250V AC Electrical Socket Ci...",
+          "price": "₹159",
+          "discount_percentage": "₹369 (57% off)",
+          "image_url": "https://m.media-amazon.com/images/I/61pCRIeDcvL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - 1PC Excellent Waterproof Voltage Tester Pen Line Fault Detector Plug Tester 70–250V AC Electrical Socket Ci...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjA0MDEyMjM0ODU2ODU3OjE3NjA3OTkzMTA6c3BfbXRmOjMwMDc0NjIwOTI3NzkzMjo6MDo6&url=%2Fdp%2FB0FSS37WGY%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dtest_cache_final%26qid%3D1760799310%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=kx4ygtztXH&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - amiciSense Earth Resistance Tester",
+          "price": "₹9,769",
+          "brand": "Mi",
+          "category": "General",
+          "rating": "",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjA0MDEyMjM0ODU2ODU3OjE3NjA3OTkzMTA6c3BfbXRmOjMwMDQ3MzkzMTczMDczMjo6MDo6&url=%2FamiciSense-Resistance-Precision-Megohmmeter-Voltage%2Fdp%2FB0BJRSNC14%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dtest_cache_final%26qid%3D1760799310%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=0Vh8D5cyOu&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61ffX-BkNaL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - amiciSense Earth Resistance Tester, High Precision Megohmmeter with Ground Voltage and Resistance Test with...",
+              "thumbnail": "https://m.media-amazon.com/images/I/61ffX-BkNaL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - 1PC Excellent Waterproof Voltage Tester Pen Line Fault Detector Plug Tester 70–250V AC Electrical Socket Ci...",
+          "price": "₹159",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjA0MDEyMjM0ODU2ODU3OjE3NjA3OTkzMTA6c3BfbXRmOjMwMDc0NjIwOTI3NzkzMjo6MDo6&url=%2Fdp%2FB0FSS37WGY%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dtest_cache_final%26qid%3D1760799310%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=kx4ygtztXH&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61pCRIeDcvL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - 1PC Excellent Waterproof Voltage Tester Pen Line Fault Detector Plug Tester 70–250V AC Electrical Socket Ci...",
+              "thumbnail": "https://m.media-amazon.com/images/I/61pCRIeDcvL._AC_UY218_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

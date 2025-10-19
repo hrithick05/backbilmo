@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "query": "test_cache_working",
+  "total_results": 4,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "37.82s",
+  "timestamp": "2025-10-18T21:21:55.398654",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_cache_working",
+      "total_products": 4,
+      "basic_products": [
+        {
+          "title": "No results for your search query",
+          "image_url": "",
+          "image_alt": "",
+          "category": "General"
+        },
+        {
+          "title": "Sponsored",
+          "price": "₹1,310",
+          "discount_percentage": "₹2,990 (56% off)",
+          "rating": "4.2",
+          "reviews_count": "408",
+          "image_url": "https://aax-eu-zaz.amazon.in/e/loi/imp?b=JJF406x6g_8MexUox-Hr6G8AAAGZ-ATOSQoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCcYe8u",
+          "image_alt": "",
+          "link": "https://aax-eu-zaz.amazon.in/x/c/JJF406x6g_8MexUox-Hr6G8AAAGZ-ATOSQoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCcYe8u/clv1_CEuOPUxokZA0iHrVWdcv_zjwWVw9TapqmqwF1WCH6eR_139X4AzwCv018HHz9hvVjq0yzpNb3X7OfU01AmcABHhhCzuxD-a1DFFSSHpzawesAoF2okfB8IkGXCQ3UuW6XJeXalC7rdIQEQQ8kV_3ZVhXLA8QC8x8H15tWbp4Xgyay_2WjkwrSxutOI2vKbYuDzUcfMyagcpNBHhtJZhsefQQh8yliMIIKin6O61_zAYOsoJhkeWuV2gvjBmW5lJBN2PMN-SRnR9AjX0lL9xFahCwdXiTzSjwM7ue27rwaIsYY2eP1aK1xkuNcA7FBIOT3_cq0eVrbNPflpKADuCKKedW3txPQzVpoPUj3vJwK7Zm7GN9X0io_yWr3JYqfnqDdhxLjmOcuEwt-BLYNaGtZlZLf4TzhPBne-wSBml9tlZkUux_rAVrRF9I0bxcInIFH-Gzc_r6mO-bWyVNaReipMUTeUmOk2KifChiJ4snkeH1E39g8pKg8xPmTmFjVYOMr_VkwTthKoxWmj2Ajwi85x_bWgR-Y2A4Ly61XW_0GbfWKhOMGTd0mEAZAg3OfkfrU_0Pj89oQgyJhpZTgsU3XVSZOi98lgp6zP47jZipuW8Vvb-f_ZYgVnHu5zjScpWFM2scS8o1ABhn481pGY9shwxF27f7YSR6Znokusl-4JsVN2kebzKRl2sYhhzvAcNZ_wcF-2V74fQH6t4cOSiXLmMNzbHgbd3w46TyG2QZKS3Y2CLPaddC7Agez_QiWOqXvKdcMhLTn2TR5RPMYAbeH3RllibLAkpWt8pDeNEBQSWC8nkvH_B8gRhjnKuSSVOtVuWyajNb6VDKpuVsRc5qk4SjjEYnzP6yFOOEm8C7vGmRxFXhynMh-1XVvGCUvTL5rqIvkfwinyTmQ_ALU7ssEdOE4MyY9TJfJi0RDlbZoRTQlDtxI3YcZk9rYym_92iaxW-OX_qaw4_rv8HJ8j-aX6pPOeCBabTk_XSiZw1dAOsrQjF9axR_SouN6x_zY1kgIDei9IJf_gsQeLMP37yo8xZ9vDBSBM-YpkFf4IFikBxjRGWSepGNJwq8TJJPOOVsSXOpRIvkGgxWT7e-Z5ahneu8fyH-naFsaskCPlo3D4e6FUecF9pYmH9dDKGXhOHtuMwqdsrzqwwhR-J18Ec2S3B7eeCYGV7zDYgGjtCgnby99CyexlDH3LYrhU1RZ8ASOyGFEmnS1me8XioshF3RP-OSyMBZoIlI0yGY9L5eI0XNI2UIQniE1Ua_vC1zIa3-Qogtleujb3zCTpBdQZowrFsp1rpZi6aWzguYzGWoMsDcadIxFO3Qn_B4kBio7LYHCKoYfwa8_Gjqju8LbUkW36T23tl0819YS55lFcZJsts3l2-4OFmWvs68LnisY4c5FzjgflCzSg7cWSgsZJOLNL2tuUG1Nklx2qg2-qH0mFtkVDUhr44nFNMDHh_cLDKL0zAJOEL-tL-8nTvrEjb6SEDN0jSpQugf4LsS6vcr1lIKhGHkO1uRG3gm7okpw-6HsG78eRdbf-13N7bZRt42JRDit-PZLUuxHVWJKPUeu8Kq58bL5f69XaRjAtBTq_9CX8PzGFzn45flF__pHEcrSTBK5Mv9wrMI0p3E92zrxfO4fVyxKgqOkj9Ji3ZEQraCVCzPPUfC4r8OXFyKsSNs_J8WdAXUaGkWFLt7_fdmZKqUNe1-6pTmaUMqzei8vvW9_vtHQouDvTQMp02lk5cdKx387xZ1sC6i8d94AxOH8wL-luX0-PwAQcdq_kb2MeF6qok34hS9q-9FP8JQQ4VwhlYKLufqwnTRVOWCDxfXpM25E5a1yroH78YJT9Dxr_F9owYpe9ldGKgXp8PzAHLlCrSGjbMPI-inHNhxbT1rtkZRiuDkD6m8u38FcKm01voNjoLydwMEgNuOjy9IbgrMKsyVqi1_0NE5WOHzjawRl0prNDFBxJDuep4kxgODFS1znIDHSmMmGvWm0Lmrd7qVHRuGie1uKW2pdIY1JwGLKtbGZhxDI8GvcKCDiTbe8Vc4O9JBYxJmZowmpWlditT8mMTCqcI1ec2VGKchDfv06Qep5-eB8N2fzCYYqfG1ii83Cl1O38LTmAuY-A6fbHn_Ki1zWsH8hpGCfeYNkQ0ZCr64BcZtVnKLM6AxhIY3u0zkVj8sjD4vLXNFIB6tNRn9-jGEC9W-0jZ2kEfeAtIKBK48KJaqBN2QHO9APHZfHGBnj4WaN63kvZze5I51QJki68mn6NZMnEAc6-vyNFR25MYkPaUSeDoltukyBoCd66VvP3C9YKWolX_eo0xXUuPeMsCNEbnZ2OlzPubpIxMtRKrpXSA/https://www.amazon.in/dp/8196373570?aref=m5SFS2y9xk&pd_rd_i=8196373570&pf_rd_p=fa654091-9aaa-43a3-ac17-a2ad95526fd2&pf_rd_r=PJ80K94W612PQHW18R6A&pd_rd_wg=jUKpF&pd_rd_w=6iPBW&pd_rd_r=9548cdb2-86f9-44d5-a997-87a4716e3403",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "Items related to your search",
+          "image_url": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/c3deb3e6-aa57-43a5-9265-21fdd76b822b._CR0,62,2077,1088_SX920_CB1169409_QL70_.jpg",
+          "image_alt": "Wiley",
+          "link": "https://aax-eu-zaz.amazon.in/x/c/JDMX7foijWxoufC2P0HcBMoAAAGZ-ATO2goAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICA1AnQo/clv1_CEuOPUxokZA0iHrVev83mybpTEtrDqoPqq062j-YychP139n4QzwCv018HHz9hvVjq0yzpNb3X7OfU0RAmcAIlhtK2SQNez5PEBQNmVADWKtA6ttskfB8IkGXCQfUuW6XJeXalC7rdIQEQQ8kV_3ZVhXLA8QC8x8H15tWbp4Xgyay_2WjkwrSxutOI2vKbYuDzUcfMyagcpNBHhtJZhsefQQh8yliMIIKin6O61_zAYOsoJhkeWuV2gvjBmW5lJBN2PMN-SRnR9AjX0lL9xFahCwdXiTzSjwM7ue27rwaIsYY2eP1aK1xkuNcA7FBIOT3_cq0eVrbNPflqfpDvy4Ipxv7rkrXwNorPc-98RbNJ5y62MgMBSW_yWr3JYqfnqDdhxLjmecuEwt_BDYB6OtdlZLf4TRzPFNRvEpCWV2jTxgFe1_kgdoI2VpwpV6JHIFG-OwWsjgsrOtXiM7DjCZpKEWf0msmmW1RTFlUrFYkuPxF1RdyIOiyiH3ZhBFDbjpq6tq9C9aKYguwDm5l1Wq_D2HXCFqUFsAGS2mWjj0M-_rdCqXHRJN8VxFOX3VK1TsZeM16uJhQBy7koUM-d4LOFDLERN7nAx8_fQ_spejvEQkv7P6-bgZPFPi5ASHbJ6RKD4NYvMhBCZn481pN8hshxBE2ZrWOSRDdWszl9og95sVe2sdXX-Sl1Uchw_vTNRZ-wIF1mUz4s0HoMoMH2GXF3AY2Zj4bMnn4LrlInRTPS7ukCH2foxWwhAfz4IbTuqsnaJINyzJpBXj6RXONUPXDxc6lD3qV1t_jt5SUdoRUA-w6GoZF7dCgRw5kLqaS1K2VbmLbC9D6TWTo9p8C9J8qsqmoX8rzsmYE7yCs_GysXyW41XhyWog7y7WvG-quTHVtvgfzeB7mXuRD_IOSLgXFc-t_cqi9TJdFB0MUynlmAD9lwFfL28UXBJ3ayni726mvm61cvnA74uR89fJw2qLcaZuCeGdc5nK6W2xUn5uO_o4Wxx6ZFNgTb7V9DKbJ3Ajfn-33rMK-Q8mc5g627-tySRxiyBsHdyqg3FI4rd8kiJ3C2SsVNiNJxq4T5JfevFpdHORIZ_SGxwpDo_iAL-ysfPnfCH-2qBuXNgtAyJ9GJulUVCPLrxOiUZCN6GpvtPX5dAUdKW6qhgmQc1b_QIiTk4kVfSZXkjtMJQ-jp3EnbO59xek7E_96bIHvCtZbvsSMyG-EgLh6kmjHQMptlb8FdmE5e1grqdP1CGU4LIQEFrFal4IIUGC1Va-tCIYIa3-QosQoO-2VFLnE4dITpA2r08u7apdi7CW-xGYqW2wM9DMbOxGGJvo9PQxpweW97QSNvUNeAG8xxn1kdIAdVoW3fn03eMh_nRZdd9eZd5vtbE7k1W8JwySl8a8LnisIrtBMR_raiytcHzhWz0aSoCba5OLtUKELFxL2qgvw-POkFkfYjREr6c5Fv0lDzHHMw6l9SwwABfGjpKnwwfvNBbMSH3izGjnY-gxypUS-esMzm0woXDJIESqa2BF7okhwuGyqCbAbQgXQcZGLZqGScUMLhT-mJTsPUjbN32wHYIKufem8fDLx7WFOZJ6MNA86MRRYsbYMUj9zqrAVMTEAEQ-Vw1I4b79wrMV-Ib-wnTV__e3MXLDJQCIlSRSigdYH4zkbSnkH0SS55MJVnbXrTN5_JcKdHHuVH8IIatWo9I-XNGLKfgUmYvdHCw0y_iGvc2TiaB8TfyElSt7vGKch48ndBrywHxhsCyYioBuDBDD8Fywis312eAGNbRQyUvqHewTj4wh4VK8q7FjKv9AU5pz4nQsJ_bPyHLRfuWDEVGHj5HDDbuDzrwEhMIWTM2SsfF-uyAvXsFYCJUp_NnJFCD1GZLIiYBwdPScQOltaDFDviBgze7pF52PgSMmXoekzNYvr9z0dDZcgPqRzi9JUBH9KNikswVz5OE7DuTAn6A6pVkNDB5v4s7SZYF42F_JCRBsnMPqY1plN8mQzaewVYKkJHDdvP1EBFiqRoQbDl3QFdm5ajdQEjA05z1OEopoOB9Dzym2-ZnoMfrSKtb7aVav_CU6MVhMuq23O7QyYN4kB-Nc1toXdh9XPKs5xDA_Ho6L-TRcKVB7D9DlJm3LFz3iP3IsC4DUld3RN7hb0VUZDb6kBNw0XTrVcfNsxIYwoE3nWiR1miM0OHdyNl3qDCvA2yKTD52jkxcapHGdK7drRqs6L93VBNzcBuxqGkowARIzoaBwYtI0zeu224NTUrJK5OqXxsp7rFgcvqI5Wzoht07-LE6LQyZ6ppu8-jWErsg/https://www.amazon.in/stores/page/DE474FB6-18C0-45AD-A118-449B54B61F83/?_encoding=UTF8&store_ref=SB_A0060554JZ2SWG7THM4C-A02443941IN5QTO80Y1IB&pd_rd_plhdr=t&aaxitk=d007a34a2412671e7f8b73d1680d7c9a&hsa_cr_id=6798802630602&lp_query=test_cache_working&lp_slot=desktop-hsa-3psl&aref=JOd58mYtoF&ref_=sbx_be_s_3psl_mbd_mb0_bkgd&pd_rd_w=r2K3F&content-id=amzn1.sym.b886e04b-39e7-411c-8add-a6879775de2f%3Aamzn1.sym.b886e04b-39e7-411c-8add-a6879775de2f&pf_rd_p=b886e04b-39e7-411c-8add-a6879775de2f&pf_rd_r=PJ80K94W612PQHW18R6A&pd_rd_wg=snR7x&pd_rd_r=c13bb8c6-6b93-4ef9-9dae-669b577fca97",
+          "brand": "Items",
+          "category": "General"
+        },
+        {
+          "title": "Need help?",
+          "image_url": "",
+          "image_alt": "",
+          "link": "https://www.amazon.in/gp/help/customer/display.html?nodeId=201889520",
+          "brand": "Need",
+          "category": "General"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored",
+          "price": "₹1,310",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "4.2",
+          "link": "https://aax-eu-zaz.amazon.in/x/c/JJF406x6g_8MexUox-Hr6G8AAAGZ-ATOSQoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCcYe8u/clv1_CEuOPUxokZA0iHrVWdcv_zjwWVw9TapqmqwF1WCH6eR_139X4AzwCv018HHz9hvVjq0yzpNb3X7OfU01AmcABHhhCzuxD-a1DFFSSHpzawesAoF2okfB8IkGXCQ3UuW6XJeXalC7rdIQEQQ8kV_3ZVhXLA8QC8x8H15tWbp4Xgyay_2WjkwrSxutOI2vKbYuDzUcfMyagcpNBHhtJZhsefQQh8yliMIIKin6O61_zAYOsoJhkeWuV2gvjBmW5lJBN2PMN-SRnR9AjX0lL9xFahCwdXiTzSjwM7ue27rwaIsYY2eP1aK1xkuNcA7FBIOT3_cq0eVrbNPflpKADuCKKedW3txPQzVpoPUj3vJwK7Zm7GN9X0io_yWr3JYqfnqDdhxLjmOcuEwt-BLYNaGtZlZLf4TzhPBne-wSBml9tlZkUux_rAVrRF9I0bxcInIFH-Gzc_r6mO-bWyVNaReipMUTeUmOk2KifChiJ4snkeH1E39g8pKg8xPmTmFjVYOMr_VkwTthKoxWmj2Ajwi85x_bWgR-Y2A4Ly61XW_0GbfWKhOMGTd0mEAZAg3OfkfrU_0Pj89oQgyJhpZTgsU3XVSZOi98lgp6zP47jZipuW8Vvb-f_ZYgVnHu5zjScpWFM2scS8o1ABhn481pGY9shwxF27f7YSR6Znokusl-4JsVN2kebzKRl2sYhhzvAcNZ_wcF-2V74fQH6t4cOSiXLmMNzbHgbd3w46TyG2QZKS3Y2CLPaddC7Agez_QiWOqXvKdcMhLTn2TR5RPMYAbeH3RllibLAkpWt8pDeNEBQSWC8nkvH_B8gRhjnKuSSVOtVuWyajNb6VDKpuVsRc5qk4SjjEYnzP6yFOOEm8C7vGmRxFXhynMh-1XVvGCUvTL5rqIvkfwinyTmQ_ALU7ssEdOE4MyY9TJfJi0RDlbZoRTQlDtxI3YcZk9rYym_92iaxW-OX_qaw4_rv8HJ8j-aX6pPOeCBabTk_XSiZw1dAOsrQjF9axR_SouN6x_zY1kgIDei9IJf_gsQeLMP37yo8xZ9vDBSBM-YpkFf4IFikBxjRGWSepGNJwq8TJJPOOVsSXOpRIvkGgxWT7e-Z5ahneu8fyH-naFsaskCPlo3D4e6FUecF9pYmH9dDKGXhOHtuMwqdsrzqwwhR-J18Ec2S3B7eeCYGV7zDYgGjtCgnby99CyexlDH3LYrhU1RZ8ASOyGFEmnS1me8XioshF3RP-OSyMBZoIlI0yGY9L5eI0XNI2UIQniE1Ua_vC1zIa3-Qogtleujb3zCTpBdQZowrFsp1rpZi6aWzguYzGWoMsDcadIxFO3Qn_B4kBio7LYHCKoYfwa8_Gjqju8LbUkW36T23tl0819YS55lFcZJsts3l2-4OFmWvs68LnisY4c5FzjgflCzSg7cWSgsZJOLNL2tuUG1Nklx2qg2-qH0mFtkVDUhr44nFNMDHh_cLDKL0zAJOEL-tL-8nTvrEjb6SEDN0jSpQugf4LsS6vcr1lIKhGHkO1uRG3gm7okpw-6HsG78eRdbf-13N7bZRt42JRDit-PZLUuxHVWJKPUeu8Kq58bL5f69XaRjAtBTq_9CX8PzGFzn45flF__pHEcrSTBK5Mv9wrMI0p3E92zrxfO4fVyxKgqOkj9Ji3ZEQraCVCzPPUfC4r8OXFyKsSNs_J8WdAXUaGkWFLt7_fdmZKqUNe1-6pTmaUMqzei8vvW9_vtHQouDvTQMp02lk5cdKx387xZ1sC6i8d94AxOH8wL-luX0-PwAQcdq_kb2MeF6qok34hS9q-9FP8JQQ4VwhlYKLufqwnTRVOWCDxfXpM25E5a1yroH78YJT9Dxr_F9owYpe9ldGKgXp8PzAHLlCrSGjbMPI-inHNhxbT1rtkZRiuDkD6m8u38FcKm01voNjoLydwMEgNuOjy9IbgrMKsyVqi1_0NE5WOHzjawRl0prNDFBxJDuep4kxgODFS1znIDHSmMmGvWm0Lmrd7qVHRuGie1uKW2pdIY1JwGLKtbGZhxDI8GvcKCDiTbe8Vc4O9JBYxJmZowmpWlditT8mMTCqcI1ec2VGKchDfv06Qep5-eB8N2fzCYYqfG1ii83Cl1O38LTmAuY-A6fbHn_Ki1zWsH8hpGCfeYNkQ0ZCr64BcZtVnKLM6AxhIY3u0zkVj8sjD4vLXNFIB6tNRn9-jGEC9W-0jZ2kEfeAtIKBK48KJaqBN2QHO9APHZfHGBnj4WaN63kvZze5I51QJki68mn6NZMnEAc6-vyNFR25MYkPaUSeDoltukyBoCd66VvP3C9YKWolX_eo0xXUuPeMsCNEbnZ2OlzPubpIxMtRKrpXSA/https://www.amazon.in/dp/8196373570?aref=m5SFS2y9xk&pd_rd_i=8196373570&pf_rd_p=fa654091-9aaa-43a3-ac17-a2ad95526fd2&pf_rd_r=PJ80K94W612PQHW18R6A&pd_rd_wg=jUKpF&pd_rd_w=6iPBW&pd_rd_r=9548cdb2-86f9-44d5-a997-87a4716e3403",
+          "images": [
+            {
+              "url": "https://aax-eu-zaz.amazon.in/e/loi/imp?b=JJF406x6g_8MexUox-Hr6G8AAAGZ-ATOSQoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCcYe8u",
+              "alt": "",
+              "thumbnail": "https://aax-eu-zaz.amazon.in/e/loi/imp?b=JJF406x6g_8MexUox-Hr6G8AAAGZ-ATOSQoAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCcYe8u"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

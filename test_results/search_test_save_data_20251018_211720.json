@@ -1,0 +1,250 @@
+{
+  "success": true,
+  "query": "test_save_data",
+  "total_results": 15,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "37.99s",
+  "timestamp": "2025-10-18T21:17:20.554406",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_save_data",
+      "total_products": 15,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - COOLCOLD Lan Tester | Wire Tracker",
+          "price": "₹1,091",
+          "discount_percentage": "₹3,999 (73% off)",
+          "rating": "4.1",
+          "reviews_count": "280",
+          "image_url": "https://m.media-amazon.com/images/I/71bs0BlE16L._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - COOLCOLD Lan Tester | Wire Tracker, Tester, Cable Tracker, RJ11 RJ45 Line Finder Network Cable Tester for L...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDQ0OTM2MDA0NjY0OTE5OjE3NjA4MDI0MTM6c3BfYXRmOjIwMDU4ODAxNDk0ODk4OjowOjo&url=%2FCOOLCOLD-Collation-Telephone-Batteries-Multi-color%2Fdp%2FB09RV3D6QW%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo%26dib_tag%3Dse%26keywords%3Dtest_save_data%26qid%3D1760802413%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=09WU07AtTm&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "amazon basics TPE USB-A to Type C Cable",
+          "price": "₹192",
+          "discount_percentage": "₹999 (81% off)",
+          "rating": "4.0",
+          "reviews_count": "264",
+          "image_url": "https://m.media-amazon.com/images/I/41bJyZFI2PL._AC_UY218_.jpg",
+          "image_alt": "amazon basics TPE USB-A to Type C Cable, Tangle-free with 3A Rapid Charging & 480 Mbps Data Transmission (Black), 1M, Usb ...",
+          "link": "https://www.amazon.in/AmazonBasics-Cable-Tangle-free-Charging-Transmission/dp/B0BXCN28ZZ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo&dib_tag=se&keywords=test_save_data&qid=1760802413&sr=8-2",
+          "brand": "Amazon",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "GOYERRNES Dissolved Oxygen Meter with Bluetooth",
+          "price": "₹15,004",
+          "discount_percentage": "₹21,804 (31% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/61WQCoTZZXL._AC_UY218_.jpg",
+          "image_alt": "GOYERRNES Dissolved Oxygen Meter with Bluetooth, Dissolved Oxygen Test Kit with Electrode Filling Fluid, Support Data Sav...",
+          "link": "https://www.amazon.in/GOYERRNES-Dissolved-Bluetooth-Electrode-Filling/dp/B0DFPLNHWM/ref=sr_1_3?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo&dib_tag=se&keywords=test_save_data&qid=1760802413&sr=8-3",
+          "brand": "GOYERRNES",
+          "category": "General",
+          "availability": "FREE delivery 8 - 10 Nov"
+        },
+        {
+          "title": "Important Acts that transformed India",
+          "price": "₹380",
+          "discount_percentage": "₹495 (23% off)",
+          "rating": "4.5",
+          "image_url": "https://m.media-amazon.com/images/I/91kAepQS09L._AC_UY218_.jpg",
+          "image_alt": "Important Acts that transformed India, 2e for UPSC CSE 2025-26",
+          "link": "https://www.amazon.in/Important-Transformed-India-Services-Administrative/dp/9355321457/ref=sr_1_4?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo&dib_tag=se&keywords=test_save_data&qid=1760802413&sr=8-4",
+          "brand": "Important",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct on first order"
+        },
+        {
+          "title": "Nuclear Radiation Detector GQ GMC-800 USA Design Product US National Standard Large Color LCD Display 5 Alarm Types Dosime...",
+          "price": "₹20,915\n10",
+          "discount_percentage": "₹33,464.16 (38% off)",
+          "rating": "4.6",
+          "reviews_count": "855",
+          "image_url": "https://m.media-amazon.com/images/I/61mUZsV9YNL._AC_UY218_.jpg",
+          "image_alt": "Nuclear Radiation Detector GQ GMC-800 USA Design Product US National Standard Large Color LCD Display 5 Alarm Types Dosime...",
+          "link": "https://www.amazon.in/Radiation-GQ-GMC-800-Dosimeter-Multifunction/dp/B0CKM8NML7/ref=sr_1_5?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo&dib_tag=se&keywords=test_save_data&qid=1760802413&sr=8-5",
+          "brand": "Nuclear",
+          "category": "General",
+          "availability": "FREE delivery 3 - 4 Nov"
+        },
+        {
+          "title": "AUTOOL Car Battery Tester 12V 24V Automotive Battery Load Tester with Printer 20-2000CCA Alternator Tester",
+          "price": "₹15,660",
+          "discount_percentage": "₹32,499 (52% off)",
+          "rating": "3.9",
+          "image_url": "https://m.media-amazon.com/images/I/71c14ORsaoL._AC_UY218_.jpg",
+          "image_alt": "AUTOOL Car Battery Tester 12V 24V Automotive Battery Load Tester with Printer 20-2000CCA Alternator Tester, Cranking & Cha...",
+          "link": "https://www.amazon.in/AUTOOL-Automotive-20-2000CCA-Cranking-Charging/dp/B0C6THBX2N/ref=sr_1_6?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo&dib_tag=se&keywords=test_save_data&qid=1760802413&sr=8-6",
+          "brand": "AUTOOL",
+          "category": "General",
+          "reviews_count": "AUTOOL Car Battery Tester 12V 24V Automotive Battery Load Tester with Printer 20-2000CCA Alternator Tester, Cranking & Charging & Leakage Test, 3.2\" Screen with Data Review Reverse Polarity Protection",
+          "availability": "FREE delivery Thu, 30 Oct"
+        },
+        {
+          "title": "Type C to C Charger Cable",
+          "price": "₹4,592",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/61eVwFcFMML._AC_UY218_.jpg",
+          "image_alt": "Type C to C Charger Cable, 100W 5A Digital LED Super Fast Turbo Nylon Braided High Stable Current Save Charging Cable for ...",
+          "link": "https://www.amazon.in/Charger-Digital-Braided-Charging-High-Speed/dp/B0BXH68Z87/ref=sr_1_7?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo&dib_tag=se&keywords=test_save_data&qid=1760802413&sr=8-7",
+          "brand": "Type",
+          "category": "General",
+          "availability": "FREE delivery 28 - 31 Oct"
+        },
+        {
+          "title": "WRITING A REPORT 9E",
+          "price": "₹599",
+          "discount_percentage": "Buy 3 items, get 3% off",
+          "rating": "4.2",
+          "image_url": "https://m.media-amazon.com/images/I/81A4F9pC36L._AC_UY218_.jpg",
+          "image_alt": "WRITING A REPORT 9E",
+          "link": "https://www.amazon.in/WRITING-REPORT-9E-John-Bowden/dp/1845284704/ref=sr_1_8?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo&dib_tag=se&keywords=test_save_data&qid=1760802413&sr=8-8",
+          "brand": "WRITING",
+          "category": "General",
+          "availability": "FREE delivery"
+        },
+        {
+          "title": "The Creativity Code: How AI is learning to write",
+          "price": "₹325\n12",
+          "discount_percentage": "12 (43% off)",
+          "rating": "4.4",
+          "image_url": "https://m.media-amazon.com/images/I/71tHnw32BiL._AC_UY218_.jpg",
+          "image_alt": "The Creativity Code: How AI is learning to write, paint and think",
+          "link": "https://www.amazon.in/Creativity-Code-learning-write-paint-ebook/dp/B07GLP28F3/ref=sr_1_9?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo&dib_tag=se&keywords=test_save_data&qid=1760802413&sr=8-9",
+          "brand": "The",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "pytest Quick Start Guide: Write better Python code with simple and maintainable tests",
+          "price": "₹290\n86",
+          "discount_percentage": "86 (86% off)",
+          "rating": "4.1",
+          "image_url": "https://m.media-amazon.com/images/I/71E3+poivYL._AC_UY218_.jpg",
+          "image_alt": "pytest Quick Start Guide: Write better Python code with simple and maintainable tests",
+          "link": "https://www.amazon.in/pytest-Quick-Start-Guide-maintainable-ebook/dp/B07GZJD473/ref=sr_1_10?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo&dib_tag=se&keywords=test_save_data&qid=1760802413&sr=8-10",
+          "brand": "pytest",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "Sponsored Ad - MX Cable Tester Line Finder with LED Indicators XLR TRS RJ45 USB with Battery Check Multi-Function Wire Tra...",
+          "price": "₹5,499",
+          "discount_percentage": "₹7,550 (27% off)",
+          "rating": "4.0",
+          "reviews_count": "3,198",
+          "image_url": "https://m.media-amazon.com/images/I/61E-vCoDHTL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - MX Cable Tester Line Finder with LED Indicators XLR TRS RJ45 USB with Battery Check Multi-Function Wire Tra...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDQ0OTM2MDA0NjY0OTE5OjE3NjA4MDI0MTM6c3BfbXRmOjMwMDY5NjkzMTMxNzczMjo6MDo6&url=%2FMX-Indicators-Battery-Multi-Function-Tracker%2Fdp%2FB07D7Z2VKR%2Fref%3Dsr_1_11_sspa%3Fdib%3DeyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo%26dib_tag%3Dse%26keywords%3Dtest_save_data%26qid%3D1760802413%26sr%3D8-11-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=xCX0oTvNGR&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Sat, 25 Oct"
+        },
+        {
+          "title": "Sponsored Ad - COOLCOLD Lan Tester | Ethernet Wire Tracker | Network Cable Tester | RJ11 RJ45 CAT5/5e CAT6 LAN Wire Portab...",
+          "price": "₹1,058",
+          "discount_percentage": "₹2,999 (65% off)",
+          "rating": "4.2",
+          "reviews_count": "246",
+          "image_url": "https://m.media-amazon.com/images/I/61HE1lbQ7uL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - COOLCOLD Lan Tester | Ethernet Wire Tracker | Network Cable Tester | RJ11 RJ45 CAT5/5e CAT6 LAN Wire Portab...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDQ0OTM2MDA0NjY0OTE5OjE3NjA4MDI0MTM6c3BfbXRmOjMwMDYyOTQwNzMyMTAzMjo6MDo6&url=%2FCOOLCOLD-Ethernet-Portable-Disorder-Multi-Color%2Fdp%2FB09PNR27RB%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo%26dib_tag%3Dse%26keywords%3Dtest_save_data%26qid%3D1760802413%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=DUegzBUQoT&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Sponsored Ad - ZLLJMETER ZL112 4000 Counts Digital Multimeter with NCV AC/DC Voltage Tester Live Wire Continuity Resistanc...",
+          "price": "₹1,510",
+          "discount_percentage": "₹2,249 (33% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51FiEPCOwJL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - ZLLJMETER ZL112 4000 Counts Digital Multimeter with NCV AC/DC Voltage Tester Live Wire Continuity Resistanc...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDQ0OTM2MDA0NjY0OTE5OjE3NjA4MDI0MTM6c3BfYnRmOjMwMDcwNDUyNjkxMzkzMjo6MDo6&url=%2FZLLJMETER-ZL112-Multimeter-Continuity-Resistance%2Fdp%2FB0FLDM7799%2Fref%3Dsr_1_13_sspa%3Fdib%3DeyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo%26dib_tag%3Dse%26keywords%3Dtest_save_data%26qid%3D1760802413%26sr%3D8-13-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=tDwtjk7b6x&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "Sponsored Ad - XIKKART Lan Tester with Wire Tracker",
+          "price": "₹1,799",
+          "discount_percentage": "₹3,999 (55% off)",
+          "rating": "4.3",
+          "image_url": "https://m.media-amazon.com/images/I/71D+FqllL-L._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - XIKKART Lan Tester with Wire Tracker, Tester, Cable Tracker, RJ11 RJ45 Line Finder Cable Tester for Network...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDQ0OTM2MDA0NjY0OTE5OjE3NjA4MDI0MTM6c3BfYnRmOjMwMDQzMDYzMjI4NTIzMjo6MDo6&url=%2FXIKKART-Wire-Tracker-Collation-Multicolor%2Fdp%2FB0DJPBMGFR%2Fref%3Dsr_1_14_sspa%3Fdib%3DeyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo%26dib_tag%3Dse%26keywords%3Dtest_save_data%26qid%3D1760802413%26sr%3D8-14-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=iN7sICjWEV&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Sponsored Ad - XIKKART Wire Tracker",
+          "price": "₹1,599",
+          "discount_percentage": "₹3,999 (60% off)",
+          "rating": "4.0",
+          "image_url": "https://m.media-amazon.com/images/I/61hbvu8tAJL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - XIKKART Wire Tracker, Ethernet Network Cable Tester Kit RJ11 RJ45 CAT5/5e CAT6 LAN Wire Portable Line Finde...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDQ0OTM2MDA0NjY0OTE5OjE3NjA4MDI0MTM6c3BfYnRmOjMwMDUzMjY2Nzk4NjczMjo6MDo6&url=%2FXIKKART-Wire-Tracker-Kit-Combo%2Fdp%2FB0DN21MBXW%2Fref%3Dsr_1_15_sspa%3Fdib%3DeyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo%26dib_tag%3Dse%26keywords%3Dtest_save_data%26qid%3D1760802413%26sr%3D8-15-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=5gFuy8ucHU&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - COOLCOLD Lan Tester | Wire Tracker",
+          "price": "₹1,091",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "4.1",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNDQ0OTM2MDA0NjY0OTE5OjE3NjA4MDI0MTM6c3BfYXRmOjIwMDU4ODAxNDk0ODk4OjowOjo&url=%2FCOOLCOLD-Collation-Telephone-Batteries-Multi-color%2Fdp%2FB09RV3D6QW%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo%26dib_tag%3Dse%26keywords%3Dtest_save_data%26qid%3D1760802413%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=09WU07AtTm&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71bs0BlE16L._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - COOLCOLD Lan Tester | Wire Tracker, Tester, Cable Tracker, RJ11 RJ45 Line Finder Network Cable Tester for L...",
+              "thumbnail": "https://m.media-amazon.com/images/I/71bs0BlE16L._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "amazon basics TPE USB-A to Type C Cable",
+          "price": "₹192",
+          "brand": "Amazon",
+          "category": "General",
+          "rating": "4.0",
+          "link": "https://www.amazon.in/AmazonBasics-Cable-Tangle-free-Charging-Transmission/dp/B0BXCN28ZZ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo&dib_tag=se&keywords=test_save_data&qid=1760802413&sr=8-2",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/41bJyZFI2PL._AC_UY218_.jpg",
+              "alt": "amazon basics TPE USB-A to Type C Cable, Tangle-free with 3A Rapid Charging & 480 Mbps Data Transmission (Black), 1M, Usb ...",
+              "thumbnail": "https://m.media-amazon.com/images/I/41bJyZFI2PL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "GOYERRNES Dissolved Oxygen Meter with Bluetooth",
+          "price": "₹15,004",
+          "brand": "GOYERRNES",
+          "category": "General",
+          "rating": "5.0",
+          "link": "https://www.amazon.in/GOYERRNES-Dissolved-Bluetooth-Electrode-Filling/dp/B0DFPLNHWM/ref=sr_1_3?dib=eyJ2IjoiMSJ9.qah3euZYBQ9YWqrfIemm6XiMb3QkA-aDyEcYtjPi2QLP4oh_yHDQ_farWC-lsy-iDsoa32wJ_GCVS-PjNG9kSt5aY53jIBusLrkjczetHpg_20b8iiqPMqDczgcRitcrgmvelk_I_HoD1vtKO3AfWA.6iFs1SAzZZYfmmjsaWiD_YtNnKTfYIeBVnMYJtEWmqo&dib_tag=se&keywords=test_save_data&qid=1760802413&sr=8-3",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61WQCoTZZXL._AC_UY218_.jpg",
+              "alt": "GOYERRNES Dissolved Oxygen Meter with Bluetooth, Dissolved Oxygen Test Kit with Electrode Filling Fluid, Support Data Sav...",
+              "thumbnail": "https://m.media-amazon.com/images/I/61WQCoTZZXL._AC_UY218_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

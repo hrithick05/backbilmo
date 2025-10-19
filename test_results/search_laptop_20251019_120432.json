@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "query": "laptop",
+  "total_results": 0,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 4,
+  "processing_time": "211.79s",
+  "timestamp": "2025-10-19T12:04:32.277504",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "laptop",
+      "total_products": 0,
+      "basic_products": [],
+      "detailed_products": [],
+      "error": "Database objects do not implement truth value testing or bool(). Please compare with None instead: database is not None"
+    },
+    {
+      "site": "Flipkart",
+      "query": "laptop",
+      "total_products": 0,
+      "basic_products": [],
+      "detailed_products": [],
+      "error": "Database objects do not implement truth value testing or bool(). Please compare with None instead: database is not None"
+    },
+    {
+      "site": "Myntra",
+      "query": "laptop",
+      "total_products": 0,
+      "basic_products": [],
+      "detailed_products": [],
+      "error": "Database objects do not implement truth value testing or bool(). Please compare with None instead: database is not None"
+    },
+    {
+      "site": "Meesho",
+      "query": "laptop",
+      "total_products": 0,
+      "basic_products": [],
+      "detailed_products": [],
+      "error": "Database objects do not implement truth value testing or bool(). Please compare with None instead: database is not None"
+    }
+  ]
+}

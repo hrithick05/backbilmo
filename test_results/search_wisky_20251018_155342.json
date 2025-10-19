@@ -1,0 +1,671 @@
+{
+  "success": true,
+  "query": "wisky",
+  "total_results": 36,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 4,
+  "processing_time": "148.77s",
+  "timestamp": "2025-10-18T15:53:42.562797",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "wisky",
+      "total_products": 8,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - Chiefly Vegan Leathers 6 Glasses Brown Bar Set | Premium Bottle Opener With Handy Portable Leatherette for ...",
+          "price": "₹2,709",
+          "discount_percentage": "₹5,999 (55% off)",
+          "rating": "3.8",
+          "image_url": "https://m.media-amazon.com/images/I/71KB2IoFhDL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Chiefly Vegan Leathers 6 Glasses Brown Bar Set | Premium Bottle Opener With Handy Portable Leatherette for ...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2NzA2NDQ3ODMzNTYyMzk4OjE3NjA3ODI4ODg6c3BfYXRmOjMwMDc4MzEwNzM3OTMzMjo6MDo6&url=%2FChiefly-Leathers-Portable-Leatherette-AIBRC003%2Fdp%2FB0857KDM91%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.n6blWm6nN_5hjS-i9PE6HAF246VC5kUpytsUf5DA7WkdLsRlA8-H1bVuZWUzNPL2J-8hIxH-d5KZw74GJ-EVZNQ-j_68HJJnwiisiFOIoykoYnAbtqi5aMnW9ukh1n3y7GZHUNprKESyv860a7CMbtJHKZtI2pdbTXMHWYO6CcqaZb3rLQM94fqd4d7b4KH4dXjgw0vZ2t0v7d36C0zdOo3KlhQNkIIKn9AXdsmz2qI.TQS4lD40Y3_ZGzDUDoDmJ4KK7u0M3Ht35m3cPIq5jAw%26dib_tag%3Dse%26keywords%3Dwhisky%26qid%3D1760782888%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Mihm3THBEh&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Fri, 31 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Chiefly Vegan Leathers 6 Glasses Black Bar Set | Premium Portable Leatherette Set for Car With Bottle Opene...",
+          "price": "₹2,657",
+          "discount_percentage": "₹6,699 (60% off)",
+          "rating": "4.7",
+          "image_url": "https://m.media-amazon.com/images/I/71M42uh63aL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Chiefly Vegan Leathers 6 Glasses Black Bar Set | Premium Portable Leatherette Set for Car With Bottle Opene...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2NzA2NDQ3ODMzNTYyMzk4OjE3NjA3ODI4ODg6c3BfYXRmOjMwMDc4MzEwNzM3OTUzMjo6MDo6&url=%2FChiefly-Leathers-Portable-Leatherette-AIBLCS001%2Fdp%2FB0857KW27P%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.n6blWm6nN_5hjS-i9PE6HAF246VC5kUpytsUf5DA7WkdLsRlA8-H1bVuZWUzNPL2J-8hIxH-d5KZw74GJ-EVZNQ-j_68HJJnwiisiFOIoykoYnAbtqi5aMnW9ukh1n3y7GZHUNprKESyv860a7CMbtJHKZtI2pdbTXMHWYO6CcqaZb3rLQM94fqd4d7b4KH4dXjgw0vZ2t0v7d36C0zdOo3KlhQNkIIKn9AXdsmz2qI.TQS4lD40Y3_ZGzDUDoDmJ4KK7u0M3Ht35m3cPIq5jAw%26dib_tag%3Dse%26keywords%3Dwhisky%26qid%3D1760782888%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=LrVIysAIE3&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Fri, 31 Oct"
+        },
+        {
+          "title": "Beardo Whisky Smoke Perfume for Men",
+          "price": "₹437",
+          "discount_percentage": "₹1,200 (64% off)",
+          "rating": "4.0",
+          "image_url": "https://m.media-amazon.com/images/I/71iYB3wKOYL._AC_UY218_.jpg",
+          "image_alt": "Beardo Whisky Smoke Perfume for Men,100ml|Spicy,Woody-Oudh Scent Eau De Parfum|Long Lasting Mens Perfume|Best Date Night F...",
+          "link": "https://www.amazon.in/Whisky-Smoke-Woody-Oudh-Fragrance-Valentine/dp/B096XV4HR4/ref=sr_1_3_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.n6blWm6nN_5hjS-i9PE6HAF246VC5kUpytsUf5DA7WkdLsRlA8-H1bVuZWUzNPL2J-8hIxH-d5KZw74GJ-EVZNQ-j_68HJJnwiisiFOIoykoYnAbtqi5aMnW9ukh1n3y7GZHUNprKESyv860a7CMbtJHKZtI2pdbTXMHWYO6CcqaZb3rLQM94fqd4d7b4KH4dXjgw0vZ2t0v7d36C0zdOo3KlhQNkIIKn9AXdsmz2qI.TQS4lD40Y3_ZGzDUDoDmJ4KK7u0M3Ht35m3cPIq5jAw&dib_tag=se&keywords=whisky&qid=1760782888&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-3",
+          "brand": "Beardo",
+          "category": "General",
+          "availability": "Free and Fast delivery"
+        },
+        {
+          "title": "Non-Alcoholic Whiskey Alternative | For Sober Lifestyle | Zero Alcohol",
+          "price": "₹1,503\n06",
+          "discount_percentage": "₹1,999 (25% off)",
+          "rating": "2.2",
+          "image_url": "https://m.media-amazon.com/images/I/61dCvJhHIZL._AC_UY218_.jpg",
+          "image_alt": "Non-Alcoholic Whiskey Alternative | For Sober Lifestyle | Zero Alcohol, Zero Sugar and 5 Calories | 750 ml (.WHISKEY)",
+          "link": "https://www.amazon.in/Non-Alcoholic-Alternative-Lifestyle-Calories-WHISKEY/dp/B0FNWC7ZYT/ref=sr_1_4?dib=eyJ2IjoiMSJ9.n6blWm6nN_5hjS-i9PE6HAF246VC5kUpytsUf5DA7WkdLsRlA8-H1bVuZWUzNPL2J-8hIxH-d5KZw74GJ-EVZNQ-j_68HJJnwiisiFOIoykoYnAbtqi5aMnW9ukh1n3y7GZHUNprKESyv860a7CMbtJHKZtI2pdbTXMHWYO6CcqaZb3rLQM94fqd4d7b4KH4dXjgw0vZ2t0v7d36C0zdOo3KlhQNkIIKn9AXdsmz2qI.TQS4lD40Y3_ZGzDUDoDmJ4KK7u0M3Ht35m3cPIq5jAw&dib_tag=se&keywords=whisky&qid=1760782888&sr=8-4",
+          "brand": "Non-Alcoholic",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "BEARDO Men Whisky Smoke & Godfather Perfume Combo for Men (50 Ml X 2) | Spicy",
+          "price": "₹283",
+          "discount_percentage": "₹1,398 (80% off)",
+          "rating": "4.1",
+          "image_url": "https://m.media-amazon.com/images/I/71-mpGDlyxL._AC_UY218_.jpg",
+          "image_alt": "BEARDO Men Whisky Smoke & Godfather Perfume Combo for Men (50 Ml X 2) | Spicy, Woody - Oudh Notes Of Whisky Smoke & Aromat...",
+          "link": "https://www.amazon.in/BEARDO-Whisky-Godfather-Liquid-Perfume/dp/B0CWTLT42P/ref=sr_1_5_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.n6blWm6nN_5hjS-i9PE6HAF246VC5kUpytsUf5DA7WkdLsRlA8-H1bVuZWUzNPL2J-8hIxH-d5KZw74GJ-EVZNQ-j_68HJJnwiisiFOIoykoYnAbtqi5aMnW9ukh1n3y7GZHUNprKESyv860a7CMbtJHKZtI2pdbTXMHWYO6CcqaZb3rLQM94fqd4d7b4KH4dXjgw0vZ2t0v7d36C0zdOo3KlhQNkIIKn9AXdsmz2qI.TQS4lD40Y3_ZGzDUDoDmJ4KK7u0M3Ht35m3cPIq5jAw&dib_tag=se&keywords=whisky&qid=1760782888&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-5",
+          "brand": "BEARDO",
+          "category": "General",
+          "availability": "Free and Fast delivery"
+        },
+        {
+          "title": "WEZOSHINET 1 Litre Whiskey Bottle Decanter for Whisky Scotch",
+          "price": "₹399",
+          "discount_percentage": "₹1,499 (73% off)",
+          "rating": "4.1",
+          "image_url": "https://m.media-amazon.com/images/I/715VT+0NiLL._AC_UY218_.jpg",
+          "image_alt": "WEZOSHINET 1 Litre Whiskey Bottle Decanter for Whisky Scotch, Liquor, Vodka, Wine or Bourbon | Irish Cut | Food Grade Bpa ...",
+          "link": "https://www.amazon.in/WEZOSHINET-Whiskey-Decanter-1000-ML/dp/B0DS8YFH8J/ref=sr_1_6?dib=eyJ2IjoiMSJ9.n6blWm6nN_5hjS-i9PE6HAF246VC5kUpytsUf5DA7WkdLsRlA8-H1bVuZWUzNPL2J-8hIxH-d5KZw74GJ-EVZNQ-j_68HJJnwiisiFOIoykoYnAbtqi5aMnW9ukh1n3y7GZHUNprKESyv860a7CMbtJHKZtI2pdbTXMHWYO6CcqaZb3rLQM94fqd4d7b4KH4dXjgw0vZ2t0v7d36C0zdOo3KlhQNkIIKn9AXdsmz2qI.TQS4lD40Y3_ZGzDUDoDmJ4KK7u0M3Ht35m3cPIq5jAw&dib_tag=se&keywords=whisky&qid=1760782888&sr=8-6",
+          "brand": "WEZOSHINET",
+          "category": "General",
+          "availability": "Delivery 23 - 27 Oct"
+        },
+        {
+          "title": "Beardo BOURBON Whisky Smoke Perfume for men",
+          "price": "₹249",
+          "discount_percentage": "₹999 (75% off)",
+          "rating": "3.9",
+          "reviews_count": "1,345",
+          "image_url": "https://m.media-amazon.com/images/I/71Z3xKUulIL._AC_UY218_.jpg",
+          "image_alt": "Beardo BOURBON Whisky Smoke Perfume for men, 50ml | Oriental, Woody, Leathery | Long Lasting Mens Perfume | Best Date Nigh...",
+          "link": "https://www.amazon.in/Oriental-Leathery-Fragrance-Valentines-boyfriend/dp/B0BLZ231KK/ref=sr_1_7_mod_primary_new?dib=eyJ2IjoiMSJ9.n6blWm6nN_5hjS-i9PE6HAF246VC5kUpytsUf5DA7WkdLsRlA8-H1bVuZWUzNPL2J-8hIxH-d5KZw74GJ-EVZNQ-j_68HJJnwiisiFOIoykoYnAbtqi5aMnW9ukh1n3y7GZHUNprKESyv860a7CMbtJHKZtI2pdbTXMHWYO6CcqaZb3rLQM94fqd4d7b4KH4dXjgw0vZ2t0v7d36C0zdOo3KlhQNkIIKn9AXdsmz2qI.TQS4lD40Y3_ZGzDUDoDmJ4KK7u0M3Ht35m3cPIq5jAw&dib_tag=se&keywords=whisky&qid=1760782888&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-7",
+          "brand": "Beardo",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "EVAFLOR PARIS WHISKY Silver Eau De Toilette for Men",
+          "price": "₹1,199",
+          "discount_percentage": "₹1,999 (40% off)",
+          "rating": "3.8",
+          "image_url": "https://m.media-amazon.com/images/I/81b5MWeaYGL._AC_UY218_.jpg",
+          "image_alt": "EVAFLOR PARIS WHISKY Silver Eau De Toilette for Men, 100ml | Long-Lasting Fresh, Aquatic & Woody Fragrance | Modern Citrus...",
+          "link": "https://www.amazon.in/WHISKY-Silver-Eau-Toilette-100ml/dp/B0D47KVZRG/ref=sr_1_8?dib=eyJ2IjoiMSJ9.n6blWm6nN_5hjS-i9PE6HAF246VC5kUpytsUf5DA7WkdLsRlA8-H1bVuZWUzNPL2J-8hIxH-d5KZw74GJ-EVZNQ-j_68HJJnwiisiFOIoykoYnAbtqi5aMnW9ukh1n3y7GZHUNprKESyv860a7CMbtJHKZtI2pdbTXMHWYO6CcqaZb3rLQM94fqd4d7b4KH4dXjgw0vZ2t0v7d36C0zdOo3KlhQNkIIKn9AXdsmz2qI.TQS4lD40Y3_ZGzDUDoDmJ4KK7u0M3Ht35m3cPIq5jAw&dib_tag=se&keywords=whisky&qid=1760782888&sr=8-8",
+          "brand": "EVAFLOR",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - Chiefly Vegan Leathers 6 Glasses Brown Bar Set | Premium Bottle Opener With Handy Portable Leatherette for ...",
+          "price": "₹2,709",
+          "brand": "Mi",
+          "category": "General",
+          "rating": "3.8",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2NzA2NDQ3ODMzNTYyMzk4OjE3NjA3ODI4ODg6c3BfYXRmOjMwMDc4MzEwNzM3OTMzMjo6MDo6&url=%2FChiefly-Leathers-Portable-Leatherette-AIBRC003%2Fdp%2FB0857KDM91%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.n6blWm6nN_5hjS-i9PE6HAF246VC5kUpytsUf5DA7WkdLsRlA8-H1bVuZWUzNPL2J-8hIxH-d5KZw74GJ-EVZNQ-j_68HJJnwiisiFOIoykoYnAbtqi5aMnW9ukh1n3y7GZHUNprKESyv860a7CMbtJHKZtI2pdbTXMHWYO6CcqaZb3rLQM94fqd4d7b4KH4dXjgw0vZ2t0v7d36C0zdOo3KlhQNkIIKn9AXdsmz2qI.TQS4lD40Y3_ZGzDUDoDmJ4KK7u0M3Ht35m3cPIq5jAw%26dib_tag%3Dse%26keywords%3Dwhisky%26qid%3D1760782888%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Mihm3THBEh&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71KB2IoFhDL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - Chiefly Vegan Leathers 6 Glasses Brown Bar Set | Premium Bottle Opener With Handy Portable Leatherette for ...",
+              "thumbnail": "https://m.media-amazon.com/images/I/71KB2IoFhDL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - Chiefly Vegan Leathers 6 Glasses Black Bar Set | Premium Portable Leatherette Set for Car With Bottle Opene...",
+          "price": "₹2,657",
+          "brand": "Mi",
+          "category": "General",
+          "rating": "4.7",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2NzA2NDQ3ODMzNTYyMzk4OjE3NjA3ODI4ODg6c3BfYXRmOjMwMDc4MzEwNzM3OTUzMjo6MDo6&url=%2FChiefly-Leathers-Portable-Leatherette-AIBLCS001%2Fdp%2FB0857KW27P%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.n6blWm6nN_5hjS-i9PE6HAF246VC5kUpytsUf5DA7WkdLsRlA8-H1bVuZWUzNPL2J-8hIxH-d5KZw74GJ-EVZNQ-j_68HJJnwiisiFOIoykoYnAbtqi5aMnW9ukh1n3y7GZHUNprKESyv860a7CMbtJHKZtI2pdbTXMHWYO6CcqaZb3rLQM94fqd4d7b4KH4dXjgw0vZ2t0v7d36C0zdOo3KlhQNkIIKn9AXdsmz2qI.TQS4lD40Y3_ZGzDUDoDmJ4KK7u0M3Ht35m3cPIq5jAw%26dib_tag%3Dse%26keywords%3Dwhisky%26qid%3D1760782888%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=LrVIysAIE3&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71M42uh63aL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - Chiefly Vegan Leathers 6 Glasses Black Bar Set | Premium Portable Leatherette Set for Car With Bottle Opene...",
+              "thumbnail": "https://m.media-amazon.com/images/I/71M42uh63aL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Beardo Whisky Smoke Perfume for Men",
+          "price": "₹437",
+          "brand": "Beardo",
+          "category": "General",
+          "rating": "4.0",
+          "link": "https://www.amazon.in/Whisky-Smoke-Woody-Oudh-Fragrance-Valentine/dp/B096XV4HR4/ref=sr_1_3_f3_0o_fs_mod_primary_alm?dib=eyJ2IjoiMSJ9.n6blWm6nN_5hjS-i9PE6HAF246VC5kUpytsUf5DA7WkdLsRlA8-H1bVuZWUzNPL2J-8hIxH-d5KZw74GJ-EVZNQ-j_68HJJnwiisiFOIoykoYnAbtqi5aMnW9ukh1n3y7GZHUNprKESyv860a7CMbtJHKZtI2pdbTXMHWYO6CcqaZb3rLQM94fqd4d7b4KH4dXjgw0vZ2t0v7d36C0zdOo3KlhQNkIIKn9AXdsmz2qI.TQS4lD40Y3_ZGzDUDoDmJ4KK7u0M3Ht35m3cPIq5jAw&dib_tag=se&keywords=whisky&qid=1760782888&sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-3",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71iYB3wKOYL._AC_UY218_.jpg",
+              "alt": "Beardo Whisky Smoke Perfume for Men,100ml|Spicy,Woody-Oudh Scent Eau De Parfum|Long Lasting Mens Perfume|Best Date Night F...",
+              "thumbnail": "https://m.media-amazon.com/images/I/71iYB3wKOYL._AC_UY218_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "site": "Flipkart",
+      "query": "wisky",
+      "total_products": 8,
+      "basic_products": [
+        {
+          "title": "350 ml, Glass, Clear",
+          "brand": "350",
+          "price": "₹315",
+          "mrp": "₹699",
+          "discount_percentage": "54%",
+          "discount_amount": "₹384",
+          "rating": "4.4",
+          "reviews_count": "4.4(2,520)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/glass/3/u/b/fashioned-whiskey-glass-heavy-base-rocks-barware-glasses-for-original-imahcpwe4xevgzeb.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/glass/3/u/b/fashioned-whiskey-glass-heavy-base-rocks-barware-glasses-for-original-imahcpwe4xevgzeb.jpeg?q=70",
+          "image_alt": "VLKMK (Pack of 4) Fashioned Whiskey Glass - Heavy Base Rocks Barware Glasses for Scotch, Mixed Drinks, Wine, Bourbon, Juice, Water and Cocktail Drinks 350 Ml Pack of 4 Glass Set Whisky Glass",
+          "link": "https://www.flipkart.com/vlkmk-pack-4-fashioned-whiskey-glass-heavy-base-rocks-barware-glasses-scotch-mixed-drinks-wine-bourbon-juice-water-cocktail-drinks-350-ml-pack-4-set-whisky/p/itmf80eef57c6b78?pid=GLSG7EN4FMXG6VFP&lid=LSTGLSG7EN4FMXG6VFPL4KPQH&marketplace=FLIPKART&q=wisky&store=upp%2Fta2&srno=s_1_1&otracker=search&fm=organic&iid=en_PVKXApp2oRhfLi9GguVG7YwUHrqImITld66kd7mJ335pb3G8U92SojZmlN3SILH3Zug_-nZL4cj4JlBQwM_I4w%3D%3D&ppt=None&ppn=None&ssid=pufqh5ydxc0000001760782939731&qH=79ade009d1c22f68",
+          "category": "General",
+          "description": "Buy ₹125 more, save extra ₹50"
+        },
+        {
+          "title": "350 ml, Glass, Clear",
+          "brand": "350",
+          "price": "₹219",
+          "mrp": "₹899",
+          "discount_percentage": "75%",
+          "discount_amount": "₹680",
+          "rating": "4.5",
+          "reviews_count": "4.5(210)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/glass/o/9/j/italian-style-whiskey-glasses-bar-glass-for-drinking-bourbon-original-imafzav2w27nuggw.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/glass/o/9/j/italian-style-whiskey-glasses-bar-glass-for-drinking-bourbon-original-imafzav2w27nuggw.jpeg?q=70",
+          "image_alt": "morryz (Pack of 2) Italian Style Whiskey Glasses Bar Glass for Drinking Bourbon, Whisky, Scotch Glass Set Whisky Glass",
+          "link": "https://www.flipkart.com/morryz-pack-2-italian-style-whiskey-glasses-bar-glass-drinking-bourbon-whisky-scotch-set-whisky/p/itmaabb46373b466?pid=GLSGHTPMHBSWUYBN&lid=LSTGLSGHTPMHBSWUYBNQKSKKM&marketplace=FLIPKART&q=wisky&store=upp%2Fta2&srno=s_1_2&otracker=search&fm=organic&iid=b46c8023-83da-4548-af04-467265db9755.GLSGHTPMHBSWUYBN.SEARCH&ppt=None&ppn=None&ssid=pufqh5ydxc0000001760782939731&qH=79ade009d1c22f68",
+          "category": "General",
+          "availability": "Top Discount of the Sale",
+          "description": "Top Discount of the Sale"
+        },
+        {
+          "title": "Glass, 1000 oz",
+          "brand": "Glass,",
+          "price": "₹1,338",
+          "mrp": "₹2899",
+          "discount_percentage": "53%",
+          "discount_amount": "₹1,561",
+          "rating": "4.3",
+          "reviews_count": "4.3(48)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/decanter/y/8/k/crystal-clear-decanter-and-glass-set-for-whisky-scotch-1-original-imahdh3wypq4zfeu.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/decanter/y/8/k/crystal-clear-decanter-and-glass-set-for-whisky-scotch-1-original-imahdh3wypq4zfeu.jpeg?q=70",
+          "image_alt": "MairaTrends MairaTrends European Crystal Clear 1000ml Decanter and 325ml Glass Set of 6 Whisky , Scotch, Ram, Wine, Vodka, Juice & etc. Decanter",
+          "link": "https://www.flipkart.com/mairatrends-european-crystal-clear-1000ml-decanter-325ml-glass-set-6-whisky-scotch-ram-wine-vodka-juice-etc/p/itm4320f5fa75713?pid=DCRGHGYEFPQ6FXFR&lid=LSTDCRGHGYEFPQ6FXFRE1ZQE1&marketplace=FLIPKART&q=wisky&store=upp%2Fta2&srno=s_1_3&otracker=search&fm=organic&iid=b46c8023-83da-4548-af04-467265db9755.DCRGHGYEFPQ6FXFR.SEARCH&ppt=None&ppn=None&ssid=pufqh5ydxc0000001760782939731&qH=79ade009d1c22f68",
+          "category": "General"
+        },
+        {
+          "title": "Glass, 1000 oz",
+          "brand": "Glass,",
+          "price": "₹498",
+          "mrp": "₹739",
+          "discount_percentage": "32%",
+          "discount_amount": "₹241",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/decanter/b/z/r/glass-decanter-greatzon-12-1000-original-imahgybzvjza7yfz.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/decanter/b/z/r/glass-decanter-greatzon-12-1000-original-imahgybzvjza7yfz.jpeg?q=70",
+          "image_alt": "GREATZON Elegant Whiskey Decanter for Whisky Scotch, Liquor, Vodka, Wine or Bourbon Home, Office, Bar Decanter",
+          "link": "https://www.flipkart.com/greatzon-elegant-whiskey-decanter-whisky-scotch-liquor-vodka-wine-bourbon-home-office-bar/p/itm8c070b785dd4a?pid=DCRH5Z9GFDP2M2TA&lid=LSTDCRH5Z9GFDP2M2TAZXC5Z3&marketplace=FLIPKART&q=wisky&store=upp%2Fta2&srno=s_1_4&otracker=search&fm=organic&iid=b46c8023-83da-4548-af04-467265db9755.DCRH5Z9GFDP2M2TA.SEARCH&ppt=None&ppn=None&ssid=pufqh5ydxc0000001760782939731&qH=79ade009d1c22f68",
+          "category": "General",
+          "special_offers": [
+            "Saver Deal"
+          ],
+          "description": "GREATZON Elegant Whiskey Decanter for Whisky Scotch, Li..."
+        },
+        {
+          "title": "Glass, 10 oz",
+          "brand": "Glass,",
+          "price": "₹498",
+          "mrp": "₹999",
+          "discount_percentage": "50%",
+          "discount_amount": "₹501",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/decanter/b/u/h/whiskey-decanter-crystal-clear-glass-decanter-for-whiskey-scotch-original-imahg8zddqzf4asf.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/decanter/b/u/h/whiskey-decanter-crystal-clear-glass-decanter-for-whiskey-scotch-original-imahg8zddqzf4asf.jpeg?q=70",
+          "image_alt": "VIRCO Whiskey Decanter Crystal Clear Glass Decanter for Whiskey Scotch Liquor Vodka Whisky, Vodka, Scotch, Wine, Beer, Milk, Juice, Water, Decanter",
+          "link": "https://www.flipkart.com/virco-whiskey-decanter-crystal-clear-glass-scotch-liquor-vodka-whisky-vodka-scotch-wine-beer-milk-juice-water/p/itm98cb8d7a3400a?pid=DCRHG8ZDCRFBAW3R&lid=LSTDCRHG8ZDCRFBAW3R5IFYRE&marketplace=FLIPKART&q=wisky&store=upp%2Fta2&srno=s_1_5&otracker=search&fm=organic&iid=b46c8023-83da-4548-af04-467265db9755.DCRHG8ZDCRFBAW3R.SEARCH&ppt=None&ppn=None&ssid=pufqh5ydxc0000001760782939731&qH=79ade009d1c22f68",
+          "category": "General"
+        },
+        {
+          "title": "320 ml, Glass, Clear",
+          "brand": "320",
+          "price": "₹285",
+          "mrp": "₹649",
+          "discount_percentage": "56%",
+          "discount_amount": "₹364",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kqse07k0/glass/r/k/j/whiskey-glass-pack-of-2-300ml-inyska-original-imag4puzgt3kdcg5.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/kqse07k0/glass/r/k/j/whiskey-glass-pack-of-2-300ml-inyska-original-imag4puzgt3kdcg5.jpeg?q=70",
+          "image_alt": "morryz (Pack of 2) Whiskey Crystal Rocks Glasses with Heavy Base Suitable for Drinking Bourbon Glass Set Whisky Glass",
+          "link": "https://www.flipkart.com/morryz-pack-2-whiskey-crystal-rocks-glasses-heavy-base-suitable-drinking-bourbon-glass-set-whisky/p/itm3ff1b914ff9af?pid=GLSGN496HFUTVJGK&lid=LSTGLSGN496HFUTVJGKX5AQEY&marketplace=FLIPKART&q=wisky&store=upp%2Fta2&srno=s_1_6&otracker=search&fm=organic&iid=b46c8023-83da-4548-af04-467265db9755.GLSGN496HFUTVJGK.SEARCH&ppt=None&ppn=None&ssid=pufqh5ydxc0000001760782939731&qH=79ade009d1c22f68",
+          "category": "General"
+        },
+        {
+          "title": "350 ml, Glass, Clear",
+          "brand": "350",
+          "price": "₹295",
+          "mrp": "₹799",
+          "discount_percentage": "63%",
+          "discount_amount": "₹504",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/glass/8/8/c/whiskey-glass-for-drinking-bourbon-whisky-scotch-cocktails-new-original-imahb86t4qeykwe2.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/glass/8/8/c/whiskey-glass-for-drinking-bourbon-whisky-scotch-cocktails-new-original-imahb86t4qeykwe2.jpeg?q=70",
+          "image_alt": "CQZ (Pack of 2) Whiskey Glass for Drinking Bourbon, Whisky, Scotch, Cocktails,,New Glass Set Whisky Glass",
+          "link": "https://www.flipkart.com/cqz-pack-2-whiskey-glass-drinking-bourbon-whisky-scotch-cocktails-new-set-whisky/p/itm8efb96a38fd20?pid=GLSHB86TZWQNGE65&lid=LSTGLSHB86TZWQNGE65HGGLJI&marketplace=FLIPKART&q=wisky&store=upp%2Fta2&srno=s_1_7&otracker=search&fm=organic&iid=b46c8023-83da-4548-af04-467265db9755.GLSHB86TZWQNGE65.SEARCH&ppt=None&ppn=None&ssid=pufqh5ydxc0000001760782939731&qH=79ade009d1c22f68",
+          "category": "General"
+        },
+        {
+          "title": "300 ml, Glass, Clear",
+          "brand": "300",
+          "price": "₹245",
+          "mrp": "₹499",
+          "discount_percentage": "50%",
+          "discount_amount": "₹254",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/glass/8/h/h/premium-glasses-for-1-pc-scokch-wine-juice-water-parties-bar-original-imahbybrqwtrwgth.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/glass/8/h/h/premium-glasses-for-1-pc-scokch-wine-juice-water-parties-bar-original-imahbybrqwtrwgth.jpeg?q=70",
+          "image_alt": "okechuku _ abc 1cracked Glass Whisky Glass",
+          "link": "https://www.flipkart.com/okechuku-abc-1cracked-glass-whisky/p/itm54ad5bdf55f15?pid=GLSHBGV8RY3ATKNM&lid=LSTGLSHBGV8RY3ATKNMYH9NUV&marketplace=FLIPKART&q=wisky&store=upp%2Fta2&srno=s_1_8&otracker=search&fm=organic&iid=b46c8023-83da-4548-af04-467265db9755.GLSHBGV8RY3ATKNM.SEARCH&ppt=None&ppn=None&ssid=pufqh5ydxc0000001760782939731&qH=79ade009d1c22f68",
+          "category": "General"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "350 ml, Glass, Clear",
+          "price": "₹315",
+          "mrp": "₹699",
+          "discount_percentage": "54%",
+          "discount_amount": "₹384",
+          "brand": "350",
+          "category": "General",
+          "rating": "4.4",
+          "reviews_count": "4.4(2,520)",
+          "description": "Buy ₹125 more, save extra ₹50",
+          "availability": "",
+          "delivery": "",
+          "special_offers": [],
+          "specifications": [],
+          "link": "https://www.flipkart.com/vlkmk-pack-4-fashioned-whiskey-glass-heavy-base-rocks-barware-glasses-scotch-mixed-drinks-wine-bourbon-juice-water-cocktail-drinks-350-ml-pack-4-set-whisky/p/itmf80eef57c6b78?pid=GLSG7EN4FMXG6VFP&lid=LSTGLSG7EN4FMXG6VFPL4KPQH&marketplace=FLIPKART&q=wisky&store=upp%2Fta2&srno=s_1_1&otracker=search&fm=organic&iid=en_PVKXApp2oRhfLi9GguVG7YwUHrqImITld66kd7mJ335pb3G8U92SojZmlN3SILH3Zug_-nZL4cj4JlBQwM_I4w%3D%3D&ppt=None&ppn=None&ssid=pufqh5ydxc0000001760782939731&qH=79ade009d1c22f68",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/612/612/xif0q/glass/3/u/b/fashioned-whiskey-glass-heavy-base-rocks-barware-glasses-for-original-imahcpwe4xevgzeb.jpeg?q=100",
+              "alt": "VLKMK (Pack of 4) Fashioned Whiskey Glass - Heavy Base Rocks Barware Glasses for Scotch, Mixed Drinks, Wine, Bourbon, Juice, Water and Cocktail Drinks 350 Ml Pack of 4 Glass Set Whisky Glass",
+              "thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/glass/3/u/b/fashioned-whiskey-glass-heavy-base-rocks-barware-glasses-for-original-imahcpwe4xevgzeb.jpeg?q=70"
+            }
+          ]
+        },
+        {
+          "name": "350 ml, Glass, Clear",
+          "price": "₹219",
+          "mrp": "₹899",
+          "discount_percentage": "75%",
+          "discount_amount": "₹680",
+          "brand": "350",
+          "category": "General",
+          "rating": "4.5",
+          "reviews_count": "4.5(210)",
+          "description": "Top Discount of the Sale",
+          "availability": "Top Discount of the Sale",
+          "delivery": "",
+          "special_offers": [],
+          "specifications": [],
+          "link": "https://www.flipkart.com/morryz-pack-2-italian-style-whiskey-glasses-bar-glass-drinking-bourbon-whisky-scotch-set-whisky/p/itmaabb46373b466?pid=GLSGHTPMHBSWUYBN&lid=LSTGLSGHTPMHBSWUYBNQKSKKM&marketplace=FLIPKART&q=wisky&store=upp%2Fta2&srno=s_1_2&otracker=search&fm=organic&iid=b46c8023-83da-4548-af04-467265db9755.GLSGHTPMHBSWUYBN.SEARCH&ppt=None&ppn=None&ssid=pufqh5ydxc0000001760782939731&qH=79ade009d1c22f68",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/612/612/xif0q/glass/o/9/j/italian-style-whiskey-glasses-bar-glass-for-drinking-bourbon-original-imafzav2w27nuggw.jpeg?q=100",
+              "alt": "morryz (Pack of 2) Italian Style Whiskey Glasses Bar Glass for Drinking Bourbon, Whisky, Scotch Glass Set Whisky Glass",
+              "thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/glass/o/9/j/italian-style-whiskey-glasses-bar-glass-for-drinking-bourbon-original-imafzav2w27nuggw.jpeg?q=70"
+            }
+          ]
+        },
+        {
+          "name": "Glass, 1000 oz",
+          "price": "₹1,338",
+          "mrp": "₹2899",
+          "discount_percentage": "53%",
+          "discount_amount": "₹1,561",
+          "brand": "Glass,",
+          "category": "General",
+          "rating": "4.3",
+          "reviews_count": "4.3(48)",
+          "description": "",
+          "availability": "",
+          "delivery": "",
+          "special_offers": [],
+          "specifications": [],
+          "link": "https://www.flipkart.com/mairatrends-european-crystal-clear-1000ml-decanter-325ml-glass-set-6-whisky-scotch-ram-wine-vodka-juice-etc/p/itm4320f5fa75713?pid=DCRGHGYEFPQ6FXFR&lid=LSTDCRGHGYEFPQ6FXFRE1ZQE1&marketplace=FLIPKART&q=wisky&store=upp%2Fta2&srno=s_1_3&otracker=search&fm=organic&iid=b46c8023-83da-4548-af04-467265db9755.DCRGHGYEFPQ6FXFR.SEARCH&ppt=None&ppn=None&ssid=pufqh5ydxc0000001760782939731&qH=79ade009d1c22f68",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/612/612/xif0q/decanter/y/8/k/crystal-clear-decanter-and-glass-set-for-whisky-scotch-1-original-imahdh3wypq4zfeu.jpeg?q=100",
+              "alt": "MairaTrends MairaTrends European Crystal Clear 1000ml Decanter and 325ml Glass Set of 6 Whisky , Scotch, Ram, Wine, Vodka, Juice & etc. Decanter",
+              "thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/decanter/y/8/k/crystal-clear-decanter-and-glass-set-for-whisky-scotch-1-original-imahdh3wypq4zfeu.jpeg?q=70"
+            }
+          ]
+        }
+      ]
+    },
+    [
+      {
+        "title": "Sangria",
+        "name": "Sangria",
+        "price": "Rs. 587",
+        "link": "https://www.myntra.com/kurta-sets/sangria/sangria-girls-pink-foil-yoke-design-peplum-anarkali-kurti-with-sharara/32652478/buy",
+        "rating": "1.5",
+        "image_url": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/FEBRUARY/5/r7Ml3ckk_b1a7357538cc48f6a8a98655afdefaf6.jpg",
+        "image_alt": "Sangria Girls Pink Foil Yoke Design Peplum Anarkali Kurti With Sharara",
+        "images": [
+          {
+            "url": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/FEBRUARY/5/r7Ml3ckk_b1a7357538cc48f6a8a98655afdefaf6.jpg",
+            "alt": "Sangria Girls Pink Foil Yoke Design Peplum Anarkali Kurti With Sharara",
+            "thumbnail": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/FEBRUARY/5/r7Ml3ckk_b1a7357538cc48f6a8a98655afdefaf6.jpg"
+          }
+        ]
+      }
+    ],
+    {
+      "site": "Myntra",
+      "query": "wisky",
+      "total_products": 0,
+      "basic_products": [],
+      "detailed_products": [],
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "site": "Meesho",
+      "query": "wisky",
+      "total_products": 20,
+      "basic_products": [
+        {
+          "title": "Attractive Kids Party Items",
+          "link": "https://www.meesho.com/6pack-whisky-mug-cheers-balloons-big-aged-foil-bottle-balloons-for-birthday/p/959ex2",
+          "price": "₹201",
+          "rating": "4.1",
+          "image_url": "https://images.meesho.com/images/products/553032902/6kdzz_512.webp?width=360",
+          "image_alt": "Attractive Kids Party Items",
+          "brand": "Attractive",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Classic Kids Party Items",
+          "link": "https://www.meesho.com/rtb-enterprises-giant-aged-to-perfection-whisky-bottle-balloon-39-large-size-whisky-bottle-balloon-for-wedding-birthday-party-anniversary-decorations-pack-of-1/p/1mfdxa",
+          "price": "₹140",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/98135614/eng8c_512.webp?width=360",
+          "image_alt": "Classic Kids Party Items",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Hip Flasks",
+          "link": "https://www.meesho.com/griscon-pocket-flask-whisky-bottle-for-alchol-drink-holder-steel-funnel-whisky-hip-wine-flask-stainless-liquor-drinks-vodkaa-236-ml/p/9sxyvw",
+          "price": "₹256",
+          "rating": "4.0",
+          "image_url": "https://images.meesho.com/images/products/592809692/jroig_512.webp?width=360",
+          "image_alt": "Hip Flasks",
+          "brand": "Hip",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Everyday Whisks",
+          "link": "https://www.meesho.com/hand-push-rotary-whisk-blender-for-pastrycake-pizza-whisker-for-eggs-cream-frother-for-milkshake-lassi-buttermilk-soup-coffee-great-alternatives-to-a-blender/p/a5abnt",
+          "price": "₹119",
+          "rating": "4.0",
+          "image_url": "https://images.meesho.com/images/products/613541513/9xyyz_512.webp?width=360",
+          "image_alt": "Everyday Whisks",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "New Beer Glasses & Mugs",
+          "link": "https://www.meesho.com/dulariya-enterprises-stainless-steel-premium-peg-measurer-jigger-cup-3060-ml-alcohol-whisky-wine-cocktail-jigger-shot-glass-drink-measurement-perfect-for-home-bar-double-side-jigger-bar-too-silver/p/2bq4df",
+          "price": "₹318",
+          "rating": "4.3",
+          "image_url": "https://images.meesho.com/images/products/140626851/rcw3r_512.webp?width=360",
+          "image_alt": "New Beer Glasses & Mugs",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Beer Glasses & Mugs",
+          "link": "https://www.meesho.com/drinking-glasses-set-of-1-lead-free-beautiful-designed-tumblers-for-whisky-wine-scotchand-cocktail-pack-of-1-pcstransparent-colour300ml/p/7xtor4",
+          "price": "₹150",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/480075664/nssvk_512.webp?width=360",
+          "image_alt": "Beer Glasses & Mugs",
+          "brand": "Beer",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Graceful Decanters",
+          "link": "https://www.meesho.com/syndleyz-whiskey-bottle-decanter-for-whiskey-scotch-liquor-vodka-wine-tequila-irish-cut-food-grade-bpa-free-with-airtight-cap-750-ml-wine-decanter-glass/p/9pubhg",
+          "price": "₹496",
+          "rating": "4.6",
+          "image_url": "https://images.meesho.com/images/products/587600548/0frle_512.webp?width=360",
+          "image_alt": "Graceful Decanters",
+          "brand": "Graceful",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Unisex Perfumes",
+          "link": "https://www.meesho.com/xxx-rated-whisky-edu-de-perfum-pk1-perfume-for-men-100-ml/p/94nzf0",
+          "price": "₹1,779",
+          "rating": "3.8",
+          "image_url": "https://images.meesho.com/images/products/552033036/cef5h_512.webp?width=360",
+          "image_alt": "Unisex Perfumes",
+          "brand": "Unisex",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "New Decanters",
+          "link": "https://www.meesho.com/shobhana-enterprises-clear-glass-european-style-round-decanter-with-lid-for-whisky-wine-beer-scotch-vodka-bourbon-liquor-water-and-juice-jug-pitcher-bottle-large/p/3k9q3j",
+          "price": "₹435",
+          "rating": "3.6",
+          "image_url": "https://images.meesho.com/images/products/215444575/etvqn_512.webp?width=360",
+          "image_alt": "New Decanters",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Trendy Manual Blenders",
+          "link": "https://www.meesho.com/cuizy-hand-push-rotary-whisk-blender-for-pastrycake-pizza-whisker-for-eggs-cream-frother-for-milkshake-lassi-buttermilk-soup-coffee-great-alternatives-to-a-blender/p/6wetvj",
+          "price": "₹101",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/417236671/1vlbl_512.webp?width=360",
+          "image_alt": "Trendy Manual Blenders",
+          "brand": "Trendy",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Essential Whisks",
+          "link": "https://www.meesho.com/spring-coil-whisk-stainless-steel-spring-whisk-butter-egg-mixer-egg-beater-hand-whisk-for-kitchen-silver-pack-of-2/p/9dv3jx",
+          "price": "₹115",
+          "rating": "4.4",
+          "image_url": "https://images.meesho.com/images/products/567481533/h4hbs_512.webp?width=360",
+          "image_alt": "Essential Whisks",
+          "brand": "Essential",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Classic Hand Mixers",
+          "link": "https://www.meesho.com/destinyhome-coffee-frother-hand-blender-milk-frother-with-stand-coffee-blender-whisk-foam-maker-egg-beaters-cappuccino-hand-blender-battery-operated-electric-coffee-beater-pack-of-1/p/9cakan",
+          "price": "₹213",
+          "rating": "4.6",
+          "image_url": "https://images.meesho.com/images/products/564843839/ars1e_512.webp?width=360",
+          "image_alt": "Classic Hand Mixers",
+          "brand": "Mi",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Hand Mixers",
+          "link": "https://www.meesho.com/milk-frother-handheld-coffee-frother-blender-usb-rechargeable-electric-coffee-beater-for-cappuccino-whisker-electric-blender-for-milk-egg/p/94l996",
+          "price": "₹177",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/551905818/cjycc_512.webp?width=360",
+          "image_alt": "Hand Mixers",
+          "brand": "Mi",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Fancy Unisex Perfumes",
+          "link": "https://www.meesho.com/winelam-whisky-smoke-perfume-bold-mysterious-luxurious/p/a47hsb",
+          "price": "₹249",
+          "rating": "4.1",
+          "image_url": "https://images.meesho.com/images/products/611729867/4g6wh_512.webp?width=360",
+          "image_alt": " Fancy Unisex Perfumes",
+          "brand": "Fancy",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Classy Whisks",
+          "link": "https://www.meesho.com/handheld-milk-frother-rechargeable-3-speed-electric-frother-for-coffee-with-2-whisks-coffee-frother-mixer-stand-up-design-for-cream-latte-cappuccino-and-for-butter-milk/p/a28oi6",
+          "price": "₹201",
+          "rating": "4.4",
+          "image_url": "https://images.meesho.com/images/products/608425998/v0e5u_512.webp?width=360",
+          "image_alt": "Classy Whisks",
+          "brand": "Classy",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Freshly Concentrated Syrups & Squash",
+          "link": "https://www.meesho.com/bevaro-cold-coffee-classic-and-classic-caramel-combo-300ml-each-gourmet-syrups-for-coffee-desserts/p/6wrrwi",
+          "price": "₹594",
+          "rating": "4.1",
+          "image_url": "https://images.meesho.com/images/products/417840642/fn7rb_512.webp?width=360",
+          "image_alt": "Freshly Concentrated Syrups & Squash",
+          "brand": "Freshly",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Graceful Whisks",
+          "link": "https://www.meesho.com/rorsya-egg-whisker-stainless-steel-hand-push-whisk-egg-beater-hand-push-whisk-blender-semi-automatic-whisk-mixer-for-home-cake-shops/p/9rqxaj",
+          "price": "₹201",
+          "rating": "4.0",
+          "image_url": "https://images.meesho.com/images/products/590801419/jyc6z_512.webp?width=360",
+          "image_alt": "Graceful Whisks",
+          "brand": "Graceful",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Wonderful Whisks",
+          "link": "https://www.meesho.com/25-cm-hand-blender-wire-whisk-stainless-steel-balloon-shaped-egg-beater-multi-use-kitchen-utensil-prime-whisk-with-pipe-handle-egg-beater-for-blending-whisking-beating-stirring-cooking-25/p/87675f",
+          "price": "₹84",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/495775923/u3g7z_512.webp?width=360",
+          "image_alt": "Wonderful Whisks",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Manual Blenders",
+          "link": "https://www.meesho.com/manual-hand-blender-and-beater-for-kitchen-with-high-speed-operation-whipper-for-curd-egg-cream-beater-milkshake-lassi-butter-milk-mixer-beater-for-cakes-hand-blender-0-w-stand-mixer-none-electric-blender-white-pack-of-1-multicolor/p/a0xsav",
+          "price": "₹129",
+          "rating": "3.9",
+          "image_url": "https://images.meesho.com/images/products/606238087/d6a3c_512.webp?width=360",
+          "image_alt": "Manual Blenders",
+          "brand": "Manual",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Modern Whisks",
+          "link": "https://www.meesho.com/new-steel-wire-whisk-hand-blender-for-egg-beater-mixer-whisker-latte-maker-for-milk-coffee-8-inches-silver-multicolor-pack-of-2/p/8pm23s",
+          "price": "₹120",
+          "rating": "4.1",
+          "image_url": "https://images.meesho.com/images/products/526748968/0mqtp_512.webp?width=360",
+          "image_alt": "Modern Whisks",
+          "brand": "Modern",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Attractive Kids Party Items",
+          "price": "₹201",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Attractive",
+          "category": "Fashion",
+          "rating": "4.1",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/6pack-whisky-mug-cheers-balloons-big-aged-foil-bottle-balloons-for-birthday/p/959ex2",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/553032902/6kdzz_512.webp?width=360",
+              "alt": "Attractive Kids Party Items",
+              "thumbnail": "https://images.meesho.com/images/products/553032902/6kdzz_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Classic Kids Party Items",
+          "price": "₹140",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "",
+          "category": "Fashion",
+          "rating": "4.2",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/rtb-enterprises-giant-aged-to-perfection-whisky-bottle-balloon-39-large-size-whisky-bottle-balloon-for-wedding-birthday-party-anniversary-decorations-pack-of-1/p/1mfdxa",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/98135614/eng8c_512.webp?width=360",
+              "alt": "Classic Kids Party Items",
+              "thumbnail": "https://images.meesho.com/images/products/98135614/eng8c_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Hip Flasks",
+          "price": "₹256",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Hip",
+          "category": "Fashion",
+          "rating": "4.0",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/griscon-pocket-flask-whisky-bottle-for-alchol-drink-holder-steel-funnel-whisky-hip-wine-flask-stainless-liquor-drinks-vodkaa-236-ml/p/9sxyvw",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/592809692/jroig_512.webp?width=360",
+              "alt": "Hip Flasks",
+              "thumbnail": "https://images.meesho.com/images/products/592809692/jroig_512.webp?width=360"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

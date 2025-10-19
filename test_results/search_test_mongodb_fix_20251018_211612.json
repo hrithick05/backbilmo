@@ -1,0 +1,210 @@
+{
+  "success": true,
+  "query": "test_mongodb_fix",
+  "total_results": 12,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "37.51s",
+  "timestamp": "2025-10-18T21:16:12.642340",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_mongodb_fix",
+      "total_products": 12,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - Guide to RBI Grade B Officers Phase I Exam with Previous Year Questions - 7th Edition | 2022 & 2023 Phase I...",
+          "price": "₹567",
+          "discount_percentage": "₹790 (28% off)",
+          "rating": "4.0",
+          "image_url": "https://m.media-amazon.com/images/I/71m8XkGlHeL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Guide to RBI Grade B Officers Phase I Exam with Previous Year Questions - 7th Edition | 2022 & 2023 Phase I...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfYXRmOjMwMDcwODY4OTE2MjgzMjo6MDo6&url=%2FGuide-Grade-Officers-Previous-Questions%2Fdp%2F9362254255%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=qZZunKAUic&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Sponsored Ad - PW All in One IBPS RRB PO Prelims & Mains (Officers Scale-l) Exams 2025-26 By Mayank Sir & Vidhu Sir | Chap...",
+          "price": "₹473",
+          "discount_percentage": "₹725 (35% off)",
+          "image_url": "https://m.media-amazon.com/images/I/61uYYMcJWyL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - PW All in One IBPS RRB PO Prelims & Mains (Officers Scale-l) Exams 2025-26 By Mayank Sir & Vidhu Sir | Chap...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfbXRmOjMwMDc1OTExNzcwNzAzMjo6MDo6&url=%2FPrelims-Officers-Chapterwise-Practice-Questions%2Fdp%2F937153074X%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=NJGsebMVnv&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - WYATT Queue Manager Stainless Steel 202 Grade Crowd Control Barriers Silver Stanchion with 2M Black Retract...",
+          "price": "₹2,300",
+          "discount_percentage": "₹12,500 (82% off)",
+          "rating": "2.8",
+          "image_url": "https://m.media-amazon.com/images/I/21qStDNumcL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - WYATT Queue Manager Stainless Steel 202 Grade Crowd Control Barriers Silver Stanchion with 2M Black Retract...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfbXRmOjMwMDY1ODUxMTQ0NTIzMjo6MDo6&url=%2FWYATT-Stainless-Barriers-Stanchion-Retractable%2Fdp%2FB09XQVQ6Q3%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=KaCBdMqMPZ&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Sponsored Ad - DARIT Stainless Steel Crowd Control Stanchions with 2M Retractable Belt",
+          "price": "₹2,300",
+          "discount_percentage": "₹6,250 (63% off)",
+          "rating": "3.5",
+          "image_url": "https://m.media-amazon.com/images/I/41cpO1X1BuL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - DARIT Stainless Steel Crowd Control Stanchions with 2M Retractable Belt,Standard Rope Queue Manager Barrier...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfbXRmOjMwMDUzNDM3Mjg5NzEzMjo6MDo6&url=%2FDARIT-Stainless-Stanchions-Retractable-Standard%2Fdp%2FB09XTTL698%2Fref%3Dsr_1_4_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-4-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=bpkC7rOAUW&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Typhoid rapid test kit onsite pack of 30 test",
+          "price": "₹1,349",
+          "discount_percentage": "₹3,000 (55% off)",
+          "rating": "3.8",
+          "image_url": "https://m.media-amazon.com/images/I/51sQyf0JZQL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Typhoid rapid test kit onsite pack of 30 test",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfbXRmOjMwMDY0MzM3MDMwMjkzMjo6MDo6&url=%2FTyphoid-rapid-test-onsite-pack%2Fdp%2FB0CQ2TR7N6%2Fref%3Dsr_1_5_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-5-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=oS8QmqwkIr&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Thu, 30 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Disha Banking Awareness for SBI",
+          "price": "₹224",
+          "discount_percentage": "₹400 (44% off)",
+          "rating": "4.3",
+          "image_url": "https://m.media-amazon.com/images/I/612nxkGP0HL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Disha Banking Awareness for SBI, IBPS, RRB, RBI Bank Clerk/ PO & Insurance Exams with PYQs 5th Edition | Ex...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfYnRmOjMwMDY1MTU5NTU2NjYzMjo6MDo6&url=%2FAwareness-Insurance-Explanatory-Practice-Questions%2Fdp%2F9355641443%2Fref%3Dsr_1_6_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-6-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=IjzyIYUzce&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - Disha Combo (set of 4 Books) 125 Topic-wise Reasoning/ Quantitative Aptitude/ English/ General Awareness So...",
+          "price": "₹1,483",
+          "discount_percentage": "₹2,740 (46% off)",
+          "rating": "4.6",
+          "image_url": "https://m.media-amazon.com/images/I/71BCN9gkkhL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Disha Combo (set of 4 Books) 125 Topic-wise Reasoning/ Quantitative Aptitude/ English/ General Awareness So...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfYnRmOjMwMDY1MTU5NTU2NjUzMjo6MDo6&url=%2FTopic-wise-Reasoning-Quantitative-Aptitude-Awareness%2Fdp%2F9362257793%2Fref%3Dsr_1_7_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-7-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=A2cOcmd7h0&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Top",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Sponsored Ad - D-fix Hem Tape Rivil Civil Fabric Fusing Tape Double Sided Adhesive Hem Tape Iron On Tape (White) Buckram I...",
+          "price": "₹75",
+          "discount_percentage": "₹399 (81% off)",
+          "rating": "3.6",
+          "reviews_count": "1,394",
+          "image_url": "https://m.media-amazon.com/images/I/41Ghp+HDP9L._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - D-fix Hem Tape Rivil Civil Fabric Fusing Tape Double Sided Adhesive Hem Tape Iron On Tape (White) Buckram I...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfYnRmOjMwMDQ3OTUyMzE4NjYzMjo6MDo6&url=%2FAdhesive-Buckram-Interfacing-Interlining-Accessory%2Fdp%2FB0CHRSVWWG%2Fref%3Dsr_1_8_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-8-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=TKM1Mwv1up&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Tue, 28 Oct"
+        },
+        {
+          "title": "Sponsored Ad - D-Fix Leakage Repair Aluminium Waterproof Tape for Surface Crack",
+          "price": "₹249",
+          "discount_percentage": "₹599 (58% off)",
+          "rating": "4.0",
+          "image_url": "https://m.media-amazon.com/images/I/71IfM5-19ML._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - D-Fix Leakage Repair Aluminium Waterproof Tape for Surface Crack, Roof, Pipe Repair Solution Aluminium Tape...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfYnRmOjMwMDQzNTI0OTc3OTIzMjo6MDo6&url=%2FD-Fix-Aluminium-Waterproof-Solution-Concrete%2Fdp%2FB0D5LT78WD%2Fref%3Dsr_1_9_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-9-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=uxEYjNl6Fo&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Tue, 28 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Disha 87 Topic-wise General/ Banking/ Economy Awareness Previous Year Question Bank for IBPS/ SBI/ RRB/ RBI...",
+          "price": "₹220",
+          "discount_percentage": "₹400 (45% off)",
+          "rating": "4.5",
+          "image_url": "https://m.media-amazon.com/images/I/71UUFdShnsL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Disha 87 Topic-wise General/ Banking/ Economy Awareness Previous Year Question Bank for IBPS/ SBI/ RRB/ RBI...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfYnRmOjMwMDY1MTU5NTU2NjMzMjo6MDo6&url=%2FTopic-wise-General-Awareness-Previous-Question%2Fdp%2F9362259958%2Fref%3Dsr_1_10_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-10-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=28hCu3Dx5N&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Top",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - Disha 21 Year-wise SBI Clerk Prelim & Main Exams Previous Year Solved Papers (2025 - 2009) 6th Edition | Ge...",
+          "price": "₹298",
+          "discount_percentage": "₹510 (42% off)",
+          "rating": "4.4",
+          "image_url": "https://m.media-amazon.com/images/I/71Y+A6GfpHL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Disha 21 Year-wise SBI Clerk Prelim & Main Exams Previous Year Solved Papers (2025 - 2009) 6th Edition | Ge...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfYnRmOjMwMDY1MTU5NTU2NTkzMjo6MDo6&url=%2FYear-wise-Prelim-Previous-Solved-Papers%2Fdp%2F9362255227%2Fref%3Dsr_1_11_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-11-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=nxWRVJxi33&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - RBI Grade B Officers Phase 1 Exam 6 Previous Year Solved Papers (2017 - 2023) & 10 Practice Sets - 6th Edit...",
+          "price": "₹363",
+          "discount_percentage": "₹500 (27% off)",
+          "rating": "4.0",
+          "image_url": "https://m.media-amazon.com/images/I/71o13kLCU7L._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - RBI Grade B Officers Phase 1 Exam 6 Previous Year Solved Papers (2017 - 2023) & 10 Practice Sets - 6th Edit...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfYnRmOjMwMDcwODY4OTE2MjczMjo6MDo6&url=%2FGrade-Officers-Previous-Solved-Papers%2Fdp%2F9362256126%2Fref%3Dsr_1_12_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=HNGotpUSbi&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - Guide to RBI Grade B Officers Phase I Exam with Previous Year Questions - 7th Edition | 2022 & 2023 Phase I...",
+          "price": "₹567",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "4.0",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfYXRmOjMwMDcwODY4OTE2MjgzMjo6MDo6&url=%2FGuide-Grade-Officers-Previous-Questions%2Fdp%2F9362254255%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=qZZunKAUic&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71m8XkGlHeL._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - Guide to RBI Grade B Officers Phase I Exam with Previous Year Questions - 7th Edition | 2022 & 2023 Phase I...",
+              "thumbnail": "https://m.media-amazon.com/images/I/71m8XkGlHeL._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - PW All in One IBPS RRB PO Prelims & Mains (Officers Scale-l) Exams 2025-26 By Mayank Sir & Vidhu Sir | Chap...",
+          "price": "₹473",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfbXRmOjMwMDc1OTExNzcwNzAzMjo6MDo6&url=%2FPrelims-Officers-Chapterwise-Practice-Questions%2Fdp%2F937153074X%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=NJGsebMVnv&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61uYYMcJWyL._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - PW All in One IBPS RRB PO Prelims & Mains (Officers Scale-l) Exams 2025-26 By Mayank Sir & Vidhu Sir | Chap...",
+              "thumbnail": "https://m.media-amazon.com/images/I/61uYYMcJWyL._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - WYATT Queue Manager Stainless Steel 202 Grade Crowd Control Barriers Silver Stanchion with 2M Black Retract...",
+          "price": "₹2,300",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "2.8",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2ODkzODg3Njc4OTI1MDgyOjE3NjA4MDIzNDc6c3BfbXRmOjMwMDY1ODUxMTQ0NTIzMjo6MDo6&url=%2FWYATT-Stainless-Barriers-Stanchion-Retractable%2Fdp%2FB09XQVQ6Q3%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dtest_mongodb_fix%26qid%3D1760802347%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=KaCBdMqMPZ&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/21qStDNumcL._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - WYATT Queue Manager Stainless Steel 202 Grade Crowd Control Barriers Silver Stanchion with 2M Black Retract...",
+              "thumbnail": "https://m.media-amazon.com/images/I/21qStDNumcL._AC_UL320_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

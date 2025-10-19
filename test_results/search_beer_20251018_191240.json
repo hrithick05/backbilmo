@@ -1,0 +1,898 @@
+{
+  "success": true,
+  "query": "beer",
+  "total_results": 43,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 4,
+  "processing_time": "143.16s",
+  "timestamp": "2025-10-18T19:12:40.195532",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "beer",
+      "total_products": 12,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - URBAN MONK Malt Beer Mojito Pack of 6 (250ml Each) | Ready to Drink | No Artificial Sweetener & Flavours | ...",
+          "price": "₹280",
+          "discount_percentage": "₹300 (7% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/813+Wt-luML._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - URBAN MONK Malt Beer Mojito Pack of 6 (250ml Each) | Ready to Drink | No Artificial Sweetener & Flavours | ...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMzA4NjI0MzcxMTI4MTg1OjE3NjA3OTQ4MzY6c3BfYXRmOjMwMDc2NzI3NDg4OTYzMjo6MDo6&url=%2FURBAN-MONK-Artificial-Carbonated-Non-alcoholic%2Fdp%2FB0FK2H4H13%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk%26dib_tag%3Dse%26keywords%3Dbeer%26qid%3D1760794836%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=g2ttjmUEwD&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 31 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Gintak Maklay's Non Alcoholic Ginger Beer 250 ML Pack of 6",
+          "price": "₹270",
+          "discount_percentage": "₹294 (8% off)",
+          "rating": "3.8",
+          "image_url": "https://m.media-amazon.com/images/I/51NtrdXC+OL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Gintak Maklay's Non Alcoholic Ginger Beer 250 ML Pack of 6",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMzA4NjI0MzcxMTI4MTg1OjE3NjA3OTQ4MzY6c3BfYXRmOjIwMDQ5NTMzNjIyNjA4OjowOjo&url=%2FGintak-Maklays-Alcoholic-Ginger-Beer%2Fdp%2FB089MB3DHJ%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk%26dib_tag%3Dse%26keywords%3Dbeer%26qid%3D1760794836%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=kqshv6vXxk&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - Bomdrop Beer Hand Crafted Cocktail Salt| Cocktail Mix Salts | For Hotel Restaurant And Party |Refreshing Yo...",
+          "price": "₹259",
+          "discount_percentage": "₹299 (13% off)",
+          "image_url": "https://m.media-amazon.com/images/I/61Zxr39L6RL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Bomdrop Beer Hand Crafted Cocktail Salt| Cocktail Mix Salts | For Hotel Restaurant And Party |Refreshing Yo...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMzA4NjI0MzcxMTI4MTg1OjE3NjA3OTQ4MzY6c3BfYXRmOjMwMDYzNDkxOTcxNTQzMjo6MDo6&url=%2FBomdrop-Crafted-Cocktail-Restaurant-Refreshing%2Fdp%2FB0FGQMFC69%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk%26dib_tag%3Dse%26keywords%3Dbeer%26qid%3D1760794836%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=VWZhDcoKCc&sp_cr=ZAZ",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Rosegold-Bird's eye chilly(Gandhari mulagu/Capsicum frutescence) Non alcoholic Homemade wine- 375ml(Winter ...",
+          "price": "₹570",
+          "discount_percentage": "₹900 (37% off)",
+          "rating": "2.9",
+          "image_url": "https://m.media-amazon.com/images/I/71Z5W+geyKL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Rosegold-Bird's eye chilly(Gandhari mulagu/Capsicum frutescence) Non alcoholic Homemade wine- 375ml(Winter ...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMzA4NjI0MzcxMTI4MTg1OjE3NjA3OTQ4MzY6c3BfYXRmOjMwMDY3MzU2MzA4ODkzMjo6MDo6&url=%2FGOLD-Birds-Gandhari-Capsicum-frutescence-alcoholic%2Fdp%2FB0CQC2N4Y1%2Fref%3Dsr_1_4_sspa%3Fdib%3DeyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk%26dib_tag%3Dse%26keywords%3Dbeer%26qid%3D1760794836%26sr%3D8-4-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=mCLPUhLGWO&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Mon, 27 Oct"
+        },
+        {
+          "title": "Budweiser 0.0 Non Alcoholic Beer Pack of 6",
+          "price": "₹399",
+          "discount_percentage": "₹594 (33% off)",
+          "rating": "4.0",
+          "reviews_count": "4,648",
+          "image_url": "https://m.media-amazon.com/images/I/61HCFE8KFTL._AC_UL320_.jpg",
+          "image_alt": "Budweiser 0.0 Non Alcoholic Beer Pack of 6, 6 X 330ml",
+          "link": "https://www.amazon.in/Budweiser-Alcoholic-Beer-Pack-330ml/dp/B086CBSSL3/ref=sr_1_5?dib=eyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk&dib_tag=se&keywords=beer&qid=1760794836&sr=8-5",
+          "brand": "Budweiser",
+          "category": "General",
+          "availability": "FREE Delivery on first order."
+        },
+        {
+          "title": "Old Jamaica Regular Ginger Beer Can- 4 Pack",
+          "price": "₹578",
+          "discount_percentage": "₹1,200 (52% off)",
+          "rating": "3.9",
+          "image_url": "https://m.media-amazon.com/images/I/71o6K8i4osL._AC_UL320_.jpg",
+          "image_alt": "Old Jamaica Regular Ginger Beer Can- 4 Pack, 4 X 330 Ml, Vegetarian - Ginger",
+          "link": "https://www.amazon.in/Old-Jamaica-Regular-Ginger-Beer/dp/B08756FCCQ/ref=sr_1_6?dib=eyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk&dib_tag=se&keywords=beer&qid=1760794836&sr=8-6",
+          "brand": "Old",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "CISK Non Alcoholic Beer | Alcohol Free Beer | Pack of 6 Alcohol Free Beer | 0% Alcohol Beer",
+          "price": "₹750",
+          "rating": "4.3",
+          "image_url": "https://m.media-amazon.com/images/I/71Wqd71n5vL._AC_UL320_.jpg",
+          "image_alt": "CISK Non Alcoholic Beer | Alcohol Free Beer | Pack of 6 Alcohol Free Beer | 0% Alcohol Beer",
+          "link": "https://www.amazon.in/CISK-Alcoholic-Beer-Alcohol-Free/dp/B0BFDNYT7K/ref=sr_1_7?dib=eyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk&dib_tag=se&keywords=beer&qid=1760794836&sr=8-7",
+          "brand": "CISK",
+          "category": "General",
+          "availability": "FREE delivery Sun, 2 Nov"
+        },
+        {
+          "title": "Heineken 0.0 Non Alcoholic Beer Cans",
+          "price": "₹2,799",
+          "discount_percentage": "₹2,880 (3% off)",
+          "rating": "3.5",
+          "image_url": "https://m.media-amazon.com/images/I/71X+CyTCRdL._AC_UL320_.jpg",
+          "image_alt": "Heineken 0.0 Non Alcoholic Beer Cans, 330ML X 24 Cans",
+          "link": "https://www.amazon.in/Heineken-Alcoholic-Beer-Cans-330ML/dp/B0070AKNCS/ref=sr_1_8?dib=eyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk&dib_tag=se&keywords=beer&qid=1760794836&sr=8-8",
+          "brand": "Heineken",
+          "category": "General",
+          "availability": "FREE delivery Tue, 28 Oct"
+        },
+        {
+          "title": "Park Avenue Beer shampoo for Shiny & Bouncy Hair (180ml) | Paraben Free | For Dull & Lifeless Hair | Crafted with Natural ...",
+          "price": "₹175",
+          "discount_percentage": "₹199 (12% off)",
+          "rating": "4.2",
+          "image_url": "https://m.media-amazon.com/images/I/71KdyGTj+ZS._AC_UL320_.jpg",
+          "image_alt": "Park Avenue Beer shampoo for Shiny & Bouncy Hair (180ml) | Paraben Free | For Dull & Lifeless Hair | Crafted with Natural ...",
+          "link": "https://www.amazon.in/Park-Avenue-Shampoo-Shiny-Bouncy/dp/B00HT03X76/ref=sr_1_9?dib=eyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk&dib_tag=se&keywords=beer&qid=1760794836&sr=8-9",
+          "brand": "Park",
+          "category": "General",
+          "availability": "Delivery Tue, 4 Nov"
+        },
+        {
+          "title": "The Greatest Beer Run Ever",
+          "reviews_count": "2022",
+          "image_url": "https://m.media-amazon.com/images/I/814Ss47-ojL._AC_UL320_.jpg",
+          "image_alt": "The Greatest Beer Run Ever",
+          "link": "https://www.amazon.in/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.9c58d8d1-9642-4d03-a7fe-dc1eb718fe48%26ref_%3Ddvm_src_ret_in_xx_s&page-type-id=B0DH2GR3MS&ref=sr_1_10&keywords=beer&dib_tag=se&dib=eyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk&qid=1760794836&sr=8-10",
+          "brand": "The",
+          "category": "General",
+          "availability": "Available with Apple TV+ on Prime Video"
+        },
+        {
+          "title": "Ahnlich’s Zero Ale Malt Non-Alcoholic Craft Beer with Rich Malt Character | Zero Alcohol",
+          "price": "₹420",
+          "rating": "1.0",
+          "image_url": "https://m.media-amazon.com/images/I/61CGJVH8N1L._AC_UL320_.jpg",
+          "image_alt": "Ahnlich’s Zero Ale Malt Non-Alcoholic Craft Beer with Rich Malt Character | Zero Alcohol, Low Calorie | Pack of 6",
+          "link": "https://www.amazon.in/dp/B0FSDWH9TY/ref=sr_1_11?dib=eyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk&dib_tag=se&keywords=beer&qid=1760794836&sr=8-11",
+          "brand": "Ahnlich’s",
+          "category": "General",
+          "availability": "FREE delivery Thu, 30 Oct"
+        },
+        {
+          "title": "Old Jamaica Ginger Beer",
+          "price": "₹399",
+          "rating": "4.4",
+          "image_url": "https://m.media-amazon.com/images/I/61xIWr2V4cL._AC_UL320_.jpg",
+          "image_alt": "Old Jamaica Ginger Beer,Ginger Beer , 330 Milliliters, Vegetarian",
+          "link": "https://www.amazon.in/Old-Jamaica-Ginger-Beer-330ml/dp/B007OU296M/ref=sr_1_12?dib=eyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk&dib_tag=se&keywords=beer&qid=1760794836&sr=8-12",
+          "brand": "Old",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct on first order"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - URBAN MONK Malt Beer Mojito Pack of 6 (250ml Each) | Ready to Drink | No Artificial Sweetener & Flavours | ...",
+          "price": "₹280",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "5.0",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMzA4NjI0MzcxMTI4MTg1OjE3NjA3OTQ4MzY6c3BfYXRmOjMwMDc2NzI3NDg4OTYzMjo6MDo6&url=%2FURBAN-MONK-Artificial-Carbonated-Non-alcoholic%2Fdp%2FB0FK2H4H13%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk%26dib_tag%3Dse%26keywords%3Dbeer%26qid%3D1760794836%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=g2ttjmUEwD&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/813+Wt-luML._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - URBAN MONK Malt Beer Mojito Pack of 6 (250ml Each) | Ready to Drink | No Artificial Sweetener & Flavours | ...",
+              "thumbnail": "https://m.media-amazon.com/images/I/813+Wt-luML._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - Gintak Maklay's Non Alcoholic Ginger Beer 250 ML Pack of 6",
+          "price": "₹270",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "3.8",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMzA4NjI0MzcxMTI4MTg1OjE3NjA3OTQ4MzY6c3BfYXRmOjIwMDQ5NTMzNjIyNjA4OjowOjo&url=%2FGintak-Maklays-Alcoholic-Ginger-Beer%2Fdp%2FB089MB3DHJ%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk%26dib_tag%3Dse%26keywords%3Dbeer%26qid%3D1760794836%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=kqshv6vXxk&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/51NtrdXC+OL._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - Gintak Maklay's Non Alcoholic Ginger Beer 250 ML Pack of 6",
+              "thumbnail": "https://m.media-amazon.com/images/I/51NtrdXC+OL._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - Bomdrop Beer Hand Crafted Cocktail Salt| Cocktail Mix Salts | For Hotel Restaurant And Party |Refreshing Yo...",
+          "price": "₹259",
+          "brand": "Mi",
+          "category": "General",
+          "rating": "",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMzA4NjI0MzcxMTI4MTg1OjE3NjA3OTQ4MzY6c3BfYXRmOjMwMDYzNDkxOTcxNTQzMjo6MDo6&url=%2FBomdrop-Crafted-Cocktail-Restaurant-Refreshing%2Fdp%2FB0FGQMFC69%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.ZMcCkvqvoLFgaXh0kREBA1pIyYsndqTKKRjFvRiwBPQpTRbD5WWazlPrUtAVEliQGK4lS17FI-QmQhkYFjsYtD3xKyUxg90jvrlttbYnfd4SD9nxhcxEb_d1q3M_7zWTEo5yskvieofJ32DNzG7pE76G-UFeMFKobbEg6GhEAJH1qKf2ViDw-IuHbnntwYK-HxGIWfGHfssuiBcipDFuCPGZfafryCZISz7TyEjcxyyCejfqJZVjr2qmtE-UxDRuszkE67PBsISiucJ0B_9r76RpACMqG6PGfixAwPrKmDw.MvtUVMHTXwf17ddMNKBQoKWIBxNy-CdLQNmLPBLbgPk%26dib_tag%3Dse%26keywords%3Dbeer%26qid%3D1760794836%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=VWZhDcoKCc&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61Zxr39L6RL._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - Bomdrop Beer Hand Crafted Cocktail Salt| Cocktail Mix Salts | For Hotel Restaurant And Party |Refreshing Yo...",
+              "thumbnail": "https://m.media-amazon.com/images/I/61Zxr39L6RL._AC_UL320_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "site": "Flipkart",
+      "query": "beer",
+      "total_products": 11,
+      "basic_products": [
+        {
+          "title": "coolberg Malt Non Alcoholic Beer Glass Bottle",
+          "brand": "coolberg",
+          "price": "₹99",
+          "rating": "4.3",
+          "reviews_count": "4.3(240)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/y/o/b/330-malt-non-alcoholic-beer-glass-bottle-1-coolberg-original-imagqfyvxzztz6eq.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/y/o/b/330-malt-non-alcoholic-beer-glass-bottle-1-coolberg-original-imagqfyvxzztz6eq.jpeg?q=70",
+          "image_alt": "coolberg Malt Non Alcoholic Beer Glass Bottle",
+          "link": "https://www.flipkart.com/coolberg-malt-non-alcoholic-beer-glass-bottle/p/itm3d59f584b57fb?pid=ARDGNBVHYJUWZCJZ&lid=LSTARDGNBVHYJUWZCJZSA5GIH&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&srno=s_1_1&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDGNBVHYJUWZCJZ.SEARCH&ppt=None&ppn=None&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "category": "General"
+        },
+        {
+          "title": "Budweiser 0.0 Non Alcoholic Beer Can",
+          "brand": "Budweiser",
+          "price": "₹428",
+          "mrp": "₹594",
+          "discount_percentage": "27%",
+          "discount_amount": "₹166",
+          "rating": "3.9",
+          "reviews_count": "3.9(1,066)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/l0zm64w0/aerated-drink/e/9/r/330-0-0-non-alcoholic-beer-pack-of-6-6-x-330ml-6-can-budweiser-original-imagcnzvttyyzyab.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/l0zm64w0/aerated-drink/e/9/r/330-0-0-non-alcoholic-beer-pack-of-6-6-x-330ml-6-can-budweiser-original-imagcnzvttyyzyab.jpeg?q=70",
+          "image_alt": "Budweiser 0.0 Non Alcoholic Beer Can",
+          "link": "https://www.flipkart.com/budweiser-0-0-non-alcoholic-beer-can/p/itm23f9c899e88d1?pid=ARDGCFJ5KZGARYGF&lid=LSTARDGCFJ5KZGARYGFWL7101&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&spotlightTagId=default_TrendingId_eat%2Fiw1&srno=s_1_2&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDGCFJ5KZGARYGF.SEARCH&ppt=sp&ppn=sp&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "category": "General",
+          "special_offers": [
+            "Trending"
+          ],
+          "description": "Budweiser 0.0 Non Alcoholic Beer Can"
+        },
+        {
+          "title": "coolberg Cranberry Non Alcoholic Beer Glass Bottle",
+          "brand": "coolberg",
+          "price": "₹99",
+          "rating": "5",
+          "reviews_count": "5(5)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/h/5/l/330-cranberry-non-alcoholic-beer-glass-bottle-1-coolberg-original-imagqfyhgfrsqe9g.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/h/5/l/330-cranberry-non-alcoholic-beer-glass-bottle-1-coolberg-original-imagqfyhgfrsqe9g.jpeg?q=70",
+          "image_alt": "coolberg Cranberry Non Alcoholic Beer Glass Bottle",
+          "link": "https://www.flipkart.com/coolberg-cranberry-non-alcoholic-beer-glass-bottle/p/itmeccaa2f06fedd?pid=ARDGNBVHTNPMQGWV&lid=LSTARDGNBVHTNPMQGWVE0QTWP&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&srno=s_1_3&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDGNBVHTNPMQGWV.SEARCH&ppt=None&ppn=None&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "category": "General"
+        },
+        {
+          "title": "Heineken Alcohol Free Beer Can",
+          "brand": "Heineken",
+          "price": "₹120",
+          "rating": "3.7",
+          "reviews_count": "3.7(358)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/n/d/t/-original-imahdhm4ypk38yyu.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/n/d/t/-original-imahdhm4ypk38yyu.jpeg?q=70",
+          "image_alt": "Heineken Alcohol Free Beer Can",
+          "link": "https://www.flipkart.com/heineken-alcohol-free-beer-can/p/itm0b8edbb01397a?pid=ARDFG2BXEBGGMFSW&lid=LSTARDFG2BXEBGGMFSWMAAY5Q&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&srno=s_1_4&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDFG2BXEBGGMFSW.SEARCH&ppt=None&ppn=None&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "category": "General",
+          "description": "Heineken Alcohol Free Beer Can"
+        },
+        {
+          "title": "coolberg Peach Non Alcoholic Beer Glass Bottle",
+          "brand": "coolberg",
+          "price": "₹99",
+          "rating": "4.4",
+          "reviews_count": "4.4(9)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/kzn17680/aerated-drink/o/z/6/-original-imagbhvazkwb4fzh.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/kzn17680/aerated-drink/o/z/6/-original-imagbhvazkwb4fzh.jpeg?q=70",
+          "image_alt": "coolberg Peach Non Alcoholic Beer Glass Bottle",
+          "link": "https://www.flipkart.com/coolberg-peach-non-alcoholic-beer-glass-bottle/p/itm3d562bf23be54?pid=ARDGNBVHSYYBHCGD&lid=LSTARDGNBVHSYYBHCGDD7PUN7&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&srno=s_1_5&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDGNBVHSYYBHCGD.SEARCH&ppt=None&ppn=None&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "category": "Appliances"
+        },
+        {
+          "title": "Heineken Non Alcohol Beer Can",
+          "brand": "Heineken",
+          "price": "₹441",
+          "mrp": "₹720",
+          "discount_percentage": "38%",
+          "discount_amount": "₹279",
+          "rating": "4.1",
+          "reviews_count": "4.1(134)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/p/y/f/-original-imahdhm4zveggqxs.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/p/y/f/-original-imahdhm4zveggqxs.jpeg?q=70",
+          "image_alt": "Heineken Non Alcohol Beer Can",
+          "link": "https://www.flipkart.com/heineken-non-alcohol-beer-can/p/itm7095b6d128798?pid=ARDFG2BXJRAYQVVM&lid=LSTARDFG2BXJRAYQVVMZSBQSX&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&srno=s_1_6&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDFG2BXJRAYQVVM.SEARCH&ppt=None&ppn=None&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "category": "General",
+          "description": "Heineken Non Alcohol Beer Can"
+        },
+        {
+          "title": "coolberg Ginger Non Alcoholic Beer Glass Bottle",
+          "brand": "coolberg",
+          "price": "₹99",
+          "rating": "4.7",
+          "reviews_count": "4.7(3)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/a/z/4/330-ginger-non-alcoholic-beer-glass-bottle-1-coolberg-original-imagqfytxaudsg3c.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/a/z/4/330-ginger-non-alcoholic-beer-glass-bottle-1-coolberg-original-imagqfytxaudsg3c.jpeg?q=70",
+          "image_alt": "coolberg Ginger Non Alcoholic Beer Glass Bottle",
+          "link": "https://www.flipkart.com/coolberg-ginger-non-alcoholic-beer-glass-bottle/p/itmab5016c2c846f?pid=ARDGNBVHBKGY5GFP&lid=LSTARDGNBVHBKGY5GFPNOTONF&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&srno=s_1_7&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDGNBVHBKGY5GFP.SEARCH&ppt=None&ppn=None&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "category": "General"
+        },
+        {
+          "title": "Sepoy & co Premium Ginger Beer Glass Bottle",
+          "brand": "Mi",
+          "price": "₹95",
+          "mrp": "₹110",
+          "discount_percentage": "13%",
+          "discount_amount": "₹15",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/x/r/z/200-premium-ginger-beer-glass-bottle-1-sepoy-co-original-imah7zgtpwfre7jh.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/x/r/z/200-premium-ginger-beer-glass-bottle-1-sepoy-co-original-imah7zgtpwfre7jh.jpeg?q=70",
+          "image_alt": "Sepoy & co Premium Ginger Beer Glass Bottle",
+          "link": "https://www.flipkart.com/sepoy-co-premium-ginger-beer-glass-bottle/p/itm311758983908a?pid=ARDH7ZDFFJ3BEZZH&lid=LSTARDH7ZDFFJ3BEZZHR2SW4Q&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&srno=s_1_8&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDH7ZDFFJ3BEZZH.SEARCH&ppt=None&ppn=None&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "category": "General"
+        },
+        {
+          "title": "Budweiser Non Alcoholic 0.0 Beer 330ml (Pack of 5) Can",
+          "brand": "Budweiser",
+          "price": "₹592",
+          "mrp": "₹699",
+          "discount_percentage": "15%",
+          "discount_amount": "₹107",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/l/v/x/1-65-non-alcoholic-0-0-beer-330ml-pack-of-5-can-5-budweiser-original-imah9zfxyyyjyjrs.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/l/v/x/1-65-non-alcoholic-0-0-beer-330ml-pack-of-5-can-5-budweiser-original-imah9zfxyyyjyjrs.jpeg?q=70",
+          "image_alt": "Budweiser Non Alcoholic 0.0 Beer 330ml (Pack of 5) Can",
+          "link": "https://www.flipkart.com/budweiser-non-alcoholic-0-0-beer-330ml-pack-5-can/p/itm07a172684136f?pid=ARDH9ZFXN8UTMQH8&lid=LSTARDH9ZFXN8UTMQH89NSSIE&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&srno=s_1_9&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDH9ZFXN8UTMQH8.SEARCH&ppt=None&ppn=None&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "category": "Appliances",
+          "availability": "Currently unavailable",
+          "description": "Currently unavailable"
+        },
+        {
+          "title": "Budweiser Non Alcoholic 0.0. Beer 330ml (Pack of 4) Can",
+          "brand": "Budweiser",
+          "price": "₹504",
+          "mrp": "₹599",
+          "discount_percentage": "15%",
+          "discount_amount": "₹95",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/w/s/j/1-32-non-alcoholic-0-0-beer-330ml-pack-of-4-can-4-budweiser-original-imah9zfxuhbxpggz.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/w/s/j/1-32-non-alcoholic-0-0-beer-330ml-pack-of-4-can-4-budweiser-original-imah9zfxuhbxpggz.jpeg?q=70",
+          "image_alt": "Budweiser Non Alcoholic 0.0. Beer 330ml (Pack of 4) Can",
+          "link": "https://www.flipkart.com/budweiser-non-alcoholic-0-0-beer-330ml-pack-4-can/p/itmca468445824fb?pid=ARDH9ZFXS2FDYGVH&lid=LSTARDH9ZFXS2FDYGVHNU5YPN&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&srno=s_1_10&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDH9ZFXS2FDYGVH.SEARCH&ppt=None&ppn=None&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "category": "Appliances",
+          "availability": "Currently unavailable",
+          "description": "Currently unavailable"
+        },
+        {
+          "title": "Woozy Woozybar Magic Blue, 0%Alcohol, Real Blueberry Ta...",
+          "brand": "Woozy",
+          "price": "₹411",
+          "mrp": "₹999",
+          "discount_percentage": "58%",
+          "discount_amount": "₹588",
+          "rating": "3",
+          "reviews_count": "3(2)",
+          "image_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/p/u/u/990-woozybar-magic-blue-non-alcoholic-blueberry-vanilla-3-pack-original-imahdqfessc6wa73.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/p/u/u/990-woozybar-magic-blue-non-alcoholic-blueberry-vanilla-3-pack-original-imahdqfessc6wa73.jpeg?q=70",
+          "image_alt": "Woozy Woozybar Magic Blue, 0%Alcohol, Real Blueberry Taste & Buzz Feeling, 3 Pack Box",
+          "link": "https://www.flipkart.com/woozy-woozybar-magic-blue-0-alcohol-real-blueberry-taste-buzz-feeling-3-pack-box/p/itm9b3f6d1730626?pid=ARDHDQFEGBMMGTZG&lid=LSTARDHDQFEGBMMGTZGICWBVR&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&srno=s_1_11&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDHDQFEGBMMGTZG.SEARCH&ppt=None&ppn=None&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "category": "General",
+          "availability": "Currently unavailable",
+          "description": "Currently unavailable"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "coolberg Malt Non Alcoholic Beer Glass Bottle",
+          "price": "₹99",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "coolberg",
+          "category": "General",
+          "rating": "4.3",
+          "reviews_count": "4.3(240)",
+          "description": "",
+          "availability": "",
+          "delivery": "",
+          "special_offers": [],
+          "specifications": [],
+          "link": "https://www.flipkart.com/coolberg-malt-non-alcoholic-beer-glass-bottle/p/itm3d59f584b57fb?pid=ARDGNBVHYJUWZCJZ&lid=LSTARDGNBVHYJUWZCJZSA5GIH&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&srno=s_1_1&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDGNBVHYJUWZCJZ.SEARCH&ppt=None&ppn=None&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/y/o/b/330-malt-non-alcoholic-beer-glass-bottle-1-coolberg-original-imagqfyvxzztz6eq.jpeg?q=100",
+              "alt": "coolberg Malt Non Alcoholic Beer Glass Bottle",
+              "thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/y/o/b/330-malt-non-alcoholic-beer-glass-bottle-1-coolberg-original-imagqfyvxzztz6eq.jpeg?q=70"
+            }
+          ]
+        },
+        {
+          "name": "Budweiser 0.0 Non Alcoholic Beer Can",
+          "price": "₹428",
+          "mrp": "₹594",
+          "discount_percentage": "27%",
+          "discount_amount": "₹166",
+          "brand": "Budweiser",
+          "category": "General",
+          "rating": "3.9",
+          "reviews_count": "3.9(1,066)",
+          "description": "Budweiser 0.0 Non Alcoholic Beer Can",
+          "availability": "",
+          "delivery": "",
+          "special_offers": [
+            "Trending"
+          ],
+          "specifications": [],
+          "link": "https://www.flipkart.com/budweiser-0-0-non-alcoholic-beer-can/p/itm23f9c899e88d1?pid=ARDGCFJ5KZGARYGF&lid=LSTARDGCFJ5KZGARYGFWL7101&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&spotlightTagId=default_TrendingId_eat%2Fiw1&srno=s_1_2&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDGCFJ5KZGARYGF.SEARCH&ppt=sp&ppn=sp&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/612/612/l0zm64w0/aerated-drink/e/9/r/330-0-0-non-alcoholic-beer-pack-of-6-6-x-330ml-6-can-budweiser-original-imagcnzvttyyzyab.jpeg?q=100",
+              "alt": "Budweiser 0.0 Non Alcoholic Beer Can",
+              "thumbnail": "https://rukminim2.flixcart.com/image/612/612/l0zm64w0/aerated-drink/e/9/r/330-0-0-non-alcoholic-beer-pack-of-6-6-x-330ml-6-can-budweiser-original-imagcnzvttyyzyab.jpeg?q=70"
+            }
+          ]
+        },
+        {
+          "name": "coolberg Cranberry Non Alcoholic Beer Glass Bottle",
+          "price": "₹99",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "coolberg",
+          "category": "General",
+          "rating": "5",
+          "reviews_count": "5(5)",
+          "description": "",
+          "availability": "",
+          "delivery": "",
+          "special_offers": [],
+          "specifications": [],
+          "link": "https://www.flipkart.com/coolberg-cranberry-non-alcoholic-beer-glass-bottle/p/itmeccaa2f06fedd?pid=ARDGNBVHTNPMQGWV&lid=LSTARDGNBVHTNPMQGWVE0QTWP&marketplace=FLIPKART&q=beer&store=eat%2Fiw1&srno=s_1_3&otracker=search&fm=organic&iid=4d025136-f957-46bb-aa6d-cc44edbf4476.ARDGNBVHTNPMQGWV.SEARCH&ppt=None&ppn=None&ssid=7n4e70uxq80000001760794882869&qH=3e1867f5aee83045",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/h/5/l/330-cranberry-non-alcoholic-beer-glass-bottle-1-coolberg-original-imagqfyhgfrsqe9g.jpeg?q=100",
+              "alt": "coolberg Cranberry Non Alcoholic Beer Glass Bottle",
+              "thumbnail": "https://rukminim2.flixcart.com/image/612/612/xif0q/aerated-drink/h/5/l/330-cranberry-non-alcoholic-beer-glass-bottle-1-coolberg-original-imagqfyhgfrsqe9g.jpeg?q=70"
+            }
+          ]
+        }
+      ]
+    },
+    [
+      {
+        "title": "Park Avenue",
+        "name": "Park Avenue",
+        "price": "Rs. 298",
+        "link": "https://www.myntra.com/shampoo/park+avenue/park-avenue-paraben-free-shiny--bouncy-hair-beer-shampoo-with-barley-650-ml/16687126/buy",
+        "rating": "1.5",
+        "image_url": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16687126/2024/7/17/a38415dc-72bb-4131-b0c1-c154cae0e56d1721211155487-Park-Avenue-Paraben-Free-Shiny--Bouncy-Hair-Beer-Shampoo-wit-1.jpg",
+        "image_alt": "Park Avenue Paraben Free Shiny & Bouncy Hair Beer Shampoo with Barley 650 ml",
+        "images": [
+          {
+            "url": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16687126/2024/7/17/a38415dc-72bb-4131-b0c1-c154cae0e56d1721211155487-Park-Avenue-Paraben-Free-Shiny--Bouncy-Hair-Beer-Shampoo-wit-1.jpg",
+            "alt": "Park Avenue Paraben Free Shiny & Bouncy Hair Beer Shampoo with Barley 650 ml",
+            "thumbnail": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16687126/2024/7/17/a38415dc-72bb-4131-b0c1-c154cae0e56d1721211155487-Park-Avenue-Paraben-Free-Shiny--Bouncy-Hair-Beer-Shampoo-wit-1.jpg"
+          }
+        ]
+      }
+    ],
+    {
+      "site": "Myntra",
+      "query": "beer",
+      "total_products": 0,
+      "basic_products": [],
+      "detailed_products": [],
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "site": "Meesho",
+      "query": "beer",
+      "total_products": 20,
+      "basic_products": [
+        {
+          "title": "DENVER Premium Gentle Shampoo",
+          "link": "https://www.meesho.com/denver-original-beer-shampoo-200-ml/p/73x50u",
+          "price": "₹140",
+          "rating": "4.0",
+          "image_url": "https://images.meesho.com/images/products/429848238/rqtol_512.webp?width=360",
+          "image_alt": "DENVER  Premium Gentle Shampoo",
+          "brand": "Mi",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Premium Proctective Shampoo",
+          "link": "https://www.meesho.com/panchvati-dull-hair-repairs-damage-hair-beer-shampoo-for-men-women-180ml2-pack-of-2/p/4gp20",
+          "price": "₹279",
+          "rating": "4.0",
+          "image_url": "https://images.meesho.com/images/products/7497432/riyzj_512.webp?width=360",
+          "image_alt": "Premium Proctective Shampoo",
+          "brand": "Mi",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "price": "₹166",
+          "rating": "3.9",
+          "image_url": "https://images.meesho.com/images/products/446687495/v9us4_512.webp?width=360",
+          "image_alt": " Proffesional Proctective Shampoo",
+          "title": " Proffesional Proctective Shampoo",
+          "link": "https://www.meesho.com/fuvara-beer-shampoo-1li/p/7dy29z",
+          "brand": "Proffesional",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "DENVER Advanced Replenshing Shampoo",
+          "link": "https://www.meesho.com/denver-shine-set-of-2-beer-shampoo-200ml/p/79d9gi",
+          "price": "₹209",
+          "rating": "3.5",
+          "image_url": "https://images.meesho.com/images/products/438998562/wuyov_512.webp?width=360",
+          "image_alt": "DENVER  Advanced Replenshing Shampoo",
+          "brand": "DENVER",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Tasty Apple Cider Vinegars",
+          "link": "https://www.meesho.com/hillsherb-raw-unfiltered-cider-vinegar-with-mother-for-weight-loss-belly-fat-loss-improve-metabolism-digestion-premium-cider-vinegars-250-ml/p/49x6yf",
+          "price": "₹102",
+          "rating": "3.7",
+          "image_url": "https://images.meesho.com/images/products/258529911/htw3s_512.webp?width=360",
+          "image_alt": "Tasty Apple Cider Vinegars",
+          "brand": "Apple",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Amazing Apple Cider Vinegars",
+          "link": "https://www.meesho.com/organic-apple-cider-vinegar-for-improved-health-250-ml-by-hillsherb/p/6aqjxe",
+          "price": "₹145",
+          "rating": "3.7",
+          "image_url": "https://images.meesho.com/images/products/380832098/au3yf_512.webp?width=360",
+          "image_alt": "Amazing Apple Cider Vinegars",
+          "brand": "Apple",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Essential Water & Juice Glasses",
+          "link": "https://www.meesho.com/premium-quality-ironglass-with-1-straw-and-1-glass-in-1-pack-it-is-very-perfect-for-juice-water-soft-drinks-and-everyday-use-for-drinking-and-daily-use/p/97a51x",
+          "price": "₹159",
+          "rating": "3.3",
+          "image_url": "https://images.meesho.com/images/products/556426005/qvf9b_512.webp?width=360",
+          "image_alt": "Essential Water & Juice Glasses",
+          "brand": "Essential",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Graceful Water & Juice Glasses",
+          "link": "https://www.meesho.com/set-of-6-water-or-wine-glassset-of-6-water-or-wine-glass/p/91pptj",
+          "price": "₹310",
+          "rating": "3.8",
+          "image_url": "https://images.meesho.com/images/products/547075063/nb8kx_512.webp?width=360",
+          "image_alt": "Graceful Water & Juice Glasses",
+          "brand": "Graceful",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Sensational Ultra Shampoo",
+          "link": "https://www.meesho.com/nauge-beer-shampoo-for-damaged-hair-paraben-free-for-damage-fee-hair-crafted-with-natural-beer-shiny-bouncy-hair-net-qty-1000ml-pack-of-1-beer-shampoo-pack-of-1/p/7o1yc1",
+          "price": "₹284",
+          "rating": "4.4",
+          "image_url": "https://images.meesho.com/images/products/463665169/tshec_512.webp?width=360",
+          "image_alt": " Sensational Ultra Shampoo",
+          "brand": "Sensational",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Essential Water & Juice Glasses",
+          "link": "https://www.meesho.com/300ml-transparent-whiskey-glass-luxury-barware-and-home-decor-ideal-for-scotch-bourbon-liquor-cocktail-set-of-6-pieces/p/94y21w",
+          "price": "₹612",
+          "rating": "4.1",
+          "image_url": "https://images.meesho.com/images/products/552503012/cuhrc_512.webp?width=360",
+          "image_alt": "Essential Water & Juice Glasses",
+          "brand": "Essential",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Trendy Beer Glasses & Mugs",
+          "link": "https://www.meesho.com/name-traderss-glass-skull-skeleton-beer-mug-heavy-base-glass-mugs-with-handle-for-beer-500-ml-set-of-1-material-glass/p/6x98pe",
+          "price": "₹226",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/418655570/lvnn7_512.webp?width=360",
+          "image_alt": "Trendy Beer Glasses & Mugs",
+          "brand": "Trendy",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Elegant Hip Flasks",
+          "link": "https://www.meesho.com/elegant-hip-flasks/p/9isul5",
+          "price": "₹616",
+          "rating": "4.0",
+          "image_url": "https://images.meesho.com/images/products/575774681/7lkx7_512.webp?width=360",
+          "image_alt": "Elegant Hip Flasks",
+          "brand": "Elegant",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Freshly Apple Cider Vinegars",
+          "link": "https://www.meesho.com/750-ml-pack-of-3-apple-cider-vinegar-with-mother-buy-2-get-1-free-for-boosts-skin-health-lowers-cholesterol-lowers-blood-pressure-supports-digestive-health-weight-loss-by-hillsherb/p/7j5kib",
+          "price": "₹173",
+          "rating": "3.7",
+          "image_url": "https://images.meesho.com/images/products/455435795/pynb5_512.webp?width=360",
+          "image_alt": "Freshly Apple Cider Vinegars",
+          "brand": "Apple",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Classic Instant Drink Mixes, Squash & Syrups",
+          "link": "https://www.meesho.com/rosa-dilkhush-rose-sharbat-i-pack-of-1-750-ml/p/6m2mw6",
+          "price": "₹98",
+          "rating": "4.0",
+          "image_url": "https://images.meesho.com/images/products/399871590/y3ixv_512.webp?width=360",
+          "image_alt": "Classic Instant Drink Mixes, Squash & Syrups",
+          "brand": "Mi",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Nutrition - Immunity",
+          "link": "https://www.meesho.com/protifax-high-protein-whole-family/p/8a5o3u",
+          "price": "₹166",
+          "rating": "3.8",
+          "image_url": "https://images.meesho.com/images/products/500790090/mob2j_512.webp?width=360",
+          "image_alt": "Nutrition - Immunity",
+          "brand": "Nutrition",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "New Decanters",
+          "link": "https://www.meesho.com/shobhana-enterprises-clear-glass-european-style-round-decanter-with-lid-for-whisky-wine-beer-scotch-vodka-bourbon-liquor-water-and-juice-jug-pitcher-bottle-large/p/3k9q3j",
+          "price": "₹435",
+          "rating": "3.6",
+          "image_url": "https://images.meesho.com/images/products/215444575/etvqn_512.webp?width=360",
+          "image_alt": "New Decanters",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Elite Beer Glasses & Mugs",
+          "link": "https://www.meesho.com/italian-style-beer-glass-with-handle-for-juice-falooda-mocktail-glass-beer-mug-400-ml-pack-of-2/p/a6tpji",
+          "price": "₹248",
+          "rating": "3.8",
+          "image_url": "https://images.meesho.com/images/products/616125582/jwqcz_512.webp?width=360",
+          "image_alt": "Elite Beer Glasses & Mugs",
+          "brand": "Elite",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Unique Water & Juice Glasses",
+          "link": "https://www.meesho.com/s-l-mahi-enterprises-6-pcs-good-quality-whiskey-glasses-set-of-6-glass-for-whiskeywinevodkabeerchampaign-crystal-clear-white-whiskey-glass-pack-of-6/p/9gmj7p",
+          "price": "₹307",
+          "rating": "4.6",
+          "image_url": "https://images.meesho.com/images/products/572120773/7kysa_512.webp?width=360",
+          "image_alt": "Unique Water & Juice Glasses",
+          "brand": "Unique",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Unique Beer Glasses & Mugs",
+          "link": "https://www.meesho.com/mug-with-handle-glasses-for-beer-juice-scratch-resistant-easy-to-clean-dishwasher-safe-mug-transparent-set-of-2-400ml/p/a2cc7d",
+          "price": "₹209",
+          "rating": "3.8",
+          "image_url": "https://images.meesho.com/images/products/608596681/v3swo_512.webp?width=360",
+          "image_alt": "Unique Beer Glasses & Mugs",
+          "brand": "Unique",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Freshly Apple Cider Vinegars",
+          "link": "https://www.meesho.com/750-ml-pack-of-3-apple-cider-vinegar-with-mother-buy-2-get-1-free-for-boosts-skin-health-lowers-cholesterol-lowers-blood-pressure-supports-digestive-health-weight-loss-by-hillsherb/p/7j5kib",
+          "price": "₹173",
+          "rating": "3.7",
+          "image_url": "https://images.meesho.com/images/products/455435795/pynb5_512.webp?width=360",
+          "image_alt": "Freshly Apple Cider Vinegars",
+          "brand": "Apple",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "DENVER Premium Gentle Shampoo",
+          "price": "₹140",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Mi",
+          "category": "Fashion",
+          "rating": "4.0",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/denver-original-beer-shampoo-200-ml/p/73x50u",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/429848238/rqtol_512.webp?width=360",
+              "alt": "DENVER  Premium Gentle Shampoo",
+              "thumbnail": "https://images.meesho.com/images/products/429848238/rqtol_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Premium Proctective Shampoo",
+          "price": "₹279",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Mi",
+          "category": "Fashion",
+          "rating": "4.0",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/panchvati-dull-hair-repairs-damage-hair-beer-shampoo-for-men-women-180ml2-pack-of-2/p/4gp20",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/7497432/riyzj_512.webp?width=360",
+              "alt": "Premium Proctective Shampoo",
+              "thumbnail": "https://images.meesho.com/images/products/7497432/riyzj_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": " Proffesional Proctective Shampoo",
+          "price": "₹166",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Proffesional",
+          "category": "Fashion",
+          "rating": "3.9",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/fuvara-beer-shampoo-1li/p/7dy29z",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/446687495/v9us4_512.webp?width=360",
+              "alt": " Proffesional Proctective Shampoo",
+              "thumbnail": "https://images.meesho.com/images/products/446687495/v9us4_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "DENVER Advanced Replenshing Shampoo",
+          "price": "₹209",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "DENVER",
+          "category": "Fashion",
+          "rating": "3.5",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/denver-shine-set-of-2-beer-shampoo-200ml/p/79d9gi",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/438998562/wuyov_512.webp?width=360",
+              "alt": "DENVER  Advanced Replenshing Shampoo",
+              "thumbnail": "https://images.meesho.com/images/products/438998562/wuyov_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Tasty Apple Cider Vinegars",
+          "price": "₹102",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Apple",
+          "category": "Fashion",
+          "rating": "3.7",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/hillsherb-raw-unfiltered-cider-vinegar-with-mother-for-weight-loss-belly-fat-loss-improve-metabolism-digestion-premium-cider-vinegars-250-ml/p/49x6yf",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/258529911/htw3s_512.webp?width=360",
+              "alt": "Tasty Apple Cider Vinegars",
+              "thumbnail": "https://images.meesho.com/images/products/258529911/htw3s_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Amazing Apple Cider Vinegars",
+          "price": "₹145",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Apple",
+          "category": "Fashion",
+          "rating": "3.7",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/organic-apple-cider-vinegar-for-improved-health-250-ml-by-hillsherb/p/6aqjxe",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/380832098/au3yf_512.webp?width=360",
+              "alt": "Amazing Apple Cider Vinegars",
+              "thumbnail": "https://images.meesho.com/images/products/380832098/au3yf_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Essential Water & Juice Glasses",
+          "price": "₹159",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Essential",
+          "category": "Fashion",
+          "rating": "3.3",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/premium-quality-ironglass-with-1-straw-and-1-glass-in-1-pack-it-is-very-perfect-for-juice-water-soft-drinks-and-everyday-use-for-drinking-and-daily-use/p/97a51x",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/556426005/qvf9b_512.webp?width=360",
+              "alt": "Essential Water & Juice Glasses",
+              "thumbnail": "https://images.meesho.com/images/products/556426005/qvf9b_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Graceful Water & Juice Glasses",
+          "price": "₹310",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Graceful",
+          "category": "Fashion",
+          "rating": "3.8",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/set-of-6-water-or-wine-glassset-of-6-water-or-wine-glass/p/91pptj",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/547075063/nb8kx_512.webp?width=360",
+              "alt": "Graceful Water & Juice Glasses",
+              "thumbnail": "https://images.meesho.com/images/products/547075063/nb8kx_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Sensational Ultra Shampoo",
+          "price": "₹284",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Sensational",
+          "category": "Fashion",
+          "rating": "4.4",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/nauge-beer-shampoo-for-damaged-hair-paraben-free-for-damage-fee-hair-crafted-with-natural-beer-shiny-bouncy-hair-net-qty-1000ml-pack-of-1-beer-shampoo-pack-of-1/p/7o1yc1",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/463665169/tshec_512.webp?width=360",
+              "alt": " Sensational Ultra Shampoo",
+              "thumbnail": "https://images.meesho.com/images/products/463665169/tshec_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Essential Water & Juice Glasses",
+          "price": "₹612",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Essential",
+          "category": "Fashion",
+          "rating": "4.1",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/300ml-transparent-whiskey-glass-luxury-barware-and-home-decor-ideal-for-scotch-bourbon-liquor-cocktail-set-of-6-pieces/p/94y21w",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/552503012/cuhrc_512.webp?width=360",
+              "alt": "Essential Water & Juice Glasses",
+              "thumbnail": "https://images.meesho.com/images/products/552503012/cuhrc_512.webp?width=360"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

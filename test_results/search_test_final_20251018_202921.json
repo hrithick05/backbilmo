@@ -1,0 +1,284 @@
+{
+  "success": true,
+  "query": "test_final",
+  "total_results": 20,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "35.96s",
+  "timestamp": "2025-10-18T20:29:21.457850",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_final",
+      "total_products": 20,
+      "basic_products": [
+        {
+          "title": "The Final Test: The Uncertain Future of Cricket’s First-Class Game",
+          "price": "₹699\n50",
+          "discount_percentage": "50 (52% off)",
+          "rating": "4.5",
+          "image_url": "https://m.media-amazon.com/images/I/81qZHCCvujL._AC_UL320_.jpg",
+          "image_alt": "The Final Test: The Uncertain Future of Cricket’s First-Class Game",
+          "link": "https://www.amazon.in/Final-Test-Uncertain-Crickets-First-Class-ebook/dp/B0D2BKSGQ7/ref=sr_1_1?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-1",
+          "brand": "The",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "Final Test: Exit Sachin Tendulkar",
+          "price": "₹250\n80",
+          "discount_percentage": "80 (6% off)",
+          "rating": "4.0",
+          "image_url": "https://m.media-amazon.com/images/I/81uKnKw3z0L._AC_UL320_.jpg",
+          "image_alt": "Final Test: Exit Sachin Tendulkar",
+          "link": "https://www.amazon.in/Final-Test-Exit-Sachin-Tendulkar-ebook/dp/B00OOTBN0Y/ref=sr_1_2?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-2",
+          "brand": "Final",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "Telangana Police Constable and Sub Inspector Personality Test FInal Written Exam [ TELUGU MEDIUM ]",
+          "price": "₹129",
+          "image_url": "https://m.media-amazon.com/images/I/81DlnNHZCLL._AC_UL320_.jpg",
+          "image_alt": "Telangana Police Constable and Sub Inspector Personality Test FInal Written Exam [ TELUGU MEDIUM ]",
+          "link": "https://www.amazon.in/Telangana-Constable-Inspector-Personality-Written/dp/B0CDM78QTX/ref=sr_1_3?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-3",
+          "brand": "Telangana",
+          "category": "General",
+          "availability": "₹85 delivery Thu, 23 Oct"
+        },
+        {
+          "title": "CA Final FR Model Test Papers",
+          "price": "₹750",
+          "discount_percentage": "₹799 (6% off)",
+          "image_url": "https://m.media-amazon.com/images/I/71U-lHzDc7L._AC_UL320_.jpg",
+          "image_alt": "CA Final FR Model Test Papers",
+          "link": "https://www.amazon.in/CA-Final-Model-Test-Papers/dp/B0D4R6PT32/ref=sr_1_4?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-4",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "CA Final AFM Model Test Paper Book",
+          "price": "₹499",
+          "image_url": "https://m.media-amazon.com/images/I/71nZ0CPT-AL._AC_UL320_.jpg",
+          "image_alt": "CA Final AFM Model Test Paper Book",
+          "link": "https://www.amazon.in/Final-Model-Test-Paper-Book/dp/819634189X/ref=sr_1_5?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-5",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "My Final Test (The Lakeland Knight Book 3)",
+          "price": "₹0",
+          "rating": "4.9",
+          "image_url": "https://m.media-amazon.com/images/I/81g-tmecrjL._AC_UL320_.jpg",
+          "image_alt": "My Final Test (The Lakeland Knight Book 3)",
+          "link": "https://www.amazon.in/Final-Test-Lakeland-Knight-Book-ebook/dp/B0F88N76D5/ref=sr_1_6?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-6",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "Arihant I Succeed CBSE Sample Question Papers Class 12 Accountancy Exam 2026 | 15 Solved & Practice Papers | Based on Late...",
+          "price": "₹286",
+          "discount_percentage": "₹375 (24% off)",
+          "rating": "4.2",
+          "image_url": "https://m.media-amazon.com/images/I/718pjPeGL0L._AC_UL320_.jpg",
+          "image_alt": "Arihant I Succeed CBSE Sample Question Papers Class 12 Accountancy Exam 2026 | 15 Solved & Practice Papers | Based on Late...",
+          "link": "https://www.amazon.in/Question-Accountancy-Practice-Pre-Board-Questions/dp/9370788573/ref=sr_1_7?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-7",
+          "brand": "Arihant",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct on first order"
+        },
+        {
+          "title": "CA Final Mock test paper both groups",
+          "price": "₹899",
+          "discount_percentage": "₹999 (10% off)",
+          "image_url": "https://m.media-amazon.com/images/I/41l-SjzeGbL._AC_UL320_.jpg",
+          "image_alt": "CA Final Mock test paper both groups",
+          "link": "https://www.amazon.in/Final-Mock-test-paper-groups/dp/B0CVLCBRHP/ref=sr_1_8?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-8",
+          "category": "General",
+          "availability": "₹74 delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Evolution of Human Global Consciousness - Kalki - The Final Test : Kalki – The Final Test",
+          "price": "₹449",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/71WKNda8JgL._AC_UL320_.jpg",
+          "image_alt": "Evolution of Human Global Consciousness - Kalki - The Final Test : Kalki – The Final Test",
+          "link": "https://www.amazon.in/Evolution-Human-Global-Consciousness-Kalki-ebook/dp/B0F88SQK4Z/ref=sr_1_9?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-9",
+          "brand": "Evolution",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "Arihant I Succeed CBSE Sample Question Papers Class 12 Physics Exam 2026 | 15 Sample Papers | Based on Latest CBSE Specime...",
+          "price": "₹214",
+          "discount_percentage": "₹275 (22% off)",
+          "rating": "4.3",
+          "image_url": "https://m.media-amazon.com/images/I/71KSGFu91oL._AC_UL320_.jpg",
+          "image_alt": "Arihant I Succeed CBSE Sample Question Papers Class 12 Physics Exam 2026 | 15 Sample Papers | Based on Latest CBSE Specime...",
+          "link": "https://www.amazon.in/Question-Specimen-Pre-Board-Questions-Solutions/dp/9370784578/ref=sr_1_10?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-10",
+          "brand": "Arihant",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct on first order"
+        },
+        {
+          "title": "A Final Test (Istoría Book 10)",
+          "price": "₹74",
+          "image_url": "https://m.media-amazon.com/images/I/71WCM7T4jZL._AC_UL320_.jpg",
+          "image_alt": "A Final Test (Istoría Book 10)",
+          "link": "https://www.amazon.in/Final-Test-Istor%C3%ADa-Book-10-ebook/dp/B09LZ5DWT6/ref=sr_1_11?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-11",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "Final Test (Texas On My Mind Book 2)",
+          "price": "₹0",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/81sUowjSxYL._AC_UL320_.jpg",
+          "image_alt": "Final Test (Texas On My Mind Book 2)",
+          "link": "https://www.amazon.in/Final-Test-Texas-Mind-Book-ebook/dp/B0169OIGVA/ref=sr_1_12?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-12",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "Educart NTA CUET UG Entrance Exam Book 2024 General Test Section-3 Final Revision (100% based on 2023 official CUET Online...",
+          "price": "₹503",
+          "discount_percentage": "Educart NTA CUET UG Entrance Exam Book 2024 General Test Section-3 Final Revision (100% based on 2023 official CUET Online Paper)",
+          "rating": "3.6",
+          "image_url": "https://m.media-amazon.com/images/I/81z7ZkiNzVL._AC_UL320_.jpg",
+          "image_alt": "Educart NTA CUET UG Entrance Exam Book 2024 General Test Section-3 Final Revision (100% based on 2023 official CUET Online...",
+          "link": "https://www.amazon.in/Educart-Entrance-Section-3-Revision-official/dp/9357036156/ref=sr_1_13?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-13",
+          "brand": "Educart",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Arihant I Succeed CBSE Sample Question Papers Class 10 Science Exam 2026 | 15 Sample Papers | Based on Latest CBSE Specime...",
+          "price": "₹215",
+          "discount_percentage": "₹275 (22% off)",
+          "rating": "4.3",
+          "image_url": "https://m.media-amazon.com/images/I/71LdzoG1+oL._AC_UL320_.jpg",
+          "image_alt": "Arihant I Succeed CBSE Sample Question Papers Class 10 Science Exam 2026 | 15 Sample Papers | Based on Latest CBSE Specime...",
+          "link": "https://www.amazon.in/Question-Specimen-Pre-Board-Important-Questions/dp/9370786597/ref=sr_1_14?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-14",
+          "brand": "Arihant",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "The Final Test",
+          "price": "₹685\n58",
+          "image_url": "https://m.media-amazon.com/images/I/81hCb50xQmL._AC_UL320_.jpg",
+          "image_alt": "The Final Test",
+          "link": "https://www.amazon.in/Final-Test-Mr-charles-Evans-ebook/dp/B0735JDR1Q/ref=sr_1_15?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-15",
+          "brand": "The",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "Andhra Pradesh SUB INSPECTOR Paper IV Final Written Test General Studies Top 19 Model Papers [ ENGLISH MEDIUM ]",
+          "price": "₹199",
+          "image_url": "https://m.media-amazon.com/images/I/81UcU-9kbXL._AC_UL320_.jpg",
+          "image_alt": "Andhra Pradesh SUB INSPECTOR Paper IV Final Written Test General Studies Top 19 Model Papers [ ENGLISH MEDIUM ]",
+          "link": "https://www.amazon.in/Pradesh-INSPECTOR-Written-General-Studies/dp/B0C436ZCKM/ref=sr_1_16?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-16",
+          "brand": "Andhra",
+          "category": "Top",
+          "availability": "₹85 delivery Thu, 23 Oct"
+        },
+        {
+          "title": "Arihant I Succeed CBSE Sample Question Papers Class 12 Business Studies Exam 2026 | 15 Sample Papers | Based on Latest CBS...",
+          "price": "₹195",
+          "discount_percentage": "₹250 (22% off)",
+          "rating": "4.4",
+          "image_url": "https://m.media-amazon.com/images/I/71T2LzQ8AdL._AC_UL320_.jpg",
+          "image_alt": "Arihant I Succeed CBSE Sample Question Papers Class 12 Business Studies Exam 2026 | 15 Sample Papers | Based on Latest CBS...",
+          "link": "https://www.amazon.in/Question-Business-Specimen-Pre-Board-Questions/dp/9370785159/ref=sr_1_17?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-17",
+          "brand": "Arihant",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "The Final Test: Sunday",
+          "price": "₹263",
+          "image_url": "https://m.media-amazon.com/images/I/71R-0F5jqcL._AC_UL320_.jpg",
+          "image_alt": "The Final Test: Sunday, Ecumenism, and the Mark of the Beast",
+          "link": "https://www.amazon.in/dp/B0FWX5LZ29/ref=sr_1_18?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-18",
+          "brand": "The",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "Arihant I Succeed CBSE Sample Question Papers Class 12 Applied Mathematics Exam 2026 | 15 Sample Papers | Based on Latest ...",
+          "price": "₹214",
+          "discount_percentage": "₹275 (22% off)",
+          "rating": "4.4",
+          "image_url": "https://m.media-amazon.com/images/I/715feTQ6NXL._AC_UL320_.jpg",
+          "image_alt": "Arihant I Succeed CBSE Sample Question Papers Class 12 Applied Mathematics Exam 2026 | 15 Sample Papers | Based on Latest ...",
+          "link": "https://www.amazon.in/Question-Mathematics-Specimen-Pre-Board-Questions/dp/9370785248/ref=sr_1_19?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-19",
+          "brand": "Arihant",
+          "category": "General",
+          "availability": "FREE delivery Sun, 26 Oct on first order"
+        },
+        {
+          "title": "Arihant I Succeed CBSE Sample Question Papers Class 12 Biology Exam 2026 | 15 Sample Papers | Based on Latest CBSE Specime...",
+          "price": "₹236",
+          "discount_percentage": "₹275 (14% off)",
+          "rating": "4.2",
+          "image_url": "https://m.media-amazon.com/images/I/711QARTCtRL._AC_UL320_.jpg",
+          "image_alt": "Arihant I Succeed CBSE Sample Question Papers Class 12 Biology Exam 2026 | 15 Sample Papers | Based on Latest CBSE Specime...",
+          "link": "https://www.amazon.in/Question-Specimen-Pre-Board-Questions-Solutions/dp/9370782680/ref=sr_1_20?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-20",
+          "brand": "Arihant",
+          "category": "General",
+          "availability": "FREE delivery Sat, 25 Oct on first order"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "The Final Test: The Uncertain Future of Cricket’s First-Class Game",
+          "price": "₹699\n50",
+          "brand": "The",
+          "category": "General",
+          "rating": "4.5",
+          "link": "https://www.amazon.in/Final-Test-Uncertain-Crickets-First-Class-ebook/dp/B0D2BKSGQ7/ref=sr_1_1?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-1",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/81qZHCCvujL._AC_UL320_.jpg",
+              "alt": "The Final Test: The Uncertain Future of Cricket’s First-Class Game",
+              "thumbnail": "https://m.media-amazon.com/images/I/81qZHCCvujL._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Final Test: Exit Sachin Tendulkar",
+          "price": "₹250\n80",
+          "brand": "Final",
+          "category": "General",
+          "rating": "4.0",
+          "link": "https://www.amazon.in/Final-Test-Exit-Sachin-Tendulkar-ebook/dp/B00OOTBN0Y/ref=sr_1_2?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-2",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/81uKnKw3z0L._AC_UL320_.jpg",
+              "alt": "Final Test: Exit Sachin Tendulkar",
+              "thumbnail": "https://m.media-amazon.com/images/I/81uKnKw3z0L._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Telangana Police Constable and Sub Inspector Personality Test FInal Written Exam [ TELUGU MEDIUM ]",
+          "price": "₹129",
+          "brand": "Telangana",
+          "category": "General",
+          "rating": "",
+          "link": "https://www.amazon.in/Telangana-Constable-Inspector-Personality-Written/dp/B0CDM78QTX/ref=sr_1_3?dib=eyJ2IjoiMSJ9.iSZjh5meA8oUP-jBPxPpLEdvrkqeHsyzb4HA4pp6RIsZvN_5aJGoRtS0hCK7WTjGAYssI_qFa5amTzYAtvX0rdvZ9Jwym6LCfMIB_MZS1nIIEV1QO4tGFBRLS4MFH5m1IPmGg2sLGQ4ptgGxo8v7b3uGI4afQRjhZlsqg_8R2aVRopzDb20pEmdbNtdRHLpUnouyroJKuhxgdtFQcil850jIVVz5M-1SanGsxYhqpm-bSq2SZ57PeYbCY8y1jp3hbw99cGRontZeJm-n7Eygi4x7ayqlDU4y_ri7JkquLGM.i_flWaMMVy6ey-Yeru5lDU2F3_3Y4c_Mb6tiCICwdAw&dib_tag=se&keywords=test_final&qid=1760799535&sr=8-3",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/81DlnNHZCLL._AC_UL320_.jpg",
+              "alt": "Telangana Police Constable and Sub Inspector Personality Test FInal Written Exam [ TELUGU MEDIUM ]",
+              "thumbnail": "https://m.media-amazon.com/images/I/81DlnNHZCLL._AC_UL320_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

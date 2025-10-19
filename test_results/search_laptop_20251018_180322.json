@@ -1,0 +1,166 @@
+{
+  "success": true,
+  "query": "laptop",
+  "total_results": 8,
+  "source": "cache",
+  "cache_hits": 1,
+  "fresh_searches": 0,
+  "processing_time": "0.29s",
+  "timestamp": "2025-10-18T18:03:22.598379",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "laptop",
+      "total_products": 8,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - Apple 2025 MacBook Air (13-inch",
+          "price": "₹86,990",
+          "discount_percentage": "₹99,900 (13% off)",
+          "rating": "4.6",
+          "reviews_count": "611",
+          "image_url": "https://m.media-amazon.com/images/I/71pKJ+Mjd8L._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB)...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMzg3NTUzODUyMDQ1OTk3OjE3NjA3OTA3NjE6c3BfYXRmOjMwMDQ5OTQ1MzM0NzQzMjo6MDo6&url=%2FApple-MacBook-13-inch-10-core-Unified%2Fdp%2FB0DZDDQ429%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.BwSIT4-JYb9zm8ZJ47pS3esgkyDRda816JYxBCrdy-G5wZl_wFgeytr-hJeXaupadUnxtY_NxXhPX1qp6cxTqnxCfhyZVHSJKNl8TeFhk2RL2iNMrRnr61o2YqC-jZmBq3Q5raMM57N_gKZyLcNTJYcpZJvJjcUN8go3_7aOsarqmEV--lTvaQ-HnFd1cpQ0Bn5xlMfCm4ngg-TTbtRPa1bbT2yaztnL4iACgdFZ0g0.tGQC8EhwfwTh7L2x5BVH3ceoEeETYtIMPTTlxRUk7Nw%26dib_tag%3Dse%26keywords%3Dlaptop%26qid%3D1760790761%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=zsKjVxuqwq&sp_cr=ZAZ",
+          "brand": "Apple",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Dell Vostro",
+          "price": "₹34,990",
+          "discount_percentage": "₹54,479 (36% off)",
+          "rating": "3.5",
+          "image_url": "https://m.media-amazon.com/images/I/7156bBh8W2L._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Dell Vostro, Intel Core i3 13th Gen - 1305U, 16GB DDR4 RAM, 512GB, FHD 15.6\"/39.6 cm, Windows 11, Office H&...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMzg3NTUzODUyMDQ1OTk3OjE3NjA3OTA3NjE6c3BfYXRmOjMwMDc2NDEyOTE5NDIzMjo6MDo6&url=%2FDell-Vostro-Intel-Core-13th%2Fdp%2FB0FG2RJ9NC%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.BwSIT4-JYb9zm8ZJ47pS3esgkyDRda816JYxBCrdy-G5wZl_wFgeytr-hJeXaupadUnxtY_NxXhPX1qp6cxTqnxCfhyZVHSJKNl8TeFhk2RL2iNMrRnr61o2YqC-jZmBq3Q5raMM57N_gKZyLcNTJYcpZJvJjcUN8go3_7aOsarqmEV--lTvaQ-HnFd1cpQ0Bn5xlMfCm4ngg-TTbtRPa1bbT2yaztnL4iACgdFZ0g0.tGQC8EhwfwTh7L2x5BVH3ceoEeETYtIMPTTlxRUk7Nw%26dib_tag%3Dse%26keywords%3Dlaptop%26qid%3D1760790761%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=PFgDCfHuZA&sp_cr=ZAZ",
+          "brand": "Dell",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct"
+        },
+        {
+          "title": "acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/256 GB SSD/Win11 Home/38 W...",
+          "price": "₹18,990",
+          "discount_percentage": "₹30,999 (39% off)",
+          "rating": "3.4",
+          "reviews_count": "641",
+          "image_url": "https://m.media-amazon.com/images/I/61qlqvTsocL._AC_UY218_.jpg",
+          "image_alt": "acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/256 GB SSD/Win11 Home/38 W...",
+          "link": "https://www.amazon.in/Acer-Celeron-Processor-LPDDR4X-A325-45/dp/B0D7PTFFZH/ref=sr_1_3?dib=eyJ2IjoiMSJ9.BwSIT4-JYb9zm8ZJ47pS3esgkyDRda816JYxBCrdy-G5wZl_wFgeytr-hJeXaupadUnxtY_NxXhPX1qp6cxTqnxCfhyZVHSJKNl8TeFhk2RL2iNMrRnr61o2YqC-jZmBq3Q5raMM57N_gKZyLcNTJYcpZJvJjcUN8go3_7aOsarqmEV--lTvaQ-HnFd1cpQ0Bn5xlMfCm4ngg-TTbtRPa1bbT2yaztnL4iACgdFZ0g0.tGQC8EhwfwTh7L2x5BVH3ceoEeETYtIMPTTlxRUk7Nw&dib_tag=se&keywords=laptop&qid=1760790761&sr=8-3",
+          "brand": "Acer",
+          "category": "Laptop",
+          "availability": "FREE delivery Wed, 22 Oct"
+        },
+        {
+          "title": "acer Aspire Lite",
+          "price": "₹27,990",
+          "discount_percentage": "₹46,990 (40% off)",
+          "rating": "3.9",
+          "reviews_count": "1,778",
+          "image_url": "https://m.media-amazon.com/images/I/513p8BwV-RL._AC_UY218_.jpg",
+          "image_alt": "acer Aspire Lite, AMD Ryzen 3 5300U Processor, 16 GB RAM, 512GB SSD, Full HD, 15.6\"/39.62cm, Windows 11 Home, Steel Gray, ...",
+          "link": "https://www.amazon.in/Acer-Premium-Windows-AL15-41-Display/dp/B0CWTYGPH8/ref=sr_1_4?dib=eyJ2IjoiMSJ9.BwSIT4-JYb9zm8ZJ47pS3esgkyDRda816JYxBCrdy-G5wZl_wFgeytr-hJeXaupadUnxtY_NxXhPX1qp6cxTqnxCfhyZVHSJKNl8TeFhk2RL2iNMrRnr61o2YqC-jZmBq3Q5raMM57N_gKZyLcNTJYcpZJvJjcUN8go3_7aOsarqmEV--lTvaQ-HnFd1cpQ0Bn5xlMfCm4ngg-TTbtRPa1bbT2yaztnL4iACgdFZ0g0.tGQC8EhwfwTh7L2x5BVH3ceoEeETYtIMPTTlxRUk7Nw&dib_tag=se&keywords=laptop&qid=1760790761&sr=8-4",
+          "brand": "Acer",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "HP Omen",
+          "price": "₹1,62,990",
+          "discount_percentage": "₹1,96,719.29 (17% off)",
+          "image_url": "https://m.media-amazon.com/images/I/71nNdnlAs2L._AC_UY218_.jpg",
+          "image_alt": "HP Omen, AMD Ryzen 9 8940HX, 8GB RTX 5070, 24GB DDR5(Upgradeable) 1TB SSD, 165Hz, 2k WUXGA, 3ms, 400 nits, 16''/40.6cm, Wi...",
+          "link": "https://www.amazon.in/HP-8940HX-Upgradeable-Office24-ap0182AX/dp/B0FMFPW419/ref=sr_1_5?dib=eyJ2IjoiMSJ9.BwSIT4-JYb9zm8ZJ47pS3esgkyDRda816JYxBCrdy-G5wZl_wFgeytr-hJeXaupadUnxtY_NxXhPX1qp6cxTqnxCfhyZVHSJKNl8TeFhk2RL2iNMrRnr61o2YqC-jZmBq3Q5raMM57N_gKZyLcNTJYcpZJvJjcUN8go3_7aOsarqmEV--lTvaQ-HnFd1cpQ0Bn5xlMfCm4ngg-TTbtRPa1bbT2yaztnL4iACgdFZ0g0.tGQC8EhwfwTh7L2x5BVH3ceoEeETYtIMPTTlxRUk7Nw&dib_tag=se&keywords=laptop&qid=1760790761&sr=8-5",
+          "brand": "HP",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct"
+        },
+        {
+          "title": "ASUS Vivobook 15",
+          "price": "₹41,990",
+          "discount_percentage": "₹57,990 (28% off)",
+          "rating": "3.9",
+          "image_url": "https://m.media-amazon.com/images/I/71zMooVIVAL._AC_UY218_.jpg",
+          "image_alt": "ASUS Vivobook 15, Smartchoice, AMD Ryzen 7 5825U, 16GB RAM, 512GB SSD, FHD 15.6\", Windows 11, Office Home 2024, Quiet Blu...",
+          "link": "https://www.amazon.in/ASUS-Vivobook-Smartchoice-Keyboard-M1502YA-BQ703WS/dp/B0FC2LKFSC/ref=sr_1_6?dib=eyJ2IjoiMSJ9.BwSIT4-JYb9zm8ZJ47pS3esgkyDRda816JYxBCrdy-G5wZl_wFgeytr-hJeXaupadUnxtY_NxXhPX1qp6cxTqnxCfhyZVHSJKNl8TeFhk2RL2iNMrRnr61o2YqC-jZmBq3Q5raMM57N_gKZyLcNTJYcpZJvJjcUN8go3_7aOsarqmEV--lTvaQ-HnFd1cpQ0Bn5xlMfCm4ngg-TTbtRPa1bbT2yaztnL4iACgdFZ0g0.tGQC8EhwfwTh7L2x5BVH3ceoEeETYtIMPTTlxRUk7Nw&dib_tag=se&keywords=laptop&qid=1760790761&sr=8-6",
+          "brand": "Vivo",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct"
+        },
+        {
+          "title": "Acer SmartChoice Aspire Lite",
+          "price": "₹29,990",
+          "discount_percentage": "₹58,999 (49% off)",
+          "rating": "3.9",
+          "reviews_count": "1,778",
+          "image_url": "https://m.media-amazon.com/images/I/61k0gpxQwCL._AC_UY218_.jpg",
+          "image_alt": "Acer SmartChoice Aspire Lite, AMD Ryzen 5-5625U Processor, 16 GB/512 GB, Full HD, 15.6\"/39.62 cm, Windows 11 Home, Steel G...",
+          "link": "https://www.amazon.in/5-5625U-Premium-Windows-AL15-41-Display/dp/B0DG2GCTD7/ref=sr_1_7?dib=eyJ2IjoiMSJ9.BwSIT4-JYb9zm8ZJ47pS3esgkyDRda816JYxBCrdy-G5wZl_wFgeytr-hJeXaupadUnxtY_NxXhPX1qp6cxTqnxCfhyZVHSJKNl8TeFhk2RL2iNMrRnr61o2YqC-jZmBq3Q5raMM57N_gKZyLcNTJYcpZJvJjcUN8go3_7aOsarqmEV--lTvaQ-HnFd1cpQ0Bn5xlMfCm4ngg-TTbtRPa1bbT2yaztnL4iACgdFZ0g0.tGQC8EhwfwTh7L2x5BVH3ceoEeETYtIMPTTlxRUk7Nw&dib_tag=se&keywords=laptop&qid=1760790761&sr=8-7",
+          "brand": "Acer",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct"
+        },
+        {
+          "title": "HP 15s",
+          "price": "₹30,990",
+          "discount_percentage": "₹42,359 (27% off)",
+          "rating": "4.0",
+          "reviews_count": "640",
+          "image_url": "https://m.media-amazon.com/images/I/71+gQ9gOTuL._AC_UY218_.jpg",
+          "image_alt": "HP 15s, 12th Gen Intel Core i3-1215U (8GB DDR4, 512GB SSD) Anti-Glare, 15.6\"/39.6cm,FHD, Win 11, MS Office 21, Silver, 1.6...",
+          "link": "https://www.amazon.in/HP-i3-1215U-Anti-Glare-15-6inch-Graphics/dp/B0CJBL2QWY/ref=sr_1_8?dib=eyJ2IjoiMSJ9.BwSIT4-JYb9zm8ZJ47pS3esgkyDRda816JYxBCrdy-G5wZl_wFgeytr-hJeXaupadUnxtY_NxXhPX1qp6cxTqnxCfhyZVHSJKNl8TeFhk2RL2iNMrRnr61o2YqC-jZmBq3Q5raMM57N_gKZyLcNTJYcpZJvJjcUN8go3_7aOsarqmEV--lTvaQ-HnFd1cpQ0Bn5xlMfCm4ngg-TTbtRPa1bbT2yaztnL4iACgdFZ0g0.tGQC8EhwfwTh7L2x5BVH3ceoEeETYtIMPTTlxRUk7Nw&dib_tag=se&keywords=laptop&qid=1760790761&sr=8-8",
+          "brand": "HP",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - Apple 2025 MacBook Air (13-inch",
+          "price": "₹86,990",
+          "brand": "Apple",
+          "category": "General",
+          "rating": "4.6",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMzg3NTUzODUyMDQ1OTk3OjE3NjA3OTA3NjE6c3BfYXRmOjMwMDQ5OTQ1MzM0NzQzMjo6MDo6&url=%2FApple-MacBook-13-inch-10-core-Unified%2Fdp%2FB0DZDDQ429%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.BwSIT4-JYb9zm8ZJ47pS3esgkyDRda816JYxBCrdy-G5wZl_wFgeytr-hJeXaupadUnxtY_NxXhPX1qp6cxTqnxCfhyZVHSJKNl8TeFhk2RL2iNMrRnr61o2YqC-jZmBq3Q5raMM57N_gKZyLcNTJYcpZJvJjcUN8go3_7aOsarqmEV--lTvaQ-HnFd1cpQ0Bn5xlMfCm4ngg-TTbtRPa1bbT2yaztnL4iACgdFZ0g0.tGQC8EhwfwTh7L2x5BVH3ceoEeETYtIMPTTlxRUk7Nw%26dib_tag%3Dse%26keywords%3Dlaptop%26qid%3D1760790761%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=zsKjVxuqwq&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71pKJ+Mjd8L._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB)...",
+              "thumbnail": "https://m.media-amazon.com/images/I/71pKJ+Mjd8L._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - Dell Vostro",
+          "price": "₹34,990",
+          "brand": "Dell",
+          "category": "General",
+          "rating": "3.5",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMzg3NTUzODUyMDQ1OTk3OjE3NjA3OTA3NjE6c3BfYXRmOjMwMDc2NDEyOTE5NDIzMjo6MDo6&url=%2FDell-Vostro-Intel-Core-13th%2Fdp%2FB0FG2RJ9NC%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.BwSIT4-JYb9zm8ZJ47pS3esgkyDRda816JYxBCrdy-G5wZl_wFgeytr-hJeXaupadUnxtY_NxXhPX1qp6cxTqnxCfhyZVHSJKNl8TeFhk2RL2iNMrRnr61o2YqC-jZmBq3Q5raMM57N_gKZyLcNTJYcpZJvJjcUN8go3_7aOsarqmEV--lTvaQ-HnFd1cpQ0Bn5xlMfCm4ngg-TTbtRPa1bbT2yaztnL4iACgdFZ0g0.tGQC8EhwfwTh7L2x5BVH3ceoEeETYtIMPTTlxRUk7Nw%26dib_tag%3Dse%26keywords%3Dlaptop%26qid%3D1760790761%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=PFgDCfHuZA&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/7156bBh8W2L._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - Dell Vostro, Intel Core i3 13th Gen - 1305U, 16GB DDR4 RAM, 512GB, FHD 15.6\"/39.6 cm, Windows 11, Office H&...",
+              "thumbnail": "https://m.media-amazon.com/images/I/7156bBh8W2L._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/256 GB SSD/Win11 Home/38 W...",
+          "price": "₹18,990",
+          "brand": "Acer",
+          "category": "Laptop",
+          "rating": "3.4",
+          "link": "https://www.amazon.in/Acer-Celeron-Processor-LPDDR4X-A325-45/dp/B0D7PTFFZH/ref=sr_1_3?dib=eyJ2IjoiMSJ9.BwSIT4-JYb9zm8ZJ47pS3esgkyDRda816JYxBCrdy-G5wZl_wFgeytr-hJeXaupadUnxtY_NxXhPX1qp6cxTqnxCfhyZVHSJKNl8TeFhk2RL2iNMrRnr61o2YqC-jZmBq3Q5raMM57N_gKZyLcNTJYcpZJvJjcUN8go3_7aOsarqmEV--lTvaQ-HnFd1cpQ0Bn5xlMfCm4ngg-TTbtRPa1bbT2yaztnL4iACgdFZ0g0.tGQC8EhwfwTh7L2x5BVH3ceoEeETYtIMPTTlxRUk7Nw&dib_tag=se&keywords=laptop&qid=1760790761&sr=8-3",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61qlqvTsocL._AC_UY218_.jpg",
+              "alt": "acer [SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/256 GB SSD/Win11 Home/38 W...",
+              "thumbnail": "https://m.media-amazon.com/images/I/61qlqvTsocL._AC_UY218_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

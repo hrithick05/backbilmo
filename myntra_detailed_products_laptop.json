@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "title": "Wildcraft",
+      "name": "Wildcraft",
+      "price": "Rs. 506",
+      "link": "https://www.myntra.com/backpacks/wildcraft/wildcraft-unisex-black-binder-2-backpack/14454482/buy",
+      "rating": "1.5",
+      "image_url": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14454482/2023/12/15/6fff33a4-7bed-4fdd-853d-a320962388831702640846409-Wildcraft-Unisex-Black-Binder-2-Backpack-7311702640846180-14.jpg",
+      "image_alt": "Wildcraft Unisex Black Binder 2 Backpack",
+      "images": [
+        {
+          "url": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14454482/2023/12/15/6fff33a4-7bed-4fdd-853d-a320962388831702640846409-Wildcraft-Unisex-Black-Binder-2-Backpack-7311702640846180-14.jpg",
+          "alt": "Wildcraft Unisex Black Binder 2 Backpack",
+          "thumbnail": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14454482/2023/12/15/6fff33a4-7bed-4fdd-853d-a320962388831702640846409-Wildcraft-Unisex-Black-Binder-2-Backpack-7311702640846180-14.jpg"
+        }
+      ]
+    }
+  ]
+}

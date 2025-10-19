@@ -1,0 +1,1008 @@
+{
+  "success": true,
+  "query": "iphone",
+  "total_results": 40,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 4,
+  "processing_time": "416.2s",
+  "timestamp": "2025-10-18T21:33:27.658158",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "iphone",
+      "total_products": 0,
+      "products": [],
+      "error": "Message: unknown error: net::ERR_INTERNET_DISCONNECTED\n  (Session info: chrome=141.0.7390.108)\nStacktrace:\n\tGetHandleVerifier [0x0x7ff7a706e9e5+80021]\n\tGetHandleVerifier [0x0x7ff7a706ea40+80112]\n\t(No symbol) [0x0x7ff7a6df060f]\n\t(No symbol) [0x0x7ff7a6ded0bf]\n\t(No symbol) [0x0x7ff7a6dddae9]\n\t(No symbol) [0x0x7ff7a6ddf94e]\n\t(No symbol) [0x0x7ff7a6dde0d2]\n\t(No symbol) [0x0x7ff7a6ddd859]\n\t(No symbol) [0x0x7ff7a6ddd51d]\n\t(No symbol) [0x0x7ff7a6ddb08c]\n\t(No symbol) [0x0x7ff7a6ddb91c]\n\t(No symbol) [0x0x7ff7a6df46da]\n\t(No symbol) [0x0x7ff7a6e9a47e]\n\t(No symbol) [0x0x7ff7a6e7122a]\n\t(No symbol) [0x0x7ff7a6e9968a]\n\t(No symbol) [0x0x7ff7a6e71003]\n\t(No symbol) [0x0x7ff7a6e395d1]\n\t(No symbol) [0x0x7ff7a6e3a3f3]\n\tGetHandleVerifier [0x0x7ff7a732dd8d+2960445]\n\tGetHandleVerifier [0x0x7ff7a732804a+2936570]\n\tGetHandleVerifier [0x0x7ff7a7348a87+3070263]\n\tGetHandleVerifier [0x0x7ff7a70884ce+185214]\n\tGetHandleVerifier [0x0x7ff7a708ff1f+216527]\n\tGetHandleVerifier [0x0x7ff7a7077c24+117460]\n\tGetHandleVerifier [0x0x7ff7a7077ddf+117903]\n\tGetHandleVerifier [0x0x7ff7a705dcb8+11112]\n\tBaseThreadInitThunk [0x0x7ff93823e8d7+23]\n\tRtlUserThreadStart [0x0x7ff93906c53c+44]\n"
+    },
+    {
+      "site": "Flipkart",
+      "query": "iphone",
+      "total_products": 20,
+      "basic_products": [
+        {
+          "title": "Apple iPhone 16 (Black, 128 GB)",
+          "brand": "Apple",
+          "price": "₹68,900",
+          "discount_percentage": "01%",
+          "rating": "4.61",
+          "reviews_count": "4.61,55,571 Ratings & 4,794 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/q/h/-original-imahgfmzjj8gtqbc.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/q/h/-original-imahgfmzjj8gtqbc.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 (Black, 128 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-black-128-gb/p/itmb07d67f995271?pid=MOBH4DQFG8NKFRDY&lid=LSTMOBH4DQFG8NKFRDYNBDOZI&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&spotlightTagId=default_BestsellerId_tyy%2F4io&srno=s_1_1&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFG8NKFRDY.SEARCH&ppt=sp&ppn=sp&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "availability": "Bestseller",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Apple iPhone 16 (Black, 128 GB)",
+          "specifications": [
+            "Apple iPhone 16 (Black, 128 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "48MP + 12MP | 12MP Front Camera",
+            "A18 Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 (Black, 256 GB)",
+          "brand": "Apple",
+          "price": "₹77,900",
+          "discount_percentage": "02%",
+          "rating": "4.61",
+          "reviews_count": "4.61,55,571 Ratings & 4,794 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/q/h/-original-imahgfmzjj8gtqbc.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/q/h/-original-imahgfmzjj8gtqbc.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 (Black, 256 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-black-256-gb/p/itm86da1977dcdf1?pid=MOBH4DQFZCJJXUFG&lid=LSTMOBH4DQFZCJJXUFGO5DY3W&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFZCJJXUFG.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Apple iPhone 16 (Black, 256 GB)",
+          "specifications": [
+            "Apple iPhone 16 (Black, 256 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "48MP + 12MP | 12MP Front Camera",
+            "A18 Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 (White, 128 GB)",
+          "brand": "Apple",
+          "price": "₹68,900",
+          "discount_percentage": "01%",
+          "rating": "4.61",
+          "reviews_count": "4.61,55,571 Ratings & 4,794 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/u/i/-original-imahgfmyczqxhtm2.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/u/i/-original-imahgfmyczqxhtm2.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 (White, 128 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-white-128-gb/p/itm7c0281cd247be?pid=MOBH4DQF849HCG6G&lid=LSTMOBH4DQF849HCG6GXHBPXY&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQF849HCG6G.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "description": "Apple iPhone 16 (White, 128 GB)",
+          "specifications": [
+            "Apple iPhone 16 (White, 128 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "48MP + 12MP | 12MP Front Camera",
+            "A18 Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 Pro (Desert Titanium, 256 GB)",
+          "brand": "Apple",
+          "price": "₹1,14,900",
+          "discount_percentage": "04%",
+          "rating": "4.724",
+          "reviews_count": "4.724,120 Ratings & 1,039 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/o/9/-original-imahggev6y5zhbjz.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/o/9/-original-imahggev6y5zhbjz.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 Pro (Desert Titanium, 256 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-pro-desert-titanium-256-gb/p/itm4f25cec0bd003?pid=MOBH4DQFEZFXPGNJ&lid=LSTMOBH4DQFEZFXPGNJWZMLCY&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_4&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFEZFXPGNJ.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "availability": "Currently unavailable",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Currently unavailable",
+          "specifications": [
+            "Apple iPhone 16 Pro (Desert Titanium, 256 GB)",
+            "16.0 cm (6.3 inch) Super Retina XDR Display",
+            "48MP + 48MP + 12MP | 12MP Front Camera",
+            "A18 Pro Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 (Ultramarine, 128 GB)",
+          "brand": "Apple",
+          "price": "₹68,900",
+          "discount_percentage": "01%",
+          "rating": "4.61",
+          "reviews_count": "4.61,55,571 Ratings & 4,794 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/l/q/-original-imahgfmzdbnzzjjg.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/l/q/-original-imahgfmzdbnzzjjg.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 (Ultramarine, 128 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-ultramarine-128-gb/p/itmcc210cae43fba?pid=MOBH4DQFYZT6EH2F&lid=LSTMOBH4DQFYZT6EH2FXM70WU&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_5&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFYZT6EH2F.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Apple iPhone 16 (Ultramarine, 128 GB)",
+          "specifications": [
+            "Apple iPhone 16 (Ultramarine, 128 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "48MP + 12MP | 12MP Front Camera",
+            "A18 Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 (Teal, 128 GB)",
+          "brand": "Apple",
+          "price": "₹68,900",
+          "discount_percentage": "01%",
+          "rating": "4.61",
+          "reviews_count": "4.61,55,571 Ratings & 4,794 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/l/2/-original-imahgfmzvanpgncf.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/l/2/-original-imahgfmzvanpgncf.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 (Teal, 128 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-teal-128-gb/p/itmce4bb3f55cc2f?pid=MOBH4DQFSY9ETDUU&lid=LSTMOBH4DQFSY9ETDUUI6AN3O&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_6&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFSY9ETDUU.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "description": "Apple iPhone 16 (Teal, 128 GB)",
+          "specifications": [
+            "Apple iPhone 16 (Teal, 128 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "48MP + 12MP | 12MP Front Camera",
+            "A18 Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 (White, 256 GB)",
+          "brand": "Apple",
+          "price": "₹77,900",
+          "discount_percentage": "02%",
+          "rating": "4.61",
+          "reviews_count": "4.61,55,571 Ratings & 4,794 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/u/i/-original-imahgfmyczqxhtm2.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/u/i/-original-imahgfmyczqxhtm2.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 (White, 256 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-white-256-gb/p/itma0ed9b33a2973?pid=MOBH4DQFCU7ZY9HG&lid=LSTMOBH4DQFCU7ZY9HGOIRVNY&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_7&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFCU7ZY9HG.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "description": "Apple iPhone 16 (White, 256 GB)",
+          "specifications": [
+            "Apple iPhone 16 (White, 256 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "48MP + 12MP | 12MP Front Camera",
+            "A18 Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 14 (Starlight, 128 GB)",
+          "brand": "Apple",
+          "price": "₹52,900",
+          "discount_percentage": "03%",
+          "rating": "4.63",
+          "reviews_count": "4.63,18,842 Ratings & 11,835 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/o/b/-original-imaghx9qkugtbfrn.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/o/b/-original-imaghx9qkugtbfrn.jpeg?q=70",
+          "image_alt": "Apple iPhone 14 (Starlight, 128 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-14-starlight-128-gb/p/itm3485a56f6e676?pid=MOBGHWFHABH3G73H&lid=LSTMOBGHWFHABH3G73HHJP0CG&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_8&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBGHWFHABH3G73H.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Apple iPhone 14 (Starlight, 128 GB)",
+          "specifications": [
+            "Apple iPhone 14 (Starlight, 128 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "12MP + 12MP | 12MP Front Camera",
+            "A15 Bionic Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 (Teal, 256 GB)",
+          "brand": "Apple",
+          "price": "₹77,900",
+          "discount_percentage": "02%",
+          "rating": "4.61",
+          "reviews_count": "4.61,55,571 Ratings & 4,794 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/l/2/-original-imahgfmzvanpgncf.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/l/2/-original-imahgfmzvanpgncf.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 (Teal, 256 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-teal-256-gb/p/itm2b7be11cfadef?pid=MOBH4DQFYKJHESFG&lid=LSTMOBH4DQFYKJHESFG4RZ0KX&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_9&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFYKJHESFG.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Apple iPhone 16 (Teal, 256 GB)",
+          "specifications": [
+            "Apple iPhone 16 (Teal, 256 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "48MP + 12MP | 12MP Front Camera",
+            "A18 Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 14 (Blue, 128 GB)",
+          "brand": "Apple",
+          "price": "₹52,900",
+          "discount_percentage": "03%",
+          "rating": "4.63",
+          "reviews_count": "4.63,18,842 Ratings & 11,835 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70",
+          "image_alt": "Apple iPhone 14 (Blue, 128 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-14-blue-128-gb/p/itmdb77f40da6b6d?pid=MOBGHWFHSV7GUFWA&lid=LSTMOBGHWFHSV7GUFWAXI50I1&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_10&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBGHWFHSV7GUFWA.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Apple iPhone 14 (Blue, 128 GB)",
+          "specifications": [
+            "Apple iPhone 14 (Blue, 128 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "12MP + 12MP | 12MP Front Camera",
+            "A15 Bionic Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 Pro (Natural Titanium, 128 GB)",
+          "brand": "Apple",
+          "price": "₹1,04,900",
+          "discount_percentage": "04%",
+          "rating": "4.724",
+          "reviews_count": "4.724,120 Ratings & 1,039 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/a/b/-original-imahggexextjawug.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/a/b/-original-imahggexextjawug.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 Pro (Natural Titanium, 128 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-pro-natural-titanium-128-gb/p/itm4397c54ec56b7?pid=MOBH4DQFX4FR2HYZ&lid=LSTMOBH4DQFX4FR2HYZKVRW3N&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_11&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFX4FR2HYZ.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "availability": "Currently unavailable",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Currently unavailable",
+          "specifications": [
+            "Apple iPhone 16 Pro (Natural Titanium, 128 GB)",
+            "16.0 cm (6.3 inch) Super Retina XDR Display",
+            "48MP + 48MP + 12MP | 12MP Front Camera",
+            "A18 Pro Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 Pro Max (White Titanium, 256 GB)",
+          "brand": "Apple",
+          "price": "₹1,29,900",
+          "discount_percentage": "03%",
+          "rating": "4.713",
+          "reviews_count": "4.713,466 Ratings & 693 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/o/j/-original-imahggesmypxqrgs.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/o/j/-original-imahggesmypxqrgs.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 Pro Max (White Titanium, 256 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-pro-max-white-titanium-256-gb/p/itm78c52ab1c6488?pid=MOBH4JCVDHY68JZV&lid=LSTMOBH4JCVDHY68JZV0JXTK4&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_12&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4JCVDHY68JZV.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Apple iPhone 16 Pro Max (White Titanium, 256 GB)",
+          "specifications": [
+            "Apple iPhone 16 Pro Max (White Titanium, 256 GB)",
+            "17.53 cm (6.9 inch) Super Retina XDR Display",
+            "48MP + 48MP + 12MP | 12MP Front Camera",
+            "A18 Pro Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 (Pink, 128 GB)",
+          "brand": "Apple",
+          "price": "₹68,900",
+          "discount_percentage": "01%",
+          "rating": "4.61",
+          "reviews_count": "4.61,55,571 Ratings & 4,794 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/v/v/-original-imahgfmypevfehpc.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/v/v/-original-imahgfmypevfehpc.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 (Pink, 128 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-pink-128-gb/p/itmc2e910b4d0b1c?pid=MOBH4DQFWJVDRSHM&lid=LSTMOBH4DQFWJVDRSHMAMTBLL&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_13&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFWJVDRSHM.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Apple iPhone 16 (Pink, 128 GB)",
+          "specifications": [
+            "Apple iPhone 16 (Pink, 128 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "48MP + 12MP | 12MP Front Camera",
+            "A18 Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 Pro (White Titanium, 256 GB)",
+          "brand": "Apple",
+          "price": "₹1,14,900",
+          "discount_percentage": "04%",
+          "rating": "4.724",
+          "reviews_count": "4.724,120 Ratings & 1,039 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/2/w/-original-imahggesubmyd2ht.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/2/w/-original-imahggesubmyd2ht.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 Pro (White Titanium, 256 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-pro-white-titanium-256-gb/p/itm35f749ba5d1ea?pid=MOBH4JCVFZ3ADSHJ&lid=LSTMOBH4JCVFZ3ADSHJBCGX4N&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_14&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4JCVFZ3ADSHJ.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "availability": "Currently unavailable",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Currently unavailable",
+          "specifications": [
+            "Apple iPhone 16 Pro (White Titanium, 256 GB)",
+            "16.0 cm (6.3 inch) Super Retina XDR Display",
+            "48MP + 48MP + 12MP | 12MP Front Camera",
+            "A18 Pro Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 (Pink, 256 GB)",
+          "brand": "Apple",
+          "price": "₹77,900",
+          "discount_percentage": "02%",
+          "rating": "4.61",
+          "reviews_count": "4.61,55,571 Ratings & 4,794 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/v/v/-original-imahgfmypevfehpc.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/v/v/-original-imahgfmypevfehpc.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 (Pink, 256 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-pink-256-gb/p/itm0d8c695cded44?pid=MOBH4DQF28XAYM2S&lid=LSTMOBH4DQF28XAYM2S3JPA23&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_15&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQF28XAYM2S.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Apple iPhone 16 (Pink, 256 GB)",
+          "specifications": [
+            "Apple iPhone 16 (Pink, 256 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "48MP + 12MP | 12MP Front Camera",
+            "A18 Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 Pro (Desert Titanium, 128 GB)",
+          "brand": "Apple",
+          "price": "₹1,04,900",
+          "discount_percentage": "04%",
+          "rating": "4.724",
+          "reviews_count": "4.724,120 Ratings & 1,039 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/o/9/-original-imahggev6y5zhbjz.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/o/9/-original-imahggev6y5zhbjz.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 Pro (Desert Titanium, 128 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-pro-desert-titanium-128-gb/p/itm5a8453e89cbd4?pid=MOBH4DQFSDYNVH5U&lid=LSTMOBH4DQFSDYNVH5UFZYHLF&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_16&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFSDYNVH5U.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "description": "Apple iPhone 16 Pro (Desert Titanium, 128 GB)",
+          "specifications": [
+            "Apple iPhone 16 Pro (Desert Titanium, 128 GB)",
+            "16.0 cm (6.3 inch) Super Retina XDR Display",
+            "48MP + 48MP + 12MP | 12MP Front Camera",
+            "A18 Pro Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 Pro (Natural Titanium, 256 GB)",
+          "brand": "Apple",
+          "price": "₹1,14,900",
+          "discount_percentage": "04%",
+          "rating": "4.724",
+          "reviews_count": "4.724,120 Ratings & 1,039 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/a/b/-original-imahggexextjawug.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/a/b/-original-imahggexextjawug.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 Pro (Natural Titanium, 256 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-pro-natural-titanium-256-gb/p/itm8d07958e8b89e?pid=MOBH4DQFQRF9VSQG&lid=LSTMOBH4DQFQRF9VSQGVR7HJE&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_17&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFQRF9VSQG.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "availability": "Currently unavailable",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Currently unavailable",
+          "specifications": [
+            "Apple iPhone 16 Pro (Natural Titanium, 256 GB)",
+            "16.0 cm (6.3 inch) Super Retina XDR Display",
+            "48MP + 48MP + 12MP | 12MP Front Camera",
+            "A18 Pro Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 Pro Max (Black Titanium, 256 GB)",
+          "brand": "Apple",
+          "price": "₹1,29,900",
+          "discount_percentage": "03%",
+          "rating": "4.713",
+          "reviews_count": "4.713,466 Ratings & 693 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/z/h/-original-imahggetkf6y67sr.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/z/h/-original-imahggetkf6y67sr.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 Pro Max (Black Titanium, 256 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-pro-max-black-titanium-256-gb/p/itm7e75db4f27bd5?pid=MOBH4DQFNXH8SZ9D&lid=LSTMOBH4DQFNXH8SZ9DUXE3QP&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_18&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFNXH8SZ9D.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "description": "Apple iPhone 16 Pro Max (Black Titanium, 256 GB)",
+          "specifications": [
+            "Apple iPhone 16 Pro Max (Black Titanium, 256 GB)",
+            "17.53 cm (6.9 inch) Super Retina XDR Display",
+            "48MP + 48MP + 12MP | 12MP Front Camera",
+            "A18 Pro Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 16 Pro (Black Titanium, 256 GB)",
+          "brand": "Apple",
+          "price": "₹1,14,900",
+          "discount_percentage": "04%",
+          "rating": "4.724",
+          "reviews_count": "4.724,120 Ratings & 1,039 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/9/0/-original-imahggex9mdtt4se.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/9/0/-original-imahggex9mdtt4se.jpeg?q=70",
+          "image_alt": "Apple iPhone 16 Pro (Black Titanium, 256 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-16-pro-black-titanium-256-gb/p/itm9ce88307f4033?pid=MOBH4DQFEJYHHM7X&lid=LSTMOBH4DQFEJYHHM7X0NSARQ&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_19&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFEJYHHM7X.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "availability": "Currently unavailable",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Currently unavailable",
+          "specifications": [
+            "Apple iPhone 16 Pro (Black Titanium, 256 GB)",
+            "16.0 cm (6.3 inch) Super Retina XDR Display",
+            "48MP + 48MP + 12MP | 12MP Front Camera",
+            "A18 Pro Chip, 6 Core Processor Processor"
+          ]
+        },
+        {
+          "title": "Apple iPhone 13 (Starlight, 128 GB)",
+          "brand": "Apple",
+          "price": "₹49,900",
+          "rating": "4.62",
+          "reviews_count": "4.62,94,634 Ratings & 13,998 Reviews",
+          "image_url": "https://rukminim2.flixcart.com/image/312/312/ktketu80/mobile/6/n/d/iphone-13-mlpg3hn-a-apple-original-imag6vpyghayhhrh.jpeg?q=100",
+          "image_thumbnail": "https://rukminim2.flixcart.com/image/312/312/ktketu80/mobile/6/n/d/iphone-13-mlpg3hn-a-apple-original-imag6vpyghayhhrh.jpeg?q=70",
+          "image_alt": "Apple iPhone 13 (Starlight, 128 GB)",
+          "link": "https://www.flipkart.com/apple-iphone-13-starlight-128-gb/p/itmc9604f122ae7f?pid=MOBG6VF5ADKHKXFX&lid=LSTMOBG6VF5ADKHKXFXQGX7PK&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_20&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBG6VF5ADKHKXFX.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "category": "Mobile",
+          "availability": "Currently unavailable",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "description": "Currently unavailable",
+          "specifications": [
+            "Apple iPhone 13 (Starlight, 128 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "12MP + 12MP | 12MP Front Camera",
+            "A15 Bionic Chip Processor"
+          ]
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Apple iPhone 16 (Black, 128 GB)",
+          "price": "₹68,900",
+          "mrp": "",
+          "discount_percentage": "01%",
+          "discount_amount": "",
+          "brand": "Apple",
+          "category": "Mobile",
+          "rating": "4.61",
+          "reviews_count": "4.61,55,571 Ratings & 4,794 Reviews",
+          "description": "Apple iPhone 16 (Black, 128 GB)",
+          "availability": "Bestseller",
+          "delivery": "",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "specifications": [
+            "Apple iPhone 16 (Black, 128 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "48MP + 12MP | 12MP Front Camera",
+            "A18 Chip, 6 Core Processor Processor"
+          ],
+          "link": "https://www.flipkart.com/apple-iphone-16-black-128-gb/p/itmb07d67f995271?pid=MOBH4DQFG8NKFRDY&lid=LSTMOBH4DQFG8NKFRDYNBDOZI&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&spotlightTagId=default_BestsellerId_tyy%2F4io&srno=s_1_1&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFG8NKFRDY.SEARCH&ppt=sp&ppn=sp&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/q/h/-original-imahgfmzjj8gtqbc.jpeg?q=100",
+              "alt": "Apple iPhone 16 (Black, 128 GB)",
+              "thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/q/h/-original-imahgfmzjj8gtqbc.jpeg?q=70"
+            }
+          ]
+        },
+        {
+          "name": "Apple iPhone 16 (Black, 256 GB)",
+          "price": "₹77,900",
+          "mrp": "",
+          "discount_percentage": "02%",
+          "discount_amount": "",
+          "brand": "Apple",
+          "category": "Mobile",
+          "rating": "4.61",
+          "reviews_count": "4.61,55,571 Ratings & 4,794 Reviews",
+          "description": "Apple iPhone 16 (Black, 256 GB)",
+          "availability": "",
+          "delivery": "",
+          "special_offers": [
+            "Bank Offer"
+          ],
+          "specifications": [
+            "Apple iPhone 16 (Black, 256 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "48MP + 12MP | 12MP Front Camera",
+            "A18 Chip, 6 Core Processor Processor"
+          ],
+          "link": "https://www.flipkart.com/apple-iphone-16-black-256-gb/p/itm86da1977dcdf1?pid=MOBH4DQFZCJJXUFG&lid=LSTMOBH4DQFZCJJXUFGO5DY3W&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQFZCJJXUFG.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/q/h/-original-imahgfmzjj8gtqbc.jpeg?q=100",
+              "alt": "Apple iPhone 16 (Black, 256 GB)",
+              "thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/q/h/-original-imahgfmzjj8gtqbc.jpeg?q=70"
+            }
+          ]
+        },
+        {
+          "name": "Apple iPhone 16 (White, 128 GB)",
+          "price": "₹68,900",
+          "mrp": "",
+          "discount_percentage": "01%",
+          "discount_amount": "",
+          "brand": "Apple",
+          "category": "Mobile",
+          "rating": "4.61",
+          "reviews_count": "4.61,55,571 Ratings & 4,794 Reviews",
+          "description": "Apple iPhone 16 (White, 128 GB)",
+          "availability": "",
+          "delivery": "",
+          "special_offers": [],
+          "specifications": [
+            "Apple iPhone 16 (White, 128 GB)",
+            "15.49 cm (6.1 inch) Super Retina XDR Display",
+            "48MP + 12MP | 12MP Front Camera",
+            "A18 Chip, 6 Core Processor Processor"
+          ],
+          "link": "https://www.flipkart.com/apple-iphone-16-white-128-gb/p/itm7c0281cd247be?pid=MOBH4DQF849HCG6G&lid=LSTMOBH4DQF849HCG6GXHBPXY&marketplace=FLIPKART&q=iphone&store=tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=ff4ae365-dd93-4d36-9b36-9d35b1a6e0f3.MOBH4DQF849HCG6G.SEARCH&ppt=None&ppn=None&ssid=vfvaf08brk0000001760803157123&qH=0b3f45b266a97d70",
+          "images": [
+            {
+              "url": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/u/i/-original-imahgfmyczqxhtm2.jpeg?q=100",
+              "alt": "Apple iPhone 16 (White, 128 GB)",
+              "thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/u/i/-original-imahgfmyczqxhtm2.jpeg?q=70"
+            }
+          ]
+        }
+      ]
+    },
+    [],
+    {
+      "site": "Myntra",
+      "query": "iphone",
+      "total_products": 0,
+      "basic_products": [],
+      "detailed_products": [],
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "site": "Meesho",
+      "query": "iphone",
+      "total_products": 20,
+      "basic_products": [
+        {
+          "title": "Infinix GT 30 5G+ 8GB 128GB",
+          "link": "https://www.meesho.com/infinix-gt-30-5g-8-gb-128-gb-cyber-blue-free-cover-included/p/a2xk3c",
+          "price": "₹18,499",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/609586680/ebky1_512.webp?width=360",
+          "image_alt": "Infinix GT 30 5G+ 8GB 128GB",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Infinix HOT 60i 5G 4GB 128GB",
+          "link": "https://www.meesho.com/infinix-hot-60i-5g-4gb-128gb-shadow-blue-free-cover-included/p/9pk6o8",
+          "price": "₹9,499",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/587127752/bpggw_512.webp?width=360",
+          "image_alt": "Infinix HOT 60i 5G 4GB 128GB",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Infinix NOTE 50x 5G+ 6GB 128GB Sea Green (Free Cover Included)",
+          "link": "https://www.meesho.com/infinix-note-50x-5g-6gb-128gb-titanium-grey-free-cover-included/p/a5821f",
+          "price": "₹11,499",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/613435731/zslid_512.webp?width=360",
+          "image_alt": "Infinix NOTE 50x 5G+ 6GB 128GB Sea Green (Free Cover Included)",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Infinix SMART 10 4GB 64GB",
+          "link": "https://www.meesho.com/infinix-smart-10-4gb-64gb-sleek-black-free-cover-included/p/9lbgbw",
+          "price": "₹6,799",
+          "rating": "4.3",
+          "image_url": "https://images.meesho.com/images/products/580001900/s3uby_512.webp?width=360",
+          "image_alt": "Infinix SMART 10 4GB 64GB",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Infinix NOTE 50s 5G+ 8GB 256GB",
+          "link": "https://www.meesho.com/infinix-note-50s-5g-8gb-256gb-marine-drift-blue-free-cover-included/p/a2xk3i",
+          "price": "₹17,999",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/609586686/tivlc_512.webp?width=360",
+          "image_alt": "Infinix NOTE 50s 5G+ 8GB 256GB",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Infinix Hot 60 5G+ 6GB 128GB",
+          "link": "https://www.meesho.com/infinix-hot-60-5g-6gb-128gb-shadow-blue-free-cover-included/p/9en88m",
+          "price": "₹10,499",
+          "rating": "4.8",
+          "image_url": "https://images.meesho.com/images/products/568793974/g6vxv_512.webp?width=360",
+          "image_alt": "Infinix Hot 60 5G+ 6GB 128GB",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Infinix GT 30 5G+ 8 GB 256 GB",
+          "link": "https://www.meesho.com/infinix-gt-30-5g-8gb-256gb-cyber-blue-free-cover-included/p/9p2g8z",
+          "price": "₹19,999",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/586300355/ijbi8_512.webp?width=360",
+          "image_alt": "Infinix GT 30 5G+ 8 GB 256 GB",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Infinix GT 30 Pro 5G+ 12GB 256GB",
+          "link": "https://www.meesho.com/infinix-gt-30-pro-5g-12gb-256gb-dark-flare-free-cover-included/p/a2xk3m",
+          "price": "₹26,999",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/609586690/p3ooy_512.webp?width=360",
+          "image_alt": "Infinix GT 30 Pro 5G+ 12GB 256GB",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Infinix NOTE 50x 5G+ 8GB 128GB",
+          "link": "https://www.meesho.com/infinix-note-50x-5g-8gb-128gb-titanium-grey-free-cover-included/p/a2xk3d",
+          "price": "₹12,999",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/609586681/iks5d_512.webp?width=360",
+          "image_alt": "Infinix NOTE 50x 5G+ 8GB 128GB",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "APPLE iPhone 13 Cases & Covers",
+          "link": "https://www.meesho.com/apple-iphone-13-back-cover/p/84pnne",
+          "price": "₹128",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/491644922/mzjqb_512.webp?width=360",
+          "image_alt": "APPLE iPhone 13 Cases & Covers",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Apple iphone 15 Cases & Covers",
+          "link": "https://www.meesho.com/iphone-15-compatible-for-iphone-15-back-case-cover-scratch-resistant-back-case-cover-black/p/847x53",
+          "price": "₹137",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/490817415/xtw3c_512.webp?width=360",
+          "image_alt": "Apple iphone 15 Cases & Covers",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Others Cases & Covers",
+          "link": "https://www.meesho.com/apple-iphone-15-back-cover/p/84pno5",
+          "price": "₹128",
+          "rating": "4.3",
+          "image_url": "https://images.meesho.com/images/products/491644949/rwm9r_512.webp?width=360",
+          "image_alt": "Others Cases & Covers",
+          "brand": "Others",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Apple iPhone 11 Cases & Covers",
+          "link": "https://www.meesho.com/aeidess-back-case-cover-for-iphone-11-compatible-for-iphone-11-back-case-cover-scratch-resistant-back-case-cover-clear/p/7cju0l",
+          "price": "₹127",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/444343989/cmdga_512.webp?width=360",
+          "image_alt": "Apple iPhone 11 Cases & Covers",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Apple iPhone 12 Cases & Covers",
+          "link": "https://www.meesho.com/aeidess-iphone-12-back-cover/p/7fbl6n",
+          "price": "₹127",
+          "rating": "4.3",
+          "image_url": "https://images.meesho.com/images/products/448998143/busbq_512.webp?width=360",
+          "image_alt": "Apple iPhone 12 Cases & Covers",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Others Cases & Covers",
+          "link": "https://www.meesho.com/apple-iphone-15-back-cover/p/83g2ud",
+          "price": "₹132",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/489518437/iwtlp_512.webp?width=360",
+          "image_alt": "Others Cases & Covers",
+          "brand": "Others",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "APPLE iPhone 13 Cases & Covers",
+          "link": "https://www.meesho.com/iphone-13-mobile-case-cover-glitter-transparent-phone-back-cover-pink/p/7cupna",
+          "price": "₹242",
+          "rating": "4.5",
+          "image_url": "https://images.meesho.com/images/products/444851542/jxynz_512.webp?width=360",
+          "image_alt": "APPLE iPhone 13 Cases & Covers",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Others Cases & Covers",
+          "link": "https://www.meesho.com/apple-iphone-11-back-cover-transparent-white-cover-magfit-cover-for-iphone-11-free-size-mag-safe-wireless-charging-designed-with-magnetic-lock-shockproof-phone-bumper-transparent-back-case/p/8zvo64",
+          "price": "₹148",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/543993628/hljqz_512.webp?width=360",
+          "image_alt": "Others Cases & Covers",
+          "brand": "Others",
+          "category": "Fashion",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Apple iPhone 12 Cases & Covers",
+          "link": "https://www.meesho.com/iphone-12-61-inch-mag-safe-wireless-charging-designed-with-magnetic-lock-shockproof-phone-bumper-transparent-back-case-cover-black-cover/p/7yst24",
+          "price": "₹132",
+          "rating": "4.1",
+          "image_url": "https://images.meesho.com/images/products/481714204/sxeir_512.webp?width=360",
+          "image_alt": "Apple iPhone 12 Cases & Covers",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "Apple iPhone 11 Cases & Covers",
+          "link": "https://www.meesho.com/iphone-11-compatible-for-iphone-11-back-case-cover-scratch-resistant-back-case-cover-clear-back-case-cover/p/76o2vr",
+          "price": "₹133",
+          "rating": "4.2",
+          "image_url": "https://images.meesho.com/images/products/434464407/xvcxc_512.webp?width=360",
+          "image_alt": "Apple iPhone 11 Cases & Covers",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "Free Delivery"
+        },
+        {
+          "title": "APPLE iPhone 13 Cases & Covers",
+          "link": "https://www.meesho.com/back-case-cover-for-iphone-13-compatible-for-iphone-13-back-case-cover-scratch-resistant-back-case-cover-black/p/847fhr",
+          "price": "₹139",
+          "rating": "4.0",
+          "image_url": "https://images.meesho.com/images/products/490794543/nbqil_512.webp?width=360",
+          "image_alt": "APPLE iPhone 13 Cases & Covers",
+          "brand": "Apple",
+          "category": "Mobile",
+          "availability": "Free Delivery"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Infinix GT 30 5G+ 8GB 128GB",
+          "price": "₹18,499",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "rating": "4.5",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/infinix-gt-30-5g-8-gb-128-gb-cyber-blue-free-cover-included/p/a2xk3c",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/609586680/ebky1_512.webp?width=360",
+              "alt": "Infinix GT 30 5G+ 8GB 128GB",
+              "thumbnail": "https://images.meesho.com/images/products/609586680/ebky1_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Infinix HOT 60i 5G 4GB 128GB",
+          "price": "₹9,499",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "rating": "4.5",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/infinix-hot-60i-5g-4gb-128gb-shadow-blue-free-cover-included/p/9pk6o8",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/587127752/bpggw_512.webp?width=360",
+              "alt": "Infinix HOT 60i 5G 4GB 128GB",
+              "thumbnail": "https://images.meesho.com/images/products/587127752/bpggw_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Infinix NOTE 50x 5G+ 6GB 128GB Sea Green (Free Cover Included)",
+          "price": "₹11,499",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "rating": "4.5",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/infinix-note-50x-5g-6gb-128gb-titanium-grey-free-cover-included/p/a5821f",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/613435731/zslid_512.webp?width=360",
+              "alt": "Infinix NOTE 50x 5G+ 6GB 128GB Sea Green (Free Cover Included)",
+              "thumbnail": "https://images.meesho.com/images/products/613435731/zslid_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Infinix SMART 10 4GB 64GB",
+          "price": "₹6,799",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "rating": "4.3",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/infinix-smart-10-4gb-64gb-sleek-black-free-cover-included/p/9lbgbw",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/580001900/s3uby_512.webp?width=360",
+              "alt": "Infinix SMART 10 4GB 64GB",
+              "thumbnail": "https://images.meesho.com/images/products/580001900/s3uby_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Infinix NOTE 50s 5G+ 8GB 256GB",
+          "price": "₹17,999",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "rating": "4.5",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/infinix-note-50s-5g-8gb-256gb-marine-drift-blue-free-cover-included/p/a2xk3i",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/609586686/tivlc_512.webp?width=360",
+              "alt": "Infinix NOTE 50s 5G+ 8GB 256GB",
+              "thumbnail": "https://images.meesho.com/images/products/609586686/tivlc_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Infinix Hot 60 5G+ 6GB 128GB",
+          "price": "₹10,499",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "rating": "4.8",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/infinix-hot-60-5g-6gb-128gb-shadow-blue-free-cover-included/p/9en88m",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/568793974/g6vxv_512.webp?width=360",
+              "alt": "Infinix Hot 60 5G+ 6GB 128GB",
+              "thumbnail": "https://images.meesho.com/images/products/568793974/g6vxv_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Infinix GT 30 5G+ 8 GB 256 GB",
+          "price": "₹19,999",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "rating": "4.5",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/infinix-gt-30-5g-8gb-256gb-cyber-blue-free-cover-included/p/9p2g8z",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/586300355/ijbi8_512.webp?width=360",
+              "alt": "Infinix GT 30 5G+ 8 GB 256 GB",
+              "thumbnail": "https://images.meesho.com/images/products/586300355/ijbi8_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Infinix GT 30 Pro 5G+ 12GB 256GB",
+          "price": "₹26,999",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "rating": "4.5",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/infinix-gt-30-pro-5g-12gb-256gb-dark-flare-free-cover-included/p/a2xk3m",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/609586690/p3ooy_512.webp?width=360",
+              "alt": "Infinix GT 30 Pro 5G+ 12GB 256GB",
+              "thumbnail": "https://images.meesho.com/images/products/609586690/p3ooy_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "Infinix NOTE 50x 5G+ 8GB 128GB",
+          "price": "₹12,999",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Infinix",
+          "category": "Fashion",
+          "rating": "4.5",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/infinix-note-50x-5g-8gb-128gb-titanium-grey-free-cover-included/p/a2xk3d",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/609586681/iks5d_512.webp?width=360",
+              "alt": "Infinix NOTE 50x 5G+ 8GB 128GB",
+              "thumbnail": "https://images.meesho.com/images/products/609586681/iks5d_512.webp?width=360"
+            }
+          ]
+        },
+        {
+          "name": "APPLE iPhone 13 Cases & Covers",
+          "price": "₹128",
+          "mrp": "",
+          "discount_percentage": "",
+          "discount_amount": "",
+          "brand": "Apple",
+          "category": "Mobile",
+          "rating": "4.2",
+          "reviews_count": "",
+          "availability": "Free Delivery",
+          "link": "https://www.meesho.com/apple-iphone-13-back-cover/p/84pnne",
+          "images": [
+            {
+              "url": "https://images.meesho.com/images/products/491644922/mzjqb_512.webp?width=360",
+              "alt": "APPLE iPhone 13 Cases & Covers",
+              "thumbnail": "https://images.meesho.com/images/products/491644922/mzjqb_512.webp?width=360"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

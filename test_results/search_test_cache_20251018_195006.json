@@ -1,0 +1,298 @@
+{
+  "success": true,
+  "query": "test_cache",
+  "total_results": 20,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "40.1s",
+  "timestamp": "2025-10-18T19:50:06.369350",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_cache",
+      "total_products": 20,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - Control D Test Strips",
+          "price": "₹460",
+          "discount_percentage": "₹1,149 (60% off)",
+          "rating": "4.2",
+          "reviews_count": "4,193",
+          "image_url": "https://m.media-amazon.com/images/I/51hJZs8nVUL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Control D Test Strips, 50 Count (Black) for Control D Glucometer only",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NzcwNDY2MjA5MzQ4NzM5OjE3NjA3OTcxNzg6c3BfYXRmOjIwMDk4MDI4NDQwMDk4OjowOjo&url=%2FControl-Test-Strips-Count-Black%2Fdp%2FB073TT59ZQ%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw%26dib_tag%3Dse%26keywords%3Dtest_cache%26qid%3D1760797178%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Q02QcNYnrU&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - Control D Orange 50 Strips & Glucometer",
+          "price": "₹499",
+          "discount_percentage": "₹1,396 (64% off)",
+          "rating": "3.8",
+          "reviews_count": "1,234",
+          "image_url": "https://m.media-amazon.com/images/I/71STc43ab-L._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Control D Orange 50 Strips & Glucometer",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NzcwNDY2MjA5MzQ4NzM5OjE3NjA3OTcxNzg6c3BfYXRmOjIwMDk4MDQ1MzExMDk4OjowOjo&url=%2FControl-Orange-50-Strips-Glucometer%2Fdp%2FB08KSCV8SX%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw%26dib_tag%3Dse%26keywords%3Dtest_cache%26qid%3D1760797178%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=3sfCZi4G3F&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Control D White 50 Strips & Glucometer",
+          "price": "₹495",
+          "discount_percentage": "₹1,396 (65% off)",
+          "rating": "3.8",
+          "reviews_count": "1,446",
+          "image_url": "https://m.media-amazon.com/images/I/71kVrB0P2-L._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Control D White 50 Strips & Glucometer",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NzcwNDY2MjA5MzQ4NzM5OjE3NjA3OTcxNzg6c3BfYXRmOjIwMDk4MDQ1MzEwNzk4OjowOjo&url=%2FControl-White-50-Strips-Glucometer%2Fdp%2FB08KS8GLLW%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw%26dib_tag%3Dse%26keywords%3Dtest_cache%26qid%3D1760797178%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=xsNszdEs7J&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - Control D Glucose Blood Sugar testing Machine with 25 Strips Glucometer",
+          "price": "₹355",
+          "discount_percentage": "₹888 (60% off)",
+          "rating": "3.8",
+          "reviews_count": "248",
+          "image_url": "https://m.media-amazon.com/images/I/71+RrDm+GrL._AC_UL320_.jpg",
+          "image_alt": "Sponsored Ad - Control D Glucose Blood Sugar testing Machine with 25 Strips Glucometer, White",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NzcwNDY2MjA5MzQ4NzM5OjE3NjA3OTcxNzg6c3BfYXRmOjIwMDk4MDQ1MzEyMDk4OjowOjo&url=%2FControl-Blood-Glucose-Monitor-Strips%2Fdp%2FB0926754B4%2Fref%3Dsr_1_4_sspa%3Fdib%3DeyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw%26dib_tag%3Dse%26keywords%3Dtest_cache%26qid%3D1760797178%26sr%3D8-4-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=W1qEx2p4AG&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Wed, 22 Oct on first order"
+        },
+        {
+          "title": "iplusmile Box Tube Box Test Tube Geocache Containers Glass Tubes Tube Cryogenic Micro Tubes Holder Polypropylene Cryogenic...",
+          "price": "₹4,565\n81",
+          "discount_percentage": "₹7,305.30 (38% off)",
+          "image_url": "https://m.media-amazon.com/images/I/61aeXfI9tnL._AC_UL320_.jpg",
+          "image_alt": "iplusmile Box Tube Box Test Tube Geocache Containers Glass Tubes Tube Cryogenic Micro Tubes Holder Polypropylene Cryogenic...",
+          "link": "https://www.amazon.in/iplusmile-Geocache-Containers-Cryogenic-Polypropylene/dp/B0BMQ9F9B6/ref=sr_1_5?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-5",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery 3 - 4 Nov"
+        },
+        {
+          "title": "CareSens N Test Strips 50CT",
+          "price": "₹499",
+          "discount_percentage": "₹1,650 (70% off)",
+          "rating": "4.0",
+          "image_url": "https://m.media-amazon.com/images/I/61Kn1IzmuXL._AC_UL320_.jpg",
+          "image_alt": "CareSens N Test Strips 50CT",
+          "link": "https://www.amazon.in/CareSens-N-Test-Strips-50CT/dp/B00CJAVTNQ/ref=sr_1_6?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-6",
+          "brand": "CareSens",
+          "category": "General",
+          "availability": "FREE delivery Wed, 29 Oct"
+        },
+        {
+          "title": "ChecckMe DOA 6 Panel Urine Drug Test Kit - Single Test Cassette",
+          "price": "₹257",
+          "discount_percentage": "₹600 (57% off)",
+          "rating": "3.0",
+          "image_url": "https://m.media-amazon.com/images/I/61j1kutGyoL._AC_UL320_.jpg",
+          "image_alt": "ChecckMe DOA 6 Panel Urine Drug Test Kit - Single Test Cassette",
+          "link": "https://www.amazon.in/ChecckMe-Panel-Urine-Drug-Test/dp/B0D7ZPQYXG/ref=sr_1_7?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-7",
+          "brand": "ChecckMe",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "Instruction generation for cache resident self test of processors: Targeting both stuck-at and delay faults in processors ...",
+          "price": "₹5,763",
+          "discount_percentage": "Buy 3 items, get 3% off",
+          "image_url": "https://m.media-amazon.com/images/I/81ikQhmSc7L._AC_UL320_.jpg",
+          "image_alt": "Instruction generation for cache resident self test of processors: Targeting both stuck-at and delay faults in processors ...",
+          "link": "https://www.amazon.in/Instruction-generation-cache-resident-processors/dp/363919375X/ref=sr_1_8?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-8",
+          "brand": "Instruction",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "Bottle Extra Large Preform 3x6.75oz and Regular 3x1.5oz (6pcs) Baby Soda Test Tubes Rugged Clear Plastic Geocache Waterpro...",
+          "price": "₹10,816\n75",
+          "discount_percentage": "₹17,306.80 (38% off)",
+          "image_url": "https://m.media-amazon.com/images/I/81epspvX5fL._AC_UL320_.jpg",
+          "image_alt": "Bottle Extra Large Preform 3x6.75oz and Regular 3x1.5oz (6pcs) Baby Soda Test Tubes Rugged Clear Plastic Geocache Waterpro...",
+          "link": "https://www.amazon.in/3x6-75oz-Waterproof-Experiment-Container-Electronics/dp/B08MBLGJCQ/ref=sr_1_9?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-9",
+          "brand": "Bottle",
+          "category": "General",
+          "availability": "FREE delivery 5 - 6 Nov"
+        },
+        {
+          "title": "ChecckMe DOA 6 Panel Urine Drug Test Kit - Combo Pack of 10 Test Cassettes",
+          "price": "₹1,448",
+          "discount_percentage": "₹6,000 (76% off)",
+          "rating": "1.0",
+          "image_url": "https://m.media-amazon.com/images/I/61aGWr4UfgL._AC_UL320_.jpg",
+          "image_alt": "ChecckMe DOA 6 Panel Urine Drug Test Kit - Combo Pack of 10 Test Cassettes",
+          "link": "https://www.amazon.in/ChecckMe-Panel-Urine-Drug-Test/dp/B0D6RV1LYH/ref=sr_1_10?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-10",
+          "brand": "ChecckMe",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Test Products- Sports goods",
+          "price": "₹600",
+          "rating": "2.0",
+          "image_url": "https://m.media-amazon.com/images/I/31w1z2cv8zL._AC_UL320_.jpg",
+          "image_alt": "Test Products- Sports goods",
+          "link": "https://www.amazon.in/Generic-Test-Products-Sports-goods/dp/B0D8PM9MDM/ref=sr_1_11?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-11",
+          "brand": "Test",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "Quatre Petits Offices En L'honneur De La Vie Cachée De Iesus: Avec Les Adorations Conformes Et La Traduction Françoise Des...",
+          "price": "₹1,135",
+          "discount_percentage": "₹1,419 (20% off)",
+          "image_url": "https://m.media-amazon.com/images/I/61RZzuBPz2L._AC_UL320_.jpg",
+          "image_alt": "Quatre Petits Offices En L'honneur De La Vie Cachée De Iesus: Avec Les Adorations Conformes Et La Traduction Françoise Des...",
+          "link": "https://www.amazon.in/Quatre-Petits-Offices-Lhonneur-Cachee/dp/1012542742/ref=sr_1_12?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-12",
+          "brand": "Quatre",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Testez l’Intelligence et les Talents Cachés de Votre Enfant: 50 tests et jeux éducatifs pour stimuler la mémoire",
+          "price": "₹449",
+          "image_url": "https://m.media-amazon.com/images/I/715NGIzd-lL._AC_UL320_.jpg",
+          "image_alt": "Testez l’Intelligence et les Talents Cachés de Votre Enfant: 50 tests et jeux éducatifs pour stimuler la mémoire, la logiq...",
+          "link": "https://www.amazon.in/Testez-lIntelligence-Talents-Cach%C3%A9s-Enfant-ebook/dp/B0FRT178VZ/ref=sr_1_13?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-13",
+          "brand": "Testez",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "CTET Success Master Maths & Science Paper-II for Class VI-VIII(Old Edition)",
+          "price": "₹461",
+          "discount_percentage": "₹475 (3% off)",
+          "rating": "4.2",
+          "image_url": "https://m.media-amazon.com/images/I/51LdjvHOB4L._AC_UL320_.jpg",
+          "image_alt": "CTET Success Master Maths & Science Paper-II for Class VI-VIII(Old Edition)",
+          "link": "https://www.amazon.in/Success-Master-Science-Paper-II-VI-VIII/dp/931214023X/ref=sr_1_14?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-14",
+          "brand": "CTET",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct on first order"
+        },
+        {
+          "title": "TEST DE QI POUR MATERNELLE 2024: Découvrez les talents cachés de votre enfant",
+          "price": "₹0",
+          "image_url": "https://m.media-amazon.com/images/I/717VX6KxqJL._AC_UL320_.jpg",
+          "image_alt": "TEST DE QI POUR MATERNELLE 2024: Découvrez les talents cachés de votre enfant, un guide étape par étape sur les tests de Q...",
+          "link": "https://www.amazon.in/TEST-POUR-MATERNELLE-2024-d%C3%A9veloppement-ebook/dp/B0DD6ZPM21/ref=sr_1_15?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-15",
+          "brand": "TEST",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "Checkmate Check Mate Infidelity Test Kit 2 Packs - 10 Tests - Check Your Spouse Boyfriend Girlfriend Partner.",
+          "price": "₹6,769",
+          "discount_percentage": "₹20,703.15 (67% off)",
+          "rating": "1.0",
+          "image_url": "https://m.media-amazon.com/images/I/71pyW12BcwL._AC_UL320_.jpg",
+          "image_alt": "Checkmate Check Mate Infidelity Test Kit 2 Packs - 10 Tests - Check Your Spouse Boyfriend Girlfriend Partner., Multi",
+          "link": "https://www.amazon.in/Check-Mate-Infidelity-Test-Kit/dp/B0006ZGKQC/ref=sr_1_16?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-16",
+          "brand": "Checkmate",
+          "category": "General",
+          "availability": "FREE delivery 8 - 10 Nov"
+        },
+        {
+          "title": "CACHE Level 2 Certificate in Understanding Behaviour that Challenges Understanding Challenging Behaviour Assessment 2",
+          "price": "₹449",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/91FNbC8po3L._AC_UL320_.jpg",
+          "image_alt": "CACHE Level 2 Certificate in Understanding Behaviour that Challenges Understanding Challenging Behaviour Assessment 2",
+          "link": "https://www.amazon.in/Certificate-Understanding-Challenges-Challenging-Assessment-ebook/dp/B08JLHJF6Z/ref=sr_1_17?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-17",
+          "brand": "CACHE",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "Understanding Challenging Behaviour Assessment 1 By Dr Pedro Ramalho and Mr Sean Flynn : CACHE Level 2 Certificate in Unde...",
+          "price": "₹449",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/91IHJQ3rsyL._AC_UL320_.jpg",
+          "image_alt": "Understanding Challenging Behaviour Assessment 1 By Dr Pedro Ramalho and Mr Sean Flynn : CACHE Level 2 Certificate in Unde...",
+          "link": "https://www.amazon.in/Understanding-Challenging-Behaviour-Assessment-Ramalho-ebook/dp/B07R9Q2CGM/ref=sr_1_18?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-18",
+          "brand": "Understanding",
+          "category": "General",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "Ethical Hacking and Penetration Testing Guide",
+          "price": "₹5,999",
+          "discount_percentage": "₹7,995 (25% off)",
+          "rating": "4.3",
+          "image_url": "https://m.media-amazon.com/images/I/81EAuHprfdL._AC_UL320_.jpg",
+          "image_alt": "Ethical Hacking and Penetration Testing Guide",
+          "link": "https://www.amazon.in/Ethical-Hacking-Penetration-Testing-Guide/dp/1482231611/ref=sr_1_19?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-19",
+          "brand": "Ethical",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Ana-Chek Urine Strips Glucose",
+          "price": "₹500(1 new offer)",
+          "rating": "3.6",
+          "image_url": "https://m.media-amazon.com/images/I/817Tlg4DgNL._AC_UL320_.jpg",
+          "image_alt": "Ana-Chek Urine Strips Glucose, Protein, Ketone-3P-100 Nos",
+          "link": "https://www.amazon.in/Ana-Chek-Strips-Glucose-Protein-Ketone-3P-100/dp/B08ZCW8Y8J/ref=sr_1_20?dib=eyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw&dib_tag=se&keywords=test_cache&qid=1760797178&sr=8-20",
+          "brand": "Ana-Chek",
+          "category": "General",
+          "availability": "No featured offers available"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - Control D Test Strips",
+          "price": "₹460",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "4.2",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NzcwNDY2MjA5MzQ4NzM5OjE3NjA3OTcxNzg6c3BfYXRmOjIwMDk4MDI4NDQwMDk4OjowOjo&url=%2FControl-Test-Strips-Count-Black%2Fdp%2FB073TT59ZQ%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw%26dib_tag%3Dse%26keywords%3Dtest_cache%26qid%3D1760797178%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Q02QcNYnrU&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/51hJZs8nVUL._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - Control D Test Strips, 50 Count (Black) for Control D Glucometer only",
+              "thumbnail": "https://m.media-amazon.com/images/I/51hJZs8nVUL._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - Control D Orange 50 Strips & Glucometer",
+          "price": "₹499",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "3.8",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NzcwNDY2MjA5MzQ4NzM5OjE3NjA3OTcxNzg6c3BfYXRmOjIwMDk4MDQ1MzExMDk4OjowOjo&url=%2FControl-Orange-50-Strips-Glucometer%2Fdp%2FB08KSCV8SX%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw%26dib_tag%3Dse%26keywords%3Dtest_cache%26qid%3D1760797178%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=3sfCZi4G3F&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71STc43ab-L._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - Control D Orange 50 Strips & Glucometer",
+              "thumbnail": "https://m.media-amazon.com/images/I/71STc43ab-L._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - Control D White 50 Strips & Glucometer",
+          "price": "₹495",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "3.8",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NzcwNDY2MjA5MzQ4NzM5OjE3NjA3OTcxNzg6c3BfYXRmOjIwMDk4MDQ1MzEwNzk4OjowOjo&url=%2FControl-White-50-Strips-Glucometer%2Fdp%2FB08KS8GLLW%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.S7DQ-qjptV_hN8jqjOl5jTjA4kp7br7TkHJmHj0Ma9zL5cxXe0LJC-EUQyqvHEcI6mcSI3-NhzsMiyaQnT5jI5urraqmAg86uOhEG2CiJdhl9I7VNxhRolMhS5uuDU4qx7hW9Ma9pcBKM4UBj-1rWHszPDap1cDBtkpZOqf-AlREsWAcgUdlN7h4hU_91aqlg0v8MADufDOreDcWts993BCxT2WhdGEfR35EWGCnqINpFAp4R3n8DujEeryaSjizmXYVtlxDKPI-culgBnpUyDDog-3aA3j5BkoFVbdMwYk.3vvvwmDPuUgEACZdm0cpQZRKwwqjnjVpn-4by_Onekw%26dib_tag%3Dse%26keywords%3Dtest_cache%26qid%3D1760797178%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=xsNszdEs7J&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71kVrB0P2-L._AC_UL320_.jpg",
+              "alt": "Sponsored Ad - Control D White 50 Strips & Glucometer",
+              "thumbnail": "https://m.media-amazon.com/images/I/71kVrB0P2-L._AC_UL320_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

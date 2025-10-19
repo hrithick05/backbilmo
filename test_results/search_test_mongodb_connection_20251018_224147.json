@@ -1,0 +1,126 @@
+{
+  "success": true,
+  "query": "test_mongodb_connection",
+  "total_results": 5,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "48.29s",
+  "timestamp": "2025-10-18T22:41:47.217760",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_mongodb_connection",
+      "total_products": 5,
+      "basic_products": [
+        {
+          "title": "Sponsored Ad - Guide to RBI Grade B Officers Phase I Exam with Previous Year Questions - 7th Edition | 2022 & 2023 Phase I...",
+          "price": "₹567",
+          "discount_percentage": "₹790 (28% off)",
+          "rating": "4.0",
+          "image_url": "https://m.media-amazon.com/images/I/71m8XkGlHeL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Guide to RBI Grade B Officers Phase I Exam with Previous Year Questions - 7th Edition | 2022 & 2023 Phase I...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NDgzNDU3NjE1MjMwOTA5OjE3NjA4MDc0NzY6c3BfbXRmOjMwMDcwODY4OTE2MjgzMjo6MDo6&url=%2FGuide-Grade-Officers-Previous-Questions%2Fdp%2F9362254255%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807476%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=qZZunKAUic&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Disha Combo (set of 4 Books) 125 Topic-wise Reasoning/ Quantitative Aptitude/ English/ General Awareness So...",
+          "price": "₹1,483",
+          "discount_percentage": "₹2,740 (46% off)",
+          "rating": "4.6",
+          "image_url": "https://m.media-amazon.com/images/I/71BCN9gkkhL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Disha Combo (set of 4 Books) 125 Topic-wise Reasoning/ Quantitative Aptitude/ English/ General Awareness So...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NDgzNDU3NjE1MjMwOTA5OjE3NjA4MDc0NzY6c3BfbXRmOjMwMDY1MTU5NTU2NjUzMjo6MDo6&url=%2FTopic-wise-Reasoning-Quantitative-Aptitude-Awareness%2Fdp%2F9362257793%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807476%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=A2cOcmd7h0&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Top",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Sponsored Ad - Disha 125 Topic-wise Reasoning & Computer Aptitude Previous Year Question Bank for IBPS/ SBI/ RRB/ RBI Bank...",
+          "price": "₹463",
+          "discount_percentage": "₹840 (45% off)",
+          "rating": "4.3",
+          "image_url": "https://m.media-amazon.com/images/I/71xFFBamqTL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Disha 125 Topic-wise Reasoning & Computer Aptitude Previous Year Question Bank for IBPS/ SBI/ RRB/ RBI Bank...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NDgzNDU3NjE1MjMwOTA5OjE3NjA4MDc0NzY6c3BfYnRmOjMwMDY1MTU5NTU2NjEzMjo6MDo6&url=%2FTopic-wise-Reasoning-Computer-Aptitude-Previous%2Fdp%2F936225350X%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807476%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=Qd1T39iaGk&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Laptop",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - Disha 87 Topic-wise General/ Banking/ Economy Awareness Previous Year Question Bank for IBPS/ SBI/ RRB/ RBI...",
+          "price": "₹220",
+          "discount_percentage": "₹400 (45% off)",
+          "rating": "4.5",
+          "image_url": "https://m.media-amazon.com/images/I/71UUFdShnsL._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - Disha 87 Topic-wise General/ Banking/ Economy Awareness Previous Year Question Bank for IBPS/ SBI/ RRB/ RBI...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NDgzNDU3NjE1MjMwOTA5OjE3NjA4MDc0NzY6c3BfYnRmOjMwMDY1MTU5NTU2NjMzMjo6MDo6&url=%2FTopic-wise-General-Awareness-Previous-Question%2Fdp%2F9362259958%2Fref%3Dsr_1_4_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807476%26sr%3D8-4-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=28hCu3Dx5N&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "Top",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        },
+        {
+          "title": "Sponsored Ad - RBI Grade B Officers Phase 1 Exam 6 Previous Year Solved Papers (2017 - 2023) & 10 Practice Sets - 6th Edit...",
+          "price": "₹363",
+          "discount_percentage": "₹500 (27% off)",
+          "rating": "4.0",
+          "image_url": "https://m.media-amazon.com/images/I/71o13kLCU7L._AC_UY218_.jpg",
+          "image_alt": "Sponsored Ad - RBI Grade B Officers Phase 1 Exam 6 Previous Year Solved Papers (2017 - 2023) & 10 Practice Sets - 6th Edit...",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NDgzNDU3NjE1MjMwOTA5OjE3NjA4MDc0NzY6c3BfYnRmOjMwMDcwODY4OTE2MjczMjo6MDo6&url=%2FGrade-Officers-Previous-Solved-Papers%2Fdp%2F9362256126%2Fref%3Dsr_1_5_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807476%26sr%3D8-5-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=HNGotpUSbi&sp_cr=ZAZ",
+          "brand": "Sponsored",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct on first order"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "Sponsored Ad - Guide to RBI Grade B Officers Phase I Exam with Previous Year Questions - 7th Edition | 2022 & 2023 Phase I...",
+          "price": "₹567",
+          "brand": "Sponsored",
+          "category": "General",
+          "rating": "4.0",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NDgzNDU3NjE1MjMwOTA5OjE3NjA4MDc0NzY6c3BfbXRmOjMwMDcwODY4OTE2MjgzMjo6MDo6&url=%2FGuide-Grade-Officers-Previous-Questions%2Fdp%2F9362254255%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807476%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=qZZunKAUic&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71m8XkGlHeL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - Guide to RBI Grade B Officers Phase I Exam with Previous Year Questions - 7th Edition | 2022 & 2023 Phase I...",
+              "thumbnail": "https://m.media-amazon.com/images/I/71m8XkGlHeL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - Disha Combo (set of 4 Books) 125 Topic-wise Reasoning/ Quantitative Aptitude/ English/ General Awareness So...",
+          "price": "₹1,483",
+          "brand": "Sponsored",
+          "category": "Top",
+          "rating": "4.6",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NDgzNDU3NjE1MjMwOTA5OjE3NjA4MDc0NzY6c3BfbXRmOjMwMDY1MTU5NTU2NjUzMjo6MDo6&url=%2FTopic-wise-Reasoning-Quantitative-Aptitude-Awareness%2Fdp%2F9362257793%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807476%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=A2cOcmd7h0&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71BCN9gkkhL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - Disha Combo (set of 4 Books) 125 Topic-wise Reasoning/ Quantitative Aptitude/ English/ General Awareness So...",
+              "thumbnail": "https://m.media-amazon.com/images/I/71BCN9gkkhL._AC_UY218_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "Sponsored Ad - Disha 125 Topic-wise Reasoning & Computer Aptitude Previous Year Question Bank for IBPS/ SBI/ RRB/ RBI Bank...",
+          "price": "₹463",
+          "brand": "Sponsored",
+          "category": "Laptop",
+          "rating": "4.3",
+          "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NDgzNDU3NjE1MjMwOTA5OjE3NjA4MDc0NzY6c3BfYnRmOjMwMDY1MTU5NTU2NjEzMjo6MDo6&url=%2FTopic-wise-Reasoning-Computer-Aptitude-Previous%2Fdp%2F936225350X%2Fref%3Dsr_1_3_sspa%3Fkeywords%3Dtest_mongodb_connection%26qid%3D1760807476%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&aref=Qd1T39iaGk&sp_cr=ZAZ",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/71xFFBamqTL._AC_UY218_.jpg",
+              "alt": "Sponsored Ad - Disha 125 Topic-wise Reasoning & Computer Aptitude Previous Year Question Bank for IBPS/ SBI/ RRB/ RBI Bank...",
+              "thumbnail": "https://m.media-amazon.com/images/I/71xFFBamqTL._AC_UY218_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

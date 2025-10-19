@@ -1,0 +1,287 @@
+{
+  "success": true,
+  "query": "test_debug",
+  "total_results": 20,
+  "source": "web_scraping",
+  "cache_hits": 0,
+  "fresh_searches": 1,
+  "processing_time": "37.63s",
+  "timestamp": "2025-10-18T20:26:37.260552",
+  "results": [
+    {
+      "site": "Amazon",
+      "query": "test_debug",
+      "total_products": 20,
+      "basic_products": [
+        {
+          "title": "DHRUV-PRO TL-460s Plus Motherboard Diagnostic Tester Universal PC PCI PCI-E miniPCI-E LPC Analyzer Post Test Debug Cards",
+          "price": "₹4,850",
+          "discount_percentage": "₹6,499 (25% off)",
+          "rating": "2.8",
+          "image_url": "https://m.media-amazon.com/images/I/51YxOqqPESL._AC_UL320_.jpg",
+          "image_alt": "DHRUV-PRO TL-460s Plus Motherboard Diagnostic Tester Universal PC PCI PCI-E miniPCI-E LPC Analyzer Post Test Debug Cards",
+          "link": "https://www.amazon.in/DHRUV-PRO-Motherboard-Diagnostic-Universal-miniPCI/dp/B088TVRN8N/ref=sr_1_1?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-1",
+          "brand": "Mi",
+          "category": "General",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "DHRUVPRO 3In1 Mini PCI- PCI-E LPC Laptop Analyzer Tester Diagnostic Card Post Test for Desktop Laptop Debug Diagnostic",
+          "price": "₹749",
+          "discount_percentage": "₹1,249 (40% off)",
+          "rating": "3.3",
+          "image_url": "https://m.media-amazon.com/images/I/61JwAp0sg9L._AC_UL320_.jpg",
+          "image_alt": "DHRUVPRO 3In1 Mini PCI- PCI-E LPC Laptop Analyzer Tester Diagnostic Card Post Test for Desktop Laptop Debug Diagnostic",
+          "link": "https://www.amazon.in/DHRUV-PRO-Laptop-Analyzer-Diagnostic-Desktop/dp/B091TV1ZLQ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-2",
+          "brand": "Mi",
+          "category": "Laptop",
+          "availability": "FREE delivery Thu, 23 Oct"
+        },
+        {
+          "title": "PC Diagnostic 4-Digit Card",
+          "price": "₹3,424\n05",
+          "discount_percentage": "₹12,686.70 (73% off)",
+          "rating": "3.5",
+          "image_url": "https://m.media-amazon.com/images/I/813Qvo8abeL._AC_UL320_.jpg",
+          "image_alt": "PC Diagnostic 4-Digit Card,Module Board Test & Measuring Module PC Computer Mother Board Debug Post Card Analyzer PCI Moth...",
+          "link": "https://www.amazon.in/Diagnostic-Measuring-Computer-Motherboard-Diagnostics/dp/B08QRCDR9D/ref=sr_1_3?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-3",
+          "category": "General",
+          "availability": "FREE delivery Sat, 1 Nov"
+        },
+        {
+          "title": "Diagnostic Card",
+          "price": "₹1,299",
+          "discount_percentage": "₹1,899 (32% off)",
+          "rating": "4.0",
+          "image_url": "https://m.media-amazon.com/images/I/61CEz+4ekyL._AC_UL320_.jpg",
+          "image_alt": "Diagnostic Card,3 in 1 PCI PCI-E LPC Diagnostic Debug Test Analyzer Card for Notebook PC",
+          "link": "https://www.amazon.in/Diagnostic-Card-Debug-Analyzer-Notebook/dp/B0792S11DM/ref=sr_1_4?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-4",
+          "brand": "Diagnostic",
+          "category": "General",
+          "availability": "FREE delivery Fri, 31 Oct"
+        },
+        {
+          "title": "RITEDEAL A4988/DRV8825 Stepper Motor Driver Expansion Board – External Control Panel for 3D Printer",
+          "price": "₹499",
+          "discount_percentage": "₹699 (29% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51RJZQnuIoL._AC_UL320_.jpg",
+          "image_alt": "RITEDEAL A4988/DRV8825 Stepper Motor Driver Expansion Board – External Control Panel for 3D Printer, CNC Shield – Compatib...",
+          "link": "https://www.amazon.in/RITEDEAL-DRV8825-Stepper-Driver-Expansion/dp/B0FK2RSGRZ/ref=sr_1_5?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-5",
+          "brand": "RITEDEAL",
+          "category": "General",
+          "availability": "FREE delivery Sat, 25 Oct"
+        },
+        {
+          "title": "WitMotion Test Brennen Debug Befestigung Pitch PCB Teststand Debug Download Programm Brennen Test Clip pin",
+          "price": "₹5,506\n15",
+          "discount_percentage": "₹11,411.40 (52% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51RIMD8A8GL._AC_UL320_.jpg",
+          "image_alt": "WitMotion Test Brennen Debug Befestigung Pitch PCB Teststand Debug Download Programm Brennen Test Clip pin",
+          "link": "https://www.amazon.in/WitMotion-Befestigung-Teststand-Download-Programm/dp/B0CPPB9GSQ/ref=sr_1_6?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-6",
+          "brand": "WitMotion",
+          "category": "General",
+          "availability": "FREE delivery 8 - 10 Nov"
+        },
+        {
+          "title": "TL611 Pro Multifunction LPC-DEBUG Card PCI PCI-E LPC Motherboard Diagnostic TL611 Pro Analyzer Tester card diagnostic test...",
+          "image_url": "https://m.media-amazon.com/images/I/51qvm9-eX0L._AC_UL320_.jpg",
+          "image_alt": "TL611 Pro Multifunction LPC-DEBUG Card PCI PCI-E LPC Motherboard Diagnostic TL611 Pro Analyzer Tester card diagnostic test...",
+          "link": "https://www.amazon.in/Multifunction-LPC-DEBUG-Motherboard-Diagnostic-Analyzer/dp/B0DC4GF894/ref=sr_1_7?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-7",
+          "brand": "TL611",
+          "category": "General",
+          "availability": "Currently unavailable."
+        },
+        {
+          "title": "4‑in‑1 Multi-Function PCI-E Desktop Diagnostic Card Motherboard Testing Card PCI 2LPC Analyzer Motherboard 2‑Bit Debug Pos...",
+          "price": "₹14,970",
+          "rating": "2.3",
+          "image_url": "https://m.media-amazon.com/images/I/61Bo4ZgMbNL._AC_UL320_.jpg",
+          "image_alt": "4‑in‑1 Multi-Function PCI-E Desktop Diagnostic Card Motherboard Testing Card PCI 2LPC Analyzer Motherboard 2‑Bit Debug Pos...",
+          "link": "https://www.amazon.in/Zopsc-Diagnostic-Motherboard-Detection-Accessories/dp/B08738C43Y/ref=sr_1_8?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-8",
+          "brand": "4‑in‑1",
+          "category": "Top",
+          "availability": "FREE delivery 7 - 8 Nov"
+        },
+        {
+          "title": "Embedded Boundary Scan",
+          "price": "₹4,786",
+          "discount_percentage": "Buy 3 items, get 3% off",
+          "image_url": "https://m.media-amazon.com/images/I/71QsCL4XBHL._AC_UL320_.jpg",
+          "image_alt": "Embedded Boundary Scan, for Test and Debug: A prototype testing and debugging framework",
+          "link": "https://www.amazon.in/Embedded-Boundary-Scan-Test-Debug/dp/3639187121/ref=sr_1_9?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-9",
+          "brand": "Embedded",
+          "category": "General",
+          "availability": "FREE delivery Fri, 24 Oct"
+        },
+        {
+          "title": "Probe Data Repair Tool Test Debug Probe for Flying Lead OK Line PCB Jumper Wire",
+          "price": "₹14,495\n81",
+          "discount_percentage": "₹23,193.30 (38% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/61g0QRgj3SL._AC_UL320_.jpg",
+          "image_alt": "Probe Data Repair Tool Test Debug Probe for Flying Lead OK Line PCB Jumper Wire",
+          "link": "https://www.amazon.in/Probe-Repair-Debug-Flying-Jumper/dp/B0CWRLPL9K/ref=sr_1_10?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-10",
+          "brand": "Probe",
+          "category": "General",
+          "availability": "FREE delivery 3 - 6 Nov"
+        },
+        {
+          "title": "Super Debug 5 Pcs 170 Tie Point Prototype Solderless PCB Breadboard Test Protoboard DIY Bread Board with Self-Adhesive Tape",
+          "price": "₹340",
+          "discount_percentage": "₹999 (66% off)",
+          "image_url": "https://m.media-amazon.com/images/I/61EXoTvdR8L._AC_UL320_.jpg",
+          "image_alt": "Super Debug 5 Pcs 170 Tie Point Prototype Solderless PCB Breadboard Test Protoboard DIY Bread Board with Self-Adhesive Tape",
+          "link": "https://www.amazon.in/Super-Debug-Solderless-Breadboard-Self-Adhesive/dp/B0BK2M7SCC/ref=sr_1_11?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-11",
+          "category": "General",
+          "availability": "FREE delivery Fri, 31 Oct"
+        },
+        {
+          "title": "4 Digit PCI PC Motherboard Analyser Diagnostic Card Tester Debug Card with User Manual/Motherboard Testing Card",
+          "price": "₹749",
+          "discount_percentage": "₹840 (11% off)",
+          "image_url": "https://m.media-amazon.com/images/I/6107dn11QHL._AC_UL320_.jpg",
+          "image_alt": "4 Digit PCI PC Motherboard Analyser Diagnostic Card Tester Debug Card with User Manual/Motherboard Testing Card",
+          "link": "https://www.amazon.in/Motherboard-Analyser-Diagnostic-Card-Tester/dp/B0D6NHJZR2/ref=sr_1_12?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-12",
+          "category": "General",
+          "availability": "FREE delivery Sat, 1 Nov"
+        },
+        {
+          "title": "UJEAVETTE 3xNEW Jumper Wires Line + Test Hook Clips Red Debug Logic Analyzer 10 Way 30cm",
+          "price": "₹1,597",
+          "discount_percentage": "₹2,499 (36% off)",
+          "image_url": "https://m.media-amazon.com/images/I/31Jx959ryrL._AC_UL320_.jpg",
+          "image_alt": "UJEAVETTE 3xNEW Jumper Wires Line + Test Hook Clips Red Debug Logic Analyzer 10 Way 30cm",
+          "link": "https://www.amazon.in/UJEAVETTE-3xNEW-Jumper-Wires-Analyzer/dp/B0FJS7W8MS/ref=sr_1_13?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-13",
+          "brand": "UJEAVETTE",
+          "category": "General",
+          "availability": "FREE delivery 4 - 5 Nov"
+        },
+        {
+          "title": "Super Debug 10Pcs Double Ended Crocodile Clips Cable Alligator Clips Wire Testing",
+          "price": "₹190",
+          "discount_percentage": "₹499 (62% off)",
+          "rating": "3.5",
+          "image_url": "https://m.media-amazon.com/images/I/412pH0UXO3L._AC_UL320_.jpg",
+          "image_alt": "Super Debug 10Pcs Double Ended Crocodile Clips Cable Alligator Clips Wire Testing",
+          "link": "https://www.amazon.in/Super-Debug-Crocodile-Alligator-Testing/dp/B0821SRWPC/ref=sr_1_14?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-14",
+          "category": "General",
+          "availability": "FREE delivery Fri, 31 Oct"
+        },
+        {
+          "title": "UJEAVETTE 4xNEW Jumper Wires Line + Test Hook Clips Red Debug Logic Analyzer 10 Way 30cm",
+          "price": "₹2,031",
+          "discount_percentage": "₹3,099 (34% off)",
+          "image_url": "https://m.media-amazon.com/images/I/31Jx959ryrL._AC_UL320_.jpg",
+          "image_alt": "UJEAVETTE 4xNEW Jumper Wires Line + Test Hook Clips Red Debug Logic Analyzer 10 Way 30cm",
+          "link": "https://www.amazon.in/UJEAVETTE-4xNEW-Jumper-Wires-Analyzer/dp/B0FJS5ZXRS/ref=sr_1_15?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-15",
+          "brand": "UJEAVETTE",
+          "category": "General",
+          "availability": "FREE delivery 4 - 5 Nov"
+        },
+        {
+          "title": "UJEAVETTE 6xNEW Jumper Wires Line + Test Hook Clips Red Debug Logic Analyzer 10 Way 30cm",
+          "price": "₹2,898",
+          "discount_percentage": "₹4,399 (34% off)",
+          "image_url": "https://m.media-amazon.com/images/I/31Jx959ryrL._AC_UL320_.jpg",
+          "image_alt": "UJEAVETTE 6xNEW Jumper Wires Line + Test Hook Clips Red Debug Logic Analyzer 10 Way 30cm",
+          "link": "https://www.amazon.in/UJEAVETTE-6xNEW-Jumper-Wires-Analyzer/dp/B0FJS5TH1N/ref=sr_1_16?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-16",
+          "brand": "UJEAVETTE",
+          "category": "General",
+          "availability": "FREE delivery 4 - 5 Nov"
+        },
+        {
+          "title": "Tyenaza Tuning Fork Set",
+          "price": "₹2,372",
+          "discount_percentage": "₹3,389 (30% off)",
+          "rating": "5.0",
+          "image_url": "https://m.media-amazon.com/images/I/417Sl54Bd5L._AC_UL320_.jpg",
+          "image_alt": "Tyenaza Tuning Fork Set, 440HZ Professional Piano Tuning Fork, Musical Instruments Violin Guitar Tuner Device for Debug In...",
+          "link": "https://www.amazon.in/Tyenaza-Professional-Musical-Instruments-Intonation/dp/B0C3J6NVG1/ref=sr_1_17?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-17",
+          "brand": "Tyenaza",
+          "category": "General",
+          "availability": "FREE delivery 12 - 15 Nov"
+        },
+        {
+          "title": "Accelerating Test",
+          "price": "₹7,476",
+          "image_url": "https://m.media-amazon.com/images/I/41HtDIt0lML._AC_UL320_.jpg",
+          "image_alt": "Accelerating Test, Validation and Debug of High Speed Serial Interfaces",
+          "link": "https://www.amazon.in/Accelerating-Validation-Debug-Serial-Interfaces-ebook/dp/B00F8JWFX8/ref=sr_1_18?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-18",
+          "brand": "Accelerating",
+          "category": "General",
+          "reviews_count": "Accelerating Test, Validation and Debug of High Speed Serial Interfaces",
+          "availability": "Available instantly"
+        },
+        {
+          "title": "Bactaslydes Yeast & Fungi + TBC Test Kit (BS101)",
+          "price": "₹1,560",
+          "discount_percentage": "₹1,760 (11% off)",
+          "image_url": "https://m.media-amazon.com/images/I/31bGKkWHCzL._AC_UL320_.jpg",
+          "image_alt": "Bactaslydes Yeast & Fungi + TBC Test Kit (BS101)",
+          "link": "https://www.amazon.in/Bactaslydes-Yeast-Fungi-Test-BS101/dp/B0DF7GYHB1/ref=sr_1_19?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-19",
+          "brand": "Bactaslydes",
+          "category": "General",
+          "availability": "FREE delivery Sat, 25 Oct"
+        },
+        {
+          "title": "Tyenaza Tuning Fork Set",
+          "price": "₹2,952\n19",
+          "discount_percentage": "₹4,723.50 (37% off)",
+          "image_url": "https://m.media-amazon.com/images/I/51Xq1jtxnUL._AC_UL320_.jpg",
+          "image_alt": "Tyenaza Tuning Fork Set, 440HZ Professional Piano Tuning Fork, Portable Musical Instruments Violin Guitar Tuner Device for...",
+          "link": "https://www.amazon.in/Tyenaza-Professional-Portable-Instruments-Intonation/dp/B0C3J4D2V5/ref=sr_1_20?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-20",
+          "brand": "Tyenaza",
+          "category": "General",
+          "availability": "FREE delivery 3 - 4 Nov"
+        }
+      ],
+      "detailed_products": [
+        {
+          "name": "DHRUV-PRO TL-460s Plus Motherboard Diagnostic Tester Universal PC PCI PCI-E miniPCI-E LPC Analyzer Post Test Debug Cards",
+          "price": "₹4,850",
+          "brand": "Mi",
+          "category": "General",
+          "rating": "2.8",
+          "link": "https://www.amazon.in/DHRUV-PRO-Motherboard-Diagnostic-Universal-miniPCI/dp/B088TVRN8N/ref=sr_1_1?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-1",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/51YxOqqPESL._AC_UL320_.jpg",
+              "alt": "DHRUV-PRO TL-460s Plus Motherboard Diagnostic Tester Universal PC PCI PCI-E miniPCI-E LPC Analyzer Post Test Debug Cards",
+              "thumbnail": "https://m.media-amazon.com/images/I/51YxOqqPESL._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "DHRUVPRO 3In1 Mini PCI- PCI-E LPC Laptop Analyzer Tester Diagnostic Card Post Test for Desktop Laptop Debug Diagnostic",
+          "price": "₹749",
+          "brand": "Mi",
+          "category": "Laptop",
+          "rating": "3.3",
+          "link": "https://www.amazon.in/DHRUV-PRO-Laptop-Analyzer-Diagnostic-Desktop/dp/B091TV1ZLQ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-2",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/61JwAp0sg9L._AC_UL320_.jpg",
+              "alt": "DHRUVPRO 3In1 Mini PCI- PCI-E LPC Laptop Analyzer Tester Diagnostic Card Post Test for Desktop Laptop Debug Diagnostic",
+              "thumbnail": "https://m.media-amazon.com/images/I/61JwAp0sg9L._AC_UL320_.jpg"
+            }
+          ]
+        },
+        {
+          "name": "PC Diagnostic 4-Digit Card",
+          "price": "₹3,424\n05",
+          "brand": "",
+          "category": "General",
+          "rating": "3.5",
+          "link": "https://www.amazon.in/Diagnostic-Measuring-Computer-Motherboard-Diagnostics/dp/B08QRCDR9D/ref=sr_1_3?dib=eyJ2IjoiMSJ9.veh0SyT1wQZE3zKb2DnlNeJm8BXFcaHm1GsDN6t3Kx8Dy9H5WV-4lwYBiBJxStvhAcPG4TxDkTFr1WCAsbSC0Xv7SHPkwp-6nCulEjPgNH1596BXXaBwebFV2qj3yMYi8Wyt3LKh0UGfjXx9Ws2wqUq-y_b5tll4cdIm5tqulz8J1HnBh5P9ye1fPlhlNds--cd_fynPW94oj3P4GQbqv1D6CGS9tX00ndIv4lqSv_y7HXjITgoKtNghqbJLA0Y_LBihPobur4nfALnqY7RarlOBQcPOB9Pe-ecQEpgQg1I.eVNc4Pq4Wi3s1iJMwuf9fm5itlIsd8GQw5hObknVCRg&dib_tag=se&keywords=test_debug&qid=1760799370&sr=8-3",
+          "images": [
+            {
+              "url": "https://m.media-amazon.com/images/I/813Qvo8abeL._AC_UL320_.jpg",
+              "alt": "PC Diagnostic 4-Digit Card,Module Board Test & Measuring Module PC Computer Mother Board Debug Post Card Analyzer PCI Moth...",
+              "thumbnail": "https://m.media-amazon.com/images/I/813Qvo8abeL._AC_UL320_.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
